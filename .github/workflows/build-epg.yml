@@ -1,0 +1,44 @@
+name: Build EPG JSON
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write  # needed to push changes
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Ensure script is executable
+        run: chmod +x scripts/fetch_epg.py
+
+      - name: Run EPG builder
+        run: python scripts/fetch_epg.py
+
+      - name: Commit and push changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # stage only output folders to keep commits clean
+          git add -A output-today output-tomorrow || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          COMMIT_MSG="chore(epg): update JSON for $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "$COMMIT_MSG"
+          git push
