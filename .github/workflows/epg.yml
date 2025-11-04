@@ -1,0 +1,46 @@
+name: EPG -> JSON
+
+on:
+  schedule:
+    # Runs daily at 20:30 UTC = 02:00 IST (next day)
+    - cron: '30 20 * * *'
+  workflow_dispatch: {}  # allow manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # so we can push back
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run EPG scraper
+        env:
+          FILTER_FILE: filter.txt
+        run: |
+          python epg_scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Stage only data/ (do not accidentally stage other changes)
+          git add data || true
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "update EPG JSON data - $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
