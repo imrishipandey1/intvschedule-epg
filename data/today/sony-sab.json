@@ -1,0 +1,294 @@
+{
+  "channel_name": "Sony SAB",
+  "date": "November 04, 2025",
+  "schedule": [
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154000.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "12:30 AM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154001.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "1:00 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154002.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "1:30 AM",
+      "end_time": "2:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154003.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "2:00 AM",
+      "end_time": "2:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154004.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "2:30 AM",
+      "end_time": "3:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154005.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "3:00 AM",
+      "end_time": "3:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154006.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "3:30 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154007.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "4:00 AM",
+      "end_time": "4:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154008.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "4:30 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154009.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "5:00 AM",
+      "end_time": "5:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154010.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "5:30 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154011.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "6:00 AM",
+      "end_time": "6:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154012.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "6:30 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154013.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "7:00 AM",
+      "end_time": "7:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154014.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "7:30 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154015.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "8:00 AM",
+      "end_time": "8:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154016.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "8:30 AM",
+      "end_time": "9:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154017.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154018.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "9:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154019.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154020.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154021.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154022.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154023.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154024.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "12:30 PM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154025.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "1:00 PM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154026.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "1:30 PM",
+      "end_time": "2:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154027.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "2:00 PM",
+      "end_time": "2:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154028.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "2:30 PM",
+      "end_time": "3:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154029.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "3:00 PM",
+      "end_time": "3:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154030.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "3:30 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154031.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "4:00 PM",
+      "end_time": "4:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154032.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "4:30 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154033.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "5:00 PM",
+      "end_time": "5:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154034.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "5:30 PM",
+      "end_time": "6:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154035.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "6:00 PM",
+      "end_time": "6:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154036.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "6:30 PM",
+      "end_time": "7:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154037.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "7:00 PM",
+      "end_time": "7:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154038.jpg"
+    },
+    {
+      "show_name": "Sony SAB",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154039.jpg"
+    },
+    {
+      "show_name": "Sony SAB",
+      "start_time": "8:00 PM",
+      "end_time": "8:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154040.jpg"
+    },
+    {
+      "show_name": "Sony SAB",
+      "start_time": "8:30 PM",
+      "end_time": "9:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154041.jpg"
+    },
+    {
+      "show_name": "Sony SAB",
+      "start_time": "9:00 PM",
+      "end_time": "9:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154042.jpg"
+    },
+    {
+      "show_name": "Sony SAB",
+      "start_time": "9:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154043.jpg"
+    },
+    {
+      "show_name": "Sony SAB",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154044.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154045.jpg"
+    },
+    {
+      "show_name": "Sony SAB",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154046.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-04/251104154047.jpg"
+    }
+  ]
+}
