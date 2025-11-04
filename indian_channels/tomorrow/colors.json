@@ -1,0 +1,109 @@
+{
+  "channel_name": "Colors",
+  "channel_logo": "assets/logos/colors.webp",
+  "date": "November 06, 2025",
+  "schedule": [
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "5:30 AM",
+      "end_time": "6:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Manpasand Ki Shaadi",
+      "start_time": "6:00 AM",
+      "end_time": "6:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Teleslot",
+      "start_time": "6:30 AM",
+      "end_time": "7:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "7:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "10:30 AM",
+      "end_time": "1:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Balika Vadhu",
+      "start_time": "1:30 PM",
+      "end_time": "4:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Udaariyan",
+      "start_time": "4:30 PM",
+      "end_time": "6:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Noyontara",
+      "start_time": "6:00 PM",
+      "end_time": "6:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Noyontara",
+      "start_time": "6:30 PM",
+      "end_time": "7:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Dhaakad Beera",
+      "start_time": "7:00 PM",
+      "end_time": "7:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Mannat Harr Khushi Paane Ki",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Shiv-Shakti Tap..Tyaag..Tandav",
+      "start_time": "8:00 PM",
+      "end_time": "8:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Binddii",
+      "start_time": "8:30 PM",
+      "end_time": "9:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Mangal Lakshmi",
+      "start_time": "9:00 PM",
+      "end_time": "9:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Mangal Lakshmi - Lakshmi Ka Safar",
+      "start_time": "9:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Manpasand Ki Shaadi",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "10:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": ""
+    }
+  ]
+}
