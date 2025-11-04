@@ -6,8 +6,6 @@ import json
 import os
 import re
 from io import BytesIO
-from PIL import Image
-import io
 
 def sanitize_filename(filename):
     """Sanitize filename for cross-platform compatibility"""
@@ -27,7 +25,7 @@ def load_filter_channels():
         return None
 
 def parse_xmltv_time(time_str, convert_to_ist=False):
-    """Parse XMLTV time format (YYYYMMDDHHmmss +HHMM)"""
+    """Parse XMLTV time format"""
     dt_str = time_str.split(' ')[0]
     dt = datetime.strptime(dt_str, '%Y%m%d%H%M%S')
     
@@ -43,60 +41,6 @@ def format_time(dt):
 def format_date(dt):
     """Format date to 'Month DD, YYYY' format"""
     return dt.strftime('%B %d, %Y')
-
-def download_and_compress_image(url, max_size_kb=10):
-    """Download image, convert to WebP, and compress under max_size_kb"""
-    if not url:
-        return None
-    
-    try:
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-        
-        img = Image.open(BytesIO(response.content))
-        
-        # Convert to RGB if necessary
-        if img.mode in ('RGBA', 'LA', 'P'):
-            background = Image.new('RGB', img.size, (255, 255, 255))
-            if img.mode == 'P':
-                img = img.convert('RGBA')
-            background.paste(img, mask=img.split()[-1] if img.mode == 'RGBA' else None)
-            img = background
-        
-        # Start with quality 85 and reduce until under max_size_kb
-        quality = 85
-        while quality > 10:
-            output = io.BytesIO()
-            img.save(output, format='WEBP', quality=quality, method=6)
-            size_kb = len(output.getvalue()) / 1024
-            
-            if size_kb <= max_size_kb:
-                return output.getvalue()
-            
-            quality -= 5
-        
-        # If still too large, resize image
-        img.thumbnail((400, 400), Image.Resampling.LANCZOS)
-        output = io.BytesIO()
-        img.save(output, format='WEBP', quality=75, method=6)
-        return output.getvalue()
-        
-    except Exception as e:
-        print(f"  Error downloading/compressing image {url}: {str(e)}")
-        return None
-
-def save_logo(logo_data, filename, logos_dir):
-    """Save logo to disk"""
-    if not logo_data:
-        return None
-    
-    os.makedirs(logos_dir, exist_ok=True)
-    filepath = os.path.join(logos_dir, f"{filename}.webp")
-    
-    with open(filepath, 'wb') as f:
-        f.write(logo_data)
-    
-    return f"logos/{filename}.webp"
 
 def download_gz_epg(url):
     """Download and decompress .gz file"""
@@ -181,8 +125,8 @@ def filter_programmes_by_date(programmes, target_date):
     filtered.sort(key=lambda x: x['start_time'])
     return filtered
 
-def create_json_schedule(channel_name, programmes, target_date, logos_base_url):
-    """Create JSON schedule in the specified format"""
+def create_json_schedule(channel_name, programmes, target_date):
+    """Create JSON schedule"""
     schedule_data = {
         "channel_name": channel_name,
         "date": format_date(target_date),
@@ -190,16 +134,11 @@ def create_json_schedule(channel_name, programmes, target_date, logos_base_url):
     }
     
     for prog in programmes:
-        # Use relative logo path for CDN
-        logo_url = prog.get('logo_path', prog['show_logo'])
-        if logo_url and not logo_url.startswith('http'):
-            logo_url = f"{logos_base_url}/{logo_url}"
-        
         schedule_data["schedule"].append({
             "show_name": prog['show_name'],
             "start_time": format_time(prog['start_time']),
             "end_time": format_time(prog['end_time']),
-            "show_logo": logo_url
+            "show_logo": prog['show_logo']
         })
     
     return schedule_data
@@ -231,39 +170,10 @@ def merge_schedules(jio_data, tata_data, filter_channels):
     
     return merged
 
-def process_logos(merged_data, logos_dir):
-    """Download and compress all logos"""
-    print("\nProcessing logos...")
-    processed_logos = {}
-    logo_count = 0
-    
-    for channel_name, data in merged_data.items():
-        for prog in data['programmes']:
-            logo_url = prog['show_logo']
-            if not logo_url or logo_url in processed_logos:
-                if logo_url:
-                    prog['logo_path'] = processed_logos[logo_url]
-                continue
-            
-            # Create filename from show name
-            show_slug = sanitize_filename(prog['show_name'])
-            logo_data = download_and_compress_image(logo_url)
-            
-            if logo_data:
-                logo_path = save_logo(logo_data, show_slug, logos_dir)
-                processed_logos[logo_url] = logo_path
-                prog['logo_path'] = logo_path
-                logo_count += 1
-                if logo_count % 50 == 0:
-                    print(f"  Processed {logo_count} logos...")
-    
-    print(f"✓ Processed {logo_count} unique logos")
-    return merged_data
-
 def main():
     """Main function"""
     print("=" * 60)
-    print("EPG Processor for GitHub/Netlify")
+    print("EPG Processor (Lightweight)")
     print("=" * 60)
     
     # Load filter
@@ -308,16 +218,12 @@ def main():
     )
     print(f"✓ Merged {len(merged_data)} channels")
     
-    # Process and download logos
-    output_dir = 'output'
-    logos_dir = os.path.join(output_dir, 'images', 'logos')
-    merged_data = process_logos(merged_data, logos_dir)
-    
     # Generate JSON files
     print("\nGenerating schedule JSON files...")
     today = datetime.now().date()
     tomorrow = today + timedelta(days=1)
     
+    output_dir = 'output'
     schedules_dir = os.path.join(output_dir, 'schedules')
     today_dir = os.path.join(schedules_dir, 'today')
     tomorrow_dir = os.path.join(schedules_dir, 'tomorrow')
@@ -325,23 +231,20 @@ def main():
     os.makedirs(today_dir, exist_ok=True)
     os.makedirs(tomorrow_dir, exist_ok=True)
     
-    # CDN base URL (will be your Netlify URL)
-    cdn_base_url = os.getenv('CDN_BASE_URL', 'https://cdn.mysite.com/images')
-    
     for channel_name, data in merged_data.items():
         channel_slug = sanitize_filename(channel_name)
         
         # Today's schedule
         today_progs = filter_programmes_by_date(data['programmes'], today)
         if today_progs:
-            schedule = create_json_schedule(channel_name, today_progs, today, cdn_base_url)
+            schedule = create_json_schedule(channel_name, today_progs, today)
             with open(os.path.join(today_dir, f"{channel_slug}.json"), 'w', encoding='utf-8') as f:
                 json.dump(schedule, f, indent=2, ensure_ascii=False)
         
         # Tomorrow's schedule
         tomorrow_progs = filter_programmes_by_date(data['programmes'], tomorrow)
         if tomorrow_progs:
-            schedule = create_json_schedule(channel_name, tomorrow_progs, tomorrow, cdn_base_url)
+            schedule = create_json_schedule(channel_name, tomorrow_progs, tomorrow)
             with open(os.path.join(tomorrow_dir, f"{channel_slug}.json"), 'w', encoding='utf-8') as f:
                 json.dump(schedule, f, indent=2, ensure_ascii=False)
     
@@ -349,13 +252,6 @@ def main():
     print("\n" + "=" * 60)
     print("Processing complete!")
     print("=" * 60)
-    print(f"\nOutput structure:")
-    print(f"output/")
-    print(f"├── schedules/")
-    print(f"│   ├── today/")
-    print(f"│   └── tomorrow/")
-    print(f"└── images/")
-    print(f"    └── logos/")
 
 if __name__ == "__main__":
     main()
