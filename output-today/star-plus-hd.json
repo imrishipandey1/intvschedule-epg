@@ -1,0 +1,139 @@
+{
+  "channel_name": "STAR Plus HD",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",
+  "date": "2025-11-05",
+  "programs": [
+    {
+      "title": "Yeh Rishta Kya Kehlata Hai",
+      "start_time": "12:15 AM",
+      "end_time": "1:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ghum Hai Kisikey Pyaar Meiin",
+      "start_time": "1:30 AM",
+      "end_time": "6:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Kyunki Saas Bhi Kabhi Bahu Thi",
+      "start_time": "6:30 AM",
+      "end_time": "7:00 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Anupamaa",
+      "start_time": "7:00 AM",
+      "end_time": "7:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Yeh Rishta Kya Kehlata Hai",
+      "start_time": "7:30 AM",
+      "end_time": "8:00 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Udne Ki Aasha",
+      "start_time": "8:00 AM",
+      "end_time": "9:00 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Anupamaa",
+      "start_time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Kyunki Saas Bhi Kabhi Bahu Thi",
+      "start_time": "9:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Yeh Rishta Kya Kehlata Hai",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Jhanak",
+      "start_time": "10:30 AM",
+      "end_time": "11:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Pandya Store",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ghum Hai Kisikey Pyaar Meiin",
+      "start_time": "12:00 PM",
+      "end_time": "6:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Anupamaa",
+      "start_time": "6:30 PM",
+      "end_time": "7:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Maana Ke Hum Yaar Nahi",
+      "start_time": "7:00 PM",
+      "end_time": "7:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Sampoorna",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Advocate Anjali Awasthi",
+      "start_time": "8:00 PM",
+      "end_time": "8:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Udne Ki Aasha",
+      "start_time": "8:30 PM",
+      "end_time": "9:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Yeh Rishta Kya Kehlata Hai",
+      "start_time": "9:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Anupamaa",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Kyunki Saas Bhi Kabhi Bahu Thi",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Jhanak",
+      "start_time": "11:00 PM",
+      "end_time": "11:50 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Maana Ke Hum Yaar Nahi",
+      "start_time": "11:50 PM",
+      "end_time": "12:15 AM",
+      "show_logo": ""
+    }
+  ]
+}
