@@ -402,20 +402,20 @@ def main() -> int:
 
     # cache URL->saved path across whole run
     downloaded_map: Dict[str, str] = {}
-    # pending futures for concurrent downloads
-    futures = []
+    # to avoid enqueuing the same URL twice
+    enqueued_urls: Set[str] = set()
+    # thread pool for logo tasks
     executor = ThreadPoolExecutor(max_workers=WORKERS)
+    future_to_url: Dict[object, str] = {}
 
     # helper to enqueue a download task (dedup by URL)
     def enqueue_logo(url: str, channel_slug: str, show_title: str):
-        if not url:
+        if not url or url in enqueued_urls:
             return
-        if url in downloaded_map:
-            return
+        enqueued_urls.add(url)
         base_slug = slugify(show_title) or "show"
-        # we decide final unique filename inside download function with locking
-        future = executor.submit(download_and_compress_logo, url, channel_slug, base_slug)
-        futures.append((url, future))
+        fut = executor.submit(download_and_compress_logo, url, channel_slug, base_slug)
+        future_to_url[fut] = url
 
     # Build JSONs while enqueuing logo downloads concurrently
     for t in targets:
@@ -496,13 +496,9 @@ def main() -> int:
             with open(filename, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
 
-    # Collect results from concurrent logo tasks
-    for url, fut in as_completed(dict(futures).values()):
-        # this as_completed() call needs mapping; simpler: loop futures list
-        pass  # placeholder to satisfy linter
-
-    # Properly iterate futures (without losing URL mapping)
-    for url, fut in futures:
+    # Collect results from concurrent logo tasks (correct use of as_completed)
+    for fut in as_completed(list(future_to_url.keys())):
+        url = future_to_url[fut]
         try:
             saved = fut.result(timeout=FETCH_TIMEOUT + 8)  # allow extra for encode
             if saved:
