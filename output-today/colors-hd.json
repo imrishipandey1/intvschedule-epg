@@ -1,0 +1,217 @@
+{
+  "channel_name": "Colors HD",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+  "date": "2025-11-05",
+  "programs": [
+    {
+      "title": "Bigg Boss",
+      "start_time": "12:00 AM",
+      "end_time": "12:11 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d9cfc6e1a1324c4c4cdf4d89f6a1957.jpg"
+    },
+    {
+      "title": "Bigg Boss",
+      "start_time": "12:11 AM",
+      "end_time": "1:18 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d9cfc6e1a1324c4c4cdf4d89f6a1957.jpg"
+    },
+    {
+      "title": "Bigg Boss",
+      "start_time": "1:18 AM",
+      "end_time": "2:32 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d9cfc6e1a1324c4c4cdf4d89f6a1957.jpg"
+    },
+    {
+      "title": "Bigg Boss",
+      "start_time": "2:32 AM",
+      "end_time": "3:46 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d9cfc6e1a1324c4c4cdf4d89f6a1957.jpg"
+    },
+    {
+      "title": "Bigg Boss",
+      "start_time": "3:46 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d9cfc6e1a1324c4c4cdf4d89f6a1957.jpg"
+    },
+    {
+      "title": "Bigg Boss",
+      "start_time": "5:00 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d9cfc6e1a1324c4c4cdf4d89f6a1957.jpg"
+    },
+    {
+      "title": "Manpasand Ki Shaadi",
+      "start_time": "6:00 AM",
+      "end_time": "6:27 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/426b0709a5e9ba2e0356c62ba581e2a2.jpg"
+    },
+    {
+      "title": "Mangal Lakshmi",
+      "start_time": "6:27 AM",
+      "end_time": "6:59 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0668d5f5d64cac747433cb7633657e78.jpg"
+    },
+    {
+      "title": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "6:59 AM",
+      "end_time": "7:22 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ad381fe6e4b5794d57b933595a253ad7.jpg"
+    },
+    {
+      "title": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "7:22 AM",
+      "end_time": "8:54 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ad381fe6e4b5794d57b933595a253ad7.jpg"
+    },
+    {
+      "title": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "8:54 AM",
+      "end_time": "10:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ad381fe6e4b5794d57b933595a253ad7.jpg"
+    },
+    {
+      "title": "Bigg Boss",
+      "start_time": "10:25 AM",
+      "end_time": "11:54 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d9cfc6e1a1324c4c4cdf4d89f6a1957.jpg"
+    },
+    {
+      "title": "Bigg Boss",
+      "start_time": "11:54 AM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d9cfc6e1a1324c4c4cdf4d89f6a1957.jpg"
+    },
+    {
+      "title": "Balika Vadhu",
+      "start_time": "1:30 PM",
+      "end_time": "1:48 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e5c75dbcca758bfd04fc9de141c974fa.jpg"
+    },
+    {
+      "title": "Balika Vadhu",
+      "start_time": "1:48 PM",
+      "end_time": "2:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e5c75dbcca758bfd04fc9de141c974fa.jpg"
+    },
+    {
+      "title": "Balika Vadhu",
+      "start_time": "2:08 PM",
+      "end_time": "2:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e5c75dbcca758bfd04fc9de141c974fa.jpg"
+    },
+    {
+      "title": "Balika Vadhu",
+      "start_time": "2:27 PM",
+      "end_time": "2:47 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e5c75dbcca758bfd04fc9de141c974fa.jpg"
+    },
+    {
+      "title": "Balika Vadhu",
+      "start_time": "2:47 PM",
+      "end_time": "3:07 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e5c75dbcca758bfd04fc9de141c974fa.jpg"
+    },
+    {
+      "title": "Balika Vadhu",
+      "start_time": "3:07 PM",
+      "end_time": "3:26 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e5c75dbcca758bfd04fc9de141c974fa.jpg"
+    },
+    {
+      "title": "Balika Vadhu",
+      "start_time": "3:26 PM",
+      "end_time": "3:51 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e5c75dbcca758bfd04fc9de141c974fa.jpg"
+    },
+    {
+      "title": "Udaariyan",
+      "start_time": "3:51 PM",
+      "end_time": "4:11 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/427e83eff285a799027cab3da746914e.jpg"
+    },
+    {
+      "title": "Udaariyan",
+      "start_time": "4:11 PM",
+      "end_time": "4:37 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/427e83eff285a799027cab3da746914e.jpg"
+    },
+    {
+      "title": "Udaariyan",
+      "start_time": "4:37 PM",
+      "end_time": "5:03 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/427e83eff285a799027cab3da746914e.jpg"
+    },
+    {
+      "title": "Udaariyan",
+      "start_time": "5:03 PM",
+      "end_time": "5:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/427e83eff285a799027cab3da746914e.jpg"
+    },
+    {
+      "title": "Udaariyan",
+      "start_time": "5:30 PM",
+      "end_time": "5:57 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/427e83eff285a799027cab3da746914e.jpg"
+    },
+    {
+      "title": "Noyontara",
+      "start_time": "5:57 PM",
+      "end_time": "6:34 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/eef90f37c3fd2c441250557e8c709c7e.jpg"
+    },
+    {
+      "title": "Noyontara",
+      "start_time": "6:34 PM",
+      "end_time": "7:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/eef90f37c3fd2c441250557e8c709c7e.jpg"
+    },
+    {
+      "title": "Dhaakad Beera",
+      "start_time": "7:08 PM",
+      "end_time": "7:36 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c8635608e271f4b27e7027f376d9a100.jpg"
+    },
+    {
+      "title": "Mannat Harr Khushi Paane Ki",
+      "start_time": "7:36 PM",
+      "end_time": "8:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/49577701ca83b6bdac367d39570eea39.jpg"
+    },
+    {
+      "title": "Shiv-Shakti Tap..Tyaag..Tandav",
+      "start_time": "8:08 PM",
+      "end_time": "8:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/16a8bdb491212289b012b0eb45ab8d16.jpg"
+    },
+    {
+      "title": "Binddii",
+      "start_time": "8:40 PM",
+      "end_time": "9:12 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f1484e4aab4fd645a9020884f76751b9.jpg"
+    },
+    {
+      "title": "Mangal Lakshmi",
+      "start_time": "9:12 PM",
+      "end_time": "9:43 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0668d5f5d64cac747433cb7633657e78.jpg"
+    },
+    {
+      "title": "Mangal Lakshmi - Lakshmi Ka Safar",
+      "start_time": "9:43 PM",
+      "end_time": "10:16 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d9d93ebbcda3953fa13ea5882c5ca6e.jpg"
+    },
+    {
+      "title": "Manpasand Ki Shaadi",
+      "start_time": "10:16 PM",
+      "end_time": "10:44 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/426b0709a5e9ba2e0356c62ba581e2a2.jpg"
+    },
+    {
+      "title": "Bigg Boss",
+      "start_time": "10:44 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d9cfc6e1a1324c4c4cdf4d89f6a1957.jpg"
+    }
+  ]
+}

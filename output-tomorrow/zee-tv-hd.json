@@ -1,0 +1,343 @@
+{
+  "channel_name": "Zee TV HD",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTVHD._Thumbnail_39bf8ba9-ef02-465b-b800-ea1e222945d0.png",
+  "date": "2025-11-06",
+  "programs": [
+    {
+      "title": "Ek Nazar",
+      "start_time": "12:15 AM",
+      "end_time": "12:16 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "12:16 AM",
+      "end_time": "12:37 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "12:37 AM",
+      "end_time": "12:38 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Jaane Anjaane Hum Mile",
+      "start_time": "12:38 AM",
+      "end_time": "1:01 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Jagriti - Ek Nayi Subah",
+      "start_time": "1:01 AM",
+      "end_time": "1:36 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "1:36 AM",
+      "end_time": "1:58 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Vasudha",
+      "start_time": "1:58 AM",
+      "end_time": "2:20 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ganga Mai Ki Betiyaan",
+      "start_time": "2:20 AM",
+      "end_time": "2:44 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Jagriti - Ek Nayi Subah",
+      "start_time": "2:44 AM",
+      "end_time": "3:05 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Jaane Anjaane Hum Mile",
+      "start_time": "3:05 AM",
+      "end_time": "3:28 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "3:28 AM",
+      "end_time": "3:53 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Saru",
+      "start_time": "3:53 AM",
+      "end_time": "4:18 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Vasudha",
+      "start_time": "4:18 AM",
+      "end_time": "4:42 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ganga Mai Ki Betiyaan",
+      "start_time": "4:42 AM",
+      "end_time": "5:12 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "5:12 AM",
+      "end_time": "5:37 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Jagriti - Ek Nayi Subah",
+      "start_time": "5:37 AM",
+      "end_time": "6:00 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ganga Mai Ki Betiyaan",
+      "start_time": "6:00 AM",
+      "end_time": "6:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Saru",
+      "start_time": "6:30 AM",
+      "end_time": "6:59 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "6:59 AM",
+      "end_time": "7:00 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Bhakti Suman",
+      "start_time": "7:00 AM",
+      "end_time": "7:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Saru",
+      "start_time": "7:30 AM",
+      "end_time": "7:59 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "7:59 AM",
+      "end_time": "8:00 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "8:00 AM",
+      "end_time": "8:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ganga Mai Ki Betiyaan",
+      "start_time": "8:30 AM",
+      "end_time": "8:59 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "8:59 AM",
+      "end_time": "9:00 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Vasudha",
+      "start_time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "9:30 AM",
+      "end_time": "9:59 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "9:59 AM",
+      "end_time": "10:00 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ganga Mai Ki Betiyaan",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Saru",
+      "start_time": "10:30 AM",
+      "end_time": "10:59 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "10:59 AM",
+      "end_time": "11:00 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Vasudha",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "11:30 AM",
+      "end_time": "11:59 AM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "11:59 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ganga Mai Ki Betiyaan",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Jagriti - Ek Nayi Subah",
+      "start_time": "12:30 PM",
+      "end_time": "12:59 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "12:59 PM",
+      "end_time": "1:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Saru",
+      "start_time": "1:00 PM",
+      "end_time": "1:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "1:30 PM",
+      "end_time": "1:59 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "1:59 PM",
+      "end_time": "2:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Vasudha",
+      "start_time": "2:00 PM",
+      "end_time": "2:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ganga Mai Ki Betiyaan",
+      "start_time": "2:30 PM",
+      "end_time": "2:59 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "2:59 PM",
+      "end_time": "3:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Vasudha",
+      "start_time": "3:00 PM",
+      "end_time": "6:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "6:30 PM",
+      "end_time": "7:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ganga Mai Ki Betiyaan",
+      "start_time": "7:00 PM",
+      "end_time": "7:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Saru",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Jaane Anjaane Hum Mile",
+      "start_time": "8:00 PM",
+      "end_time": "8:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "8:30 PM",
+      "end_time": "9:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ganga Mai Ki Betiyaan",
+      "start_time": "9:00 PM",
+      "end_time": "9:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Vasudha",
+      "start_time": "9:30 PM",
+      "end_time": "10:15 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Jagriti - Ek Nayi Subah",
+      "start_time": "10:15 PM",
+      "end_time": "10:59 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "10:59 PM",
+      "end_time": "11:00 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Saru",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Tum Se Tum Tak",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": ""
+    },
+    {
+      "title": "Ek Nazar",
+      "start_time": "11:59 PM",
+      "end_time": "12:00 AM",
+      "show_logo": ""
+    }
+  ]
+}
