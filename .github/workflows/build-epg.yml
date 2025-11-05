@@ -31,8 +31,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - name: Install dependencies (if requirements.txt exists)
-        if: hashFiles('**/requirements.txt') != ''
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
@@ -40,7 +39,11 @@ jobs:
       - name: Ensure script is executable
         run: chmod +x scripts/fetch_epg.py
 
-      - name: Run EPG builder
+      - name: Run EPG builder (with threaded logo downloads)
+        env:
+          LOGO_WORKERS: "24"        # number of worker threads (adjust as needed)
+          LOGO_TIMEOUT: "6"         # per-image download timeout (seconds)
+          LOGO_RETRIES: "1"         # retry count per image
         run: python scripts/fetch_epg.py
 
       - name: Commit and push changes (including assets)
@@ -56,6 +59,6 @@ jobs:
             exit 0
           fi
 
-          COMMIT_MSG="chore(epg): update JSON & assets for $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          COMMIT_MSG="chore(epg): update TV schedules & assets ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"
           git commit -m "$COMMIT_MSG"
           git push
