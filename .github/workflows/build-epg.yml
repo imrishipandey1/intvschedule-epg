@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: write  # needed to push changes
+  contents: write  # needed to push changes back
 
 jobs:
   build:
@@ -23,22 +23,39 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies (if requirements.txt exists)
+        if: hashFiles('**/requirements.txt') != ''
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
       - name: Ensure script is executable
         run: chmod +x scripts/fetch_epg.py
 
       - name: Run EPG builder
         run: python scripts/fetch_epg.py
 
-      - name: Commit and push changes (if any)
+      - name: Commit and push changes (including assets)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # stage only output folders to keep commits clean
-          git add -A output-today output-tomorrow || true
+
+          # stage generated outputs and compressed logos
+          git add -A output-today output-tomorrow assets || true
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          COMMIT_MSG="chore(epg): update JSON for $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+
+          COMMIT_MSG="chore(epg): update JSON & assets for $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git commit -m "$COMMIT_MSG"
           git push
