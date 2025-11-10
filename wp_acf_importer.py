@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 
 # ---------- Configuration (from env) ----------
 WP_BASE_URL = os.environ.get('https://intvschedule.com') 
-WP_USER = os.environ.get('jsonimportgitub')
+WP_USER = os.environ.get('itsrishipandey')
 WP_APP_PASSWORD = os.environ.get('kdJu jK6c 013L ZiiH GIgA zjGj')
 POST_TYPE = os.environ.get('POST_TYPE', 'channel')
 
