@@ -1,361 +1,355 @@
 {
   "channel_name": "Aaj Tak",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
   "date": "2025-11-11",
   "programs": [
     {
       "show_name": "Non-Stop 100",
       "start_time": "12:00 AM",
       "end_time": "12:10 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173000.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "12:10 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173001.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173002.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173003.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173004.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173005.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173006.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173007.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173008.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173009.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173010.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "ADVT",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173011.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "ADVT",
       "start_time": "05:30 AM",
       "end_time": "05:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173012.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "ADVT",
       "start_time": "05:50 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173013.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "5 Min 25 Khabar",
       "start_time": "06:30 AM",
       "end_time": "06:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173014.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "06:35 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173015.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top News",
       "start_time": "07:00 AM",
       "end_time": "07:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173016.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bhagya Shailendra Pandey Ke Saath",
       "start_time": "07:05 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173017.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "100 Shahar 100 Khabar",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173018.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabrein Superfast",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173019.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Non-Stop 100",
       "start_time": "08:30 AM",
       "end_time": "08:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173020.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bhagya Chakra",
       "start_time": "08:50 AM",
       "end_time": "09:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173021.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "9 Baj Gaye",
       "start_time": "09:05 AM",
       "end_time": "09:25 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173022.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "100 Shahar 100 Khabar",
       "start_time": "09:25 AM",
       "end_time": "09:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173023.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "9 Baj Gaye",
       "start_time": "09:40 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173024.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Aaj Subah",
       "start_time": "10:00 AM",
       "end_time": "10:10 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173025.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Aaj Subah",
       "start_time": "10:10 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173026.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Chunav Aajtak",
       "start_time": "10:30 AM",
       "end_time": "10:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173027.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Shatak Aajtak",
       "start_time": "10:55 AM",
       "end_time": "11:10 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173028.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ek Aur Ek Gyarah",
       "start_time": "11:10 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173029.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top 25",
       "start_time": "11:30 AM",
       "end_time": "11:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173030.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ek Aur Ek Gyarah",
       "start_time": "11:35 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173031.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "10 Minute 50 Khabar",
       "start_time": "12:00 PM",
       "end_time": "12:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173032.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Breaking News",
       "start_time": "12:10 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173033.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Breaking News",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173034.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Non-Stop 100",
       "start_time": "01:00 PM",
       "end_time": "01:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173035.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Lunch Break",
       "start_time": "01:10 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173036.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Newsroom",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173037.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Newsroom",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173038.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Mera Gaon Mera Desh",
       "start_time": "03:00 PM",
       "end_time": "03:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173039.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "03:15 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173040.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Pad Yatra",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173041.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ranbhoomi",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173042.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ranbhoomi",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173043.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dangal",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173044.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dangal",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173045.jpg"
-    },
-    {
-      "show_name": "Hallabol",
-      "start_time": "06:00 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173046.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Shankhnad",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173047.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Vishesh",
       "start_time": "07:30 PM",
       "end_time": "07:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173048.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top 25",
       "start_time": "07:55 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173049.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabardar",
       "start_time": "08:00 PM",
       "end_time": "08:25 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173050.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Pad Yatra",
       "start_time": "08:25 PM",
       "end_time": "08:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173051.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Black And White",
       "start_time": "08:55 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173052.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Black And White",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173053.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dustak",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173054.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dustak",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173055.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Vardaat",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173056.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Mumbai Top 25",
       "start_time": "11:30 PM",
       "end_time": "11:35 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173057.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Mumbai Metro",
       "start_time": "11:35 PM",
-      "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111173058.jpg"
+      "end_time": "12:00 AM",
+      "show_logo": ""
     }
   ]
 }

@@ -1,14 +1,8 @@
 {
   "channel_name": "GOOD TiMES",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png",
-  "date": "2025-11-11",
+  "date": "2025-11-12",
   "programs": [
-    {
-      "show_name": "Break Free Midnight Escape",
-      "start_time": "12:00 AM",
-      "end_time": "02:00 AM",
-      "show_logo": ""
-    },
     {
       "show_name": "Kingfisher Supermodels 2",
       "start_time": "02:00 AM",
@@ -22,19 +16,13 @@
       "show_logo": ""
     },
     {
-      "show_name": "Vicky Goes Desi",
-      "start_time": "03:30 AM",
-      "end_time": "04:00 AM",
-      "show_logo": ""
-    },
-    {
       "show_name": "Highway on My Plate",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Travelling Diva",
+      "show_name": "My Yellow Table",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
       "show_logo": ""
@@ -64,7 +52,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Get the Look",
+      "show_name": "Band Baajaa Bride",
       "start_time": "09:00 AM",
       "end_time": "10:00 AM",
       "show_logo": ""
@@ -88,56 +76,62 @@
       "show_logo": ""
     },
     {
-      "show_name": "Yarri Dostii Shaadi",
+      "show_name": "Band Baajaa Bride",
       "start_time": "12:00 PM",
       "end_time": "01:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Vicky Goes Veg",
+      "show_name": "Love Bites with Joey",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Bachelor's Kitchen",
+      "show_name": "Food Mad",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "My Yellow Table",
+      "show_name": "Love Bites with Joey",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Love Bites with Joey",
+      "show_name": "My Yellow Table",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
       "show_logo": ""
     },
     {
+      "show_name": "Lock Stock And Two Smoking Tikkas",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": ""
+    },
+    {
       "show_name": "Highway on My Plate",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bachelor's Kitchen",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "My Yellow Table",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "My Yellow Table",
-      "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Highway on My Plate",
+      "show_name": "Band Baajaa Bride",
       "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Chakh Le India",
-      "start_time": "09:30 PM",
       "end_time": "10:00 PM",
       "show_logo": ""
     },

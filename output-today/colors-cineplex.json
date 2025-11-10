@@ -1,0 +1,61 @@
+{
+  "channel_name": "Colors Cineplex",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png",
+  "date": "2025-11-11",
+  "programs": [
+    {
+      "show_name": "Filler",
+      "start_time": "01:31 AM",
+      "end_time": "02:41 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ruslaan",
+      "start_time": "02:41 AM",
+      "end_time": "04:14 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "King of Kotha",
+      "start_time": "04:14 AM",
+      "end_time": "07:06 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Gopichand Chanakya",
+      "start_time": "07:06 AM",
+      "end_time": "10:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD Returns",
+      "start_time": "10:00 AM",
+      "end_time": "12:40 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Baghban",
+      "start_time": "12:40 PM",
+      "end_time": "04:17 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Main Hoon Surya Singham 2",
+      "start_time": "04:17 PM",
+      "end_time": "07:50 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rudhran",
+      "start_time": "07:50 PM",
+      "end_time": "10:08 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Siren",
+      "start_time": "10:10 PM",
+      "end_time": "01:20 AM",
+      "show_logo": ""
+    }
+  ]
+}

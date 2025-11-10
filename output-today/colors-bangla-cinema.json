@@ -1,13 +1,67 @@
 {
   "channel_name": "Colors Bangla Cinema",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CLRBANG_Thumbnail-v6/CLRBANG_Thumbnail.png",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
   "date": "2025-11-11",
   "programs": [
     {
       "show_name": "Romeo",
       "start_time": "12:00 AM",
       "end_time": "01:35 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511111657000.jpg"
+    },
+    {
+      "show_name": "Apur Panchali",
+      "start_time": "01:35 AM",
+      "end_time": "03:10 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511111657001.jpg"
+    },
+    {
+      "show_name": "Shiv Shakti",
+      "start_time": "03:10 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511111657002.jpg"
+    },
+    {
+      "show_name": "Amazon Obhijaan",
+      "start_time": "04:00 AM",
+      "end_time": "07:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511111657003.jpg"
+    },
+    {
+      "show_name": "Bakul Priya",
+      "start_time": "07:20 AM",
+      "end_time": "09:55 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511111657004.jpg"
+    },
+    {
+      "show_name": "Adarer Bon",
+      "start_time": "09:55 AM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511111657005.jpg"
+    },
+    {
+      "show_name": "Sasur Bari Zindabad",
+      "start_time": "01:00 PM",
+      "end_time": "03:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511111657006.jpg"
+    },
+    {
+      "show_name": "Indrajit",
+      "start_time": "03:55 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511111657007.jpg"
+    },
+    {
+      "show_name": "Chhoto Bou",
+      "start_time": "07:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511111657008.jpg"
+    },
+    {
+      "show_name": "Dui Prithibi",
+      "start_time": "10:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511111657009.jpg"
     }
   ]
 }
