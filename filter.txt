@@ -74,6 +74,9 @@ mtv.json
 animal-planet-hindi.json
 food-food.json
 history-tv18-hd.json
+star-plus-sd.json=star-plus.json
+star-plus.json=star-plus.json
+
 
 
 
