@@ -1,0 +1,67 @@
+{
+  "channel_name": "ETV Plus HD",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVPLHD_Thumbnail-v1/ETVPLHD_Thumbnail.png",
+  "date": "2025-11-11",
+  "programs": [
+    {
+      "show_name": "Swathi Chinukulu",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Naa Peru Meenakshi",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Attharintiki Daaredi",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Manasu Mamatha",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Sridevi Drama Company",
+      "start_time": "02:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Saragala Pallaki",
+      "start_time": "04:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Sadguru Sai",
+      "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Mogali Rekulu",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Swathi Chinukulu",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Sridevi Drama Company",
+      "start_time": "06:00 PM",
+      "end_time": "08:00 PM",
+      "show_logo": ""
+    }
+  ]
+}

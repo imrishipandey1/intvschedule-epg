@@ -1,0 +1,19 @@
+{
+  "channel_name": "KM News",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/KMNews_Thumbnail_28403509-c548-4302-b8e9-572a0144a1db.png",
+  "date": "2025-11-11",
+  "programs": [
+    {
+      "show_name": "News",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
+    }
+  ]
+}

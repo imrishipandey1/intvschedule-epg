@@ -1,0 +1,295 @@
+{
+  "channel_name": "Assam Talks",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png",
+  "date": "2025-11-11",
+  "programs": [
+    {
+      "show_name": "Songs",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675000.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675001.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675002.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675003.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675004.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675005.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675006.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675007.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675008.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675009.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675010.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675011.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675012.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675013.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675014.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675015.jpg"
+    },
+    {
+      "show_name": "Puar Rodali",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675016.jpg"
+    },
+    {
+      "show_name": "Puar Rodali",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675017.jpg"
+    },
+    {
+      "show_name": "Morning Prime",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675018.jpg"
+    },
+    {
+      "show_name": "Morning Prime",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675019.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675020.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675021.jpg"
+    },
+    {
+      "show_name": "11 Bojar Khabar",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675022.jpg"
+    },
+    {
+      "show_name": "11 Bojar Khabar",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675023.jpg"
+    },
+    {
+      "show_name": "Khabor Duporiya",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675024.jpg"
+    },
+    {
+      "show_name": "Khabor Duporiya",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675025.jpg"
+    },
+    {
+      "show_name": "Special Program",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675026.jpg"
+    },
+    {
+      "show_name": "Special Program",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675027.jpg"
+    },
+    {
+      "show_name": "Khabar 2 Bojar",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675028.jpg"
+    },
+    {
+      "show_name": "Khabar 2 Bojar",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675029.jpg"
+    },
+    {
+      "show_name": "Special Program",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675030.jpg"
+    },
+    {
+      "show_name": "Special Program",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675031.jpg"
+    },
+    {
+      "show_name": "Prime Daily",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675032.jpg"
+    },
+    {
+      "show_name": "Prime Daily",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675033.jpg"
+    },
+    {
+      "show_name": "Kolapristha",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675034.jpg"
+    },
+    {
+      "show_name": "Kolapristha",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675035.jpg"
+    },
+    {
+      "show_name": "Prime Daily @ 6PM",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675036.jpg"
+    },
+    {
+      "show_name": "Prime Daily @ 6PM",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675037.jpg"
+    },
+    {
+      "show_name": "7 Prime Daily",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675038.jpg"
+    },
+    {
+      "show_name": "7 Prime Daily",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675039.jpg"
+    },
+    {
+      "show_name": "Talks Show",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675040.jpg"
+    },
+    {
+      "show_name": "Talks Show",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675041.jpg"
+    },
+    {
+      "show_name": "Big News",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675042.jpg"
+    },
+    {
+      "show_name": "Big News",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675043.jpg"
+    },
+    {
+      "show_name": "8pm Talks Show",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675044.jpg"
+    },
+    {
+      "show_name": "8pm Talks Show",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675045.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675046.jpg"
+    },
+    {
+      "show_name": "Songs",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111675047.jpg"
+    }
+  ]
+}

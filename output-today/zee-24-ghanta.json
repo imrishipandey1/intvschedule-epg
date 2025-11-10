@@ -1,0 +1,163 @@
+{
+  "channel_name": "Zee 24 Ghanta",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Zee24Ghanta_Thumbnail_83351296-fce6-4d30-9c75-3df2aa3d5f68.png",
+  "date": "2025-11-11",
+  "programs": [
+    {
+      "show_name": "Ja Bolbo Satti Bolbo",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ja Bolbo Satti Bolbo",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Saat Sakal",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Saat Sakal",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Chatpat 24",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "10 Ter News",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "11 Ter Dunia",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Chatpat 24",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Dupurer Prime Time",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Chatpat 24",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Jelar Dupur",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Chatpat 24",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News Room Theke",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Jelar 24",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    }
+  ]
+}

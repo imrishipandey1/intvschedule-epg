@@ -1,0 +1,295 @@
+{
+  "channel_name": "Zee 24 Kalak",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",
+  "date": "2025-11-11",
+  "programs": [
+    {
+      "show_name": "Prime Time Report",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929000.jpg"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929001.jpg"
+    },
+    {
+      "show_name": "Prime Time Report",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929002.jpg"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929003.jpg"
+    },
+    {
+      "show_name": "Prime Time News",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929004.jpg"
+    },
+    {
+      "show_name": "Janta Ni Vat",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929005.jpg"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929006.jpg"
+    },
+    {
+      "show_name": "Janta Ni Vat",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929007.jpg"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929008.jpg"
+    },
+    {
+      "show_name": "Prime Time News",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929009.jpg"
+    },
+    {
+      "show_name": "Janta Ni Vat",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929010.jpg"
+    },
+    {
+      "show_name": "Aarti",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929011.jpg"
+    },
+    {
+      "show_name": "Maha Aarti",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929012.jpg"
+    },
+    {
+      "show_name": "Sur Vandana",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929013.jpg"
+    },
+    {
+      "show_name": "Sur Vandana",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929014.jpg"
+    },
+    {
+      "show_name": "Sur Vandana",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929015.jpg"
+    },
+    {
+      "show_name": "Bhakti Vandna",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929016.jpg"
+    },
+    {
+      "show_name": "Bhakti Vandna",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929017.jpg"
+    },
+    {
+      "show_name": "Fatafat Samachar",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929018.jpg"
+    },
+    {
+      "show_name": "Morning Prime Time",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929019.jpg"
+    },
+    {
+      "show_name": "Khabar @ 10",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929020.jpg"
+    },
+    {
+      "show_name": "Reels Ni Ramzat",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929021.jpg"
+    },
+    {
+      "show_name": "Sawar Na Mota Samachar",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929022.jpg"
+    },
+    {
+      "show_name": "Fatafat Samachar",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929023.jpg"
+    },
+    {
+      "show_name": "Bapore 12na Takore",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929024.jpg"
+    },
+    {
+      "show_name": "Bapore 12na Takore",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929025.jpg"
+    },
+    {
+      "show_name": "Savdhan Gujarat",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929026.jpg"
+    },
+    {
+      "show_name": "Gujarati Reels",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929027.jpg"
+    },
+    {
+      "show_name": "2 Vagya Na Mota Samachar",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929028.jpg"
+    },
+    {
+      "show_name": "Super Hit Geet",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929029.jpg"
+    },
+    {
+      "show_name": "3 Vagye Mahanagar Ni Vat",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929030.jpg"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929031.jpg"
+    },
+    {
+      "show_name": "Gujarati Geet",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929032.jpg"
+    },
+    {
+      "show_name": "Gujarati Geet",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929033.jpg"
+    },
+    {
+      "show_name": "5 Vagye Tamara Shaher Ni Vat",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929034.jpg"
+    },
+    {
+      "show_name": "Reels Ni Ramzat",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929035.jpg"
+    },
+    {
+      "show_name": "Fatafat Samachar",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929036.jpg"
+    },
+    {
+      "show_name": "Gujarati Geet",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929037.jpg"
+    },
+    {
+      "show_name": "Fatafat Samachar",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929038.jpg"
+    },
+    {
+      "show_name": "Samachar Gujarat",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929039.jpg"
+    },
+    {
+      "show_name": "Janta Ni Vat",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929040.jpg"
+    },
+    {
+      "show_name": "Viral No Vantol",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929041.jpg"
+    },
+    {
+      "show_name": "News Top 100",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929042.jpg"
+    },
+    {
+      "show_name": "Prime Time Report",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929043.jpg"
+    },
+    {
+      "show_name": "News Top 100",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929044.jpg"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929045.jpg"
+    },
+    {
+      "show_name": "Savdhan Gujarat",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929046.jpg"
+    },
+    {
+      "show_name": "Viral No Vantol",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/251111929047.jpg"
+    }
+  ]
+}

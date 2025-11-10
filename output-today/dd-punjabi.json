@@ -1,0 +1,19 @@
+{
+  "channel_name": "DD Punjabi",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11374-j9jpwgiw-v1/imageContent-11374-j9jpwgiw-m1.png",
+  "date": "2025-11-11",
+  "programs": [
+    {
+      "show_name": "Sanjh Suran Di",
+      "start_time": "12:00 AM",
+      "end_time": "12:50 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Dastak",
+      "start_time": "12:50 AM",
+      "end_time": "01:37 AM",
+      "show_logo": ""
+    }
+  ]
+}
