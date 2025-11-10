@@ -1,0 +1,247 @@
+{
+  "channel_name": "Big TV",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_TV.png",
+  "date": "2025-11-11",
+  "programs": [
+    {
+      "show_name": "Prime Time With PV",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783000.jpg"
+    },
+    {
+      "show_name": "Big Night",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783001.jpg"
+    },
+    {
+      "show_name": "Khatarnak Vartalu",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783002.jpg"
+    },
+    {
+      "show_name": "Big Night",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783003.jpg"
+    },
+    {
+      "show_name": "Telangana Yudham",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783004.jpg"
+    },
+    {
+      "show_name": "Big Night",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783005.jpg"
+    },
+    {
+      "show_name": "Nene MLA",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783006.jpg"
+    },
+    {
+      "show_name": "Big Night",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783007.jpg"
+    },
+    {
+      "show_name": "Khatarnak Vartalu",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783008.jpg"
+    },
+    {
+      "show_name": "Prime Time With PV",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783009.jpg"
+    },
+    {
+      "show_name": "Big News @ 6 Am",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783010.jpg"
+    },
+    {
+      "show_name": "Devotional Village",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783011.jpg"
+    },
+    {
+      "show_name": "Big Express",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783012.jpg"
+    },
+    {
+      "show_name": "Big Morning",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783013.jpg"
+    },
+    {
+      "show_name": "Big News @ 8 Am",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783014.jpg"
+    },
+    {
+      "show_name": "Veekshanam",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783015.jpg"
+    },
+    {
+      "show_name": "Big News @ 9 Am",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783016.jpg"
+    },
+    {
+      "show_name": "Khatarnak Vartalu",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783017.jpg"
+    },
+    {
+      "show_name": "Big News @ 10 Am",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783018.jpg"
+    },
+    {
+      "show_name": "Nene MLA",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783019.jpg"
+    },
+    {
+      "show_name": "Big News @ 11 Am",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783020.jpg"
+    },
+    {
+      "show_name": "Big News @ 12 Pm",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783021.jpg"
+    },
+    {
+      "show_name": "Big TV News / Chota News",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783022.jpg"
+    },
+    {
+      "show_name": "Big News @ 1 Pm",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783023.jpg"
+    },
+    {
+      "show_name": "Nene MLA",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783024.jpg"
+    },
+    {
+      "show_name": "Big News @ 2 Pm",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783025.jpg"
+    },
+    {
+      "show_name": "Big News @ 3 Pm",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783026.jpg"
+    },
+    {
+      "show_name": "Big News @ 4 Pm",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783027.jpg"
+    },
+    {
+      "show_name": "Big News @ 5 Pm",
+      "start_time": "05:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783028.jpg"
+    },
+    {
+      "show_name": "Big News @ 6 Pm",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783029.jpg"
+    },
+    {
+      "show_name": "Nene MLA",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783030.jpg"
+    },
+    {
+      "show_name": "Big News @ 7 Pm",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783031.jpg"
+    },
+    {
+      "show_name": "Telangana Yudham",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783032.jpg"
+    },
+    {
+      "show_name": "Prime Time With PV",
+      "start_time": "08:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783033.jpg"
+    },
+    {
+      "show_name": "Big News @ 9 Pm",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783034.jpg"
+    },
+    {
+      "show_name": "Khatarnak Vartalu",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783035.jpg"
+    },
+    {
+      "show_name": "Big News @ 10 Pm",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783036.jpg"
+    },
+    {
+      "show_name": "Telangana Yudham",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783037.jpg"
+    },
+    {
+      "show_name": "Big Night",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783038.jpg"
+    },
+    {
+      "show_name": "Nene MLA",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-11/2511112783039.jpg"
+    }
+  ]
+}
