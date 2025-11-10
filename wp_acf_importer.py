@@ -11,9 +11,9 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 logger = logging.getLogger(__name__)
 
 # ---------- Configuration (from env) ----------
-WP_BASE_URL = os.environ.get('https://intvschedule.com') 
-WP_USER = os.environ.get('itsrishipandey')
-WP_APP_PASSWORD = os.environ.get('kdJu jK6c 013L ZiiH GIgA zjGj')
+WP_BASE_URL = os.environ.get('WP_BASE_URL')
+WP_USER = os.environ.get('WP_USER')
+WP_APP_PASSWORD = os.environ.get('WP_APP_PASSWORD')
 POST_TYPE = os.environ.get('POST_TYPE', 'channel')
 
 # Local repo directories (relative to repo root)
