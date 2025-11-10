@@ -99,35 +99,46 @@ def make_repeater_rows(programs: List[Dict[str, Any]], date_value: str) -> List[
 # ---------- Main processing ----------
 
 def process_file(path: str, is_today: bool = True) -> None:
-    logger.info(f'Processing file: {path} (today={is_today})')
+    logger.info("=" * 80)
+    logger.info(f"Processing file: {path} (today={is_today})")
     try:
-        with open(path, 'r', encoding='utf-8') as f:
+        with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
     except Exception as e:
-        logger.error(f'Failed to load JSON {path}: {e}')
+        logger.error(f"Failed to load JSON {path}: {e}")
         return
 
     slug = slug_from_filename(path)
     post_id = get_post_id_by_slug(slug)
     if not post_id:
-        logger.error(f'Cannot find post for slug {slug}. Skipping.')
+        logger.error(f"❌ Cannot find post for slug {slug}. Skipping.")
         return
 
-    date_value = data.get('date') or ''
-    programs = data.get('programs') or []
+    date_value = data.get("date") or ""
+    programs = data.get("programs") or []
 
-    today_rows = make_repeater_rows(programs, date_value)
+    if not programs:
+        logger.warning(f"⚠️ No 'programs' found in {path}. Skipping ACF update.")
+        return
+
+    # Build repeater rows
+    repeater_rows = make_repeater_rows(programs, date_value)
+    first_show = programs[0].get("show_name", "N/A") if programs else "N/A"
+    logger.info(f"Found {len(repeater_rows)} programs for {slug} ({date_value}) — example: {first_show}")
 
     fields_payload = {}
-    if is_today:
-        fields_payload['schedule_repeater'] = today_rows
-    else:
-        fields_payload['schedule_tomorrow'] = today_rows
+    field_name = "schedule_repeater" if is_today else "schedule_tomorrow"
+    fields_payload[field_name] = repeater_rows
 
+    logger.info(f"➡️ Uploading {len(repeater_rows)} rows to field '{field_name}' for post {post_id}")
     success = update_acf_fields(post_id, fields_payload)
-    if not success:
-        logger.error(f'Failed to update ACF for post {post_id} ({slug})')
 
+    if success:
+        logger.info(f"✅ Successfully updated ACF for post {post_id} ({slug})")
+    else:
+        logger.error(f"❌ Failed to update ACF for post {post_id} ({slug})")
+
+    logger.info("=" * 80)
 
 def process_directory(directory: str, is_today: bool) -> None:
     if not os.path.isdir(directory):
