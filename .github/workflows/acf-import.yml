@@ -1,9 +1,3 @@
-# -------------------
-# GitHub Actions workflow (save as .github/workflows/acf-import.yml)
-# -------------------
-
-# Below is the YAML content to add to your repo to run this script on a schedule or on push.
-# Save it as .github/workflows/acf-import.yml
 
 YAML = r"""
 name: ACF Importer
@@ -45,6 +39,3 @@ jobs:
 
 """
 
-# Write YAML file to repo when running locally or show to user
-
-# End of content
