@@ -1,0 +1,67 @@
+{
+  "channel_name": "Colors Kannada Cinema",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ColorsKannadaCinema_Thumbnail_13c0f128-c9cd-4321-af65-18fa22686307.png",
+  "date": "2025-11-12",
+  "programs": [
+    {
+      "show_name": "Rowdy",
+      "start_time": "12:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Chowka Bara",
+      "start_time": "02:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Shiva Shakthi",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Dayavittu Gamanisi",
+      "start_time": "05:30 AM",
+      "end_time": "08:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "08:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Gandana Mane",
+      "start_time": "10:00 AM",
+      "end_time": "01:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Badava Rascal",
+      "start_time": "01:30 PM",
+      "end_time": "04:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ganga",
+      "start_time": "04:30 PM",
+      "end_time": "07:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Gokarna",
+      "start_time": "07:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Kalluveene Nudiyithu",
+      "start_time": "11:00 PM",
+      "end_time": "12:00 AM",
+      "show_logo": ""
+    }
+  ]
+}

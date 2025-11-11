@@ -1,0 +1,67 @@
+{
+  "channel_name": "Colors Cineplex",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png",
+  "date": "2025-11-12",
+  "programs": [
+    {
+      "show_name": "Siren",
+      "start_time": "10:10 PM",
+      "end_time": "01:20 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Yuvaraj",
+      "start_time": "01:20 AM",
+      "end_time": "04:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Gippi",
+      "start_time": "04:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rowdy Baadshah",
+      "start_time": "05:30 AM",
+      "end_time": "07:55 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khallas",
+      "start_time": "07:55 AM",
+      "end_time": "10:55 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Kali Kitaab",
+      "start_time": "10:55 AM",
+      "end_time": "01:15 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Taarzan: The Wonder Car",
+      "start_time": "01:15 PM",
+      "end_time": "05:05 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bogan",
+      "start_time": "05:05 PM",
+      "end_time": "07:50 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Kuberaa",
+      "start_time": "07:50 PM",
+      "end_time": "11:15 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Baaghi 2",
+      "start_time": "11:15 PM",
+      "end_time": "01:55 AM",
+      "show_logo": ""
+    }
+  ]
+}
