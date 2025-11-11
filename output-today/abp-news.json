@@ -1,250 +1,298 @@
 {
-  "channel_name": "Zee Bangla HD",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaHD_Thumbnail_abd318d8-03d0-44c9-a18d-b34a5d941a48.png",
+  "channel_name": "ABP News",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png",
   "date": "2025-11-12",
   "programs": [
     {
-      "show_name": "Mongolmoyee Santoshi Maa",
+      "show_name": "Special Report",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Advertorial",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "Special Report",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Special Report",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Special Report",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "Special Report",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Special Report",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Anandi",
+      "show_name": "Special Report",
       "start_time": "03:30 AM",
-      "end_time": "04:15 AM",
+      "end_time": "04:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Kone Dekha Alo",
-      "start_time": "04:15 AM",
+      "show_name": "Special Report",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Special Report",
+      "start_time": "04:30 AM",
       "end_time": "05:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "Special Report",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Special Report",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Special Report",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "Special Report",
       "start_time": "06:30 AM",
+      "end_time": "06:45 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bhaagya Ki Baat",
+      "start_time": "06:45 AM",
       "end_time": "07:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Namaste Bharat",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "Namaste Bharat",
       "start_time": "07:30 AM",
+      "end_time": "07:52 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "8 Minute 80 Khabar",
+      "start_time": "07:52 AM",
       "end_time": "08:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Tui Amar Hero",
+      "show_name": "Namaste Bharat",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Amader Dadamoni",
+      "show_name": "Namaste Bharat",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "9 Second Mein News",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "9 Second Mein News",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Aagey Ka Agenda",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Aagey Ka Agenda",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "ABP Reporter",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Joy Baba Lokenath",
+      "show_name": "ABP Reporter",
       "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khabar Din Bhar",
+      "start_time": "12:00 PM",
       "end_time": "12:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Tulsi Dhamer Naru Gopal",
+      "show_name": "Khabar Din Bhar",
       "start_time": "12:30 PM",
-      "end_time": "12:45 PM",
+      "end_time": "01:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Kone Dekha Alo",
-      "start_time": "12:45 PM",
+      "show_name": "Khabar Din Bhar",
+      "start_time": "01:00 PM",
       "end_time": "01:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Khabar Din Bhar",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Tui Amar Hero",
+      "show_name": "Khabar Din Bhar",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "Saas Bahu Aur Saazish",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Saas Bahu Aur Saazish",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Joyar Bhata",
+      "show_name": "Khabar Filmi Hai",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Rannaghar",
+      "show_name": "Matribhumi",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Didi No 1",
+      "show_name": "Matribhumi",
       "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Hunkar",
+      "start_time": "05:00 PM",
       "end_time": "05:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "Hunkar",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Tui Amar Hero",
+      "show_name": "Political Powercentre",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Political Powercentre",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "Seedha Sawaal",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Seedha Sawaal",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "Bharat Ki Baat",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Amader Dadamoni",
+      "show_name": "Bharat Ki Baat",
       "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Joyar Bhata",
-      "start_time": "09:00 PM",
       "end_time": "09:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Kone Dekha Alo",
+      "show_name": "24 Ghante 24 Reporter",
       "start_time": "09:30 PM",
-      "end_time": "10:15 PM",
+      "end_time": "10:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Anandi",
-      "start_time": "10:15 PM",
+      "show_name": "24 Ghante 24 Reporter",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Special Report",
+      "start_time": "10:30 PM",
       "end_time": "11:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "Sansani",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "Special Report",
       "start_time": "11:30 PM",
       "end_time": "12:00 AM",
       "show_logo": ""
