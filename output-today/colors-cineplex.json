@@ -1,0 +1,79 @@
+{
+  "channel_name": "Colors Cineplex",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
+  "date": "2025-11-12",
+  "programs": [
+    {
+      "show_name": "Siren 108",
+      "start_time": "12:00 AM",
+      "end_time": "12:44 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8934611581acccce725609b10aa12c59.jpg"
+    },
+    {
+      "show_name": "Filler",
+      "start_time": "12:44 AM",
+      "end_time": "01:14 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/91cf8b5e9493ba7ebc980ac1ce540541.jpg"
+    },
+    {
+      "show_name": "Yuvaraj",
+      "start_time": "01:14 AM",
+      "end_time": "03:31 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1ab49f443387dbef7dfd369ac0b66f75.jpg"
+    },
+    {
+      "show_name": "Filler",
+      "start_time": "03:31 AM",
+      "end_time": "04:36 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/91cf8b5e9493ba7ebc980ac1ce540541.jpg"
+    },
+    {
+      "show_name": "Gippi",
+      "start_time": "04:36 AM",
+      "end_time": "06:08 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/cb235b0e58883e5e4921aa378e1077a1.jpg"
+    },
+    {
+      "show_name": "Rowdy Baadshah",
+      "start_time": "06:08 AM",
+      "end_time": "08:42 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/736dd6623198ca373a0da0155e6453dd.jpg"
+    },
+    {
+      "show_name": "Khallas",
+      "start_time": "08:42 AM",
+      "end_time": "11:36 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e35d02c58a7c5b5353a5905b0af371f2.jpg"
+    },
+    {
+      "show_name": "Kali Kitaab",
+      "start_time": "11:36 AM",
+      "end_time": "01:37 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0ff05674a27d86ac4a67665f67844ee5.jpg"
+    },
+    {
+      "show_name": "Taarzan: The Wonder Car",
+      "start_time": "01:37 PM",
+      "end_time": "05:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3b094c94ca27bd806f0eda3236753149.jpg"
+    },
+    {
+      "show_name": "Bogan",
+      "start_time": "05:05 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3604f2a95ac65a45eb71a473c6cfc4e5.jpg"
+    },
+    {
+      "show_name": "Kuberaa",
+      "start_time": "07:50 PM",
+      "end_time": "11:03 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/cd79b5d55b75bd8ad7fe19b4509f3616.jpg"
+    },
+    {
+      "show_name": "Baaghi 2",
+      "start_time": "11:03 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5b3f101cc4d6303d583f97caf7ad48c4.jpg"
+    }
+  ]
+}

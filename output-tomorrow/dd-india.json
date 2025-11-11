@@ -1,0 +1,235 @@
+{
+  "channel_name": "DD India",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png",
+  "date": "2025-11-13",
+  "programs": [
+    {
+      "show_name": "Wellness Watch",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528000.jpg"
+    },
+    {
+      "show_name": "Voice of the Global South",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528001.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528002.jpg"
+    },
+    {
+      "show_name": "The Tale of Trails",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528003.jpg"
+    },
+    {
+      "show_name": "Defence Dynamics",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528004.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528005.jpg"
+    },
+    {
+      "show_name": "Connecting the Dots",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528006.jpg"
+    },
+    {
+      "show_name": "Wellness Watch",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528007.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528008.jpg"
+    },
+    {
+      "show_name": "Explorer of the Misty Mountains",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528009.jpg"
+    },
+    {
+      "show_name": "Meditation Session By Gurudev Sri Sri Ravi Shankar",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528010.jpg"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528011.jpg"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528012.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528013.jpg"
+    },
+    {
+      "show_name": "55th International Film Festival of India-2024 (IFFI)",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528014.jpg"
+    },
+    {
+      "show_name": "Defence Dynamics",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528015.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528016.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528017.jpg"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528018.jpg"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528019.jpg"
+    },
+    {
+      "show_name": "In Conversation With",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528020.jpg"
+    },
+    {
+      "show_name": "Eco India",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528021.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528022.jpg"
+    },
+    {
+      "show_name": "55th International Film Festival of India-2024 (IFFI)",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528023.jpg"
+    },
+    {
+      "show_name": "Connecting the Dots",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528024.jpg"
+    },
+    {
+      "show_name": "Express News",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528025.jpg"
+    },
+    {
+      "show_name": "Voice of the Global South",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528026.jpg"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528027.jpg"
+    },
+    {
+      "show_name": "Defence Dynamics",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528028.jpg"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528029.jpg"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528030.jpg"
+    },
+    {
+      "show_name": "Express News",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528031.jpg"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528032.jpg"
+    },
+    {
+      "show_name": "The Economic Brief",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528033.jpg"
+    },
+    {
+      "show_name": "Wellness Watch",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528034.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "09:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528035.jpg"
+    },
+    {
+      "show_name": "55th International Film Festival of India-2024 (IFFI)",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528036.jpg"
+    },
+    {
+      "show_name": "The Economic Brief",
+      "start_time": "10:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/251113528037.jpg"
+    }
+  ]
+}

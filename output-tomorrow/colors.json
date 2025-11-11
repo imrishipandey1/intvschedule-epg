@@ -1,0 +1,127 @@
+{
+  "channel_name": "Colors SD",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",
+  "date": "2025-11-13",
+  "programs": [
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "12:00 AM",
+      "end_time": "12:59 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368000.jpg"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "12:59 AM",
+      "end_time": "02:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368001.jpg"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "02:20 AM",
+      "end_time": "03:37 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368002.jpg"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "03:37 AM",
+      "end_time": "04:51 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368003.jpg"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "04:51 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368004.jpg"
+    },
+    {
+      "show_name": "Manpasand Ki Shaadi",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368005.jpg"
+    },
+    {
+      "show_name": "Teleslot",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368006.jpg"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "07:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368007.jpg"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "10:30 AM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368008.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu",
+      "start_time": "01:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368009.jpg"
+    },
+    {
+      "show_name": "Noyontara",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368010.jpg"
+    },
+    {
+      "show_name": "Noyontara",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368011.jpg"
+    },
+    {
+      "show_name": "Dhaakad Beera",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368012.jpg"
+    },
+    {
+      "show_name": "Mannat Harr Khushi Paane Ki",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368013.jpg"
+    },
+    {
+      "show_name": "Shiv-Shakti Tap..Tyaag..Tandav",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368014.jpg"
+    },
+    {
+      "show_name": "Binddii",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368015.jpg"
+    },
+    {
+      "show_name": "Mangal Lakshmi",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368016.jpg"
+    },
+    {
+      "show_name": "Mangal Lakshmi - Lakshmi Ka Safar",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368017.jpg"
+    },
+    {
+      "show_name": "Manpasand Ki Shaadi",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368018.jpg"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "10:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131368019.jpg"
+    }
+  ]
+}

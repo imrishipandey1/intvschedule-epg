@@ -1,0 +1,241 @@
+{
+  "channel_name": "Colors Gujarati",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",
+  "date": "2025-11-12",
+  "programs": [
+    {
+      "show_name": "Rangai Jaane Rangma",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ec37470fdd7368508d7ba2c238fde302.jpg"
+    },
+    {
+      "show_name": "Motiba Ni Nani Vahu",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5e3b0399cb3a9b3829817ca69e0f3bf9.jpg"
+    },
+    {
+      "show_name": "Dil Dangal",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/934b4ee32c5f4bccd1097506df265741.jpg"
+    },
+    {
+      "show_name": "Rangai Jaane Rangma",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ec37470fdd7368508d7ba2c238fde302.jpg"
+    },
+    {
+      "show_name": "Radha Krishna",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/40da4422c926f44ce032deff29f68b8a.jpg"
+    },
+    {
+      "show_name": "Bhagyalaxmi",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a431061f8dc49a6a645af5b7334fc659.jpg"
+    },
+    {
+      "show_name": "Rasoi Show",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/25f4d5029dfc30c0ef2a21c13d6118d9.jpg"
+    },
+    {
+      "show_name": "Dil Dangal",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/934b4ee32c5f4bccd1097506df265741.jpg"
+    },
+    {
+      "show_name": "Kanku - Rang Parko",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b6dd480049f91e868b06a34ec6629b08.jpg"
+    },
+    {
+      "show_name": "Rangai Jaane Rangma",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ec37470fdd7368508d7ba2c238fde302.jpg"
+    },
+    {
+      "show_name": "Motiba Ni Nani Vahu",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5e3b0399cb3a9b3829817ca69e0f3bf9.jpg"
+    },
+    {
+      "show_name": "Kanku - Rang Parko",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b6dd480049f91e868b06a34ec6629b08.jpg"
+    },
+    {
+      "show_name": "Motiba Ni Nani Vahu",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5e3b0399cb3a9b3829817ca69e0f3bf9.jpg"
+    },
+    {
+      "show_name": "Radha Krishna",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/40da4422c926f44ce032deff29f68b8a.jpg"
+    },
+    {
+      "show_name": "Bhagyalaxmi",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a431061f8dc49a6a645af5b7334fc659.jpg"
+    },
+    {
+      "show_name": "Deshi Beats",
+      "start_time": "08:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/38eeb8b681a6b11d3c30351310d86f3b.jpg"
+    },
+    {
+      "show_name": "Rasoi Show",
+      "start_time": "10:30 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/25f4d5029dfc30c0ef2a21c13d6118d9.jpg"
+    },
+    {
+      "show_name": "Maru Man Mohi Gayu",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f77a5f71806dc1012e32119b01ffb87f.jpg"
+    },
+    {
+      "show_name": "Maru Man Mohi Gayu",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f77a5f71806dc1012e32119b01ffb87f.jpg"
+    },
+    {
+      "show_name": "Maru Man Mohi Gayu",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f77a5f71806dc1012e32119b01ffb87f.jpg"
+    },
+    {
+      "show_name": "Maru Man Mohi Gayu",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f77a5f71806dc1012e32119b01ffb87f.jpg"
+    },
+    {
+      "show_name": "Maru Man Mohi Gayu",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f77a5f71806dc1012e32119b01ffb87f.jpg"
+    },
+    {
+      "show_name": "Rasoi Show",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/25f4d5029dfc30c0ef2a21c13d6118d9.jpg"
+    },
+    {
+      "show_name": "Kanku - Rang Parko",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b6dd480049f91e868b06a34ec6629b08.jpg"
+    },
+    {
+      "show_name": "Motiba Ni Nani Vahu",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5e3b0399cb3a9b3829817ca69e0f3bf9.jpg"
+    },
+    {
+      "show_name": "Dil Dangal",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/934b4ee32c5f4bccd1097506df265741.jpg"
+    },
+    {
+      "show_name": "Rangai Jaane Rangma",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ec37470fdd7368508d7ba2c238fde302.jpg"
+    },
+    {
+      "show_name": "Rasoi Show",
+      "start_time": "05:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/25f4d5029dfc30c0ef2a21c13d6118d9.jpg"
+    },
+    {
+      "show_name": "Naagin",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/eeb8d4b17e2a5e16eefeba8db2887280.jpg"
+    },
+    {
+      "show_name": "Radha Krishna",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/40da4422c926f44ce032deff29f68b8a.jpg"
+    },
+    {
+      "show_name": "Bhagyalaxmi",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a431061f8dc49a6a645af5b7334fc659.jpg"
+    },
+    {
+      "show_name": "Kanku - Rang Parko",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b6dd480049f91e868b06a34ec6629b08.jpg"
+    },
+    {
+      "show_name": "Motiba Ni Nani Vahu",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5e3b0399cb3a9b3829817ca69e0f3bf9.jpg"
+    },
+    {
+      "show_name": "Dil Dangal",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/934b4ee32c5f4bccd1097506df265741.jpg"
+    },
+    {
+      "show_name": "Rangai Jaane Rangma",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ec37470fdd7368508d7ba2c238fde302.jpg"
+    },
+    {
+      "show_name": "Kahi De Ne Prem Chhe ! - Prem Nu Pratik",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5a6850059ddf02b6f42e8fdac2341086.jpg"
+    },
+    {
+      "show_name": "Kahi De Ne Prem Chhe ! - Prem Nu Pratik",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5a6850059ddf02b6f42e8fdac2341086.jpg"
+    },
+    {
+      "show_name": "Kanku - Rang Parko",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b6dd480049f91e868b06a34ec6629b08.jpg"
+    },
+    {
+      "show_name": "Dil Dangal",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/934b4ee32c5f4bccd1097506df265741.jpg"
+    }
+  ]
+}

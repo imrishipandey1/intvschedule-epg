@@ -1,0 +1,259 @@
+{
+  "channel_name": "TV9 Bangla",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png",
+  "date": "2025-11-13",
+  "programs": [
+    {
+      "show_name": "Thontkata",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735000.jpg"
+    },
+    {
+      "show_name": "Thontkata",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735001.jpg"
+    },
+    {
+      "show_name": "Bengal Breaking",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735002.jpg"
+    },
+    {
+      "show_name": "Bengal Breaking",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735003.jpg"
+    },
+    {
+      "show_name": "Naa Bollei Noy",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735004.jpg"
+    },
+    {
+      "show_name": "Naa Bollei Noy",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735005.jpg"
+    },
+    {
+      "show_name": "Straight Cut",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735006.jpg"
+    },
+    {
+      "show_name": "Thontkata",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735007.jpg"
+    },
+    {
+      "show_name": "Thontkata",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735008.jpg"
+    },
+    {
+      "show_name": "Naa Bollei Noy",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735009.jpg"
+    },
+    {
+      "show_name": "Naa Bollei Noy",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735010.jpg"
+    },
+    {
+      "show_name": "Straight Cut",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735011.jpg"
+    },
+    {
+      "show_name": "Sakal Sakal News Live",
+      "start_time": "06:00 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735012.jpg"
+    },
+    {
+      "show_name": "Morning Super Prime Time",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735013.jpg"
+    },
+    {
+      "show_name": "Morning Super Prime Time",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735014.jpg"
+    },
+    {
+      "show_name": "Morning Super Prime Time",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735015.jpg"
+    },
+    {
+      "show_name": "Morning Super Prime Time",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735016.jpg"
+    },
+    {
+      "show_name": "Morning Super Prime Time",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735017.jpg"
+    },
+    {
+      "show_name": "Damdar Dosh",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735018.jpg"
+    },
+    {
+      "show_name": "Morning Super Prime Time",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735019.jpg"
+    },
+    {
+      "show_name": "Morning Super Prime Time",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735020.jpg"
+    },
+    {
+      "show_name": "Morning Super Prime Time",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735021.jpg"
+    },
+    {
+      "show_name": "Press Corner",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735022.jpg"
+    },
+    {
+      "show_name": "tv9 News",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735023.jpg"
+    },
+    {
+      "show_name": "Dupurer Super Prime Time",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735024.jpg"
+    },
+    {
+      "show_name": "Full \u0026 Final",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735025.jpg"
+    },
+    {
+      "show_name": "Full \u0026 Final",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735026.jpg"
+    },
+    {
+      "show_name": "Dupurer Super Prime Time",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735027.jpg"
+    },
+    {
+      "show_name": "Dupurer Super Prime Time",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735028.jpg"
+    },
+    {
+      "show_name": "Charte Challish",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735029.jpg"
+    },
+    {
+      "show_name": "Bachai Noy",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735030.jpg"
+    },
+    {
+      "show_name": "Panch Katha News Live",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735031.jpg"
+    },
+    {
+      "show_name": "tv9 News",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735032.jpg"
+    },
+    {
+      "show_name": "Sandhyer Super Prime Time",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735033.jpg"
+    },
+    {
+      "show_name": "Sandhyer Super Prime Time",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735034.jpg"
+    },
+    {
+      "show_name": "Sandhyer Super Prime Time",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735035.jpg"
+    },
+    {
+      "show_name": "Bengal Breaking",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735036.jpg"
+    },
+    {
+      "show_name": "Thontkata",
+      "start_time": "08:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735037.jpg"
+    },
+    {
+      "show_name": "Naa Bollei Noy",
+      "start_time": "09:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735038.jpg"
+    },
+    {
+      "show_name": "Straight Cut",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735039.jpg"
+    },
+    {
+      "show_name": "News Top 9",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735040.jpg"
+    },
+    {
+      "show_name": "Naa Bollei Noy",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131735041.jpg"
+    }
+  ]
+}
