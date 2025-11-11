@@ -1,16 +1,16 @@
 package main
 
 import (
-	"compress/gzip"
-	"encoding/xml"
-	"encoding/json"
-	"fmt"
-	"io"
-	"log"
-	"os"
-	"path/filepath"
-	"strings"
-	"time"
+    "compress/gzip"
+    "encoding/json"
+    "encoding/xml"
+    "fmt"
+    "log"
+    "net/http"
+    "os"
+    "path/filepath"
+    "strings"
+    "time"
 )
 
 type TV struct {
@@ -201,29 +201,21 @@ func main() {
 
 // downloadAndParseEPG fetches and parses gzipped XMLTV data.
 func downloadAndParseEPG(url string) (*TV, error) {
-	resp, err := os.Open(url)
-	if err != nil {
-		ht, err := http.Get(url)
-		if err != nil {
-			return nil, err
-		}
-		defer ht.Body.Close()
-		resp = ht.Body
-	}
-	defer resp.Close()
-
-	var gzReader *gzip.Reader
-	if f, ok := resp.(*os.File); ok {
-		gzReader, _ = gzip.NewReader(f)
-	} else {
-		gzReader, _ = gzip.NewReader(resp)
-	}
-	defer gzReader.Close()
-
-	var tv TV
-	err = xml.NewDecoder(gzReader).Decode(&tv)
-	return &tv, err
+    resp, err := http.Get(url)
+    if err != nil {
+        return nil, err
+    }
+    defer resp.Body.Close()
+    gzReader, err := gzip.NewReader(resp.Body)
+    if err != nil {
+        return nil, err
+    }
+    defer gzReader.Close()
+    var tv TV
+    err = xml.NewDecoder(gzReader).Decode(&tv)
+    return &tv, err
 }
+
 
 // readFilterRules parses rules from filter.txt.
 func readFilterRules(filename string) ([]FilterRule, error) {
