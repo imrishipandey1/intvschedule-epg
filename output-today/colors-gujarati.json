@@ -1,257 +1,239 @@
 {
-  "channel_name": "TV9 Bangla",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59401-kjudpa1c-v2/imageContent-59401-kjudpa1c-m3.png",
+  "channel_name": "Colors Gujarati",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ColorsGujarati_Thumbnail_8d85c0a8-20d8-4ca1-acc6-02d914268427.png",
   "date": "2025-11-12",
   "programs": [
     {
-      "show_name": "Thontkata",
+      "show_name": "Rangai Jaane Rangma",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Thontkata",
+      "show_name": "Motiba Ni Nani Vahu",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Bengal Breaking",
+      "show_name": "Dil Dangal",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Bengal Breaking",
+      "show_name": "Rangai Jaane Rangma",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Naa Bollei Noy",
+      "show_name": "Radha Krishna",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Naa Bollei Noy",
+      "show_name": "Bhagyalaxmi",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Straight Cut",
+      "show_name": "Rasoi Show",
       "start_time": "03:00 AM",
-      "end_time": "03:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Thontkata",
-      "start_time": "03:30 AM",
       "end_time": "04:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Thontkata",
+      "show_name": "Dil Dangal",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Naa Bollei Noy",
+      "show_name": "Kanku - Rang Parko",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Naa Bollei Noy",
+      "show_name": "Rangai Jaane Rangma",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Straight Cut",
+      "show_name": "Motiba Ni Nani Vahu",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Sakal Sakal News Live",
+      "show_name": "Kanku - Rang Parko",
       "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Motiba Ni Nani Vahu",
+      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Morning Super Prime Time",
+      "show_name": "Radha Krishna",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Morning Super Prime Time",
+      "show_name": "Bhagyalaxmi",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Morning Super Prime Time",
+      "show_name": "Deshi Beats",
       "start_time": "08:00 AM",
-      "end_time": "08:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Morning Super Prime Time",
-      "start_time": "08:30 AM",
-      "end_time": "09:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Morning Super Prime Time",
-      "start_time": "09:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Damdar Dosh",
-      "start_time": "10:00 AM",
       "end_time": "10:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Morning Super Prime Time",
+      "show_name": "Rasoi Show",
       "start_time": "10:30 AM",
-      "end_time": "11:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Morning Super Prime Time",
-      "start_time": "11:00 AM",
       "end_time": "11:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Morning Super Prime Time",
+      "show_name": "Maru Man Mohi Gayu",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Press Corner",
+      "show_name": "Maru Man Mohi Gayu",
       "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Maru Man Mohi Gayu",
+      "start_time": "12:30 PM",
       "end_time": "01:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "tv9 News",
+      "show_name": "Maru Man Mohi Gayu",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Dupurer Super Prime Time",
+      "show_name": "Maru Man Mohi Gayu",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Full \u0026 Final",
+      "show_name": "Rasoi Show",
       "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Full \u0026 Final",
-      "start_time": "02:30 PM",
       "end_time": "03:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Dupurer Super Prime Time",
+      "show_name": "Kanku - Rang Parko",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Dupurer Super Prime Time",
+      "show_name": "Motiba Ni Nani Vahu",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Charte Challish",
+      "show_name": "Dil Dangal",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Bachai Noy",
+      "show_name": "Rangai Jaane Rangma",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Panch Katha News Live",
+      "show_name": "Rasoi Show",
       "start_time": "05:00 PM",
-      "end_time": "05:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "tv9 News",
-      "start_time": "05:30 PM",
       "end_time": "06:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Sandhyer Super Prime Time",
+      "show_name": "Naagin",
       "start_time": "06:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Sandhyer Super Prime Time",
-      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Sandhyer Super Prime Time",
+      "show_name": "Radha Krishna",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Bengal Breaking",
+      "show_name": "Bhagyalaxmi",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Thontkata",
+      "show_name": "Kanku - Rang Parko",
       "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Motiba Ni Nani Vahu",
+      "start_time": "08:30 PM",
       "end_time": "09:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Naa Bollei Noy",
+      "show_name": "Dil Dangal",
       "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rangai Jaane Rangma",
+      "start_time": "09:30 PM",
       "end_time": "10:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Straight Cut",
+      "show_name": "Kahi De Ne Prem Chhe ! - Prem Nu Pratik",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "News Top 9",
+      "show_name": "Kahi De Ne Prem Chhe ! - Prem Nu Pratik",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Naa Bollei Noy",
+      "show_name": "Kanku - Rang Parko",
       "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Dil Dangal",
+      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
       "show_logo": ""
     }
