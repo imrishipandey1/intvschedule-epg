@@ -1,0 +1,61 @@
+{
+  "channel_name": "B4U Movies",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
+  "date": "2025-11-12",
+  "programs": [
+    {
+      "show_name": "Josh",
+      "start_time": "12:00 AM",
+      "end_time": "01:33 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/251112182000.jpg"
+    },
+    {
+      "show_name": "Antim Nyay",
+      "start_time": "01:33 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/251112182001.jpg"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "03:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/251112182002.jpg"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/251112182003.jpg"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/251112182004.jpg"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/251112182005.jpg"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/251112182006.jpg"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "06:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/251112182007.jpg"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "09:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/251112182008.jpg"
+    }
+  ]
+}

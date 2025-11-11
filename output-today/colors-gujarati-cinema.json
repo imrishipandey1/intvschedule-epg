@@ -1,0 +1,67 @@
+{
+  "channel_name": "Colors Gujarati Cinema",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
+  "date": "2025-11-12",
+  "programs": [
+    {
+      "show_name": "Mara Sayaba Ni Chundadi",
+      "start_time": "12:00 AM",
+      "end_time": "12:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121324000.jpg"
+    },
+    {
+      "show_name": "Malo Nagde",
+      "start_time": "12:45 AM",
+      "end_time": "02:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121324001.jpg"
+    },
+    {
+      "show_name": "Desi Beats",
+      "start_time": "02:40 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121324002.jpg"
+    },
+    {
+      "show_name": "Raaj Mata",
+      "start_time": "05:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121324003.jpg"
+    },
+    {
+      "show_name": "Desi Beats",
+      "start_time": "08:00 AM",
+      "end_time": "11:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121324004.jpg"
+    },
+    {
+      "show_name": "Maa Koi Ni Marsho Nahi",
+      "start_time": "11:05 AM",
+      "end_time": "01:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121324005.jpg"
+    },
+    {
+      "show_name": "Santu Rangili",
+      "start_time": "01:55 PM",
+      "end_time": "04:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121324006.jpg"
+    },
+    {
+      "show_name": "Mari Nandino Veer",
+      "start_time": "04:40 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121324007.jpg"
+    },
+    {
+      "show_name": "Lakho Vanzaro",
+      "start_time": "07:00 PM",
+      "end_time": "09:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121324008.jpg"
+    },
+    {
+      "show_name": "Maa Na Aansu",
+      "start_time": "09:40 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121324009.jpg"
+    }
+  ]
+}

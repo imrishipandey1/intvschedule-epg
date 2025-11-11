@@ -1,0 +1,79 @@
+{
+  "channel_name": "Star Bharat HD",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",
+  "date": "2025-11-12",
+  "programs": [
+    {
+      "show_name": "Savdhaan India - India Fights Back",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Haathi Ghoda Paal Ki Jai Kanhaiya Laal Ki",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Haathi Ghoda Paal Ki Jai Kanhaiya Laal Ki",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "RadhaKrishn",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "RadhaKrishn",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "RadhaKrishn",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "RadhaKrishn",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Devon Ke Dev Mahadev",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Mahabharat",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Mahabharat",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Devon Ke Dev Mahadev",
+      "start_time": "07:00 PM",
+      "end_time": "08:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bhagwaan Parashuraam",
+      "start_time": "08:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": ""
+    }
+  ]
+}

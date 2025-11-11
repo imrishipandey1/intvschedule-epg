@@ -1,0 +1,223 @@
+{
+  "channel_name": "Star Jalsha HD",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png",
+  "date": "2025-11-12",
+  "programs": [
+    {
+      "show_name": "Parashuram",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rangamati Tirandaj",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rajrajeshwari Rani Bhabani",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tapur Tupur",
+      "start_time": "01:30 AM",
+      "end_time": "03:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tumi Chherona Haat Pothe",
+      "start_time": "03:30 AM",
+      "end_time": "04:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khelaghor",
+      "start_time": "04:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Anurager Chhowa",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rangamati Tirandaj",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rajrajeshwari Rani Bhabani",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "O Mor Dorodiya",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Grihapravesh",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Compass",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Parashuram",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Shubho Bibaho",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rangamati Tirandaj",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "O Mor Dorodiya",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Chiroshokha",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Parashuram",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bholebaba Paar Karega",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Lokkhi Jhnapi",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tapur Tupur",
+      "start_time": "01:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tumi Chherona Haat Pothe",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Khelaghor",
+      "start_time": "04:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bholebaba Paar Karega",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Compass",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Lokkhi Jhnapi",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "O Mor Dorodiya",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rangamati Tirandaj",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Parashuram",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rajrajeshwari Rani Bhabani",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Chiroshokha",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Anurager Chhowa",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Grihapravesh",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Shubho Bibaho",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Lokkhi Jhnapi",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bholebaba Paar Karega",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": ""
+    }
+  ]
+}
