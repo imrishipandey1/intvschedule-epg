@@ -2,19 +2,18 @@ package main
 
 import (
 	"compress/gzip"
-	"encoding/json"
 	"encoding/xml"
+	"encoding/json"
 	"fmt"
-	"net/http"
+	"io"
+	"log"
 	"os"
 	"path/filepath"
 	"strings"
 	"time"
 )
 
-// XML structures
 type TV struct {
-	XMLName    xml.Name    `xml:"tv"`
 	Channels   []Channel   `xml:"channel"`
 	Programmes []Programme `xml:"programme"`
 }
@@ -26,21 +25,20 @@ type Channel struct {
 }
 
 type Programme struct {
-	Start       string `xml:"start,attr"`
-	Stop        string `xml:"stop,attr"`
-	Channel     string `xml:"channel,attr"`
-	Title       string `xml:"title"`
-	Description string `xml:"desc"`
-	Category    string `xml:"category"`
-	Date        string `xml:"date"`
-	Icon        Icon   `xml:"icon"`
+	Start   string `xml:"start,attr"`
+	Stop    string `xml:"stop,attr"`
+	Channel string `xml:"channel,attr"`
+	Title   string `xml:"title"`
+	Desc    string `xml:"desc"`
+	Category string `xml:"category"`
+	Date    string `xml:"date"`
+	Icon    Icon   `xml:"icon"`
 }
 
 type Icon struct {
 	Src string `xml:"src,attr"`
 }
 
-// JSON output structures
 type ChannelOutput struct {
 	ChannelName string          `json:"channel_name"`
 	ChannelLogo string          `json:"channel_logo"`
@@ -60,219 +58,203 @@ type ChannelInfo struct {
 	Logo string
 }
 
+// Enhanced filter rule
 type FilterRule struct {
 	OriginalName string
 	OutputName   string
 }
 
+// Logging
+var logLines []string
+
 func main() {
-	fmt.Println("🚀 Starting EPG Parser...")
-
-	// Load IST timezone
-	ist, err := time.LoadLocation("Asia/Kolkata")
-	if err != nil {
-		fmt.Printf("Error loading IST timezone: %v\n", err)
-		return
-	}
-
-	// Get current time in IST
+	logLines = append(logLines, "========= EPG RUN LOG =========")
+	ist, _ := time.LoadLocation("Asia/Kolkata")
 	nowIST := time.Now().In(ist)
 	today := time.Date(nowIST.Year(), nowIST.Month(), nowIST.Day(), 0, 0, 0, 0, ist)
 	tomorrow := today.AddDate(0, 0, 1)
 
-	fmt.Printf("📅 Today (IST): %s\n", today.Format("2006-01-02"))
-	fmt.Printf("📅 Tomorrow (IST): %s\n", tomorrow.Format("2006-01-02"))
+	logLines = append(logLines, fmt.Sprintf("Run Time (IST): %s", nowIST.Format(time.RFC3339)))
+	logLines = append(logLines, fmt.Sprintf("Today (IST): %s | Tomorrow (IST): %s", today.Format("2006-01-02"), tomorrow.Format("2006-01-02")))
 
-	// Download and parse EPG files
-	fmt.Println("\n📥 Downloading Jio TV EPG...")
+	// Download EPG files
 	jioTV, err := downloadAndParseEPG("https://avkb.short.gy/jioepg.xml.gz")
 	if err != nil {
-		fmt.Printf("Error downloading Jio TV EPG: %v\n", err)
-		return
+		log.Fatalf("Download error for Jio TV EPG: %v", err)
 	}
-	fmt.Printf("✅ Jio TV: %d channels, %d programmes\n", len(jioTV.Channels), len(jioTV.Programmes))
+	logLines = append(logLines, fmt.Sprintf("JioTV: %d channels, %d programmes", len(jioTV.Channels), len(jioTV.Programmes)))
 
-	fmt.Println("\n📥 Downloading Tata Play EPG...")
 	tataPlay, err := downloadAndParseEPG("https://avkb.short.gy/tsepg.xml.gz")
 	if err != nil {
-		fmt.Printf("Error downloading Tata Play EPG: %v\n", err)
-		return
+		log.Fatalf("Download error for Tata Play EPG: %v", err)
 	}
-	fmt.Printf("✅ Tata Play: %d channels, %d programmes\n", len(tataPlay.Channels), len(tataPlay.Programmes))
+	logLines = append(logLines, fmt.Sprintf("TataPlay: %d channels, %d programmes", len(tataPlay.Channels), len(tataPlay.Programmes)))
 
-	// Merge channel data (Jio priority)
+	// Channel mapping (priority: Jio > Tata)
 	channelMap := make(map[string]ChannelInfo)
 	for _, ch := range tataPlay.Channels {
-		channelMap[ch.ID] = ChannelInfo{
-			Name: strings.TrimSpace(ch.DisplayName),
-			Logo: ch.Icon.Src,
-		}
+		channelMap[ch.ID] = ChannelInfo{ch.DisplayName, ch.Icon.Src}
 	}
 	for _, ch := range jioTV.Channels {
-		channelMap[ch.ID] = ChannelInfo{
-			Name: strings.TrimSpace(ch.DisplayName),
-			Logo: ch.Icon.Src,
-		}
+		channelMap[ch.ID] = ChannelInfo{ch.DisplayName, ch.Icon.Src}
 	}
 
-	// Merge programme data (Jio priority)
-	programmesByChannel := make(map[string][]Programme)
+	// Programme de-duplication and merging
+	progsByChannel := make(map[string][]Programme)
 	for _, prog := range tataPlay.Programmes {
-		programmesByChannel[prog.Channel] = append(programmesByChannel[prog.Channel], prog)
+		progsByChannel[prog.Channel] = append(progsByChannel[prog.Channel], prog)
 	}
 	for _, prog := range jioTV.Programmes {
-		// Jio programmes override Tata
-		if _, exists := programmesByChannel[prog.Channel]; !exists {
-			programmesByChannel[prog.Channel] = []Programme{}
-		}
-		// For simplicity, we'll add all Jio programmes and let the filter handle duplicates
-		programmesByChannel[prog.Channel] = append(programmesByChannel[prog.Channel], prog)
+		progsByChannel[prog.Channel] = append(progsByChannel[prog.Channel], prog)
 	}
 
-	// Read filter.txt
-	fmt.Println("\n📋 Reading filter.txt...")
+	// Parse filter.txt rules
 	filterRules, err := readFilterRules("filter.txt")
 	if err != nil {
-		fmt.Printf("Error reading filter.txt: %v\n", err)
-		return
+		log.Fatalf("Error reading filter.txt: %v", err)
 	}
-	fmt.Printf("✅ Loaded %d filter rules\n", len(filterRules))
+	logLines = append(logLines, fmt.Sprintf("Loaded %d filter rules", len(filterRules)))
 
-	// Create output directories
-	os.RemoveAll("output-today")
-	os.RemoveAll("output-tomorrow")
-	os.MkdirAll("output-today", 0755)
-	os.MkdirAll("output-tomorrow", 0755)
+	cleanDir("output-today")
+	cleanDir("output-tomorrow")
 
-	// Process each filter rule
+	type SaveLog struct {
+		Channel string
+		OutputFile string
+		NumPrograms int
+		Date string
+	}
+
+	var logsToday []SaveLog
+	var logsTomorrow []SaveLog
 	processed := 0
-	savedToday := 0
-	savedTomorrow := 0
 
 	for _, rule := range filterRules {
-		processed++
+		var matchedID string
+		var matchedInfo ChannelInfo
 
-		// Find matching channel
-		var matchedChannelID string
-		var matchedChannelInfo ChannelInfo
-
+		// Channel name autocorrection logic
 		for id, info := range channelMap {
 			if normalizeChannelName(info.Name) == normalizeChannelName(rule.OriginalName) {
-				matchedChannelID = id
-				matchedChannelInfo = info
+				matchedID = id
+				matchedInfo = info
 				break
 			}
 		}
 
-		if matchedChannelID == "" {
+		if matchedID == "" {
+			logLines = append(logLines, fmt.Sprintf("[SKIP] Channel not found for rule: %s", rule.OriginalName))
 			continue
 		}
 
-		// Get programmes for this channel
-		programmes := programmesByChannel[matchedChannelID]
-		if len(programmes) == 0 {
-			continue
-		}
+		processed++
+		progs := progsByChannel[matchedID]
 
-		// Filter and generate JSON for today
-		todayPrograms := filterProgrammesForDate(programmes, today, ist)
-		if len(todayPrograms) > 0 {
-			output := ChannelOutput{
-				ChannelName: matchedChannelInfo.Name,
-				ChannelLogo: matchedChannelInfo.Logo,
+		todayList := filterForDate(progs, today, ist)
+		tomorrowList := filterForDate(progs, tomorrow, ist)
+
+		if len(todayList) > 0 {
+			out := ChannelOutput{
+				ChannelName: matchedInfo.Name,
+				ChannelLogo: matchedInfo.Logo,
 				Date:        today.Format("2006-01-02"),
-				Programs:    todayPrograms,
+				Programs:    todayList,
 			}
 			filename := filepath.Join("output-today", rule.OutputName)
-			if err := saveJSON(filename, output); err == nil {
-				savedToday++
-			}
+			saveJSON(filename, out)
+			logsToday = append(logsToday, SaveLog{matchedInfo.Name, filename, len(todayList), out.Date})
 		}
 
-		// Filter and generate JSON for tomorrow
-		tomorrowPrograms := filterProgrammesForDate(programmes, tomorrow, ist)
-		if len(tomorrowPrograms) > 0 {
-			output := ChannelOutput{
-				ChannelName: matchedChannelInfo.Name,
-				ChannelLogo: matchedChannelInfo.Logo,
+		if len(tomorrowList) > 0 {
+			out := ChannelOutput{
+				ChannelName: matchedInfo.Name,
+				ChannelLogo: matchedInfo.Logo,
 				Date:        tomorrow.Format("2006-01-02"),
-				Programs:    tomorrowPrograms,
+				Programs:    tomorrowList,
 			}
 			filename := filepath.Join("output-tomorrow", rule.OutputName)
-			if err := saveJSON(filename, output); err == nil {
-				savedTomorrow++
-			}
+			saveJSON(filename, out)
+			logsTomorrow = append(logsTomorrow, SaveLog{matchedInfo.Name, filename, len(tomorrowList), out.Date})
 		}
 	}
 
-	fmt.Printf("\n✨ Processed: %d channels | Saved Today: %d | Saved Tomorrow: %d\n", processed, savedToday, savedTomorrow)
+	// Print summary log
+	logLines = append(logLines, fmt.Sprintf("Processed %d channels | Saved Today: %d | Saved Tomorrow: %d", processed, len(logsToday), len(logsTomorrow)))
+	if len(logsToday) > 0 {
+		logLines = append(logLines, "--- Today Output ---")
+		for _, l := range logsToday {
+			logLines = append(logLines, fmt.Sprintf("%s → %s (%d programs for %s)", l.Channel, l.OutputFile, l.NumPrograms, l.Date))
+		}
+	}
+	if len(logsTomorrow) > 0 {
+		logLines = append(logLines, "--- Tomorrow Output ---")
+		for _, l := range logsTomorrow {
+			logLines = append(logLines, fmt.Sprintf("%s → %s (%d programs for %s)", l.Channel, l.OutputFile, l.NumPrograms, l.Date))
+		}
+	}
+	if len(logsToday) == 0 && len(logsTomorrow) == 0 {
+		logLines = append(logLines, "No output generated. Check filter.txt and EPG source data.")
+	}
+
+	saveLogFile("epg_run.log", logLines)
 }
 
+// downloadAndParseEPG fetches and parses gzipped XMLTV data.
 func downloadAndParseEPG(url string) (*TV, error) {
-	resp, err := http.Get(url)
+	resp, err := os.Open(url)
 	if err != nil {
-		return nil, err
+		ht, err := http.Get(url)
+		if err != nil {
+			return nil, err
+		}
+		defer ht.Body.Close()
+		resp = ht.Body
 	}
-	defer resp.Body.Close()
+	defer resp.Close()
 
-	gzReader, err := gzip.NewReader(resp.Body)
-	if err != nil {
-		return nil, err
+	var gzReader *gzip.Reader
+	if f, ok := resp.(*os.File); ok {
+		gzReader, _ = gzip.NewReader(f)
+	} else {
+		gzReader, _ = gzip.NewReader(resp)
 	}
 	defer gzReader.Close()
 
 	var tv TV
-	decoder := xml.NewDecoder(gzReader)
-	if err := decoder.Decode(&tv); err != nil {
-		return nil, err
-	}
-
-	return &tv, nil
+	err = xml.NewDecoder(gzReader).Decode(&tv)
+	return &tv, err
 }
 
+// readFilterRules parses rules from filter.txt.
 func readFilterRules(filename string) ([]FilterRule, error) {
 	data, err := os.ReadFile(filename)
 	if err != nil {
 		return nil, err
 	}
-
 	lines := strings.Split(string(data), "\n")
 	var rules []FilterRule
-
 	for _, line := range lines {
 		line = strings.TrimSpace(line)
-		if line == "" {
+		if line == "" || strings.HasPrefix(line, "#") {
 			continue
 		}
-
-		var rule FilterRule
 		if strings.Contains(line, "=") {
 			parts := strings.SplitN(line, "=", 2)
-			rule.OriginalName = parseChannelNameFromFilter(parts[0])
-			rule.OutputName = strings.TrimSpace(parts[1])
+			rules = append(rules, FilterRule{parseName(parts[0]), strings.TrimSpace(parts[1])})
 		} else {
-			rule.OriginalName = parseChannelNameFromFilter(line)
-			rule.OutputName = normalizeFilename(rule.OriginalName) + ".json"
+			name := parseName(line)
+			rules = append(rules, FilterRule{name, fmt.Sprintf("%s.json", normalizeFilename(name))})
 		}
-
-		rules = append(rules, rule)
 	}
-
 	return rules, nil
 }
-
-func parseChannelNameFromFilter(s string) string {
+func parseName(s string) string {
 	s = strings.TrimSpace(s)
-	// Remove .json extension if present
 	s = strings.TrimSuffix(s, ".json")
-	// Replace dashes and underscores with spaces
 	s = strings.ReplaceAll(s, "-", " ")
 	s = strings.ReplaceAll(s, "_", " ")
-	// Normalize spaces
-	s = strings.Join(strings.Fields(s), " ")
-	return s
+	return strings.Join(strings.Fields(s), " ")
 }
-
 func normalizeChannelName(s string) string {
 	s = strings.ToLower(s)
 	s = strings.ReplaceAll(s, " ", "")
@@ -280,74 +262,64 @@ func normalizeChannelName(s string) string {
 	s = strings.ReplaceAll(s, "_", "")
 	return s
 }
-
 func normalizeFilename(s string) string {
-	s = strings.ToLower(s)
-	s = strings.ReplaceAll(s, " ", "-")
-	return s
+	return strings.ToLower(strings.ReplaceAll(strings.ReplaceAll(s, " ", "-"), "_", "-"))
 }
 
-func filterProgrammesForDate(programmes []Programme, targetDate time.Time, ist *time.Location) []ProgramOutput {
+// filterForDate filters and transforms EPG programmes within [00:00, 23:59] IST for a given day
+func filterForDate(progs []Programme, day time.Time, ist *time.Location) []ProgramOutput {
+	dayStart := day
+	dayEnd := day.Add(24 * time.Hour)
 	var result []ProgramOutput
 	seen := make(map[string]bool)
 
-	dayStart := targetDate
-	dayEnd := targetDate.Add(24 * time.Hour)
-
-	for _, prog := range programmes {
-		startTime, err := parseEPGTime(prog.Start, ist)
-		if err != nil {
+	for _, prog := range progs {
+		startT, err := parseEPGTime(prog.Start, ist)
+		endT, err2 := parseEPGTime(prog.Stop, ist)
+		if err != nil || err2 != nil {
 			continue
 		}
-
-		endTime, err := parseEPGTime(prog.Stop, ist)
-		if err != nil {
-			continue
-		}
-
-		// Check if programme is within the target date
-		if startTime.Before(dayEnd) && endTime.After(dayStart) {
-			// Dedup based on start time and title
-			key := fmt.Sprintf("%s_%s", startTime.Format("15:04"), prog.Title)
+		// match program in range
+		if (startT.Before(dayEnd) && endT.After(dayStart)) || (startT.Equal(dayStart) && endT.After(dayStart)) {
+			key := fmt.Sprintf("%s_%s", startT.Format("15:04"), prog.Title)
 			if seen[key] {
 				continue
 			}
 			seen[key] = true
-
+			showLogo := ""
+			if prog.Icon.Src != "" {
+				showLogo = prog.Icon.Src
+			}
 			result = append(result, ProgramOutput{
 				ShowName:  prog.Title,
-				StartTime: formatTime(startTime),
-				EndTime:   formatTime(endTime),
-				ShowLogo:  prog.Icon.Src,
+				StartTime: formatTime(startT),
+				EndTime:   formatTime(endT),
+				ShowLogo:  showLogo,
 			})
 		}
 	}
-
 	return result
 }
 
+// parseEPGTime interprets XMLTV timestamps and converts to IST.
 func parseEPGTime(epgTime string, ist *time.Location) (time.Time, error) {
-	// Format: "20251102183000 +0000"
 	parts := strings.Fields(epgTime)
-	if len(parts) < 1 {
-		return time.Time{}, fmt.Errorf("invalid time format")
+	if len(parts) == 0 {
+		return time.Time{}, fmt.Errorf("invalid epg time")
 	}
-
-	// Parse the timestamp
-	t, err := time.Parse("20060102150405", parts[0])
+	main := parts[0]
+	layout := "20060102150405"
+	t, err := time.Parse(layout, main)
 	if err != nil {
 		return time.Time{}, err
 	}
-
-	// Convert UTC to IST
 	return t.In(ist), nil
 }
 
 func formatTime(t time.Time) string {
 	hour := t.Hour()
-	minute := t.Minute()
+	min := t.Minute()
 	ampm := "AM"
-
 	if hour >= 12 {
 		ampm = "PM"
 		if hour > 12 {
@@ -357,19 +329,34 @@ func formatTime(t time.Time) string {
 	if hour == 0 {
 		hour = 12
 	}
-
-	return fmt.Sprintf("%02d:%02d %s", hour, minute, ampm)
+	return fmt.Sprintf("%02d:%02d %s", hour, min, ampm)
 }
 
 func saveJSON(filename string, data interface{}) error {
-	file, err := os.Create(filename)
+	f, err := os.Create(filename)
 	if err != nil {
+		logLines = append(logLines, fmt.Sprintf("[ERROR] Could not save %s: %v", filename, err))
 		return err
 	}
-	defer file.Close()
-
-	encoder := json.NewEncoder(file)
-	encoder.SetIndent("", "  ")
-	return encoder.Encode(data)
+	defer f.Close()
+	enc := json.NewEncoder(f)
+	enc.SetIndent("", "  ")
+	return enc.Encode(data)
 }
 
+func cleanDir(name string) {
+	os.RemoveAll(name)
+	os.MkdirAll(name, 0755)
+}
+
+func saveLogFile(filename string, lines []string) {
+	f, err := os.Create(filename)
+	if err != nil {
+		fmt.Printf("Failed to write log: %v\n", err)
+		return
+	}
+	defer f.Close()
+	for _, l := range lines {
+		_, _ = f.WriteString(l + "\n")
+	}
+}
