@@ -1,73 +1,61 @@
 {
   "channel_name": "B4U Bhojpuri",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
-  "date": "2025-11-12",
+  "date": "2025-11-13",
   "programs": [
     {
-      "show_name": "Michael Photographer",
+      "show_name": "Meera Ka Mohan",
       "start_time": "12:00 AM",
-      "end_time": "02:16 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296000.jpg"
+      "end_time": "01:58 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131296000.jpg"
     },
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "02:16 AM",
+      "start_time": "01:58 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131296001.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "03:00 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296002.jpg"
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131296002.jpg"
     },
     {
-      "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "05:00 AM",
-      "end_time": "06:42 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296003.jpg"
+      "show_name": "Movie",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131296003.jpg"
     },
     {
-      "show_name": "Chattori Bahu",
-      "start_time": "06:42 AM",
-      "end_time": "09:34 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296004.jpg"
+      "show_name": "Movie",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131296004.jpg"
     },
     {
-      "show_name": "Badki Sakhi Chotki Sakhi",
-      "start_time": "09:34 AM",
-      "end_time": "12:16 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296005.jpg"
+      "show_name": "Movie",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131296005.jpg"
     },
     {
-      "show_name": "Naihar",
-      "start_time": "12:16 PM",
-      "end_time": "02:53 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296006.jpg"
+      "show_name": "Movie",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131296006.jpg"
     },
     {
-      "show_name": "Saubhagyavati",
-      "start_time": "02:53 PM",
-      "end_time": "05:24 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296007.jpg"
+      "show_name": "Movie",
+      "start_time": "06:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131296007.jpg"
     },
     {
-      "show_name": "Badki Didi 2",
-      "start_time": "05:24 PM",
-      "end_time": "08:28 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296008.jpg"
-    },
-    {
-      "show_name": "Bhauji Hamar Devi Bhaiya Bhagwan",
-      "start_time": "08:28 PM",
-      "end_time": "11:39 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296009.jpg"
-    },
-    {
-      "show_name": "Meera Ka Mohan",
-      "start_time": "11:39 PM",
+      "show_name": "Movie",
+      "start_time": "09:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-12/2511121296010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131296008.jpg"
     }
   ]
 }

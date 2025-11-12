@@ -1,7 +1,7 @@
 {
   "channel_name": "BBC News",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_Thumbnail-v3/BBCWNW_Thumbnail.png",
-  "date": "2025-11-12",
+  "date": "2025-11-13",
   "programs": [
     {
       "show_name": "The World Today with Maryam Moshiri",
@@ -22,7 +22,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "The Travel Show",
+      "show_name": "Tech Now",
       "start_time": "01:25 AM",
       "end_time": "01:30 AM",
       "show_logo": ""
@@ -52,7 +52,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "The Travel Show",
+      "show_name": "Tech Now",
       "start_time": "03:25 AM",
       "end_time": "03:30 AM",
       "show_logo": ""
@@ -94,7 +94,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "On The Front Line",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
       "show_logo": ""
@@ -178,7 +178,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Talking Movies",
       "start_time": "12:25 PM",
       "end_time": "12:30 PM",
       "show_logo": ""
@@ -196,7 +196,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Talking Movies",
       "start_time": "01:25 PM",
       "end_time": "01:30 PM",
       "show_logo": ""
@@ -226,7 +226,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Talking Movies",
       "start_time": "03:25 PM",
       "end_time": "03:30 PM",
       "show_logo": ""
@@ -262,7 +262,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Talking Movies",
       "start_time": "05:25 PM",
       "end_time": "05:30 PM",
       "show_logo": ""
@@ -292,7 +292,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Talking Movies",
       "start_time": "07:25 PM",
       "end_time": "07:30 PM",
       "show_logo": ""
@@ -346,7 +346,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Talking Movies",
       "start_time": "10:25 PM",
       "end_time": "10:30 PM",
       "show_logo": ""

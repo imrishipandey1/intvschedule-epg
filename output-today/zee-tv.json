@@ -1,94 +1,94 @@
 {
   "channel_name": "Zee TV",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTV_Thumbnail_bbdc885f-e029-4df8-bdca-c781610a595d.png",
-  "date": "2025-11-12",
+  "date": "2025-11-13",
   "programs": [
     {
       "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "11:59 PM",
-      "end_time": "12:23 AM",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
       "show_logo": ""
     },
     {
       "show_name": "Jaane Anjaane Hum Mile",
-      "start_time": "12:23 AM",
-      "end_time": "12:46 AM",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
       "show_logo": ""
     },
     {
       "show_name": "Jagriti - Ek Nayi Subah",
-      "start_time": "12:46 AM",
-      "end_time": "01:09 AM",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
       "show_logo": ""
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "01:09 AM",
-      "end_time": "01:33 AM",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
       "show_logo": ""
     },
     {
       "show_name": "Tum Se Tum Tak",
-      "start_time": "01:33 AM",
-      "end_time": "01:56 AM",
+      "start_time": "02:00 AM",
+      "end_time": "02:15 AM",
       "show_logo": ""
     },
     {
       "show_name": "Vasudha",
-      "start_time": "01:56 AM",
-      "end_time": "02:19 AM",
+      "start_time": "02:15 AM",
+      "end_time": "02:30 AM",
       "show_logo": ""
     },
     {
       "show_name": "Jagriti - Ek Nayi Subah",
-      "start_time": "02:19 AM",
-      "end_time": "02:42 AM",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
       "show_logo": ""
     },
     {
       "show_name": "Saru",
-      "start_time": "02:42 AM",
-      "end_time": "03:07 AM",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
       "show_logo": ""
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "03:07 AM",
-      "end_time": "03:34 AM",
+      "start_time": "03:30 AM",
+      "end_time": "03:45 AM",
       "show_logo": ""
     },
     {
       "show_name": "Vasudha",
-      "start_time": "03:34 AM",
+      "start_time": "03:45 AM",
       "end_time": "04:00 AM",
       "show_logo": ""
     },
     {
       "show_name": "Baba Ramdev",
       "start_time": "04:00 AM",
-      "end_time": "04:52 AM",
+      "end_time": "05:00 AM",
       "show_logo": ""
     },
     {
       "show_name": "Tum Se Tum Tak",
-      "start_time": "04:52 AM",
-      "end_time": "05:14 AM",
+      "start_time": "05:00 AM",
+      "end_time": "05:15 AM",
       "show_logo": ""
     },
     {
       "show_name": "Jagriti - Ek Nayi Subah",
-      "start_time": "05:14 AM",
-      "end_time": "05:37 AM",
+      "start_time": "05:15 AM",
+      "end_time": "05:30 AM",
       "show_logo": ""
     },
     {
       "show_name": "Vasudha",
-      "start_time": "05:37 AM",
+      "start_time": "05:30 AM",
       "end_time": "06:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "TWR Satyavachan",
+      "show_name": "Satya Vachan",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
       "show_logo": ""
