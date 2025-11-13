@@ -1,12 +1,60 @@
 {
   "channel_name": "Jalsha Movies HD",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",
-  "date": "2025-11-14",
+  "date": "2025-11-15",
   "programs": [
     {
-      "show_name": "Sada Canvas",
-      "start_time": "10:20 PM",
-      "end_time": "12:15 AM",
+      "show_name": "Bolo Na Tumi Amar",
+      "start_time": "02:10 AM",
+      "end_time": "05:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Annyo Na",
+      "start_time": "05:00 AM",
+      "end_time": "07:15 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Hungamaa",
+      "start_time": "07:15 AM",
+      "end_time": "10:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Kishmish",
+      "start_time": "10:00 AM",
+      "end_time": "12:25 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Belashuru",
+      "start_time": "12:25 PM",
+      "end_time": "02:55 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Haami 2",
+      "start_time": "02:55 PM",
+      "end_time": "05:25 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tekka",
+      "start_time": "05:25 PM",
+      "end_time": "08:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Villain",
+      "start_time": "08:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Janeman",
+      "start_time": "10:30 PM",
+      "end_time": "12:55 AM",
       "show_logo": ""
     }
   ]

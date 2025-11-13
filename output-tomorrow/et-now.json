@@ -1,0 +1,223 @@
+{
+  "channel_name": "ET Now",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png",
+  "date": "2025-11-15",
+  "programs": [
+    {
+      "show_name": "Beat the Street",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212000.jpg"
+    },
+    {
+      "show_name": "India Tonight",
+      "start_time": "12:30 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212001.jpg"
+    },
+    {
+      "show_name": "Startup Central",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212002.jpg"
+    },
+    {
+      "show_name": "Your Trades",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212003.jpg"
+    },
+    {
+      "show_name": "India Development Debate",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212004.jpg"
+    },
+    {
+      "show_name": "Beat the Street",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212005.jpg"
+    },
+    {
+      "show_name": "The Money Show",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212006.jpg"
+    },
+    {
+      "show_name": "Big Voices",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212007.jpg"
+    },
+    {
+      "show_name": "Startup Central",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212008.jpg"
+    },
+    {
+      "show_name": "Trump 2.0",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212009.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212010.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212011.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212012.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212013.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "09:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212014.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212015.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212016.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212017.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "01:30 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212018.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "02:30 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212019.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212020.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212021.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212022.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212023.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212024.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212025.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212026.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212027.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212028.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "08:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212029.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212030.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212031.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212032.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212033.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212034.jpg"
+    },
+    {
+      "show_name": "ET NOW News",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115212035.jpg"
+    }
+  ]
+}

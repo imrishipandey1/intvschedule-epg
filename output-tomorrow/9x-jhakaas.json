@@ -1,0 +1,295 @@
+{
+  "channel_name": "9x Jhakaas",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",
+  "date": "2025-11-15",
+  "programs": [
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441000.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441001.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441002.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441003.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441004.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441005.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441006.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441007.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441008.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441009.jpg"
+    },
+    {
+      "show_name": "Bhaktinaad",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441010.jpg"
+    },
+    {
+      "show_name": "Bhaktinaad",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441011.jpg"
+    },
+    {
+      "show_name": "Bhaktinaad",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441012.jpg"
+    },
+    {
+      "show_name": "Bhaktinaad",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441013.jpg"
+    },
+    {
+      "show_name": "Jhakaas Fit Hits",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441014.jpg"
+    },
+    {
+      "show_name": "Jhakaas Fit Hits",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441015.jpg"
+    },
+    {
+      "show_name": "Breakless Breakfast",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441016.jpg"
+    },
+    {
+      "show_name": "Breakless Breakfast",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441017.jpg"
+    },
+    {
+      "show_name": "Breakless Breakfast",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441018.jpg"
+    },
+    {
+      "show_name": "Breakless Breakfast",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441019.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441020.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441021.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441022.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441023.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441024.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441025.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441026.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441027.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441028.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441029.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441030.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441031.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441032.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441033.jpg"
+    },
+    {
+      "show_name": "Breakless - Jhakaas Hits",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441034.jpg"
+    },
+    {
+      "show_name": "Breakless - Jhakaas Hits",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441035.jpg"
+    },
+    {
+      "show_name": "Breakless - Jhakaas Hits",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441036.jpg"
+    },
+    {
+      "show_name": "Breakless - Jhakaas Hits",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441037.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441038.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441039.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441040.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441041.jpg"
+    },
+    {
+      "show_name": "Party De",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441042.jpg"
+    },
+    {
+      "show_name": "Party De",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441043.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441044.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441045.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441046.jpg"
+    },
+    {
+      "show_name": "Rapchik Swag",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115441047.jpg"
+    }
+  ]
+}

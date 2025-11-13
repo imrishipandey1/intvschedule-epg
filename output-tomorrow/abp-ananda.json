@@ -1,0 +1,337 @@
+{
+  "channel_name": "ABP Ananda",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",
+  "date": "2025-11-15",
+  "programs": [
+    {
+      "show_name": "Ghanta Khanek Sange Suman",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672000.jpg"
+    },
+    {
+      "show_name": "Advertorial",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672001.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672002.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672003.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672004.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672005.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672006.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672007.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672008.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672009.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672010.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672011.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672012.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672013.jpg"
+    },
+    {
+      "show_name": "Saat Sakale",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672014.jpg"
+    },
+    {
+      "show_name": "Saat Sakale",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672015.jpg"
+    },
+    {
+      "show_name": "Ananda Sakal",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672016.jpg"
+    },
+    {
+      "show_name": "Ek Jholoke",
+      "start_time": "08:30 AM",
+      "end_time": "08:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672017.jpg"
+    },
+    {
+      "show_name": "Ananda Sakal",
+      "start_time": "08:40 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672018.jpg"
+    },
+    {
+      "show_name": "Ananda Sakal",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672019.jpg"
+    },
+    {
+      "show_name": "Ananda Sakal",
+      "start_time": "09:30 AM",
+      "end_time": "09:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672020.jpg"
+    },
+    {
+      "show_name": "Ananda Sakal",
+      "start_time": "09:40 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672021.jpg"
+    },
+    {
+      "show_name": "Doshtay Doshdik",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672022.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672023.jpg"
+    },
+    {
+      "show_name": "Ananda Live @ 11 Am",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672024.jpg"
+    },
+    {
+      "show_name": "Film Star",
+      "start_time": "11:30 AM",
+      "end_time": "11:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672025.jpg"
+    },
+    {
+      "show_name": "Ananda Khabor",
+      "start_time": "11:40 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672026.jpg"
+    },
+    {
+      "show_name": "Barotar Breaking",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672027.jpg"
+    },
+    {
+      "show_name": "Hoy Ma Noy Bouma",
+      "start_time": "12:30 PM",
+      "end_time": "12:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672028.jpg"
+    },
+    {
+      "show_name": "Barotar Breaking",
+      "start_time": "12:40 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672029.jpg"
+    },
+    {
+      "show_name": "Ground Zero",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672030.jpg"
+    },
+    {
+      "show_name": "Ananda News",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672031.jpg"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "02:00 PM",
+      "end_time": "02:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672032.jpg"
+    },
+    {
+      "show_name": "Dutor Duniya",
+      "start_time": "02:10 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672033.jpg"
+    },
+    {
+      "show_name": "Dutor Duniya",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672034.jpg"
+    },
+    {
+      "show_name": "ABP On The Spot",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672035.jpg"
+    },
+    {
+      "show_name": "ABP On The Spot",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672036.jpg"
+    },
+    {
+      "show_name": "Ananda Khabor",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672037.jpg"
+    },
+    {
+      "show_name": "Ananda Khabor",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672038.jpg"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "05:00 PM",
+      "end_time": "05:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672039.jpg"
+    },
+    {
+      "show_name": "Khaborer Saat Panch",
+      "start_time": "05:10 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672040.jpg"
+    },
+    {
+      "show_name": "Ek Jholoke",
+      "start_time": "05:30 PM",
+      "end_time": "05:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672041.jpg"
+    },
+    {
+      "show_name": "Khaborer Saat Panch",
+      "start_time": "05:40 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672042.jpg"
+    },
+    {
+      "show_name": "Chaak Bhanga 6-TA",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672043.jpg"
+    },
+    {
+      "show_name": "Chaak Bhanga 6-TA",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672044.jpg"
+    },
+    {
+      "show_name": "7 Taye Bangla",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672045.jpg"
+    },
+    {
+      "show_name": "Saare 7 Tay Saradin",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672046.jpg"
+    },
+    {
+      "show_name": "Swar-Garom",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672047.jpg"
+    },
+    {
+      "show_name": "Swar-Garom",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672048.jpg"
+    },
+    {
+      "show_name": "Swar-Garom",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672049.jpg"
+    },
+    {
+      "show_name": "Swar-Garom",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672050.jpg"
+    },
+    {
+      "show_name": "Ananda Live @ 10 Pm",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672051.jpg"
+    },
+    {
+      "show_name": "Ananda Khabor",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672052.jpg"
+    },
+    {
+      "show_name": "Ananda Khabor",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672053.jpg"
+    },
+    {
+      "show_name": "Ananda Khabor",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115672054.jpg"
+    }
+  ]
+}

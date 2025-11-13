@@ -1,67 +1,61 @@
 {
   "channel_name": "Colors Gujarati Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "programs": [
     {
-      "show_name": "Maa Na Aansu",
-      "start_time": "12:00 AM",
-      "end_time": "12:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131324000.jpg"
-    },
-    {
-      "show_name": "Mara Sayaba Ni Chundadi",
-      "start_time": "12:20 AM",
-      "end_time": "02:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131324001.jpg"
-    },
-    {
-      "show_name": "Desi Beats",
-      "start_time": "02:45 AM",
-      "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131324002.jpg"
-    },
-    {
-      "show_name": "Sant Surdas",
-      "start_time": "05:30 AM",
-      "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131324003.jpg"
-    },
-    {
-      "show_name": "Desi Beats",
-      "start_time": "08:00 AM",
-      "end_time": "11:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131324004.jpg"
-    },
-    {
-      "show_name": "Zulan Morli",
-      "start_time": "11:15 AM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131324005.jpg"
-    },
-    {
-      "show_name": "Mane Samne Sajan Sambhare",
-      "start_time": "02:00 PM",
-      "end_time": "04:40 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131324006.jpg"
-    },
-    {
-      "show_name": "Pithi No Rang",
-      "start_time": "04:40 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131324007.jpg"
-    },
-    {
-      "show_name": "Dholo Mara Malak No",
-      "start_time": "07:00 PM",
-      "end_time": "09:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131324008.jpg"
-    },
-    {
       "show_name": "Maa Evrat Jevrat",
-      "start_time": "09:55 PM",
+      "start_time": "12:00 AM",
+      "end_time": "12:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141324000.jpg"
+    },
+    {
+      "show_name": "Sant Tulsidas",
+      "start_time": "12:35 AM",
+      "end_time": "02:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141324001.jpg"
+    },
+    {
+      "show_name": "Desi Beats",
+      "start_time": "02:35 AM",
+      "end_time": "05:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141324002.jpg"
+    },
+    {
+      "show_name": "Kanya Viday",
+      "start_time": "05:25 AM",
+      "end_time": "10:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141324003.jpg"
+    },
+    {
+      "show_name": "Meera Datar",
+      "start_time": "10:40 AM",
+      "end_time": "01:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141324004.jpg"
+    },
+    {
+      "show_name": "Kanto Vagyo Kalje",
+      "start_time": "01:20 PM",
+      "end_time": "04:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141324005.jpg"
+    },
+    {
+      "show_name": "Amar Singh Rathod",
+      "start_time": "04:15 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141324006.jpg"
+    },
+    {
+      "show_name": "Macchu Tara Vehta Pani",
+      "start_time": "07:00 PM",
+      "end_time": "09:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141324007.jpg"
+    },
+    {
+      "show_name": "Maya Bazar",
+      "start_time": "09:40 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-13/2511131324009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141324008.jpg"
     }
   ]
 }

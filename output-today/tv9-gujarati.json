@@ -1,7 +1,7 @@
 {
   "channel_name": "TV9 Gujarati",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11874-j9l376yg-v2/imageContent-11874-j9l376yg-m2.png",
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "programs": [
     {
       "show_name": "News Top 9",
@@ -223,12 +223,6 @@
       "show_name": "10 Sudhi",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Local To Global",
-      "start_time": "10:30 PM",
-      "end_time": "11:00 PM",
       "show_logo": ""
     },
     {

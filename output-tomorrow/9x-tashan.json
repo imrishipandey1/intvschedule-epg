@@ -1,0 +1,295 @@
+{
+  "channel_name": "9X Tashan",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",
+  "date": "2025-11-15",
+  "programs": [
+    {
+      "show_name": "Saari Raat",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732000.jpg"
+    },
+    {
+      "show_name": "Saari Raat",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732001.jpg"
+    },
+    {
+      "show_name": "Saari Raat",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732002.jpg"
+    },
+    {
+      "show_name": "Saari Raat",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732003.jpg"
+    },
+    {
+      "show_name": "Saari Raat",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732004.jpg"
+    },
+    {
+      "show_name": "Saari Raat",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732005.jpg"
+    },
+    {
+      "show_name": "Saari Raat",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732006.jpg"
+    },
+    {
+      "show_name": "Saari Raat",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732007.jpg"
+    },
+    {
+      "show_name": "Saari Raat",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732008.jpg"
+    },
+    {
+      "show_name": "Saari Raat",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732009.jpg"
+    },
+    {
+      "show_name": "9x Tahsan Shukrana",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732010.jpg"
+    },
+    {
+      "show_name": "9x Tahsan Shukrana",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732011.jpg"
+    },
+    {
+      "show_name": "9x Tahsan Shukrana",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732012.jpg"
+    },
+    {
+      "show_name": "9x Tahsan Shukrana",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732013.jpg"
+    },
+    {
+      "show_name": "Fithit Show",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732014.jpg"
+    },
+    {
+      "show_name": "Fithit Show",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732015.jpg"
+    },
+    {
+      "show_name": "Ghaint Morning",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732016.jpg"
+    },
+    {
+      "show_name": "Ghaint Morning",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732017.jpg"
+    },
+    {
+      "show_name": "9x Tashan Reelstar",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732018.jpg"
+    },
+    {
+      "show_name": "9x Tashan Reelstar",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732019.jpg"
+    },
+    {
+      "show_name": "Tashan Da Double Punch",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732020.jpg"
+    },
+    {
+      "show_name": "Tashan Da Double Punch",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732021.jpg"
+    },
+    {
+      "show_name": "9x Tashan Super Swag",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732022.jpg"
+    },
+    {
+      "show_name": "9x Tashan Super Swag",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732023.jpg"
+    },
+    {
+      "show_name": "Bade-Chote's Playlist",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732024.jpg"
+    },
+    {
+      "show_name": "Tashan Da Punch",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732025.jpg"
+    },
+    {
+      "show_name": "Ullu Da Patha's Playlist",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732026.jpg"
+    },
+    {
+      "show_name": "Ullu Da Patha's Playlist",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732027.jpg"
+    },
+    {
+      "show_name": "Tashan Da Punch",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732028.jpg"
+    },
+    {
+      "show_name": "Ullu Da Patha's Playlist",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732029.jpg"
+    },
+    {
+      "show_name": "9X Tashan Super Dhakkad",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732030.jpg"
+    },
+    {
+      "show_name": "Bade-Chote's Playlist",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732031.jpg"
+    },
+    {
+      "show_name": "9x Tashan Reelstar",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732032.jpg"
+    },
+    {
+      "show_name": "9x Tashan Reelstar",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732033.jpg"
+    },
+    {
+      "show_name": "Bade-Chote's Playlist",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732034.jpg"
+    },
+    {
+      "show_name": "Yaaran Di Gedi",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732035.jpg"
+    },
+    {
+      "show_name": "Yaaran Di Gedi",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732036.jpg"
+    },
+    {
+      "show_name": "Yaaran Di Gedi",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732037.jpg"
+    },
+    {
+      "show_name": "AI Wala Show",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732038.jpg"
+    },
+    {
+      "show_name": "AI Wala Show",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732039.jpg"
+    },
+    {
+      "show_name": "9X Tahsan Shayarism",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732040.jpg"
+    },
+    {
+      "show_name": "9X Tahsan Shayarism",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732041.jpg"
+    },
+    {
+      "show_name": "Bade-Chote's Playlist",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732042.jpg"
+    },
+    {
+      "show_name": "Bade-Chote's Playlist",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732043.jpg"
+    },
+    {
+      "show_name": "Bade-Chote's Playlist",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732044.jpg"
+    },
+    {
+      "show_name": "Bade-Chote's Playlist",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732045.jpg"
+    },
+    {
+      "show_name": "9X Tahsan Shayarism",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732046.jpg"
+    },
+    {
+      "show_name": "9X Tahsan Shayarism",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115732047.jpg"
+    }
+  ]
+}

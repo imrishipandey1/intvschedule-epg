@@ -1,7 +1,7 @@
 {
   "channel_name": "Zee Bangla HD",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaHD_Thumbnail_abd318d8-03d0-44c9-a18d-b34a5d941a48.png",
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "programs": [
     {
       "show_name": "Mongolmoyee Santoshi Maa",
@@ -12,12 +12,6 @@
     {
       "show_name": "Phulki",
       "start_time": "12:30 AM",
-      "end_time": "01:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Joyar Bhata",
-      "start_time": "01:00 AM",
       "end_time": "01:30 AM",
       "show_logo": ""
     },
@@ -234,18 +228,12 @@
     {
       "show_name": "Joyar Bhata",
       "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
+      "end_time": "10:00 PM",
       "show_logo": ""
     },
     {
       "show_name": "Kone Dekha Alo",
-      "start_time": "09:30 PM",
-      "end_time": "10:15 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Anandi",
-      "start_time": "10:15 PM",
+      "start_time": "10:00 PM",
       "end_time": "11:00 PM",
       "show_logo": ""
     },

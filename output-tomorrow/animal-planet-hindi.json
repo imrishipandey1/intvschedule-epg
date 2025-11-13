@@ -1,0 +1,187 @@
+{
+  "channel_name": "Animal Planet Hindi",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",
+  "date": "2025-11-15",
+  "programs": [
+    {
+      "show_name": "Gangs of Baboon Falls",
+      "start_time": "12:00 AM",
+      "end_time": "12:43 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566000.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "12:43 AM",
+      "end_time": "01:13 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566001.jpg"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "01:13 AM",
+      "end_time": "01:43 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566002.jpg"
+    },
+    {
+      "show_name": "Tiger Legacy",
+      "start_time": "01:43 AM",
+      "end_time": "02:43 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566003.jpg"
+    },
+    {
+      "show_name": "Airborne",
+      "start_time": "02:43 AM",
+      "end_time": "03:43 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566004.jpg"
+    },
+    {
+      "show_name": "The Queen In The North",
+      "start_time": "03:43 AM",
+      "end_time": "04:33 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566005.jpg"
+    },
+    {
+      "show_name": "Snow Leopards with Dan O'Neill",
+      "start_time": "04:33 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566006.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566007.jpg"
+    },
+    {
+      "show_name": "Animal Arms Race",
+      "start_time": "06:00 AM",
+      "end_time": "06:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566008.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "06:50 AM",
+      "end_time": "07:14 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566009.jpg"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "07:14 AM",
+      "end_time": "07:38 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566010.jpg"
+    },
+    {
+      "show_name": "Airborne",
+      "start_time": "07:38 AM",
+      "end_time": "08:27 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566011.jpg"
+    },
+    {
+      "show_name": "Wild Africa: Rivers of Life",
+      "start_time": "08:27 AM",
+      "end_time": "09:17 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566012.jpg"
+    },
+    {
+      "show_name": "Tiger Legacy",
+      "start_time": "09:17 AM",
+      "end_time": "10:11 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566013.jpg"
+    },
+    {
+      "show_name": "Africa's Super Snake",
+      "start_time": "10:11 AM",
+      "end_time": "11:07 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566014.jpg"
+    },
+    {
+      "show_name": "A Rhino's Life",
+      "start_time": "11:07 AM",
+      "end_time": "12:02 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566015.jpg"
+    },
+    {
+      "show_name": "Lions \u0026 Hyenas",
+      "start_time": "12:02 PM",
+      "end_time": "12:58 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566016.jpg"
+    },
+    {
+      "show_name": "Tiger Legacy",
+      "start_time": "12:58 PM",
+      "end_time": "01:54 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566017.jpg"
+    },
+    {
+      "show_name": "Secret Ways",
+      "start_time": "01:54 PM",
+      "end_time": "02:53 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566018.jpg"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "02:53 PM",
+      "end_time": "03:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566019.jpg"
+    },
+    {
+      "show_name": "Hot Life Africa",
+      "start_time": "03:20 PM",
+      "end_time": "04:14 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566020.jpg"
+    },
+    {
+      "show_name": "The Three Little Warthogs",
+      "start_time": "04:14 PM",
+      "end_time": "05:14 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566021.jpg"
+    },
+    {
+      "show_name": "Airborne",
+      "start_time": "05:14 PM",
+      "end_time": "06:09 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566022.jpg"
+    },
+    {
+      "show_name": "Okavango: River of Dreams",
+      "start_time": "06:09 PM",
+      "end_time": "07:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566023.jpg"
+    },
+    {
+      "show_name": "Viper Queens",
+      "start_time": "07:05 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566024.jpg"
+    },
+    {
+      "show_name": "Alpha",
+      "start_time": "08:00 PM",
+      "end_time": "08:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566025.jpg"
+    },
+    {
+      "show_name": "Great Parks of Africa",
+      "start_time": "08:55 PM",
+      "end_time": "09:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566026.jpg"
+    },
+    {
+      "show_name": "Wild Africa: Rivers of Life",
+      "start_time": "09:50 PM",
+      "end_time": "10:49 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566027.jpg"
+    },
+    {
+      "show_name": "Africa's Trees of Life",
+      "start_time": "10:49 PM",
+      "end_time": "11:44 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566028.jpg"
+    },
+    {
+      "show_name": "Okavango: River of Dreams",
+      "start_time": "11:44 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115566029.jpg"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "channel_name": "Big Magic",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/BigMagic_Thumbnail_93c73886-2047-4afd-8bda-c8a7f694f30c.png",
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "programs": [
     {
       "show_name": "Teleshopping",
@@ -19,54 +19,6 @@
       "show_name": "Teleshopping",
       "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Teleshopping",
-      "start_time": "02:00 AM",
-      "end_time": "03:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Teleshopping",
-      "start_time": "03:00 AM",
-      "end_time": "04:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Teleshopping",
-      "start_time": "04:00 AM",
-      "end_time": "05:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Teleshopping",
-      "start_time": "05:00 AM",
-      "end_time": "06:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Teleshopping",
-      "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Teleshopping",
-      "start_time": "06:30 AM",
-      "end_time": "07:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Teleshopping",
-      "start_time": "07:00 AM",
-      "end_time": "07:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Teleshopping",
-      "start_time": "07:30 AM",
-      "end_time": "08:00 AM",
       "show_logo": ""
     },
     {
@@ -181,12 +133,6 @@
       "show_name": "Brahmarakshas",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Teleshopping",
-      "start_time": "11:30 PM",
-      "end_time": "12:30 AM",
       "show_logo": ""
     }
   ]
