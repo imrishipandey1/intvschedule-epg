@@ -1,487 +1,493 @@
 {
   "channel_name": "R Plus",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/RPLUS.png",
-  "date": "2025-11-14",
+  "date": "2025-11-15",
   "programs": [
     {
       "show_name": "Taf Talk / Taf Fight",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950000.jpg"
     },
     {
       "show_name": "Taf Talk / Taf Fight",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950001.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950002.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950003.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950004.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950005.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950006.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950007.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950008.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "05:30 AM",
-      "end_time": "05:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950009.jpg"
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950009.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
-      "start_time": "05:57 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950010.jpg"
+      "start_time": "06:00 AM",
+      "end_time": "06:01 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950010.jpg"
     },
     {
       "show_name": "Pravati",
-      "start_time": "06:00 AM",
+      "start_time": "06:01 AM",
+      "end_time": "06:27 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950011.jpg"
+    },
+    {
+      "show_name": "Shironaam Ek Najare",
+      "start_time": "06:27 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950012.jpg"
     },
     {
       "show_name": "Pravati",
       "start_time": "06:30 AM",
-      "end_time": "06:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950012.jpg"
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950013.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
-      "start_time": "06:57 AM",
-      "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950013.jpg"
-    },
-    {
-      "show_name": "Khabor Plus",
       "start_time": "07:00 AM",
-      "end_time": "07:27 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950014.jpg"
+      "end_time": "07:01 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950014.jpg"
     },
     {
-      "show_name": "Top News",
+      "show_name": "Rhito Da Program Special",
+      "start_time": "07:01 AM",
+      "end_time": "07:27 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950015.jpg"
+    },
+    {
+      "show_name": "Shironaam Ek Najare",
       "start_time": "07:27 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950016.jpg"
     },
     {
-      "show_name": "Nagar Darpan",
+      "show_name": "Jonokoutohol",
       "start_time": "07:30 AM",
       "end_time": "07:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950017.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "07:57 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950018.jpg"
     },
     {
-      "show_name": "Khabor Plus",
+      "show_name": "Top News / Khobor Plus",
       "start_time": "08:00 AM",
       "end_time": "08:27 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950019.jpg"
     },
     {
-      "show_name": "Top News",
+      "show_name": "Shironaam Ek Najare",
       "start_time": "08:27 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950020.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "08:30 AM",
       "end_time": "08:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950021.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "08:57 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950022.jpg"
     },
     {
-      "show_name": "Ek Nojore Tripura",
+      "show_name": "Top News / Khobor Plus",
       "start_time": "09:00 AM",
-      "end_time": "09:03 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950022.jpg"
-    },
-    {
-      "show_name": "Khabor Plus",
-      "start_time": "09:03 AM",
       "end_time": "09:27 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950023.jpg"
     },
     {
-      "show_name": "Top News",
+      "show_name": "Shironaam Ek Najare",
       "start_time": "09:27 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950024.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "09:30 AM",
       "end_time": "09:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950025.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "09:57 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950026.jpg"
     },
     {
-      "show_name": "Khela",
+      "show_name": "Khabor Plus",
       "start_time": "10:00 AM",
       "end_time": "10:27 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950027.jpg"
     },
     {
-      "show_name": "Top News",
+      "show_name": "Shironaam Ek Najare",
       "start_time": "10:27 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950028.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "10:30 AM",
       "end_time": "10:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950029.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "10:57 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950030.jpg"
     },
     {
-      "show_name": "Khabor Plus",
+      "show_name": "Top News / Khobor Plus",
       "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950031.jpg"
+      "end_time": "11:27 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950031.jpg"
     },
     {
-      "show_name": "Light Camera Action",
-      "start_time": "11:30 AM",
+      "show_name": "Shironaam Ek Najare",
+      "start_time": "11:27 AM",
       "end_time": "11:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950032.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950032.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "11:57 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950033.jpg"
     },
     {
-      "show_name": "Khabor Plus",
+      "show_name": "Top News / Khobor Plus",
       "start_time": "12:00 PM",
       "end_time": "12:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950034.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950034.jpg"
     },
     {
-      "show_name": "Top News",
+      "show_name": "Shironaam Ek Najare",
       "start_time": "12:27 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950035.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "12:30 PM",
       "end_time": "12:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950036.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950036.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "12:57 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950037.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950037.jpg"
     },
     {
-      "show_name": "Khabor Plus",
+      "show_name": "Top News / Khobor Plus",
       "start_time": "01:00 PM",
       "end_time": "01:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950038.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950038.jpg"
     },
     {
-      "show_name": "Top News",
+      "show_name": "Shironaam Ek Najare",
       "start_time": "01:27 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950039.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950039.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "01:30 PM",
       "end_time": "01:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950040.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950040.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "01:57 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950041.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950041.jpg"
     },
     {
-      "show_name": "Khabor Plus",
+      "show_name": "Top News / Khobor Plus",
       "start_time": "02:00 PM",
       "end_time": "02:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950042.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950042.jpg"
     },
     {
-      "show_name": "K 20/20",
+      "show_name": "Shironaam Ek Najare",
       "start_time": "02:27 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950043.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950043.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "02:30 PM",
       "end_time": "02:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950044.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950044.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "02:57 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950045.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950045.jpg"
     },
     {
-      "show_name": "Khabor Plus",
+      "show_name": "Top News / Khobor Plus",
       "start_time": "03:00 PM",
       "end_time": "03:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950046.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950046.jpg"
     },
     {
-      "show_name": "K 20/20",
+      "show_name": "Shironaam Ek Najare",
       "start_time": "03:27 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950047.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950047.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "03:30 PM",
       "end_time": "03:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950048.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950048.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "03:57 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950049.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950049.jpg"
     },
     {
-      "show_name": "Khabor Plus",
+      "show_name": "Top News / Khobor Plus",
       "start_time": "04:00 PM",
       "end_time": "04:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950050.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950050.jpg"
     },
     {
-      "show_name": "K 20/20",
+      "show_name": "Shironaam Ek Najare",
       "start_time": "04:27 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950051.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950051.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "04:30 PM",
       "end_time": "04:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950052.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950052.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "04:57 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950053.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950053.jpg"
     },
     {
-      "show_name": "Khabor Plus",
+      "show_name": "Top News / Khobor Plus",
       "start_time": "05:00 PM",
       "end_time": "05:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950054.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950054.jpg"
     },
     {
-      "show_name": "Top News",
+      "show_name": "Shironaam Ek Najare",
       "start_time": "05:27 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950055.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950055.jpg"
     },
     {
       "show_name": "Khabor Plus",
       "start_time": "05:30 PM",
       "end_time": "05:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950056.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950056.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "05:57 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950057.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950057.jpg"
     },
     {
       "show_name": "Bongo Darpon",
       "start_time": "06:00 PM",
+      "end_time": "06:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950058.jpg"
+    },
+    {
+      "show_name": "Shironaam Ek Najare",
+      "start_time": "06:27 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950058.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950059.jpg"
     },
     {
       "show_name": "Bongo Darpon",
       "start_time": "06:30 PM",
       "end_time": "06:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950059.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950060.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "06:57 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950060.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950061.jpg"
     },
     {
       "show_name": "Bangla Bolche",
       "start_time": "07:00 PM",
+      "end_time": "07:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950062.jpg"
+    },
+    {
+      "show_name": "Shironaam Ek Najare",
+      "start_time": "07:27 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950061.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950063.jpg"
     },
     {
       "show_name": "Bangla Bolche",
       "start_time": "07:30 PM",
       "end_time": "07:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950062.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950064.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "07:57 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950063.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950065.jpg"
     },
     {
-      "show_name": "Ek Nojore Tripura",
+      "show_name": "Tough Talk Shonibarer Bitarka",
       "start_time": "08:00 PM",
-      "end_time": "08:03 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950064.jpg"
+      "end_time": "08:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950066.jpg"
     },
     {
-      "show_name": "Tough Talk Bitarka",
-      "start_time": "08:03 PM",
+      "show_name": "Shironaam Ek Najare",
+      "start_time": "08:27 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950065.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950067.jpg"
     },
     {
-      "show_name": "Tough Talk Bitarka",
+      "show_name": "Tough Talk Shonibarer Bitarka",
       "start_time": "08:30 PM",
       "end_time": "08:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950066.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950068.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "08:57 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950067.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950069.jpg"
     },
     {
-      "show_name": "Ek Nojore Tripura",
+      "show_name": "Tough Talk Shonibarer Bitarka",
       "start_time": "09:00 PM",
-      "end_time": "09:03 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950068.jpg"
+      "end_time": "09:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950070.jpg"
     },
     {
-      "show_name": "Tough Talk Bitarka",
-      "start_time": "09:03 PM",
+      "show_name": "Shironaam Ek Najare",
+      "start_time": "09:27 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950069.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950071.jpg"
     },
     {
-      "show_name": "Tough Talk Bitarka",
+      "show_name": "Tough Talk Shonibarer Bitarka",
       "start_time": "09:30 PM",
       "end_time": "09:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950070.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950072.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "09:57 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950071.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950073.jpg"
     },
     {
-      "show_name": "Ek Nojore Tripura",
+      "show_name": "Jonokoutohol",
       "start_time": "10:00 PM",
-      "end_time": "10:03 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950072.jpg"
-    },
-    {
-      "show_name": "Khela",
-      "start_time": "10:03 PM",
       "end_time": "10:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950073.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950074.jpg"
     },
     {
-      "show_name": "Top News",
+      "show_name": "Shironaam Ek Najare",
       "start_time": "10:27 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950074.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950075.jpg"
     },
     {
-      "show_name": "Nagar Darpan",
+      "show_name": "Rhito Da Program Special",
       "start_time": "10:30 PM",
       "end_time": "10:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950075.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950076.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
       "start_time": "10:57 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950076.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950077.jpg"
     },
     {
-      "show_name": "Tough Talk Bitarka",
+      "show_name": "Tough Talk Shonibarer Bitarka",
       "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950077.jpg"
-    },
-    {
-      "show_name": "Tough Talk Bitarka",
-      "start_time": "11:30 PM",
-      "end_time": "11:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950078.jpg"
+      "end_time": "11:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950078.jpg"
     },
     {
       "show_name": "Shironaam Ek Najare",
-      "start_time": "11:57 PM",
+      "start_time": "11:27 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950079.jpg"
+    },
+    {
+      "show_name": "Tough Talk Shonibarer Bitarka",
+      "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/251114950079.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115950080.jpg"
     }
   ]
 }

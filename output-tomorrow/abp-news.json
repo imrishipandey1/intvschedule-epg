@@ -1,10 +1,10 @@
 {
   "channel_name": "ABP News",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png",
-  "date": "2025-11-15",
+  "date": "2025-11-16",
   "programs": [
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
       "show_logo": ""
@@ -16,61 +16,61 @@
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Khabar Din Bhar",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
       "show_logo": ""
@@ -84,23 +84,17 @@
     {
       "show_name": "Special Report",
       "start_time": "06:30 AM",
-      "end_time": "06:45 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Bhaagya Ki Baat",
-      "start_time": "06:45 AM",
       "end_time": "07:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Namaste Bharat",
+      "show_name": "News At 7",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Namaste Bharat",
+      "show_name": "News At 7",
       "start_time": "07:30 AM",
       "end_time": "07:52 AM",
       "show_logo": ""
@@ -148,13 +142,13 @@
       "show_logo": ""
     },
     {
-      "show_name": "ABP Reporter",
+      "show_name": "Khabar Pakki Hai",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Khabar Din Bhar",
+      "show_name": "Khabar Pakki Hai",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
       "show_logo": ""
@@ -166,25 +160,25 @@
       "show_logo": ""
     },
     {
-      "show_name": "Khabar Din Bhar",
+      "show_name": "Khabar Fatafat",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Khabar Din Bhar",
+      "show_name": "1 Khabar 1 Minute",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Khabar Din Bhar",
+      "show_name": "Charcha With Chitra",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Khabar Din Bhar",
+      "show_name": "Khabar Fatafat",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
       "show_logo": ""
@@ -208,37 +202,37 @@
       "show_logo": ""
     },
     {
-      "show_name": "Khabar Din Bhar",
+      "show_name": "Khabar Gawah Hain",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Swarnim Bharat",
+      "show_name": "Khabar Gawah Hain",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "The Weekend Debate",
+      "show_name": "Mahadangal",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "The Weekend Debate",
+      "show_name": "Mahadangal",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Weekend Special",
+      "show_name": "ABP Report",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "ABP Report",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
       "show_logo": ""
@@ -262,31 +256,31 @@
       "show_logo": ""
     },
     {
-      "show_name": "Love Story",
+      "show_name": "Weekend Special",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Weekend Special",
+      "show_name": "Janhit",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Weekend Special",
+      "show_name": "Janhit",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Vyakti Vishesh",
+      "show_name": "News @ 10",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Special Report",
+      "show_name": "News @ 10",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
       "show_logo": ""

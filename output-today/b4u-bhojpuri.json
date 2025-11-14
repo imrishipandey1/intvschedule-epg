@@ -1,73 +1,67 @@
 {
   "channel_name": "B4U Bhojpuri",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
-  "date": "2025-11-14",
+  "date": "2025-11-15",
   "programs": [
     {
-      "show_name": "Collector Sahab",
+      "show_name": "Ghar Jamai",
       "start_time": "12:00 AM",
-      "end_time": "02:06 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296000.jpg"
+      "end_time": "02:04 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296000.jpg"
     },
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "02:06 AM",
+      "start_time": "02:04 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296001.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "03:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296002.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "05:00 AM",
-      "end_time": "06:44 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296003.jpg"
+      "end_time": "08:19 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296003.jpg"
     },
     {
-      "show_name": "Masoom Housewife",
-      "start_time": "06:44 AM",
-      "end_time": "09:29 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296004.jpg"
+      "show_name": "Parai Beti",
+      "start_time": "08:19 AM",
+      "end_time": "10:57 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296004.jpg"
     },
     {
-      "show_name": "Meri Beti Mera Abhimaan",
-      "start_time": "09:29 AM",
-      "end_time": "12:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296005.jpg"
+      "show_name": "Meri Saas Pehle Aap",
+      "start_time": "10:57 AM",
+      "end_time": "01:49 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296005.jpg"
     },
     {
-      "show_name": "Krantikari Bahu",
-      "start_time": "12:15 PM",
-      "end_time": "02:47 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296006.jpg"
+      "show_name": "Didi No.1",
+      "start_time": "01:49 PM",
+      "end_time": "04:57 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296006.jpg"
     },
     {
-      "show_name": "Saas Bhi Kabhi Bahu Thi",
-      "start_time": "02:47 PM",
-      "end_time": "05:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296007.jpg"
-    },
-    {
-      "show_name": "Naihar Sasural",
-      "start_time": "05:27 PM",
-      "end_time": "08:29 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296008.jpg"
-    },
-    {
-      "show_name": "Badki Sakhi Chotki Sakhi",
-      "start_time": "08:29 PM",
-      "end_time": "11:44 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296009.jpg"
+      "show_name": "Saas Anadi Bahu Khiladi",
+      "start_time": "04:57 PM",
+      "end_time": "07:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296007.jpg"
     },
     {
       "show_name": "Ghar Jamai",
-      "start_time": "11:44 PM",
+      "start_time": "07:59 PM",
+      "end_time": "11:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296008.jpg"
+    },
+    {
+      "show_name": "Preet Ka Daman 2",
+      "start_time": "11:27 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-14/2511141296010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296009.jpg"
     }
   ]
 }

@@ -1,54 +1,294 @@
 {
-  "channel_name": "Star Bharat HD",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",
-  "date": "2025-11-15",
+  "channel_name": "R Bharat",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG",
+  "date": "2025-11-16",
   "programs": [
     {
-      "show_name": "Haathi Ghoda Paal Ki Jai Kanhaiya Laal Ki",
+      "show_name": "Poochta Hai Bharat",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Poochta Hai Bharat",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ye Bharat Ki Baat Hai",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ye Bharat Ki Baat Hai",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Mahabharat",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Mahabharat",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News Ki Xray Report",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News Ki Xray Report",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tarkash",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Jaagte Raho",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Poochta Hai Bharat",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Poochta Hai Bharat",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Good Morning Bharat",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Haathi Ghoda Paal Ki Jai Kanhaiya Laal Ki",
+      "show_name": "Khabrein Superfat / 2 Min Dunia",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "RadhaKrishn",
+      "show_name": "Jaag Utha Bharat",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "RadhaKrishn",
+      "show_name": "Jaag Utha Bharat",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "RadhaKrishn",
+      "show_name": "Samay Sanyog: Astro Show",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "RadhaKrishn",
+      "show_name": "Raftaar 100",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Mahabharat",
+      "show_name": "Live \u0026 Breaking",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bullet 100",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Live \u0026 Breaking / 2 Min Bharat",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Mahabharat",
+      "show_name": "Live \u0026 Breaking / 5 Mein 25",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Live \u0026 Breaking",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Live \u0026 Breaking / 5 Mein 25",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Live \u0026 Breaking / 2 Min Bharat",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "7 Mein 70",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Live \u0026 Breaking",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "5 Mein 25 / Aastha Ka Mahakumbh",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Dopahar Dhamaka",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "7 Mein 70",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Live \u0026 Breaking / 2 Min Bharat",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Live \u0026 Breaking",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rajdhani Ka Rann",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Live \u0026 Breaking",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Prahar",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Prahar",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Mahabharat",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Mahabharat",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Live \u0026 Breaking",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Live \u0026 Breaking",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News Ki Xray Report",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News Ki Xray Report",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ye Bharat Ki Baat Hai",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ye Bharat Ki Baat Hai",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tarkash",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Astha Ka Mahakumbh",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Jaagte Raho",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rapid Report",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
       "show_logo": ""
     }
   ]
