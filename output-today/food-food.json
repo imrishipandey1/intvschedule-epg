@@ -1,415 +1,415 @@
 {
   "channel_name": "Food Food",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png",
-  "date": "2025-11-15",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-384-j5jpj9hc-v1/imageContent-384-j5jpj9hc-m1.png",
+  "date": "2025-11-16",
   "programs": [
     {
       "show_name": "Mummy Ka Magic",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561000.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bake Diaries",
       "start_time": "12:30 AM",
       "end_time": "12:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561001.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Desi Videshi",
       "start_time": "12:40 AM",
       "end_time": "12:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561002.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dairy Delights",
       "start_time": "12:50 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561003.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Firangi Tadka",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561004.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Tea Time",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561005.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Turban Tadka",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561006.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Mummy Ka Magic",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561007.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Hi Tea",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561008.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dairy Delights",
       "start_time": "03:30 AM",
       "end_time": "03:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561009.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bake Diaries",
       "start_time": "03:40 AM",
       "end_time": "03:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561010.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Family Food Tales",
       "start_time": "03:50 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561011.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Hi Tea",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561012.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Cook Smart",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561013.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Turban Tadka",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561014.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Health Maange More",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561015.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Style Chef",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561016.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Health Maange More",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561017.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Food Food",
+      "show_name": "Pure Sin",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561018.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Firangi Tadka",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561019.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Cook Smart",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561020.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Style Chef",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561021.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Food Food",
+      "show_name": "Pure Sin",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561022.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Tea Time",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561023.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Firangi Tadka",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561024.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bake Diaries",
       "start_time": "10:30 AM",
       "end_time": "10:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561025.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Meethi Mulaqaat",
       "start_time": "10:40 AM",
       "end_time": "10:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561026.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Family Food Tales",
       "start_time": "10:50 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561027.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Firangi Tadka",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561028.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Tea Time",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561029.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Mummy Ka Magic",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561030.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Meethi Mulaqaat",
       "start_time": "12:30 PM",
       "end_time": "12:40 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561031.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Family Food Tales",
       "start_time": "12:40 PM",
       "end_time": "12:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561032.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dairy Delights",
       "start_time": "12:50 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561033.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Cook Smart",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561034.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "SK Kitchen",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561035.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Turban Tadka",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561036.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Tea Time",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561037.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Mummy Ka Magic",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561038.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Cook Smart",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561039.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Hi Tea",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561040.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Turban Tadka",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561041.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Family Food Tales",
       "start_time": "05:00 PM",
       "end_time": "05:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561042.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Desi Videshi",
       "start_time": "05:10 PM",
       "end_time": "05:20 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561043.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dairy Delights",
       "start_time": "05:20 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561044.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "SK Kitchen",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561045.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dairy Delights",
       "start_time": "06:00 PM",
       "end_time": "06:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561046.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bake Diaries",
       "start_time": "06:10 PM",
       "end_time": "06:20 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561047.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Family Food Tales",
       "start_time": "06:20 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561048.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Hi Tea",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561049.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Meethi Mulaqaat",
       "start_time": "07:00 PM",
       "end_time": "07:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561050.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Family Food Tales",
       "start_time": "07:10 PM",
       "end_time": "07:20 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561051.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dairy Delights",
       "start_time": "07:20 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561052.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Turban Tadka",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561053.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Mummy Ka Magic",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561054.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Meethi Mulaqaat",
       "start_time": "08:30 PM",
       "end_time": "08:40 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561055.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Family Food Tales",
       "start_time": "08:40 PM",
       "end_time": "08:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561056.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bake Diaries",
       "start_time": "08:50 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561057.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "SK Kitchen",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561058.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Turban Tadka",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561059.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dairy Delights",
       "start_time": "10:00 PM",
       "end_time": "10:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561060.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bake Diaries",
       "start_time": "10:10 PM",
       "end_time": "10:20 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561061.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Family Food Tales",
       "start_time": "10:20 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561062.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Meethi Mulaqaat",
       "start_time": "10:30 PM",
       "end_time": "10:40 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561063.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Family Food Tales",
       "start_time": "10:40 PM",
       "end_time": "10:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561064.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bake Diaries",
       "start_time": "10:50 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561065.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Health Maange More",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561066.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Cook Smart",
       "start_time": "11:30 PM",
-      "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115561067.jpg"
+      "end_time": "12:00 AM",
+      "show_logo": ""
     }
   ]
 }

@@ -1,259 +1,43 @@
 {
   "channel_name": "CNBC TV18",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png",
-  "date": "2025-11-15",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-731-j5l3muhs-v1/imageContent-731-j5l3muhs-m1.png",
+  "date": "2025-11-16",
   "programs": [
     {
-      "show_name": "The Exchange",
+      "show_name": "Overdrive",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489000.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Power Lunch",
+      "show_name": "On Assignment",
       "start_time": "12:30 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489001.jpg"
-    },
-    {
-      "show_name": "Closing Bell",
-      "start_time": "01:30 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489002.jpg"
-    },
-    {
-      "show_name": "Closing Bell: Overtime",
-      "start_time": "02:30 AM",
-      "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489003.jpg"
-    },
-    {
-      "show_name": "Fast Money",
-      "start_time": "03:30 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489004.jpg"
-    },
-    {
-      "show_name": "On Assignment",
-      "start_time": "04:30 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489005.jpg"
-    },
-    {
-      "show_name": "Conversation",
-      "start_time": "05:00 AM",
-      "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489006.jpg"
-    },
-    {
-      "show_name": "Closing Bell: Overtime",
-      "start_time": "05:30 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489007.jpg"
-    },
-    {
-      "show_name": "Fast Money",
-      "start_time": "06:30 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489008.jpg"
-    },
-    {
-      "show_name": "On Assignment",
-      "start_time": "07:30 AM",
-      "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489009.jpg"
-    },
-    {
-      "show_name": "Election Exchange",
-      "start_time": "08:00 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489010.jpg"
+      "end_time": "01:00 AM",
+      "show_logo": ""
     },
     {
       "show_name": "Storyboard18",
-      "start_time": "08:30 AM",
-      "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489011.jpg"
-    },
-    {
-      "show_name": "Editors' Roundtable",
-      "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489012.jpg"
-    },
-    {
-      "show_name": "Let's Talk Money",
-      "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489013.jpg"
-    },
-    {
-      "show_name": "CNBC-TV18 Market Masters",
-      "start_time": "10:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489014.jpg"
-    },
-    {
-      "show_name": "Indianomics",
-      "start_time": "10:30 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489015.jpg"
-    },
-    {
-      "show_name": "Young Turks Reloaded",
-      "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489016.jpg"
-    },
-    {
-      "show_name": "Global Dialogues",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489017.jpg"
-    },
-    {
-      "show_name": "Election Exchange",
-      "start_time": "12:00 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489018.jpg"
-    },
-    {
-      "show_name": "Commodity Champions",
-      "start_time": "12:30 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489019.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Overdrive",
-      "start_time": "01:00 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489020.jpg"
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": ""
     },
     {
-      "show_name": "Gls - Shaktikanta Das / Prathap Reddy",
-      "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489021.jpg"
-    },
-    {
-      "show_name": "CNBC-TV18 Newscentre",
-      "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489022.jpg"
-    },
-    {
-      "show_name": "Gls - Visa / Bain",
-      "start_time": "02:30 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489023.jpg"
-    },
-    {
-      "show_name": "Election Exchange",
-      "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489024.jpg"
-    },
-    {
-      "show_name": "GLS",
-      "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489025.jpg"
-    },
-    {
-      "show_name": "Editors' Roundtable",
-      "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489026.jpg"
-    },
-    {
-      "show_name": "Let's Talk Money",
-      "start_time": "04:30 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489027.jpg"
-    },
-    {
-      "show_name": "CNBC-TV18 Conversations",
-      "start_time": "05:00 PM",
-      "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489028.jpg"
-    },
-    {
-      "show_name": "Optum Startup Street Special",
-      "start_time": "05:30 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489029.jpg"
-    },
-    {
-      "show_name": "Leibherr",
-      "start_time": "06:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489030.jpg"
-    },
-    {
-      "show_name": "Make 2025",
-      "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489031.jpg"
-    },
-    {
-      "show_name": "Election Exchange",
-      "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489032.jpg"
-    },
-    {
-      "show_name": "CNBC-TV18 Market Masters",
+      "show_name": "Commodity Champions",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489033.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "GLS",
+      "show_name": "Overdrive",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489034.jpg"
-    },
-    {
-      "show_name": "Young Turks Reloaded",
-      "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489035.jpg"
-    },
-    {
-      "show_name": "Global Dialogues",
-      "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489036.jpg"
-    },
-    {
-      "show_name": "Editors' Roundtable",
-      "start_time": "09:30 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489037.jpg"
-    },
-    {
-      "show_name": "CNBC-TV18 Newscentre",
-      "start_time": "10:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489038.jpg"
-    },
-    {
-      "show_name": "GLS",
-      "start_time": "10:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489039.jpg"
-    },
-    {
-      "show_name": "CNBC-TV18 Conversations",
-      "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489040.jpg"
-    },
-    {
-      "show_name": "Let's Talk Money",
-      "start_time": "11:30 PM",
-      "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/251115489041.jpg"
+      "show_logo": ""
     }
   ]
 }

@@ -1,82 +1,58 @@
 {
   "channel_name": "BBC News",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_Thumbnail-v3/BBCWNW_Thumbnail.png",
-  "date": "2025-11-15",
+  "date": "2025-11-16",
   "programs": [
     {
-      "show_name": "The World Today with Maryam Moshiri",
+      "show_name": "Tech Now",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The World Today with Maryam Moshiri",
+      "show_name": "BBC News",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The World Today with Maryam Moshiri",
-      "start_time": "01:00 AM",
-      "end_time": "01:25 AM",
-      "show_logo": ""
-    },
-    {
       "show_name": "The Travel Show",
-      "start_time": "01:25 AM",
+      "start_time": "01:00 AM",
       "end_time": "01:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The Context",
+      "show_name": "BBC News",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The Context",
+      "show_name": "AI Decoded",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The Context USA",
+      "show_name": "BBC News",
       "start_time": "02:30 AM",
-      "end_time": "03:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "The Context USA",
-      "start_time": "03:00 AM",
-      "end_time": "03:25 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "The Travel Show",
-      "start_time": "03:25 AM",
       "end_time": "03:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "BBC World News America",
+      "show_name": "BBC News",
       "start_time": "03:30 AM",
-      "end_time": "04:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Talking Business",
-      "start_time": "04:00 AM",
       "end_time": "04:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "BBC World News America",
+      "show_name": "BBC News",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The President's Path",
+      "show_name": "Talking Business",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
       "show_logo": ""
@@ -88,7 +64,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Arts in Motion",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
       "show_logo": ""
@@ -100,13 +76,19 @@
       "show_logo": ""
     },
     {
+      "show_name": "Unspun World with John Simpson",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": ""
+    },
+    {
       "show_name": "BBC News",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The Interview",
+      "show_name": "AI Decoded",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
       "show_logo": ""
@@ -118,7 +100,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "The Media Show",
+      "show_name": "Global Eye",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
       "show_logo": ""
@@ -130,7 +112,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "The Travel Show",
+      "show_name": "Tech Now",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
       "show_logo": ""
@@ -142,7 +124,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "AI Decoded",
+      "show_name": "Talking Business",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
       "show_logo": ""
@@ -154,7 +136,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "The Travel Show",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
       "show_logo": ""
@@ -166,7 +148,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "On The Front Line",
+      "show_name": "Arts in Motion",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
       "show_logo": ""
@@ -178,7 +160,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Global Eye",
+      "show_name": "The Interview",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
       "show_logo": ""
@@ -196,7 +178,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Talking Business",
+      "show_name": "The Media Show",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
       "show_logo": ""
@@ -208,7 +190,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Unspun World with John Simpson",
+      "show_name": "The President's Path",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
       "show_logo": ""
@@ -220,7 +202,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Arts in Motion",
+      "show_name": "The Travel Show",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
       "show_logo": ""
@@ -232,7 +214,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "AI Decoded",
+      "show_name": "Tech Now",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
       "show_logo": ""
@@ -244,7 +226,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "The Media Show",
+      "show_name": "On The Front Line",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
       "show_logo": ""
@@ -256,7 +238,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "The Interview",
+      "show_name": "Global Eye",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
       "show_logo": ""
@@ -268,7 +250,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Ukrainecast",
+      "show_name": "Talking Business",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
       "show_logo": ""

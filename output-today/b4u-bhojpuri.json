@@ -1,67 +1,55 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
-  "date": "2025-11-15",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43109-jxzlyrjc-v1/imageContent-43109-jxzlyrjc-m1.png",
+  "date": "2025-11-16",
   "programs": [
     {
-      "show_name": "Ghar Jamai",
-      "start_time": "12:00 AM",
-      "end_time": "02:04 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296000.jpg"
+      "show_name": "Movie",
+      "start_time": "09:00 PM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
     },
     {
-      "show_name": "Lataka Jhatka",
-      "start_time": "02:04 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296001.jpg"
+      "show_name": "Movie",
+      "start_time": "02:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": ""
     },
     {
-      "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "03:00 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296002.jpg"
+      "show_name": "Movie",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": ""
     },
     {
-      "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "05:00 AM",
-      "end_time": "08:19 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296003.jpg"
+      "show_name": "Movie",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
     },
     {
-      "show_name": "Parai Beti",
-      "start_time": "08:19 AM",
-      "end_time": "10:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296004.jpg"
+      "show_name": "Movie",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": ""
     },
     {
-      "show_name": "Meri Saas Pehle Aap",
-      "start_time": "10:57 AM",
-      "end_time": "01:49 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296005.jpg"
+      "show_name": "Movie",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": ""
     },
     {
-      "show_name": "Didi No.1",
-      "start_time": "01:49 PM",
-      "end_time": "04:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296006.jpg"
+      "show_name": "Movie",
+      "start_time": "06:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": ""
     },
     {
-      "show_name": "Saas Anadi Bahu Khiladi",
-      "start_time": "04:57 PM",
-      "end_time": "07:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296007.jpg"
-    },
-    {
-      "show_name": "Ghar Jamai",
-      "start_time": "07:59 PM",
-      "end_time": "11:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296008.jpg"
-    },
-    {
-      "show_name": "Preet Ka Daman 2",
-      "start_time": "11:27 PM",
-      "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-15/2511151296009.jpg"
+      "show_name": "Movie",
+      "start_time": "09:00 PM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
     }
   ]
 }

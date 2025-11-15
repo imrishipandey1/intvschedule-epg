@@ -1,67 +1,85 @@
 {
-  "channel_name": "Colors Cineplex",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
-  "date": "2025-11-15",
+  "channel_name": "Colors Cineplex HD",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
+  "date": "2025-11-16",
   "programs": [
     {
-      "show_name": "Ugram",
-      "start_time": "12:00 AM",
-      "end_time": "01:03 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/82c98f63f186877ecbfa756e5c687683.jpg"
-    },
-    {
-      "show_name": "Yajamana",
-      "start_time": "01:03 AM",
-      "end_time": "04:28 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a5169361f1e3551613716b06bae05c8b.jpg"
-    },
-    {
-      "show_name": "Son Of Devil",
-      "start_time": "04:28 AM",
-      "end_time": "06:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/acde0800c8201c8fc97410eba5ff8105.jpg"
-    },
-    {
-      "show_name": "Jaganmohini",
-      "start_time": "06:05 AM",
-      "end_time": "07:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/195e120c49965f84afa4815db4ca2ef8.jpg"
-    },
-    {
-      "show_name": "Satyabhama",
-      "start_time": "07:55 AM",
-      "end_time": "10:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/82043cdb0f0ba32b57ec55e6ea15c592.jpg"
-    },
-    {
-      "show_name": "Subham",
-      "start_time": "10:50 AM",
-      "end_time": "01:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08ff92c60811fa0f11cdd2d7ae79c3b9.jpg"
-    },
-    {
-      "show_name": "Bhagam Bhaag",
-      "start_time": "01:15 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ed8bea9411449db926264149dde078c1.jpg"
-    },
-    {
-      "show_name": "Tanhaji: The Unsung Warrior",
-      "start_time": "05:00 PM",
-      "end_time": "07:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f1c058201b6188aee42f8a3292a022dc.jpg"
-    },
-    {
-      "show_name": "Chhaava",
-      "start_time": "07:50 PM",
-      "end_time": "10:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1d1b46df6dcdc74966147696fe159223.jpg"
-    },
-    {
       "show_name": "Custody",
-      "start_time": "10:57 PM",
+      "start_time": "12:00 AM",
+      "end_time": "12:31 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477000.jpg"
+    },
+    {
+      "show_name": "Cadaver",
+      "start_time": "12:31 AM",
+      "end_time": "02:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477001.jpg"
+    },
+    {
+      "show_name": "Angrezi Mein Kehte Hain",
+      "start_time": "02:25 AM",
+      "end_time": "04:08 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477002.jpg"
+    },
+    {
+      "show_name": "Paranjothi",
+      "start_time": "04:08 AM",
+      "end_time": "05:51 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477003.jpg"
+    },
+    {
+      "show_name": "Ishk Actually",
+      "start_time": "05:51 AM",
+      "end_time": "07:32 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477004.jpg"
+    },
+    {
+      "show_name": "Alibaba Aur 40 Chor",
+      "start_time": "07:32 AM",
+      "end_time": "10:01 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477005.jpg"
+    },
+    {
+      "show_name": "Veeram",
+      "start_time": "10:01 AM",
+      "end_time": "11:57 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477006.jpg"
+    },
+    {
+      "show_name": "Seetharama Kalyana",
+      "start_time": "11:57 AM",
+      "end_time": "01:56 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477007.jpg"
+    },
+    {
+      "show_name": "Vivegam",
+      "start_time": "01:56 PM",
+      "end_time": "04:14 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477008.jpg"
+    },
+    {
+      "show_name": "Vijay Raghavan",
+      "start_time": "04:14 PM",
+      "end_time": "06:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477009.jpg"
+    },
+    {
+      "show_name": "Guardian",
+      "start_time": "06:10 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477010.jpg"
+    },
+    {
+      "show_name": "Hanu Man",
+      "start_time": "07:50 PM",
+      "end_time": "10:16 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477011.jpg"
+    },
+    {
+      "show_name": "Ragada",
+      "start_time": "10:16 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/96937ca6b7cb57a3957b93cd10e4a524.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/2511161477012.jpg"
     }
   ]
 }

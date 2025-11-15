@@ -1,0 +1,103 @@
+{
+  "channel_name": "ETV Plus HD",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVPLHD_Thumbnail-v1/ETVPLHD_Thumbnail.png",
+  "date": "2025-11-16",
+  "programs": [
+    {
+      "show_name": "Cash 2",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Anubavinchu Raja",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Sridevi Drama Company",
+      "start_time": "02:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Saragala Pallaki",
+      "start_time": "04:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Yoga Sutra",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Shani Mahimalu",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Sadguru Sai",
+      "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Jaatiratnalu Remix",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Jeevana Jyothy",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Movie - Gillikajjalu",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Movie - Kodama Simham",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ugadi 369",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "The Sisters",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Movie - Spy",
+      "start_time": "06:30 PM",
+      "end_time": "09:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Cash 2",
+      "start_time": "09:30 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Movie - Killer",
+      "start_time": "10:30 PM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    }
+  ]
+}

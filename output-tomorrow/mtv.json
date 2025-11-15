@@ -1,127 +1,151 @@
 {
-  "channel_name": "MTV",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
-  "date": "2025-11-16",
+  "channel_name": "Valam TV",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Valambhakti.png",
+  "date": "2025-11-17",
   "programs": [
     {
-      "show_name": "Splitsvilla",
+      "show_name": "Valam TV",
       "start_time": "12:00 AM",
-      "end_time": "12:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248000.jpg"
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187000.jpg"
     },
     {
-      "show_name": "Night Out",
-      "start_time": "12:15 AM",
+      "show_name": "Valam TV",
+      "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187001.jpg"
     },
     {
-      "show_name": "Splitsvilla",
+      "show_name": "Valam TV",
       "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187002.jpg"
     },
     {
-      "show_name": "Splitsvilla",
+      "show_name": "Valam TV",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187003.jpg"
     },
     {
-      "show_name": "Splitsvilla",
+      "show_name": "Valam TV",
       "start_time": "04:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187004.jpg"
     },
     {
-      "show_name": "MTV Chillax",
+      "show_name": "Valam TV",
       "start_time": "05:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187005.jpg"
     },
     {
-      "show_name": "MTV Chillax",
+      "show_name": "Valam TV",
       "start_time": "06:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187006.jpg"
     },
     {
-      "show_name": "Pump Up Mornings",
+      "show_name": "Valam TV",
       "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187007.jpg"
+    },
+    {
+      "show_name": "Valam TV",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187008.jpg"
+    },
+    {
+      "show_name": "Valam TV",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187009.jpg"
+    },
+    {
+      "show_name": "Valam TV",
+      "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187010.jpg"
     },
     {
-      "show_name": "Roadies Real Heroes",
+      "show_name": "Valam TV",
       "start_time": "11:00 AM",
-      "end_time": "11:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248008.jpg"
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187011.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "11:50 AM",
-      "end_time": "12:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248009.jpg"
+      "show_name": "Valam TV",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187012.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "12:45 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248010.jpg"
+      "show_name": "Valam TV",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187013.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "01:30 PM",
-      "end_time": "03:20 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248011.jpg"
+      "show_name": "Valam TV",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187014.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "03:20 PM",
-      "end_time": "05:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248012.jpg"
+      "show_name": "Valam TV",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187015.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "05:10 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248013.jpg"
+      "show_name": "Valam TV",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187016.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "06:30 PM",
-      "end_time": "07:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248014.jpg"
+      "show_name": "Valam TV",
+      "start_time": "05:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187017.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "07:15 PM",
+      "show_name": "Valam TV",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187018.jpg"
+    },
+    {
+      "show_name": "Valam TV",
+      "start_time": "07:00 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187019.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "Valam TV",
       "start_time": "08:00 PM",
-      "end_time": "09:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248016.jpg"
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187020.jpg"
     },
     {
-      "show_name": "Roadies Real Heroes",
-      "start_time": "09:15 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248017.jpg"
+      "show_name": "Valam TV",
+      "start_time": "09:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187021.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "10:30 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248018.jpg"
+      "show_name": "Valam TV",
+      "start_time": "10:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187022.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "11:30 PM",
+      "show_name": "Valam TV",
+      "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-16/251116248019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171187023.jpg"
     }
   ]
 }

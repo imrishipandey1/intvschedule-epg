@@ -1,7 +1,7 @@
 {
   "channel_name": "Discovery Kids",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",
-  "date": "2025-11-15",
+  "date": "2025-11-16",
   "programs": [
     {
       "show_name": "Roll No 21",
@@ -268,13 +268,13 @@
       "show_logo": ""
     },
     {
-      "show_name": "Roll No 21",
+      "show_name": "Kris Roll No 21",
       "start_time": "09:35 AM",
       "end_time": "10:02 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Roll No 21",
+      "show_name": "Kris Roll No 21",
       "start_time": "10:02 AM",
       "end_time": "10:27 AM",
       "show_logo": ""
@@ -318,29 +318,17 @@
     {
       "show_name": "Roll No 21",
       "start_time": "11:09 AM",
-      "end_time": "11:30 AM",
+      "end_time": "12:45 PM",
       "show_logo": ""
     },
     {
       "show_name": "Roll No 21",
-      "start_time": "11:30 AM",
-      "end_time": "12:29 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Roll No 21",
-      "start_time": "12:29 PM",
-      "end_time": "01:34 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Roll No 21",
-      "start_time": "01:34 PM",
+      "start_time": "12:45 PM",
       "end_time": "02:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Roll No 21",
+      "show_name": "Kris Roll No 21",
       "start_time": "02:00 PM",
       "end_time": "02:25 PM",
       "show_logo": ""
@@ -408,12 +396,12 @@
     {
       "show_name": "Roll No 21",
       "start_time": "05:27 PM",
-      "end_time": "07:02 PM",
+      "end_time": "06:56 PM",
       "show_logo": ""
     },
     {
       "show_name": "Roll No 21",
-      "start_time": "07:02 PM",
+      "start_time": "06:56 PM",
       "end_time": "07:15 PM",
       "show_logo": ""
     },
@@ -438,6 +426,30 @@
     {
       "show_name": "Roll No 21",
       "start_time": "08:27 PM",
+      "end_time": "08:39 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Roll No 21",
+      "start_time": "08:39 PM",
+      "end_time": "08:52 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Roll No 21",
+      "start_time": "08:52 PM",
+      "end_time": "09:05 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Kisna",
+      "start_time": "09:05 PM",
+      "end_time": "09:18 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Roll No 21",
+      "start_time": "09:18 PM",
       "end_time": "09:31 PM",
       "show_logo": ""
     },
