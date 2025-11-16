@@ -1,55 +1,79 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43109-jxzlyrjc-v1/imageContent-43109-jxzlyrjc-m1.png",
-  "date": "2025-11-16",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
+  "date": "2025-11-17",
   "programs": [
     {
-      "show_name": "Movie",
-      "start_time": "09:00 PM",
-      "end_time": "02:00 AM",
-      "show_logo": ""
+      "show_name": "Sasural Ka Deewana",
+      "start_time": "12:00 AM",
+      "end_time": "12:12 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296000.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "02:00 AM",
-      "end_time": "06:00 AM",
-      "show_logo": ""
+      "show_name": "Preetam Pyare",
+      "start_time": "12:12 AM",
+      "end_time": "02:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296001.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "06:00 AM",
-      "end_time": "09:00 AM",
-      "show_logo": ""
+      "show_name": "Lataka Jhatka",
+      "start_time": "02:15 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296002.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "09:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": ""
+      "show_name": "Chunariya Lehale Aihiya Ho",
+      "start_time": "03:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296003.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "12:00 PM",
-      "end_time": "03:00 PM",
-      "show_logo": ""
+      "show_name": "Chunariya Lehale Aihiya Ho",
+      "start_time": "05:00 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296004.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "03:00 PM",
-      "end_time": "06:00 PM",
-      "show_logo": ""
+      "show_name": "Priya Beauty Parlour",
+      "start_time": "07:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296005.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "06:00 PM",
-      "end_time": "09:00 PM",
-      "show_logo": ""
+      "show_name": "Ameero Ka Dahej",
+      "start_time": "09:30 AM",
+      "end_time": "12:07 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296006.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "09:00 PM",
-      "end_time": "02:00 AM",
-      "show_logo": ""
+      "show_name": "Maa Baap Ka Batwara",
+      "start_time": "12:07 PM",
+      "end_time": "02:53 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296007.jpg"
+    },
+    {
+      "show_name": "Sasu Ji Tune Kadar Na Jani",
+      "start_time": "02:53 PM",
+      "end_time": "05:25 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296008.jpg"
+    },
+    {
+      "show_name": "Ae Pahuna Sasurai Me Rahi Na",
+      "start_time": "05:25 PM",
+      "end_time": "08:28 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296009.jpg"
+    },
+    {
+      "show_name": "Vaishnavi",
+      "start_time": "08:28 PM",
+      "end_time": "11:32 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296010.jpg"
+    },
+    {
+      "show_name": "Preet Ka Daaman",
+      "start_time": "11:32 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171296011.jpg"
     }
   ]
 }

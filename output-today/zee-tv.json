@@ -1,234 +1,264 @@
 {
-  "channel_name": "Zee Bangla HD",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaHD_Thumbnail_abd318d8-03d0-44c9-a18d-b34a5d941a48.png",
+  "channel_name": "Zee TV",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTV_Thumbnail_bbdc885f-e029-4df8-bdca-c781610a595d.png",
   "date": "2025-11-17",
   "programs": [
     {
-      "show_name": "Mongolmoyee Santoshi Maa",
+      "show_name": "Ganga Mai Ki Betiyaan",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Jaane Anjaane Hum Mile",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Joyar Bhata",
+      "show_name": "Jagriti - Ek Nayi Subah",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "Ganga Mai Ki Betiyaan",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Tum Se Tum Tak",
       "start_time": "02:00 AM",
+      "end_time": "02:15 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Vasudha",
+      "start_time": "02:15 AM",
       "end_time": "02:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "Jagriti - Ek Nayi Subah",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Saru",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "Ganga Mai Ki Betiyaan",
       "start_time": "03:30 AM",
+      "end_time": "03:45 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Vasudha",
+      "start_time": "03:45 AM",
       "end_time": "04:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Kone Dekha Alo",
+      "show_name": "Baba Ramdev",
       "start_time": "04:00 AM",
       "end_time": "05:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Patanjali Yog - By Yogrishi Swami Ramdev",
+      "show_name": "Tum Se Tum Tak",
       "start_time": "05:00 AM",
+      "end_time": "05:15 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Jagriti - Ek Nayi Subah",
+      "start_time": "05:15 AM",
+      "end_time": "05:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Vasudha",
+      "start_time": "05:30 AM",
       "end_time": "06:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "TWR Satyavachan",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Calvary Swar",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bhakti Suman",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "Saru",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Tui Amar Hero",
+      "show_name": "Tum Se Tum Tak",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Amader Dadamoni",
+      "show_name": "Ganga Mai Ki Betiyaan",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "Vasudha",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Tum Se Tum Tak",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Ganga Mai Ki Betiyaan",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Saru",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Joy Baba Lokenath",
+      "show_name": "Vasudha",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tum Se Tum Tak",
       "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ganga Mai Ki Betiyaan",
+      "start_time": "12:00 PM",
       "end_time": "12:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Tulsi Dhamer Naru Gopal",
+      "show_name": "Jagriti - Ek Nayi Subah",
       "start_time": "12:30 PM",
-      "end_time": "12:45 PM",
+      "end_time": "01:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Kone Dekha Alo",
-      "start_time": "12:45 PM",
+      "show_name": "Saru",
+      "start_time": "01:00 PM",
       "end_time": "01:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Tum Se Tum Tak",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Tui Amar Hero",
+      "show_name": "Vasudha",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Ganga Mai Ki Betiyaan",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Vasudha",
       "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Joyar Bhata",
-      "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Rannaghar",
-      "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Didi No 1",
-      "start_time": "04:30 PM",
-      "end_time": "05:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Kusum",
-      "start_time": "05:30 PM",
-      "end_time": "06:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Tui Amar Hero",
-      "start_time": "06:00 PM",
       "end_time": "06:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Tum Se Tum Tak",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "Ganga Mai Ki Betiyaan",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Phulki",
+      "show_name": "Saru",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Amader Dadamoni",
+      "show_name": "Jaane Anjaane Hum Mile",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tum Se Tum Tak",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Joyar Bhata",
+      "show_name": "Ganga Mai Ki Betiyaan",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Kone Dekha Alo",
+      "show_name": "Vasudha",
       "start_time": "09:30 PM",
       "end_time": "10:15 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Anandi",
+      "show_name": "Jagriti - Ek Nayi Subah",
       "start_time": "10:15 PM",
       "end_time": "11:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "Saru",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tum Se Tum Tak",
+      "start_time": "11:30 PM",
+      "end_time": "12:19 AM",
       "show_logo": ""
     }
   ]

@@ -1,0 +1,181 @@
+{
+  "channel_name": "Animal Planet Hindi",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",
+  "date": "2025-11-17",
+  "programs": [
+    {
+      "show_name": "Secret Ways",
+      "start_time": "12:00 AM",
+      "end_time": "12:44 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566000.jpg"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "12:44 AM",
+      "end_time": "01:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566001.jpg"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "01:15 AM",
+      "end_time": "01:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566002.jpg"
+    },
+    {
+      "show_name": "The Loneliness Of The Leopard",
+      "start_time": "01:45 AM",
+      "end_time": "02:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566003.jpg"
+    },
+    {
+      "show_name": "Great Parks of Africa",
+      "start_time": "02:45 AM",
+      "end_time": "03:44 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566004.jpg"
+    },
+    {
+      "show_name": "Wild Africa: Rivers of Life",
+      "start_time": "03:44 AM",
+      "end_time": "04:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566005.jpg"
+    },
+    {
+      "show_name": "A Wild Year On Earth",
+      "start_time": "04:39 AM",
+      "end_time": "05:32 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566006.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "05:32 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566007.jpg"
+    },
+    {
+      "show_name": "Wild Sky",
+      "start_time": "06:00 AM",
+      "end_time": "06:52 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566008.jpg"
+    },
+    {
+      "show_name": "Secret Ways",
+      "start_time": "06:52 AM",
+      "end_time": "07:42 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566009.jpg"
+    },
+    {
+      "show_name": "Arabian Inferno",
+      "start_time": "07:42 AM",
+      "end_time": "08:33 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566010.jpg"
+    },
+    {
+      "show_name": "Wildest Survival",
+      "start_time": "08:33 AM",
+      "end_time": "09:28 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566011.jpg"
+    },
+    {
+      "show_name": "Alpha",
+      "start_time": "09:28 AM",
+      "end_time": "10:21 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566012.jpg"
+    },
+    {
+      "show_name": "The Leopard Rocks",
+      "start_time": "10:21 AM",
+      "end_time": "11:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566013.jpg"
+    },
+    {
+      "show_name": "Survive the Wild",
+      "start_time": "11:15 AM",
+      "end_time": "12:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566014.jpg"
+    },
+    {
+      "show_name": "Nature's Ultimate Survivors",
+      "start_time": "12:08 PM",
+      "end_time": "01:01 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566015.jpg"
+    },
+    {
+      "show_name": "The Loneliness Of The Leopard",
+      "start_time": "01:01 PM",
+      "end_time": "01:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566016.jpg"
+    },
+    {
+      "show_name": "Predator Countdown",
+      "start_time": "01:59 PM",
+      "end_time": "02:52 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566017.jpg"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "02:52 PM",
+      "end_time": "03:22 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566018.jpg"
+    },
+    {
+      "show_name": "Tiger Legacy",
+      "start_time": "03:22 PM",
+      "end_time": "04:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566019.jpg"
+    },
+    {
+      "show_name": "Nature's Mass Attacks",
+      "start_time": "04:15 PM",
+      "end_time": "05:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566020.jpg"
+    },
+    {
+      "show_name": "Wildest Survival",
+      "start_time": "05:08 PM",
+      "end_time": "06:03 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566021.jpg"
+    },
+    {
+      "show_name": "Snow Leopards with Dan O'Neill",
+      "start_time": "06:03 PM",
+      "end_time": "06:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566022.jpg"
+    },
+    {
+      "show_name": "Brotherhood of Lions",
+      "start_time": "06:59 PM",
+      "end_time": "07:53 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566023.jpg"
+    },
+    {
+      "show_name": "Rise Of Jaguars",
+      "start_time": "07:53 PM",
+      "end_time": "08:46 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566024.jpg"
+    },
+    {
+      "show_name": "Wild Sky",
+      "start_time": "08:46 PM",
+      "end_time": "09:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566025.jpg"
+    },
+    {
+      "show_name": "Wild Africa: Rivers of Life",
+      "start_time": "09:40 PM",
+      "end_time": "10:36 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566026.jpg"
+    },
+    {
+      "show_name": "Snow Leopards with Dan O'Neill",
+      "start_time": "10:36 PM",
+      "end_time": "11:32 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566027.jpg"
+    },
+    {
+      "show_name": "Snow Leopards with Dan O'Neill",
+      "start_time": "11:32 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117566028.jpg"
+    }
+  ]
+}

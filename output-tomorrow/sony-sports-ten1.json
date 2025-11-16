@@ -1,0 +1,187 @@
+{
+  "channel_name": "Sony Ten 1",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
+  "date": "2025-11-18",
+  "programs": [
+    {
+      "show_name": "Test Cricket",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514000.jpg"
+    },
+    {
+      "show_name": "One-Day International Cricket",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514001.jpg"
+    },
+    {
+      "show_name": "UFC 321: Aspinall vs. Gane",
+      "start_time": "02:00 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514002.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514003.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514004.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514005.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "05:30 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514006.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514007.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514008.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "07:30 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514009.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514010.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514011.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514012.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "10:30 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514013.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "11:30 AM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514014.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "12:30 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514015.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "01:30 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514016.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514017.jpg"
+    },
+    {
+      "show_name": "UFC 315: Muhammad vs. Della Maddalena",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514018.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514019.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514020.jpg"
+    },
+    {
+      "show_name": "Women's T20 Cricket",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514021.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514022.jpg"
+    },
+    {
+      "show_name": "UFC 314: Volkanovski vs. Lopes",
+      "start_time": "06:30 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514023.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "07:30 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514024.jpg"
+    },
+    {
+      "show_name": "Women's T20 Cricket",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514025.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514026.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514027.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "10:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514028.jpg"
+    },
+    {
+      "show_name": "Test Cricket",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118514029.jpg"
+    }
+  ]
+}

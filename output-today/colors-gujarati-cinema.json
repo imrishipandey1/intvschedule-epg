@@ -1,0 +1,67 @@
+{
+  "channel_name": "Colors Gujarati Cinema",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
+  "date": "2025-11-17",
+  "programs": [
+    {
+      "show_name": "Jai Devi Dashamaa",
+      "start_time": "12:00 AM",
+      "end_time": "12:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171324000.jpg"
+    },
+    {
+      "show_name": "Karwathoth (Kadwa Chauth)",
+      "start_time": "12:25 AM",
+      "end_time": "02:55 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171324001.jpg"
+    },
+    {
+      "show_name": "Desi Beats",
+      "start_time": "02:55 AM",
+      "end_time": "05:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171324002.jpg"
+    },
+    {
+      "show_name": "Hoon Diwani Tara Prem Ni Vaalam",
+      "start_time": "05:15 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171324003.jpg"
+    },
+    {
+      "show_name": "Desi Beats",
+      "start_time": "08:00 AM",
+      "end_time": "10:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171324004.jpg"
+    },
+    {
+      "show_name": "Palavde Bandhi Preet",
+      "start_time": "10:15 AM",
+      "end_time": "01:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171324005.jpg"
+    },
+    {
+      "show_name": "Bhagat Narsih Mahta",
+      "start_time": "01:20 PM",
+      "end_time": "03:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171324006.jpg"
+    },
+    {
+      "show_name": "Ooncha Khordani Khandani",
+      "start_time": "03:55 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171324007.jpg"
+    },
+    {
+      "show_name": "Halo Manvyu Na Mele",
+      "start_time": "07:00 PM",
+      "end_time": "09:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171324008.jpg"
+    },
+    {
+      "show_name": "Dikri Chali Sasareia",
+      "start_time": "09:40 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171324009.jpg"
+    }
+  ]
+}

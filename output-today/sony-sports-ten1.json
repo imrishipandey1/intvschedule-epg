@@ -1,0 +1,193 @@
+{
+  "channel_name": "Sony Ten 1",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
+  "date": "2025-11-17",
+  "programs": [
+    {
+      "show_name": "Asia Cup 2025",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514000.jpg"
+    },
+    {
+      "show_name": "Asia Cup 2025",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514001.jpg"
+    },
+    {
+      "show_name": "Asia Cup 2025",
+      "start_time": "01:00 AM",
+      "end_time": "01:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514002.jpg"
+    },
+    {
+      "show_name": "European Qualifiers for the 2026 FIFA World Cup  Live",
+      "start_time": "01:15 AM",
+      "end_time": "03:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514003.jpg"
+    },
+    {
+      "show_name": "Asia Cup 2025",
+      "start_time": "03:15 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514004.jpg"
+    },
+    {
+      "show_name": "Asia Cup 2025",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514005.jpg"
+    },
+    {
+      "show_name": "Asia Cup 2025",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514006.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514007.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "05:30 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514008.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514009.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514010.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "07:30 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514011.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514012.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514013.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514014.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "10:30 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514015.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "11:30 AM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514016.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "12:30 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514017.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "01:30 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514018.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514019.jpg"
+    },
+    {
+      "show_name": "UFC 316: Dvalishvili vs. O'Malley 2",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514020.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514021.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514022.jpg"
+    },
+    {
+      "show_name": "Women's One-Day International Cricket",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514023.jpg"
+    },
+    {
+      "show_name": "T20 Cricket",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514024.jpg"
+    },
+    {
+      "show_name": "UFC 315: Muhammad vs. Della Maddalena",
+      "start_time": "06:30 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514025.jpg"
+    },
+    {
+      "show_name": "Cricket Highlights",
+      "start_time": "07:30 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514026.jpg"
+    },
+    {
+      "show_name": "Women's One-Day International Cricket",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514027.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "09:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514028.jpg"
+    },
+    {
+      "show_name": "One-Day International Cricket",
+      "start_time": "10:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514029.jpg"
+    },
+    {
+      "show_name": "Test Cricket",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117514030.jpg"
+    }
+  ]
+}

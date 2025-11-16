@@ -1,0 +1,301 @@
+{
+  "channel_name": "9XM",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",
+  "date": "2025-11-18",
+  "programs": [
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587000.jpg"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587001.jpg"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587002.jpg"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587003.jpg"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587004.jpg"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587005.jpg"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587006.jpg"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587007.jpg"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587008.jpg"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587009.jpg"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587010.jpg"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587011.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587012.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587013.jpg"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587014.jpg"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587015.jpg"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587016.jpg"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587017.jpg"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587018.jpg"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587019.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587020.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587021.jpg"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587022.jpg"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587023.jpg"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587024.jpg"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587025.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587026.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587027.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587028.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587029.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587030.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587031.jpg"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587032.jpg"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587033.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587034.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587035.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587036.jpg"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587037.jpg"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587038.jpg"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587039.jpg"
+    },
+    {
+      "show_name": "9xm Shayarism",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587040.jpg"
+    },
+    {
+      "show_name": "9xm Shayarism",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587041.jpg"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "09:00 PM",
+      "end_time": "09:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587042.jpg"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "09:15 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587043.jpg"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587044.jpg"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587045.jpg"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587046.jpg"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587047.jpg"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118587048.jpg"
+    }
+  ]
+}

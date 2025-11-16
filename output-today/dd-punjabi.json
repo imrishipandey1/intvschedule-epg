@@ -1,289 +1,313 @@
 {
   "channel_name": "DD Punjabi",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11374-j9jpwgiw-v1/imageContent-11374-j9jpwgiw-m1.png",
-  "date": "2025-11-16",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png",
+  "date": "2025-11-17",
   "programs": [
     {
-      "show_name": "Navi Udari",
+      "show_name": "Tare Zamin Te",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715000.jpg"
     },
     {
-      "show_name": "Hulle Hulare",
+      "show_name": "Yaadan Di Khushboo",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715001.jpg"
     },
     {
-      "show_name": "Mehfil",
+      "show_name": "Sanjh Suran Di",
       "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715002.jpg"
     },
     {
-      "show_name": "Hai Shawa Hai Shawa",
+      "show_name": "Nakhra Tera 2013",
       "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715003.jpg"
     },
     {
       "show_name": "Kavishree/Dhadiwarran",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715004.jpg"
     },
     {
       "show_name": "Aasa Di Vaar",
       "start_time": "04:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715005.jpg"
     },
     {
       "show_name": "So Than Sohawa",
       "start_time": "05:30 AM",
       "end_time": "05:45 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715006.jpg"
     },
     {
-      "show_name": "Bhakti Sangeet",
+      "show_name": "Shabad Kirtan",
       "start_time": "05:45 AM",
       "end_time": "06:15 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715007.jpg"
     },
     {
       "show_name": "Shabad Vichar",
       "start_time": "06:15 AM",
       "end_time": "06:40 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715008.jpg"
     },
     {
       "show_name": "Bhakti Sangeet",
       "start_time": "06:40 AM",
       "end_time": "07:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715009.jpg"
     },
     {
       "show_name": "Bhakti Sangeet",
       "start_time": "07:00 AM",
       "end_time": "07:15 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715010.jpg"
     },
     {
       "show_name": "Sanskrit News",
       "start_time": "07:15 AM",
       "end_time": "07:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715011.jpg"
     },
     {
       "show_name": "Sachi Bani",
       "start_time": "07:30 AM",
       "end_time": "07:55 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715012.jpg"
     },
     {
       "show_name": "Ajj Da Vichar",
       "start_time": "07:55 AM",
       "end_time": "08:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715013.jpg"
     },
     {
-      "show_name": "Sachi Bani",
+      "show_name": "Zaika",
       "start_time": "08:00 AM",
       "end_time": "08:15 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715014.jpg"
     },
     {
       "show_name": "So Than Sohawa",
       "start_time": "08:15 AM",
       "end_time": "08:40 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715015.jpg"
     },
     {
-      "show_name": "Sunehe",
+      "show_name": "Gallan Te Geet",
       "start_time": "08:40 AM",
       "end_time": "09:15 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715016.jpg"
     },
     {
-      "show_name": "Sehat Zaroori Hai",
+      "show_name": "Zaika",
       "start_time": "09:15 AM",
       "end_time": "09:35 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715017.jpg"
     },
     {
-      "show_name": "Geet Bahar",
+      "show_name": "DD Punjabi Rocks",
       "start_time": "09:35 AM",
       "end_time": "10:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715018.jpg"
     },
     {
-      "show_name": "Sachi Bani",
+      "show_name": "Zaika",
       "start_time": "10:00 AM",
       "end_time": "10:10 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715019.jpg"
     },
     {
-      "show_name": "Aa Chhuh Lai Zindagi",
+      "show_name": "Hanerian Gallian",
       "start_time": "10:10 AM",
       "end_time": "10:35 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715020.jpg"
     },
     {
       "show_name": "Aur Ek Kahani",
       "start_time": "10:35 AM",
       "end_time": "11:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715021.jpg"
     },
     {
-      "show_name": "Mann Ki Baat",
+      "show_name": "Sanjh Suran Di",
       "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Mann Ki Baat",
-      "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715022.jpg"
     },
     {
-      "show_name": "Patriotic Songs",
+      "show_name": "Teri Meri Tu Tu Main Main",
       "start_time": "12:00 PM",
-      "end_time": "12:30 PM",
-      "show_logo": ""
+      "end_time": "12:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715023.jpg"
     },
     {
-      "show_name": "Yaadan Di Khushboo",
+      "show_name": "Gali Gali Vanjara",
+      "start_time": "12:15 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715024.jpg"
+    },
+    {
+      "show_name": "Patiala Darpan",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715025.jpg"
     },
     {
-      "show_name": "Sachi Bani",
+      "show_name": "Zaika",
       "start_time": "01:00 PM",
       "end_time": "01:10 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715026.jpg"
     },
     {
-      "show_name": "Sunehe",
+      "show_name": "Gallan Te Geet",
       "start_time": "01:10 PM",
       "end_time": "02:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715027.jpg"
     },
     {
-      "show_name": "Tare Zamin Te",
+      "show_name": "Hulle Hulare",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715028.jpg"
     },
     {
       "show_name": "Ik Miaan Do Talwaaran",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715029.jpg"
     },
     {
       "show_name": "News Headlines",
       "start_time": "03:00 PM",
       "end_time": "03:05 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715030.jpg"
     },
     {
-      "show_name": "Talent Ka Maha Sangram",
+      "show_name": "Vigyan Prasar",
       "start_time": "03:05 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715031.jpg"
+    },
+    {
+      "show_name": "Rubaroo",
+      "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715032.jpg"
     },
     {
       "show_name": "DDK Chandigarh",
       "start_time": "04:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715033.jpg"
     },
     {
-      "show_name": "Sachi Bani",
+      "show_name": "Zaika",
       "start_time": "05:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": ""
+      "end_time": "05:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715034.jpg"
     },
     {
-      "show_name": "Sachi Bani",
+      "show_name": "Shabad Kirtan",
+      "start_time": "05:05 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715035.jpg"
+    },
+    {
+      "show_name": "Mera Pind Mere Khet",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715036.jpg"
+    },
+    {
+      "show_name": "Public Time",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715037.jpg"
+    },
+    {
+      "show_name": "Zaika",
       "start_time": "06:30 PM",
       "end_time": "06:45 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715038.jpg"
     },
     {
-      "show_name": "Patriotic Songs",
+      "show_name": "Songs",
       "start_time": "06:45 PM",
       "end_time": "07:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715039.jpg"
     },
     {
-      "show_name": "Geetanjali",
+      "show_name": "Geet Dhamal",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715040.jpg"
     },
     {
-      "show_name": "Movie",
+      "show_name": "Jodian Jag Thodian",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715041.jpg"
     },
     {
-      "show_name": "Mann Ki Baat",
+      "show_name": "Vehre Sajna De",
       "start_time": "08:00 PM",
-      "end_time": "08:35 PM",
-      "show_logo": ""
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715042.jpg"
     },
     {
       "show_name": "Hulle Hulare",
-      "start_time": "08:35 PM",
+      "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715043.jpg"
     },
     {
       "show_name": "Ik Miaan Do Talwaaran",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715044.jpg"
     },
     {
-      "show_name": "Sachi Bani",
+      "show_name": "Gallan Te Geet",
       "start_time": "09:30 PM",
       "end_time": "09:45 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715045.jpg"
     },
     {
-      "show_name": "Gali Gali Vanjara",
+      "show_name": "Zaika",
       "start_time": "09:45 PM",
       "end_time": "10:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715046.jpg"
     },
     {
-      "show_name": "Sunehe",
+      "show_name": "Startup Champions 2.0",
       "start_time": "10:00 PM",
-      "end_time": "10:40 PM",
-      "show_logo": ""
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715047.jpg"
     },
     {
-      "show_name": "Laung Lachiyan",
-      "start_time": "10:40 PM",
-      "end_time": "11:00 PM",
-      "show_logo": ""
+      "show_name": "Gallan Te Geet",
+      "start_time": "10:30 PM",
+      "end_time": "11:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715048.jpg"
+    },
+    {
+      "show_name": "Teri Meri Tu Tu Main Main",
+      "start_time": "11:10 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715049.jpg"
     },
     {
       "show_name": "Aur Ek Kahani",
-      "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Geetanjali",
       "start_time": "11:30 PM",
-      "end_time": "12:00 AM",
-      "show_logo": ""
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/251117715050.jpg"
     }
   ]
 }
