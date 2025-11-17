@@ -1,73 +1,73 @@
 {
-  "channel_name": "Colors Cineplex HD",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
-  "date": "2025-11-18",
+  "channel_name": "Colors Cineplex Superhit",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+  "date": "2025-11-19",
   "programs": [
     {
-      "show_name": "RDX",
+      "show_name": "Sita Ramam",
       "start_time": "12:00 AM",
-      "end_time": "01:34 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477000.jpg"
+      "end_time": "12:31 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450000.jpg"
     },
     {
-      "show_name": "Lakshmanrekha",
-      "start_time": "01:34 AM",
+      "show_name": "Meri Saugandh",
+      "start_time": "12:31 AM",
+      "end_time": "02:38 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450001.jpg"
+    },
+    {
+      "show_name": "Karthikeya Mahima",
+      "start_time": "02:38 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450002.jpg"
     },
     {
-      "show_name": "Sauda",
+      "show_name": "Manmadhudu 2",
       "start_time": "04:00 AM",
-      "end_time": "06:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477002.jpg"
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450003.jpg"
     },
     {
-      "show_name": "Mera Kartavya My Duty",
-      "start_time": "06:15 AM",
-      "end_time": "08:10 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477003.jpg"
+      "show_name": "Ram Ki Jung",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450004.jpg"
     },
     {
-      "show_name": "Cadaver",
-      "start_time": "08:10 AM",
-      "end_time": "10:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477004.jpg"
+      "show_name": "Aakhri Yudh",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450005.jpg"
     },
     {
-      "show_name": "Double Attack",
-      "start_time": "10:05 AM",
-      "end_time": "12:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477005.jpg"
-    },
-    {
-      "show_name": "Express Khiladi",
-      "start_time": "12:15 PM",
+      "show_name": "Vivegam",
+      "start_time": "12:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450006.jpg"
     },
     {
-      "show_name": "Yudh Ek Jung",
+      "show_name": "Inspector Vijay",
       "start_time": "03:00 PM",
-      "end_time": "05:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477007.jpg"
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450007.jpg"
     },
     {
-      "show_name": "The Return of Abhimanyu",
-      "start_time": "05:15 PM",
-      "end_time": "07:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477008.jpg"
+      "show_name": "Sangharsh Aur Vijay",
+      "start_time": "05:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450008.jpg"
     },
     {
-      "show_name": "Baaghi 3",
-      "start_time": "07:50 PM",
-      "end_time": "10:25 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477009.jpg"
+      "show_name": "Vishal In Laatti Charge",
+      "start_time": "07:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450009.jpg"
     },
     {
-      "show_name": "Kabzaa - The Mafia Raaj",
-      "start_time": "10:25 PM",
+      "show_name": "Seetharama Kalyana",
+      "start_time": "10:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181477010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191450010.jpg"
     }
   ]
 }

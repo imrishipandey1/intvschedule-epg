@@ -1,0 +1,61 @@
+{
+  "channel_name": "B4U Movies",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
+  "date": "2025-11-18",
+  "programs": [
+    {
+      "show_name": "Jungle",
+      "start_time": "12:00 AM",
+      "end_time": "01:36 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118182000.jpg"
+    },
+    {
+      "show_name": "Teri Kasam",
+      "start_time": "01:36 AM",
+      "end_time": "02:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118182001.jpg"
+    },
+    {
+      "show_name": "Teri Kasam",
+      "start_time": "02:40 AM",
+      "end_time": "05:14 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118182002.jpg"
+    },
+    {
+      "show_name": "Shiva Shakti",
+      "start_time": "05:14 AM",
+      "end_time": "07:58 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118182003.jpg"
+    },
+    {
+      "show_name": "16 December",
+      "start_time": "07:58 AM",
+      "end_time": "11:34 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118182004.jpg"
+    },
+    {
+      "show_name": "Sansar",
+      "start_time": "11:34 AM",
+      "end_time": "03:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118182005.jpg"
+    },
+    {
+      "show_name": "Katilon Ke Kaatil",
+      "start_time": "03:08 PM",
+      "end_time": "06:58 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118182006.jpg"
+    },
+    {
+      "show_name": "Zakhmi Sipahi",
+      "start_time": "06:58 PM",
+      "end_time": "10:43 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118182007.jpg"
+    },
+    {
+      "show_name": "Sultanat",
+      "start_time": "10:43 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118182008.jpg"
+    }
+  ]
+}

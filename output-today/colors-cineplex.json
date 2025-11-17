@@ -1,91 +1,73 @@
 {
-  "channel_name": "Colors Cineplex HD",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
-  "date": "2025-11-17",
+  "channel_name": "Colors Cineplex Superhit",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+  "date": "2025-11-18",
   "programs": [
     {
-      "show_name": "Ragada",
+      "show_name": "Meri Ladaai",
       "start_time": "12:00 AM",
-      "end_time": "12:13 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477000.jpg"
+      "end_time": "01:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450000.jpg"
     },
     {
-      "show_name": "Inspector Vikram",
-      "start_time": "12:13 AM",
-      "end_time": "02:33 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477001.jpg"
+      "show_name": "Thanedaar",
+      "start_time": "01:25 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450001.jpg"
     },
     {
-      "show_name": "Vasco The Rebel",
-      "start_time": "02:33 AM",
-      "end_time": "04:06 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477002.jpg"
+      "show_name": "Rajamanikyam",
+      "start_time": "02:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450002.jpg"
     },
     {
-      "show_name": "Filler",
-      "start_time": "04:06 AM",
-      "end_time": "04:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477003.jpg"
+      "show_name": "Kacche Dhaagey",
+      "start_time": "04:00 AM",
+      "end_time": "06:18 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450003.jpg"
     },
     {
-      "show_name": "Darr ka Ghar",
-      "start_time": "04:55 AM",
-      "end_time": "06:47 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477004.jpg"
+      "show_name": "Target Killing",
+      "start_time": "06:18 AM",
+      "end_time": "08:28 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450004.jpg"
     },
     {
-      "show_name": "Chor Bazaar",
-      "start_time": "06:47 AM",
-      "end_time": "08:34 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477005.jpg"
+      "show_name": "Khallas",
+      "start_time": "08:28 AM",
+      "end_time": "11:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450005.jpg"
     },
     {
-      "show_name": "Thadam",
-      "start_time": "08:34 AM",
-      "end_time": "10:53 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477006.jpg"
+      "show_name": "Thugs",
+      "start_time": "11:05 AM",
+      "end_time": "01:33 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450006.jpg"
     },
     {
-      "show_name": "Madhagaja",
-      "start_time": "10:53 AM",
-      "end_time": "12:48 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477007.jpg"
+      "show_name": "Main Hoon Dandadhikari",
+      "start_time": "01:33 PM",
+      "end_time": "04:12 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450007.jpg"
     },
     {
-      "show_name": "Etharkkum Thunindhavan",
-      "start_time": "12:48 PM",
-      "end_time": "03:06 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477008.jpg"
+      "show_name": "Gatta Kusthi",
+      "start_time": "04:12 PM",
+      "end_time": "06:49 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450008.jpg"
     },
     {
-      "show_name": "Golmaal: Fun Unlimited",
-      "start_time": "03:06 PM",
-      "end_time": "05:35 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477009.jpg"
+      "show_name": "Ugram",
+      "start_time": "06:49 PM",
+      "end_time": "09:12 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450009.jpg"
     },
     {
-      "show_name": "Yashoda",
-      "start_time": "05:35 PM",
-      "end_time": "07:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477010.jpg"
-    },
-    {
-      "show_name": "Godfather",
-      "start_time": "07:50 PM",
-      "end_time": "10:06 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477011.jpg"
-    },
-    {
-      "show_name": "Gaalodu",
-      "start_time": "10:06 PM",
-      "end_time": "11:34 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477012.jpg"
-    },
-    {
-      "show_name": "RDX",
-      "start_time": "11:34 PM",
+      "show_name": "Sita Ramam",
+      "start_time": "09:12 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-17/2511171477013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450010.jpg"
     }
   ]
 }
