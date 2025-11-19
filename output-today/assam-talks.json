@@ -1,0 +1,295 @@
+{
+  "channel_name": "Assam Talks",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png",
+  "date": "2025-11-20",
+  "programs": [
+    {
+      "show_name": "Prime @ 6",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e58fab4dc7a7822f3ce69c239c79acca.jpg"
+    },
+    {
+      "show_name": "Prime @ 6",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e58fab4dc7a7822f3ce69c239c79acca.jpg"
+    },
+    {
+      "show_name": "Prime @ 6",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e58fab4dc7a7822f3ce69c239c79acca.jpg"
+    },
+    {
+      "show_name": "Prime Time",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
+    },
+    {
+      "show_name": "Prime Time",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
+    },
+    {
+      "show_name": "News \u0026 Views",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
+    },
+    {
+      "show_name": "News \u0026 Views",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
+    },
+    {
+      "show_name": "Prime Hour",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6474b4228706d6413855b38f6bfc7fc8.jpg"
+    },
+    {
+      "show_name": "Prime Hour",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6474b4228706d6413855b38f6bfc7fc8.jpg"
+    },
+    {
+      "show_name": "News \u0026 Views",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
+    },
+    {
+      "show_name": "News \u0026 Views",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
+    },
+    {
+      "show_name": "Bhakti Geet",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/69685b029af428bb8592126969bf3b11.jpg"
+    },
+    {
+      "show_name": "Bhakti Geet",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/69685b029af428bb8592126969bf3b11.jpg"
+    },
+    {
+      "show_name": "Bhakti Geet",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/69685b029af428bb8592126969bf3b11.jpg"
+    },
+    {
+      "show_name": "Bhakti Anjali",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f1cebd2f6606749bc5e94929ef071985.jpg"
+    },
+    {
+      "show_name": "Puwar Kiron",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8b5577b3d81aa297634699091c54c243.jpg"
+    },
+    {
+      "show_name": "The Morning News",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ddc71f5e388dd3decc99aab1c53a4509.jpg"
+    },
+    {
+      "show_name": "The Morning News",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ddc71f5e388dd3decc99aab1c53a4509.jpg"
+    },
+    {
+      "show_name": "Morning Round Up",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b822b991ec46dcd9e70fcb88647751a1.jpg"
+    },
+    {
+      "show_name": "Morning Round Up",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b822b991ec46dcd9e70fcb88647751a1.jpg"
+    },
+    {
+      "show_name": "Assam Talks",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "show_name": "Assam Talks",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "show_name": "Breaking News",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/65739e9ca5a80591888fbcd92869acbf.jpg"
+    },
+    {
+      "show_name": "Breaking News",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/65739e9ca5a80591888fbcd92869acbf.jpg"
+    },
+    {
+      "show_name": "Mid Day Breaking",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9825ca64e77a6c71b667dd5f6f98e597.jpg"
+    },
+    {
+      "show_name": "Mid Day Breaking",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9825ca64e77a6c71b667dd5f6f98e597.jpg"
+    },
+    {
+      "show_name": "Assam Talks",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "show_name": "Assam Talks",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "show_name": "News Express",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c9f0e9bf548de6783212a97a8032419a.jpg"
+    },
+    {
+      "show_name": "News Express",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c9f0e9bf548de6783212a97a8032419a.jpg"
+    },
+    {
+      "show_name": "Assam Talks",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+    },
+    {
+      "show_name": "News \u0026 Views",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
+    },
+    {
+      "show_name": "News \u0026 Views",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
+    },
+    {
+      "show_name": "Rapid Fire",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6957c96318040e23b2921e13030e40d9.jpg"
+    },
+    {
+      "show_name": "Evening @ 5",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fc20ca60cb84fc557b343f97713f71ec.jpg"
+    },
+    {
+      "show_name": "City Talks",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0fa8a47f3e0322ee960314d0205e8b65.jpg"
+    },
+    {
+      "show_name": "Prime @ 6",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e58fab4dc7a7822f3ce69c239c79acca.jpg"
+    },
+    {
+      "show_name": "Prime @ 6",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e58fab4dc7a7822f3ce69c239c79acca.jpg"
+    },
+    {
+      "show_name": "Prime Time",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
+    },
+    {
+      "show_name": "Prime Time",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
+    },
+    {
+      "show_name": "Bartaman",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+    },
+    {
+      "show_name": "Bartaman",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+    },
+    {
+      "show_name": "Prime Suspect",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1fb59899c83b6bc30d04a0a08c1fa2c9.jpg"
+    },
+    {
+      "show_name": "Prime Suspect",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1fb59899c83b6bc30d04a0a08c1fa2c9.jpg"
+    },
+    {
+      "show_name": "Prime @ Night",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6227b76f0eda1f76424851d3de71c5ea.jpg"
+    },
+    {
+      "show_name": "Prime @ Night",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6227b76f0eda1f76424851d3de71c5ea.jpg"
+    },
+    {
+      "show_name": "Rapid Fire",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6957c96318040e23b2921e13030e40d9.jpg"
+    },
+    {
+      "show_name": "Bartaman",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+    }
+  ]
+}

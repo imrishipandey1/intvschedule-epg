@@ -1,151 +1,55 @@
 {
-  "channel_name": "T TV",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/T_TV.png",
-  "date": "2025-11-19",
+  "channel_name": "RT TV",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png",
+  "date": "2025-11-21",
   "programs": [
     {
-      "show_name": "T TV",
+      "show_name": "RT Programming",
       "start_time": "12:00 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194000.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "01:00 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194001.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211338000.jpg"
     },
     {
-      "show_name": "T TV",
+      "show_name": "RT Programming",
       "start_time": "03:00 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194003.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "04:00 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194004.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "05:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211338001.jpg"
     },
     {
-      "show_name": "T TV",
+      "show_name": "RT Programming",
       "start_time": "06:00 AM",
-      "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194006.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "07:00 AM",
-      "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194007.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "08:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211338002.jpg"
     },
     {
-      "show_name": "T TV",
+      "show_name": "RT Programming",
       "start_time": "09:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194009.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194010.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "11:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211338003.jpg"
     },
     {
-      "show_name": "T TV",
+      "show_name": "RT Programming",
       "start_time": "12:00 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194012.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "01:00 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194013.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "02:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211338004.jpg"
     },
     {
-      "show_name": "T TV",
+      "show_name": "RT Programming",
       "start_time": "03:00 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194015.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "04:00 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194016.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "05:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211338005.jpg"
     },
     {
-      "show_name": "T TV",
+      "show_name": "RT Programming",
       "start_time": "06:00 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194018.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "07:00 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194019.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "08:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211338006.jpg"
     },
     {
-      "show_name": "T TV",
+      "show_name": "RT Programming",
       "start_time": "09:00 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194021.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "10:00 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194022.jpg"
-    },
-    {
-      "show_name": "T TV",
-      "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511193194023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211338007.jpg"
     }
   ]
 }

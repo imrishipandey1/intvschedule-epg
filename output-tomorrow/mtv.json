@@ -1,0 +1,133 @@
+{
+  "channel_name": "MTV",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
+  "date": "2025-11-21",
+  "programs": [
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "12:00 AM",
+      "end_time": "12:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248000.jpg"
+    },
+    {
+      "show_name": "Night Out",
+      "start_time": "12:15 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248001.jpg"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "02:00 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248002.jpg"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248003.jpg"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248004.jpg"
+    },
+    {
+      "show_name": "MTV Chillax",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248005.jpg"
+    },
+    {
+      "show_name": "MTV Chillax",
+      "start_time": "06:00 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248006.jpg"
+    },
+    {
+      "show_name": "Pump Up Mornings",
+      "start_time": "07:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248007.jpg"
+    },
+    {
+      "show_name": "Roadies Real Heroes",
+      "start_time": "11:00 AM",
+      "end_time": "11:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248008.jpg"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "11:50 AM",
+      "end_time": "12:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248009.jpg"
+    },
+    {
+      "show_name": "Roadies",
+      "start_time": "12:45 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248010.jpg"
+    },
+    {
+      "show_name": "Roadies",
+      "start_time": "01:30 PM",
+      "end_time": "02:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248011.jpg"
+    },
+    {
+      "show_name": "Roadies",
+      "start_time": "02:45 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248012.jpg"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "04:00 PM",
+      "end_time": "05:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248013.jpg"
+    },
+    {
+      "show_name": "Roadies",
+      "start_time": "05:10 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248014.jpg"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "06:00 PM",
+      "end_time": "06:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248015.jpg"
+    },
+    {
+      "show_name": "Roadies",
+      "start_time": "06:45 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248016.jpg"
+    },
+    {
+      "show_name": "Roadies Real Heroes",
+      "start_time": "08:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248017.jpg"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "09:00 PM",
+      "end_time": "10:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248018.jpg"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "10:45 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248019.jpg"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121248020.jpg"
+    }
+  ]
+}

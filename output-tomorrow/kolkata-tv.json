@@ -1,295 +1,295 @@
 {
   "channel_name": "Kolkata TV",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png",
-  "date": "2025-11-19",
+  "date": "2025-11-21",
   "programs": [
     {
       "show_name": "Chaturtho Stamva",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264000.jpg"
     },
     {
       "show_name": "Bharat Amar Bharatborsha",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264001.jpg"
     },
     {
       "show_name": "Sangbad Saradin",
       "start_time": "01:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264002.jpg"
     },
     {
       "show_name": "Sangbad Saradin",
       "start_time": "06:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264003.jpg"
     },
     {
       "show_name": "Bharat Amar Bharatborsha",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264004.jpg"
     },
     {
       "show_name": "Amar Sahar",
       "start_time": "07:30 AM",
       "end_time": "07:32 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264005.jpg"
     },
     {
       "show_name": "Politics",
       "start_time": "07:32 AM",
       "end_time": "07:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264006.jpg"
     },
     {
       "show_name": "HDL + Good Morning Kolkata",
       "start_time": "07:57 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264007.jpg"
     },
     {
       "show_name": "Chaturtho Stamva",
       "start_time": "08:30 AM",
       "end_time": "08:47 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264008.jpg"
     },
     {
       "show_name": "AJKE",
       "start_time": "08:47 AM",
       "end_time": "08:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264009.jpg"
     },
     {
       "show_name": "HDL + Sangbad Saradin",
       "start_time": "08:57 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264010.jpg"
     },
     {
       "show_name": "Amar Sahar",
       "start_time": "09:30 AM",
       "end_time": "09:32 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264011.jpg"
     },
     {
       "show_name": "Sangbad Saradin",
       "start_time": "09:32 AM",
       "end_time": "09:59 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264012.jpg"
     },
     {
       "show_name": "HDL + Sangbad Saradin",
       "start_time": "09:59 AM",
       "end_time": "10:59 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264013.jpg"
     },
     {
       "show_name": "HDL + Sangbad Saradin",
       "start_time": "10:59 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264014.jpg"
     },
     {
       "show_name": "Amar Sahar",
       "start_time": "11:30 AM",
       "end_time": "11:32 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264015.jpg"
     },
     {
       "show_name": "Sangbad Saradin",
       "start_time": "11:32 AM",
       "end_time": "11:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264016.jpg"
     },
     {
       "show_name": "Bangla Ekhon",
       "start_time": "11:50 AM",
       "end_time": "11:59 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264017.jpg"
     },
     {
       "show_name": "HDL + Aro Baro",
       "start_time": "11:59 AM",
       "end_time": "12:54 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264018.jpg"
     },
     {
       "show_name": "5 Minute E 25",
       "start_time": "12:54 PM",
       "end_time": "12:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264019.jpg"
     },
     {
       "show_name": "HDL + Sangbad Saradin",
       "start_time": "12:59 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264020.jpg"
     },
     {
       "show_name": "Amar Sahar",
       "start_time": "01:30 PM",
       "end_time": "01:32 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264021.jpg"
     },
     {
       "show_name": "Sangbad Saradin",
       "start_time": "01:32 PM",
       "end_time": "01:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264022.jpg"
     },
     {
       "show_name": "Bangla Ekhon",
       "start_time": "01:50 PM",
       "end_time": "01:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264023.jpg"
     },
     {
       "show_name": "HDL + Sangbad Saradin",
       "start_time": "01:59 PM",
       "end_time": "02:54 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264024.jpg"
     },
     {
       "show_name": "5 Minute E 25",
       "start_time": "02:54 PM",
       "end_time": "02:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264025.jpg"
     },
     {
       "show_name": "HDL + Sangbad Saradin",
       "start_time": "02:59 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264026.jpg"
     },
     {
       "show_name": "Amar Sahar",
       "start_time": "03:30 PM",
       "end_time": "03:32 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264027.jpg"
     },
     {
       "show_name": "Sangbad Saradin",
       "start_time": "03:32 PM",
       "end_time": "03:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264028.jpg"
     },
     {
       "show_name": "Bangla Ekhon",
       "start_time": "03:50 PM",
       "end_time": "03:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264029.jpg"
     },
     {
       "show_name": "HDL + 4 Tey Chardik",
       "start_time": "03:59 PM",
       "end_time": "04:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264030.jpg"
     },
     {
       "show_name": "HDL + Sangbad Saradin",
       "start_time": "04:59 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264031.jpg"
     },
     {
       "show_name": "Amar Sahar",
       "start_time": "05:30 PM",
       "end_time": "05:32 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264032.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264032.jpg"
     },
     {
       "show_name": "Sangbad Saradin",
       "start_time": "05:32 PM",
       "end_time": "05:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264033.jpg"
     },
     {
       "show_name": "HDL + Jelar Saradin",
       "start_time": "05:59 PM",
       "end_time": "06:26 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264034.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264034.jpg"
     },
     {
       "show_name": "Narod Narod",
       "start_time": "06:26 PM",
       "end_time": "06:56 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264035.jpg"
     },
     {
       "show_name": "Bangla Bolchhe",
       "start_time": "06:56 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264036.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264036.jpg"
     },
     {
       "show_name": "Sera 100",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264037.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264037.jpg"
     },
     {
       "show_name": "Sangbad Saradin",
       "start_time": "08:30 PM",
       "end_time": "08:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264038.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264038.jpg"
     },
     {
       "show_name": "Bishoy Bidesh",
       "start_time": "08:50 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264039.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264039.jpg"
     },
     {
       "show_name": "Stadium Bulletin",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264040.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264040.jpg"
     },
     {
       "show_name": "Politics",
       "start_time": "09:30 PM",
       "end_time": "09:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264041.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264041.jpg"
     },
     {
       "show_name": "Chaturtho Stamva",
       "start_time": "09:59 PM",
       "end_time": "10:20 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264042.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264042.jpg"
     },
     {
       "show_name": "AJKE",
       "start_time": "10:20 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264043.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264043.jpg"
     },
     {
       "show_name": "Ponero Ponero Panch",
       "start_time": "10:30 PM",
       "end_time": "10:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264044.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264044.jpg"
     },
     {
       "show_name": "Bangla Bolchhe",
       "start_time": "10:59 PM",
       "end_time": "11:20 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264045.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264045.jpg"
     },
     {
       "show_name": "Bangla Bolchhe",
       "start_time": "11:20 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264046.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264046.jpg"
     },
     {
       "show_name": "Bangla Bolchhe",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-19/2511191264047.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211264047.jpg"
     }
   ]
 }

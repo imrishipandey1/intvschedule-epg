@@ -1,175 +1,193 @@
 {
   "channel_name": "Animal Planet Hindi",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",
-  "date": "2025-11-18",
+  "date": "2025-11-20",
   "programs": [
     {
-      "show_name": "Snow Leopards with Dan O'Neill",
-      "start_time": "12:00 AM",
-      "end_time": "12:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566000.jpg"
-    },
-    {
-      "show_name": "Brotherhood of Lions",
-      "start_time": "12:24 AM",
-      "end_time": "01:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566001.jpg"
-    },
-    {
-      "show_name": "Rise Of Jaguars",
-      "start_time": "01:24 AM",
-      "end_time": "02:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566002.jpg"
-    },
-    {
-      "show_name": "Wild Sky",
-      "start_time": "02:24 AM",
-      "end_time": "03:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566003.jpg"
-    },
-    {
-      "show_name": "Wild Africa: Rivers of Life",
-      "start_time": "03:24 AM",
-      "end_time": "04:14 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566004.jpg"
-    },
-    {
-      "show_name": "Snow Leopards with Dan O'Neill",
-      "start_time": "04:14 AM",
-      "end_time": "05:04 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566005.jpg"
-    },
-    {
-      "show_name": "A Wild Year On Earth",
-      "start_time": "05:04 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566006.jpg"
-    },
-    {
-      "show_name": "Wild Sky",
-      "start_time": "06:00 AM",
-      "end_time": "06:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566007.jpg"
-    },
-    {
-      "show_name": "Wild Sky",
-      "start_time": "06:50 AM",
-      "end_time": "07:37 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566008.jpg"
-    },
-    {
       "show_name": "Deadliest South Africa",
-      "start_time": "07:37 AM",
-      "end_time": "08:25 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566009.jpg"
+      "start_time": "12:00 AM",
+      "end_time": "12:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566000.jpg"
     },
     {
-      "show_name": "Nature's Mass Attacks",
-      "start_time": "08:25 AM",
-      "end_time": "09:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566010.jpg"
+      "show_name": "Epic Animal Encounters",
+      "start_time": "12:39 AM",
+      "end_time": "01:09 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566001.jpg"
     },
     {
-      "show_name": "The Loneliness Of The Leopard",
-      "start_time": "09:15 AM",
-      "end_time": "10:13 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566011.jpg"
+      "show_name": "Epic Animal Encounters",
+      "start_time": "01:09 AM",
+      "end_time": "01:38 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566002.jpg"
     },
     {
-      "show_name": "Brotherhood of Lions",
-      "start_time": "10:13 AM",
-      "end_time": "11:07 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566012.jpg"
-    },
-    {
-      "show_name": "Wild Wild Bunch",
-      "start_time": "11:07 AM",
-      "end_time": "12:02 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566013.jpg"
-    },
-    {
-      "show_name": "Impossible Animals",
-      "start_time": "12:02 PM",
-      "end_time": "12:58 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566014.jpg"
-    },
-    {
-      "show_name": "Rise Of Jaguars",
-      "start_time": "12:58 PM",
-      "end_time": "01:53 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566015.jpg"
-    },
-    {
-      "show_name": "Just Animals",
-      "start_time": "01:53 PM",
-      "end_time": "02:48 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566016.jpg"
-    },
-    {
-      "show_name": "Jungle Planet",
-      "start_time": "02:48 PM",
-      "end_time": "03:19 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566017.jpg"
+      "show_name": "Africa's Hunters",
+      "start_time": "01:38 AM",
+      "end_time": "02:38 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566003.jpg"
     },
     {
       "show_name": "Wild Sky",
-      "start_time": "03:19 PM",
-      "end_time": "04:16 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566018.jpg"
-    },
-    {
-      "show_name": "Animal Armory",
-      "start_time": "04:16 PM",
-      "end_time": "05:11 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566019.jpg"
-    },
-    {
-      "show_name": "Predator Countdown",
-      "start_time": "05:11 PM",
-      "end_time": "06:04 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566020.jpg"
-    },
-    {
-      "show_name": "Arabian Inferno",
-      "start_time": "06:04 PM",
-      "end_time": "06:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566021.jpg"
-    },
-    {
-      "show_name": "Chasing the Rains",
-      "start_time": "06:59 PM",
-      "end_time": "07:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566022.jpg"
-    },
-    {
-      "show_name": "Pride Rules",
-      "start_time": "07:55 PM",
-      "end_time": "08:53 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566023.jpg"
-    },
-    {
-      "show_name": "Wild Sky",
-      "start_time": "08:53 PM",
-      "end_time": "09:49 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566024.jpg"
+      "start_time": "02:38 AM",
+      "end_time": "03:37 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566004.jpg"
     },
     {
       "show_name": "Wild Survivors",
-      "start_time": "09:49 PM",
-      "end_time": "10:46 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566025.jpg"
+      "start_time": "03:37 AM",
+      "end_time": "04:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566005.jpg"
+    },
+    {
+      "show_name": "Tiger Legacy",
+      "start_time": "04:39 AM",
+      "end_time": "05:32 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566006.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "05:32 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566007.jpg"
+    },
+    {
+      "show_name": "Okavango: River of Dreams",
+      "start_time": "06:00 AM",
+      "end_time": "06:59 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566008.jpg"
+    },
+    {
+      "show_name": "Wild Sky",
+      "start_time": "06:59 AM",
+      "end_time": "07:47 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566009.jpg"
+    },
+    {
+      "show_name": "Gangs of Baboon Falls",
+      "start_time": "07:47 AM",
+      "end_time": "08:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566010.jpg"
+    },
+    {
+      "show_name": "Animal Arms Race",
+      "start_time": "08:35 AM",
+      "end_time": "09:26 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566011.jpg"
     },
     {
       "show_name": "Pride Rules",
-      "start_time": "10:46 PM",
-      "end_time": "11:47 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566026.jpg"
+      "start_time": "09:26 AM",
+      "end_time": "10:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566012.jpg"
     },
     {
-      "show_name": "Arabian Inferno",
+      "show_name": "Epic Animal Encounters",
+      "start_time": "10:20 AM",
+      "end_time": "10:46 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566013.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "10:46 AM",
+      "end_time": "11:12 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566014.jpg"
+    },
+    {
+      "show_name": "A Game Of Leopard Thrones",
+      "start_time": "11:12 AM",
+      "end_time": "12:09 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566015.jpg"
+    },
+    {
+      "show_name": "Chasing the Rains",
+      "start_time": "12:09 PM",
+      "end_time": "01:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566016.jpg"
+    },
+    {
+      "show_name": "Africa's Hunters",
+      "start_time": "01:05 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566017.jpg"
+    },
+    {
+      "show_name": "Hippo King",
+      "start_time": "02:00 PM",
+      "end_time": "02:56 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566018.jpg"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "02:56 PM",
+      "end_time": "03:26 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566019.jpg"
+    },
+    {
+      "show_name": "Tiger Legacy",
+      "start_time": "03:26 PM",
+      "end_time": "04:23 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566020.jpg"
+    },
+    {
+      "show_name": "Gangs of Baboon Falls",
+      "start_time": "04:23 PM",
+      "end_time": "05:13 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566021.jpg"
+    },
+    {
+      "show_name": "Snow Leopards with Dan O'Neill",
+      "start_time": "05:13 PM",
+      "end_time": "06:11 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566022.jpg"
+    },
+    {
+      "show_name": "Chasing the Rains",
+      "start_time": "06:11 PM",
+      "end_time": "07:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566023.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "07:08 PM",
+      "end_time": "07:38 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566024.jpg"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "07:38 PM",
+      "end_time": "08:06 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566025.jpg"
+    },
+    {
+      "show_name": "Animal Planet Hindi",
+      "start_time": "08:06 PM",
+      "end_time": "09:01 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566026.jpg"
+    },
+    {
+      "show_name": "Animal Planet Hindi",
+      "start_time": "09:01 PM",
+      "end_time": "09:58 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566027.jpg"
+    },
+    {
+      "show_name": "Wild Survivors",
+      "start_time": "09:58 PM",
+      "end_time": "10:52 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566028.jpg"
+    },
+    {
+      "show_name": "Africa's Hunters",
+      "start_time": "10:52 PM",
+      "end_time": "11:47 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566029.jpg"
+    },
+    {
+      "show_name": "Chasing the Rains",
       "start_time": "11:47 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/251118566027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120566030.jpg"
     }
   ]
 }

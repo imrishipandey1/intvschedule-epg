@@ -1,73 +1,73 @@
 {
-  "channel_name": "Colors Cineplex Superhit",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
-  "date": "2025-11-18",
+  "channel_name": "Colors Cineplex",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
+  "date": "2025-11-20",
   "programs": [
     {
-      "show_name": "Meri Ladaai",
+      "show_name": "Secret Agent",
       "start_time": "12:00 AM",
-      "end_time": "01:25 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450000.jpg"
+      "end_time": "01:06 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3d9d4f35c13998486c032ebd2f5fd66d.jpg"
     },
     {
-      "show_name": "Thanedaar",
-      "start_time": "01:25 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450001.jpg"
+      "show_name": "Satyabhama",
+      "start_time": "01:06 AM",
+      "end_time": "03:06 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/82043cdb0f0ba32b57ec55e6ea15c592.jpg"
     },
     {
-      "show_name": "Rajamanikyam",
-      "start_time": "02:30 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450002.jpg"
+      "show_name": "Filler",
+      "start_time": "03:06 AM",
+      "end_time": "04:18 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dfdca0c81d36c76aae93b5c0b0124d0f.jpg"
     },
     {
-      "show_name": "Kacche Dhaagey",
-      "start_time": "04:00 AM",
-      "end_time": "06:18 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450003.jpg"
+      "show_name": "Alibaba Aur 40 Chor",
+      "start_time": "04:18 AM",
+      "end_time": "06:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2063d160187552c4d21bea69f066c6fe.jpg"
     },
     {
-      "show_name": "Target Killing",
-      "start_time": "06:18 AM",
-      "end_time": "08:28 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450004.jpg"
+      "show_name": "RDX",
+      "start_time": "06:39 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/382233fb69810e0bf508a4bedb04f180.jpg"
     },
     {
-      "show_name": "Khallas",
-      "start_time": "08:28 AM",
-      "end_time": "11:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450005.jpg"
+      "show_name": "Bloody Ishq",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a8882cd71af1ca05e342bee23031dcca.jpg"
     },
     {
-      "show_name": "Thugs",
-      "start_time": "11:05 AM",
-      "end_time": "01:33 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450006.jpg"
+      "show_name": "Shershaah",
+      "start_time": "12:00 PM",
+      "end_time": "02:11 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9aa0b21a5409ae632fc101d43b1a647a.jpg"
     },
     {
-      "show_name": "Main Hoon Dandadhikari",
-      "start_time": "01:33 PM",
-      "end_time": "04:12 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450007.jpg"
+      "show_name": "Dumdaar Khiladi",
+      "start_time": "02:11 PM",
+      "end_time": "05:03 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/331f1bb5acb260b9610f726870cd209a.jpg"
     },
     {
-      "show_name": "Gatta Kusthi",
-      "start_time": "04:12 PM",
-      "end_time": "06:49 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450008.jpg"
+      "show_name": "Power Unlimited",
+      "start_time": "05:03 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3396ea75a35b2366fb6bf09237804fba.jpg"
     },
     {
-      "show_name": "Ugram",
-      "start_time": "06:49 PM",
-      "end_time": "09:12 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450009.jpg"
+      "show_name": "Veera Simha Reddy",
+      "start_time": "07:50 PM",
+      "end_time": "10:54 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5efd404ca1eadfbcadd51872e3450b2b.jpg"
     },
     {
-      "show_name": "Sita Ramam",
-      "start_time": "09:12 PM",
+      "show_name": "Big Brother",
+      "start_time": "10:54 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-18/2511181450010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/76fa19c80180b17e9eeab1864bd84ee1.jpg"
     }
   ]
 }
