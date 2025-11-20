@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Bangla Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
-  "date": "2025-11-20",
+  "date": "2025-11-21",
   "programs": [
     {
-      "show_name": "Mahaguru",
+      "show_name": "Surya",
       "start_time": "12:00 AM",
       "end_time": "01:10 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201657000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657000.jpg"
     },
     {
-      "show_name": "Proloy",
+      "show_name": "Bidaay Byomkesh",
       "start_time": "01:10 AM",
-      "end_time": "03:10 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201657001.jpg"
+      "end_time": "03:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657001.jpg"
     },
     {
       "show_name": "Shiv Shakti",
-      "start_time": "03:10 AM",
+      "start_time": "03:05 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201657002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657002.jpg"
     },
     {
-      "show_name": "Aashiqui: True Love",
+      "show_name": "Yugavatar Lokenath",
       "start_time": "04:00 AM",
-      "end_time": "06:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201657003.jpg"
+      "end_time": "07:10 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657003.jpg"
     },
     {
-      "show_name": "Nag Nagini",
-      "start_time": "06:45 AM",
-      "end_time": "09:25 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201657004.jpg"
+      "show_name": "Pronami Tomay",
+      "start_time": "07:10 AM",
+      "end_time": "10:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657004.jpg"
     },
     {
-      "show_name": "Paribar",
-      "start_time": "09:25 AM",
+      "show_name": "Hirak Jayanti",
+      "start_time": "10:05 AM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201657005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657005.jpg"
     },
     {
-      "show_name": "Tulkalam",
+      "show_name": "Sedin Dekha Hoyechilo",
       "start_time": "01:00 PM",
-      "end_time": "03:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201657006.jpg"
+      "end_time": "04:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657006.jpg"
     },
     {
-      "show_name": "Champion",
-      "start_time": "03:50 PM",
-      "end_time": "07:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201657007.jpg"
+      "show_name": "Prem Amar",
+      "start_time": "04:10 PM",
+      "end_time": "07:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657007.jpg"
     },
     {
-      "show_name": "Greftaar",
-      "start_time": "07:05 PM",
-      "end_time": "10:25 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201657008.jpg"
+      "show_name": "Josh",
+      "start_time": "07:15 PM",
+      "end_time": "10:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657008.jpg"
     },
     {
-      "show_name": "Surya",
-      "start_time": "10:25 PM",
+      "show_name": "Le Halua Le",
+      "start_time": "10:20 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201657009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657009.jpg"
     }
   ]
 }

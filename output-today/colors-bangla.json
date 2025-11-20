@@ -1,139 +1,145 @@
 {
   "channel_name": "Colors Bangla SD",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png",
-  "date": "2025-11-20",
+  "date": "2025-11-21",
   "programs": [
     {
       "show_name": "Jai Jagannath",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369000.jpg"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369001.jpg"
     },
     {
       "show_name": "Sadhok Bhamakhyapa",
       "start_time": "01:30 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369002.jpg"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369003.jpg"
     },
     {
       "show_name": "Swapnodana",
       "start_time": "03:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369004.jpg"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369005.jpg"
     },
     {
       "show_name": "Sadhok Bhamakhyapa",
       "start_time": "05:30 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369006.jpg"
     },
     {
       "show_name": "Bible Study",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369007.jpg"
     },
     {
       "show_name": "Tumii Je Amar Maa",
       "start_time": "07:00 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369008.jpg"
     },
     {
       "show_name": "Jai Jagannath",
       "start_time": "08:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369009.jpg"
     },
     {
       "show_name": "Sadhok Bhamakhyapa",
       "start_time": "09:00 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369010.jpg"
     },
     {
       "show_name": "Naagin",
       "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369011.jpg"
     },
     {
       "show_name": "Naagin",
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369012.jpg"
     },
     {
       "show_name": "Jai Jagannath",
       "start_time": "12:00 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369013.jpg"
     },
     {
       "show_name": "Sadhok Bhamakhyapa",
       "start_time": "01:00 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369014.jpg"
     },
     {
-      "show_name": "Badla",
+      "show_name": "Mahakaal",
       "start_time": "02:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369015.jpg"
+    },
+    {
+      "show_name": "Shiv Shakti",
+      "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369016.jpg"
     },
     {
       "show_name": "Sadhok Bhamakhyapa",
       "start_time": "05:30 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369017.jpg"
     },
     {
       "show_name": "Jai Jagannath",
       "start_time": "06:30 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369018.jpg"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369019.jpg"
     },
     {
       "show_name": "Swapnodana",
       "start_time": "08:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369020.jpg"
     },
     {
       "show_name": "Tumii Je Amar Maa",
       "start_time": "10:00 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369021.jpg"
     },
     {
       "show_name": "Sadhok Bhamakhyapa",
       "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201369021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211369022.jpg"
     }
   ]
 }

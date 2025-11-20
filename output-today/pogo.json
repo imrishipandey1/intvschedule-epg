@@ -1,277 +1,283 @@
 {
   "channel_name": "Pogo Hindi",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
-  "date": "2025-11-20",
+  "date": "2025-11-21",
   "programs": [
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559000.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559001.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "02:00 AM",
       "end_time": "02:12 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559002.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "02:12 AM",
       "end_time": "02:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559003.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "02:24 AM",
       "end_time": "02:36 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559004.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "02:36 AM",
       "end_time": "02:48 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559005.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "02:48 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559006.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "03:00 AM",
       "end_time": "03:12 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559007.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "03:12 AM",
       "end_time": "03:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559008.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "03:24 AM",
       "end_time": "03:36 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559009.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "03:36 AM",
       "end_time": "03:48 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559010.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "03:48 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559011.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "04:00 AM",
       "end_time": "04:12 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559012.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "04:12 AM",
       "end_time": "04:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559013.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "04:24 AM",
       "end_time": "04:36 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559014.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "04:36 AM",
       "end_time": "04:48 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559015.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "04:48 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559016.jpg"
     },
     {
       "show_name": "Smaashhing Simmba",
       "start_time": "05:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559017.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "06:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559018.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559019.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "07:30 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559020.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559021.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559022.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "09:30 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559023.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559024.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559025.jpg"
     },
     {
-      "show_name": "Chhota Bheem Aur Krishna :Patliputra",
+      "show_name": "Cb Mahashaitaan Ka Mahavaar",
       "start_time": "11:30 AM",
-      "end_time": "12:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559026.jpg"
+      "end_time": "12:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559026.jpg"
     },
     {
-      "show_name": "Chhota Bheem Movie-In Rise Of Kirmada",
-      "start_time": "12:45 PM",
+      "show_name": "Cb Mahashaitaan Ka Mahavaar",
+      "start_time": "12:15 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559027.jpg"
+    },
+    {
+      "show_name": "Cb Mahashaitaan Ka Mahavaar",
+      "start_time": "01:00 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559028.jpg"
     },
     {
-      "show_name": "Sher Aur Savasher Birthday And The Royal Treasure Hunt",
+      "show_name": "Baby Little Singham Telefeature 01 Royal Rajasthan Express",
       "start_time": "02:00 PM",
       "end_time": "02:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559029.jpg"
     },
     {
-      "show_name": "Little Singham - Kans Aur Kaal Ka Raaj",
+      "show_name": "Ls Aur Bs Tezaab Machaye Tabaahi",
       "start_time": "02:45 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559030.jpg"
     },
     {
-      "show_name": "Return of Little Singham",
+      "show_name": "Ls Aur Bs Tezaab Machaye Tabaahi",
       "start_time": "03:30 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559031.jpg"
     },
     {
       "show_name": "Grizzy and The Lemmings",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559032.jpg"
     },
     {
       "show_name": "Grizzy and The Lemmings: World Tour",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559032.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559033.jpg"
     },
     {
       "show_name": "Grizzy and The Lemmings",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559034.jpg"
     },
     {
       "show_name": "Grizzy and The Lemmings",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559034.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559035.jpg"
     },
     {
-      "show_name": "LS Teen Kaal Ka Dhamaal",
+      "show_name": "Singhamverse Vs Kaalverse 2",
       "start_time": "06:30 PM",
       "end_time": "07:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559036.jpg"
     },
     {
-      "show_name": "LS Teen Kaal Ka Dhamaal",
+      "show_name": "Singhamverse Vs Kaalverse 2",
       "start_time": "07:15 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559036.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559037.jpg"
     },
     {
-      "show_name": "LS Teen Kaal Ka Dhamaal",
+      "show_name": "Singhamverse Vs Kaalverse 2",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559037.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559038.jpg"
     },
     {
       "show_name": "Lamput",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559038.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559039.jpg"
     },
     {
       "show_name": "Lamput",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559039.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559040.jpg"
     },
     {
       "show_name": "Lamput",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559040.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559041.jpg"
     },
     {
       "show_name": "Lamput",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559041.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559042.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559042.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559043.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559043.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559044.jpg"
     },
     {
       "show_name": "Chhota Bheem",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120559044.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121559045.jpg"
     }
   ]
 }

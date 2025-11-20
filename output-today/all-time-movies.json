@@ -1,0 +1,73 @@
+{
+  "channel_name": "ALL Time MOVIES",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATMOV_Thumbnail-v1/ATMOV_Thumbnail.png",
+  "date": "2025-11-21",
+  "programs": [
+    {
+      "show_name": "Directer Cut",
+      "start_time": "02:57 AM",
+      "end_time": "02:58 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Gul Makai",
+      "start_time": "02:58 AM",
+      "end_time": "05:01 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Teleshopping",
+      "start_time": "05:01 AM",
+      "end_time": "06:31 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Chattam",
+      "start_time": "06:31 AM",
+      "end_time": "08:11 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Kakki Sattai",
+      "start_time": "08:11 AM",
+      "end_time": "11:12 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Massu Engira Masilamani",
+      "start_time": "11:12 AM",
+      "end_time": "02:02 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Hit List",
+      "start_time": "02:02 PM",
+      "end_time": "04:11 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Aadhavan",
+      "start_time": "04:11 PM",
+      "end_time": "06:59 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Lakshmi",
+      "start_time": "06:59 PM",
+      "end_time": "09:14 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ism",
+      "start_time": "09:14 PM",
+      "end_time": "11:26 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Vettaiyaadu Vilaiyaadu",
+      "start_time": "11:26 PM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "channel_name": "9XM",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",
-  "date": "2025-11-20",
+  "date": "2025-11-21",
   "programs": [
     {
       "show_name": "9xm Raat Bhar",
@@ -232,16 +232,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/71a7203d97dae30fe85d3642863646e1.jpg"
     },
     {
-      "show_name": "9XM Super Swag",
+      "show_name": "9XM Reelstar",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c8b0d9b6e8ab1e5abfb84d05c92d130.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/340d019a1a5bb9759baf41a83263480d.jpg"
     },
     {
-      "show_name": "9XM Super Swag",
+      "show_name": "9XM Reelstar",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c8b0d9b6e8ab1e5abfb84d05c92d130.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/340d019a1a5bb9759baf41a83263480d.jpg"
     },
     {
       "show_name": "9xm Shayarism",

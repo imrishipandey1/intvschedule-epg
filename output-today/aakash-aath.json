@@ -1,7 +1,7 @@
 {
   "channel_name": "Aakash Aath",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",
-  "date": "2025-11-20",
+  "date": "2025-11-21",
   "programs": [
     {
       "show_name": "Police Files",
@@ -10,10 +10,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08e00ebe1922b27c9693d0d69837c967.jpg"
     },
     {
-      "show_name": "Jyoti",
+      "show_name": "Antarer Bhalobasha",
       "start_time": "12:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4f3bec819a2ca05cb92de245b35bb0d7.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3759fea11d165f5121df50b483f5e970.jpg"
     },
     {
       "show_name": "Akashe Superstar",
@@ -112,10 +112,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e4bff3372dc455b629ed10c147c83644.jpg"
     },
     {
-      "show_name": "Antarer Bhalobasha",
+      "show_name": "Prem Sanghat",
       "start_time": "03:05 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3759fea11d165f5121df50b483f5e970.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/83785319018fa9246432d254c2d39d9b.jpg"
     },
     {
       "show_name": "Radhuni",

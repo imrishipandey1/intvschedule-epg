@@ -1,17 +1,17 @@
 {
   "channel_name": "B4U Bhojpuri",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
-  "date": "2025-11-20",
+  "date": "2025-11-21",
   "programs": [
     {
-      "show_name": "Banarasi Babu",
+      "show_name": "Mr Nautanki Baaz",
       "start_time": "12:00 AM",
-      "end_time": "01:52 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/182d4779b83b6ac6903c9e503038a2a4.jpg"
+      "end_time": "02:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0bb997929085c1e07ed69e54efc02b16.jpg"
     },
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:52 AM",
+      "start_time": "02:25 AM",
       "end_time": "02:59 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c09ce4bfca3c0bb6fa709c163eacfce.jpg"
     },
@@ -24,50 +24,50 @@
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "05:00 AM",
-      "end_time": "06:39 AM",
+      "end_time": "06:59 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
-      "show_name": "Chhapra Wali Siwan Wali",
-      "start_time": "06:39 AM",
-      "end_time": "09:09 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8eca48ffff2d3f7916640220f8044e73.jpg"
+      "show_name": "Dulhan Aur Dahej",
+      "start_time": "06:59 AM",
+      "end_time": "09:22 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/30650a47ee417c567aea2b3a077720a0.jpg"
     },
     {
-      "show_name": "Badki Didi 2",
-      "start_time": "09:09 AM",
-      "end_time": "11:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6d6931e29f2e25324b6541f3aed770bc.jpg"
+      "show_name": "Badki Sakhi Chotki Sakhi",
+      "start_time": "09:22 AM",
+      "end_time": "11:59 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/105a934947b6a7eb50d2e1d774cc158c.jpg"
     },
     {
-      "show_name": "Masoom Housewife",
-      "start_time": "11:50 AM",
-      "end_time": "02:49 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4d0623576be2bf02028983797ec54ae2.jpg"
+      "show_name": "Ghar Ki Malkin",
+      "start_time": "11:59 AM",
+      "end_time": "02:43 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9ee134f202dd79e4f7466deb55923806.jpg"
     },
     {
-      "show_name": "Sasural Ke Gulam",
-      "start_time": "02:49 PM",
-      "end_time": "05:31 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fae0d0cb5ddd3e6d5ee9e94d05fa8d96.jpg"
+      "show_name": "Badhaiya Baje More Angana",
+      "start_time": "02:43 PM",
+      "end_time": "05:23 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/61c9b44482c989df75488b0a35a462c3.jpg"
     },
     {
-      "show_name": "TV Wali Biwi",
-      "start_time": "05:31 PM",
-      "end_time": "08:29 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9297705c14b8969574e8eeef1b1b4863.jpg"
+      "show_name": "Badi Maa Chhoti Maa",
+      "start_time": "05:23 PM",
+      "end_time": "08:26 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d34d68d823b22453cfeae0475a872ed6.jpg"
     },
     {
-      "show_name": "Ghoonghat Wali Superstar",
-      "start_time": "08:29 PM",
-      "end_time": "11:51 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f16c60468a27d0ad25f6751056896499.jpg"
+      "show_name": "Gujarati Bahu",
+      "start_time": "08:26 PM",
+      "end_time": "11:46 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fb8aecf2984c5370bd5ed09b19310853.jpg"
     },
     {
-      "show_name": "Mr Nautanki Baaz",
-      "start_time": "11:51 PM",
+      "show_name": "Dilwala",
+      "start_time": "11:46 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fcfd4380a7212a5dc2ccf4397fc047df.jpg"
     }
   ]
 }

@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Kannada Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",
-  "date": "2025-11-20",
+  "date": "2025-11-21",
   "programs": [
     {
-      "show_name": "Priyanka",
+      "show_name": "Sakha Sakhi",
       "start_time": "12:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201632000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211632000.jpg"
     },
     {
-      "show_name": "Kona Edaithe",
+      "show_name": "Dear Vikram",
       "start_time": "02:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201632001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211632001.jpg"
     },
     {
       "show_name": "Shiva Shakthi",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201632002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211632002.jpg"
     },
     {
-      "show_name": "Preethiyinda",
+      "show_name": "Mr LLB",
       "start_time": "05:30 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201632003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211632003.jpg"
     },
     {
       "show_name": "Bigg Boss Kannada",
       "start_time": "08:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201632004.jpg"
-    },
-    {
-      "show_name": "Neelakanta",
-      "start_time": "10:00 AM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201632005.jpg"
-    },
-    {
-      "show_name": "Grama Devathe",
-      "start_time": "01:30 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201632006.jpg"
-    },
-    {
-      "show_name": "Police Bete",
-      "start_time": "04:30 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201632007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211632004.jpg"
     },
     {
       "show_name": "Namma Basava",
-      "start_time": "07:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201632008.jpg"
+      "start_time": "10:00 AM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211632005.jpg"
     },
     {
-      "show_name": "Sakha Sakhi",
+      "show_name": "Gandhada Gudi",
+      "start_time": "01:30 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211632006.jpg"
+    },
+    {
+      "show_name": "Kshetrapati",
+      "start_time": "04:30 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211632007.jpg"
+    },
+    {
+      "show_name": "Madhagaja",
+      "start_time": "07:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211632008.jpg"
+    },
+    {
+      "show_name": "Vismaya",
       "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/2511201632009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211632009.jpg"
     }
   ]
 }

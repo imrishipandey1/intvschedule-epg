@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Bangla Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
-  "date": "2025-11-21",
+  "date": "2025-11-22",
   "programs": [
     {
-      "show_name": "Surya",
+      "show_name": "Le Halua Le",
       "start_time": "12:00 AM",
-      "end_time": "01:10 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657000.jpg"
+      "end_time": "01:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221657000.jpg"
     },
     {
-      "show_name": "Bidaay Byomkesh",
-      "start_time": "01:10 AM",
+      "show_name": "Tomake Chai",
+      "start_time": "01:05 AM",
       "end_time": "03:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221657001.jpg"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "03:05 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221657002.jpg"
     },
     {
-      "show_name": "Yugavatar Lokenath",
+      "show_name": "Ekannoborti",
       "start_time": "04:00 AM",
-      "end_time": "07:10 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657003.jpg"
+      "end_time": "06:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221657003.jpg"
     },
     {
-      "show_name": "Pronami Tomay",
-      "start_time": "07:10 AM",
-      "end_time": "10:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657004.jpg"
+      "show_name": "Phirie Dao",
+      "start_time": "06:40 AM",
+      "end_time": "09:55 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221657004.jpg"
     },
     {
-      "show_name": "Hirak Jayanti",
-      "start_time": "10:05 AM",
+      "show_name": "Pratikar",
+      "start_time": "09:55 AM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221657005.jpg"
     },
     {
-      "show_name": "Sedin Dekha Hoyechilo",
+      "show_name": "Bhalobasa Bhalobasa",
       "start_time": "01:00 PM",
-      "end_time": "04:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657006.jpg"
+      "end_time": "04:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221657006.jpg"
     },
     {
-      "show_name": "Prem Amar",
-      "start_time": "04:10 PM",
-      "end_time": "07:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657007.jpg"
+      "show_name": "Golpo Holeo Shotti",
+      "start_time": "04:45 PM",
+      "end_time": "07:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221657007.jpg"
     },
     {
-      "show_name": "Josh",
-      "start_time": "07:15 PM",
+      "show_name": "Pratibad",
+      "start_time": "07:05 PM",
       "end_time": "10:20 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221657008.jpg"
     },
     {
-      "show_name": "Le Halua Le",
+      "show_name": "Khiladi",
       "start_time": "10:20 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211657009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221657009.jpg"
     }
   ]
 }

@@ -1,61 +1,61 @@
 {
   "channel_name": "B4U Movies",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
-  "date": "2025-11-20",
+  "date": "2025-11-21",
   "programs": [
     {
-      "show_name": "Mafia Raaj",
-      "start_time": "12:00 AM",
-      "end_time": "01:16 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120182000.jpg"
-    },
-    {
-      "show_name": "Aasman Se Ooncha",
-      "start_time": "01:16 AM",
-      "end_time": "03:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120182001.jpg"
-    },
-    {
-      "show_name": "Kaun Kare Kurbanie",
-      "start_time": "03:55 AM",
-      "end_time": "05:48 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120182002.jpg"
-    },
-    {
-      "show_name": "Daraar",
-      "start_time": "05:48 AM",
-      "end_time": "08:46 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120182003.jpg"
-    },
-    {
-      "show_name": "Maati Maangey Khoon",
-      "start_time": "08:46 AM",
-      "end_time": "11:49 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120182004.jpg"
-    },
-    {
-      "show_name": "Andhaa Kaanoon",
-      "start_time": "11:49 AM",
-      "end_time": "03:31 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120182005.jpg"
-    },
-    {
-      "show_name": "Baaghi: A Rebel for Love",
-      "start_time": "03:31 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120182006.jpg"
-    },
-    {
-      "show_name": "Ganga Tere Desh Mein",
-      "start_time": "07:00 PM",
-      "end_time": "10:51 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120182007.jpg"
-    },
-    {
       "show_name": "Action Time",
-      "start_time": "10:51 PM",
+      "start_time": "12:00 AM",
+      "end_time": "01:26 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121182000.jpg"
+    },
+    {
+      "show_name": "Jigri Dost",
+      "start_time": "01:26 AM",
+      "end_time": "04:26 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121182001.jpg"
+    },
+    {
+      "show_name": "Krishna Arjun",
+      "start_time": "04:26 AM",
+      "end_time": "06:32 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121182002.jpg"
+    },
+    {
+      "show_name": "Keemat",
+      "start_time": "06:32 AM",
+      "end_time": "09:49 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121182003.jpg"
+    },
+    {
+      "show_name": "Ghatak / Lethal",
+      "start_time": "09:49 AM",
+      "end_time": "12:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121182004.jpg"
+    },
+    {
+      "show_name": "Khoon Bhari Maang",
+      "start_time": "12:27 PM",
+      "end_time": "03:46 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121182005.jpg"
+    },
+    {
+      "show_name": "Saajon Ki Bahon Mein",
+      "start_time": "03:46 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121182006.jpg"
+    },
+    {
+      "show_name": "Avtaar",
+      "start_time": "07:00 PM",
+      "end_time": "10:57 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121182007.jpg"
+    },
+    {
+      "show_name": "Khel",
+      "start_time": "10:57 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-20/251120182008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121182008.jpg"
     }
   ]
 }
