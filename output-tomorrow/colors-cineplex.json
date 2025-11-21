@@ -1,0 +1,73 @@
+{
+  "channel_name": "Colors Cineplex Bollywood",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+  "date": "2025-11-23",
+  "programs": [
+    {
+      "show_name": "Adventures of Tarzan",
+      "start_time": "12:00 AM",
+      "end_time": "12:48 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763000.jpg"
+    },
+    {
+      "show_name": "Ram Aur Shyam",
+      "start_time": "12:48 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763001.jpg"
+    },
+    {
+      "show_name": "Kaalia",
+      "start_time": "02:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763002.jpg"
+    },
+    {
+      "show_name": "To Be Announced",
+      "start_time": "04:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763003.jpg"
+    },
+    {
+      "show_name": "Dharam Kanta",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763004.jpg"
+    },
+    {
+      "show_name": "Jaisi Karni Waisi Bharni",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763005.jpg"
+    },
+    {
+      "show_name": "Haqeeqat",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763006.jpg"
+    },
+    {
+      "show_name": "Gharwali Baharwali",
+      "start_time": "03:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763007.jpg"
+    },
+    {
+      "show_name": "To Be Announced",
+      "start_time": "05:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763008.jpg"
+    },
+    {
+      "show_name": "Raja Hindustani",
+      "start_time": "07:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763009.jpg"
+    },
+    {
+      "show_name": "Tango Charlie",
+      "start_time": "10:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231763010.jpg"
+    }
+  ]
+}

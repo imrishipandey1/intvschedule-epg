@@ -1,73 +1,73 @@
 {
   "channel_name": "Colors Gujarati Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
-  "date": "2025-11-22",
+  "date": "2025-11-23",
   "programs": [
     {
-      "show_name": "Kumkum Pagle Padharo Maa Khodiyar",
+      "show_name": "Halo Ne Madi Garbe Ramadu",
       "start_time": "12:00 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324000.jpg"
+      "end_time": "01:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324000.jpg"
     },
     {
-      "show_name": "Pardesi Pritam Vela Aavjo",
-      "start_time": "01:00 AM",
-      "end_time": "03:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324001.jpg"
+      "show_name": "Waagi Prem Katari",
+      "start_time": "01:20 AM",
+      "end_time": "03:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324001.jpg"
     },
     {
       "show_name": "Desi Beats",
-      "start_time": "03:05 AM",
-      "end_time": "05:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324002.jpg"
+      "start_time": "03:25 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324002.jpg"
     },
     {
-      "show_name": "Gangapur Ni Ganga",
-      "start_time": "05:55 AM",
+      "show_name": "Hiral Hameer",
+      "start_time": "05:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324003.jpg"
     },
     {
       "show_name": "Desi Beats",
       "start_time": "08:00 AM",
-      "end_time": "09:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324004.jpg"
+      "end_time": "09:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324004.jpg"
     },
     {
-      "show_name": "Naagmati Naagwallo",
-      "start_time": "09:35 AM",
-      "end_time": "12:25 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324005.jpg"
+      "show_name": "Kunjal Kaljani Kor",
+      "start_time": "09:40 AM",
+      "end_time": "12:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324005.jpg"
     },
     {
-      "show_name": "Moti Na Chowkre Sapna Man Ditha",
-      "start_time": "12:25 PM",
-      "end_time": "03:40 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324006.jpg"
+      "show_name": "Sajan Sonal De",
+      "start_time": "12:50 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324006.jpg"
     },
     {
-      "show_name": "Sabar Tara Vehta Pani",
-      "start_time": "03:40 PM",
+      "show_name": "Lohi No Nahi E Koi No Nahi",
+      "start_time": "03:30 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324007.jpg"
     },
     {
-      "show_name": "Gujarat Gatha",
+      "show_name": "Yash Gatha Gujarat Ni",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324008.jpg"
     },
     {
-      "show_name": "Paras Padmini",
+      "show_name": "Sorry Sajna",
       "start_time": "07:00 PM",
-      "end_time": "10:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324009.jpg"
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324009.jpg"
     },
     {
-      "show_name": "Halo Ne Madi Garbe Ramadu",
-      "start_time": "10:15 PM",
+      "show_name": "Alakh Na Ajwala",
+      "start_time": "10:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231324010.jpg"
     }
   ]
 }

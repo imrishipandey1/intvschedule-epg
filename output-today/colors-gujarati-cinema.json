@@ -1,67 +1,73 @@
 {
   "channel_name": "Colors Gujarati Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
-  "date": "2025-11-21",
+  "date": "2025-11-22",
   "programs": [
     {
-      "show_name": "Ajwali Raat Amasni",
+      "show_name": "Kumkum Pagle Padharo Maa Khodiyar",
       "start_time": "12:00 AM",
-      "end_time": "12:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211324000.jpg"
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324000.jpg"
     },
     {
-      "show_name": "Palav Bhini Preet",
-      "start_time": "12:50 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211324001.jpg"
+      "show_name": "Pardesi Pritam Vela Aavjo",
+      "start_time": "01:00 AM",
+      "end_time": "03:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324001.jpg"
     },
     {
       "show_name": "Desi Beats",
-      "start_time": "03:00 AM",
-      "end_time": "05:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211324002.jpg"
+      "start_time": "03:05 AM",
+      "end_time": "05:55 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324002.jpg"
     },
     {
-      "show_name": "Gajjar Ni Pipudi",
-      "start_time": "05:35 AM",
+      "show_name": "Gangapur Ni Ganga",
+      "start_time": "05:55 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211324003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324003.jpg"
     },
     {
       "show_name": "Desi Beats",
       "start_time": "08:00 AM",
-      "end_time": "10:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211324004.jpg"
+      "end_time": "09:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324004.jpg"
     },
     {
-      "show_name": "Lohi Bhini Chundadi",
-      "start_time": "10:50 AM",
-      "end_time": "01:35 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211324005.jpg"
+      "show_name": "Naagmati Naagwallo",
+      "start_time": "09:35 AM",
+      "end_time": "12:25 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324005.jpg"
     },
     {
-      "show_name": "Dholi",
-      "start_time": "01:35 PM",
-      "end_time": "04:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211324006.jpg"
+      "show_name": "Moti Na Chowkre Sapna Man Ditha",
+      "start_time": "12:25 PM",
+      "end_time": "03:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324006.jpg"
     },
     {
-      "show_name": "Pardeshi Maniyaro",
-      "start_time": "04:10 PM",
+      "show_name": "Sabar Tara Vehta Pani",
+      "start_time": "03:40 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324007.jpg"
+    },
+    {
+      "show_name": "Gujarat Gatha",
+      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211324007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324008.jpg"
     },
     {
-      "show_name": "Bhagat Gora Kumbhar",
+      "show_name": "Paras Padmini",
       "start_time": "07:00 PM",
-      "end_time": "10:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211324008.jpg"
+      "end_time": "10:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324009.jpg"
     },
     {
-      "show_name": "Kumkum Pagle Padharo Maa Khodiyar",
-      "start_time": "10:05 PM",
+      "show_name": "Halo Ne Madi Garbe Ramadu",
+      "start_time": "10:15 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/2511211324009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221324010.jpg"
     }
   ]
 }

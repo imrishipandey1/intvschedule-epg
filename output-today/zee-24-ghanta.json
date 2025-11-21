@@ -1,295 +1,295 @@
 {
   "channel_name": "Zee 24 Ghanta",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",
-  "date": "2025-11-21",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Zee24Ghanta_Thumbnail_83351296-fce6-4d30-9c75-3df2aa3d5f68.png",
+  "date": "2025-11-22",
   "programs": [
     {
       "show_name": "Ja Bolbo Satti Bolbo",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464000.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ja Bolbo Satti Bolbo",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464001.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464002.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464003.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ja Bolbo Satti Bolbo",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464004.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ja Bolbo Satti Bolbo",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464005.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464006.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464007.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ja Bolbo Satti Bolbo",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464008.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ja Bolbo Satti Bolbo",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464009.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464010.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464011.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Supravat Bangla",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464012.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Supravat Bangla",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464013.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Saat Sakal",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464014.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Saat Sakal",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464015.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464016.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Chatpat 24",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464017.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464018.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464019.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "10 Ter News",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464020.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464021.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "11 Ter Dunia",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464022.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Chatpat 24",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464023.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "12 ter Baro Khabor",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464024.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "12 ter Baro Khabor",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464025.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dupurer Prime Time",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464026.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Chatpat 24",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464027.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Dutor Dunia",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464028.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464029.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Khabor Saradin",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464030.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Jelar Dupur",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464031.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Chatpat 24",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464032.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News Room Theke",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464033.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Panchter Panch",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464034.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Panchter Panch",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464035.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Kolkatar 6 show",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464036.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Special 24",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464037.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Viral News",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464038.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ek Tana 24",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464039.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bangla@8",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464040.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Bangla@8",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464041.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ja Bolbo Satti Bolbo",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464042.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Ja Bolbo Satti Bolbo",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464043.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Jelar 24",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464044.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Viral News",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464045.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Shubharatri Bangla",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464046.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Shubharatri Bangla",
       "start_time": "11:30 PM",
-      "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-21/251121464047.jpg"
+      "end_time": "12:00 AM",
+      "show_logo": ""
     }
   ]
 }

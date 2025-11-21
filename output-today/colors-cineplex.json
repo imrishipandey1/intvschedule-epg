@@ -1,73 +1,61 @@
 {
-  "channel_name": "Colors Cineplex",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
-  "date": "2025-11-21",
+  "channel_name": "Colors Cineplex Bollywood",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+  "date": "2025-11-22",
   "programs": [
     {
-      "show_name": "Big Brother",
+      "show_name": "Gundaraj",
       "start_time": "12:00 AM",
-      "end_time": "01:19 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/76fa19c80180b17e9eeab1864bd84ee1.jpg"
+      "end_time": "01:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763000.jpg"
     },
     {
-      "show_name": "Veeram",
-      "start_time": "01:19 AM",
-      "end_time": "03:08 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2bf0c943da4ef9cbd6c816918514d57a.jpg"
+      "show_name": "Qaidi",
+      "start_time": "01:15 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763001.jpg"
     },
     {
-      "show_name": "Filler",
-      "start_time": "03:08 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dfdca0c81d36c76aae93b5c0b0124d0f.jpg"
+      "show_name": "Woh Kaun Thi?",
+      "start_time": "04:00 AM",
+      "end_time": "06:03 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763002.jpg"
     },
     {
-      "show_name": "Santa",
-      "start_time": "04:30 AM",
-      "end_time": "06:13 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ff47a3fdf50a8adaa563f4679a469acf.jpg"
+      "show_name": "Dil",
+      "start_time": "06:03 AM",
+      "end_time": "09:23 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763003.jpg"
     },
     {
-      "show_name": "Gully Rowdy",
-      "start_time": "06:13 AM",
-      "end_time": "08:14 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ac589953832a69cca4b5b4c5e208d27b.jpg"
+      "show_name": "Achanak",
+      "start_time": "09:23 AM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763004.jpg"
     },
     {
-      "show_name": "R...Rajkumar",
-      "start_time": "08:14 AM",
-      "end_time": "11:25 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ac39e01755a796a5399fdcf60630c19a.jpg"
+      "show_name": "Bumm Bumm Bole",
+      "start_time": "01:00 PM",
+      "end_time": "03:34 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763005.jpg"
     },
     {
-      "show_name": "Golmaal 3",
-      "start_time": "11:25 AM",
-      "end_time": "01:52 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8622a8962e738db5580c90c728d24215.jpg"
+      "show_name": "Ghulam-E-Musthafa",
+      "start_time": "03:34 PM",
+      "end_time": "06:49 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763006.jpg"
     },
     {
-      "show_name": "Darbar",
-      "start_time": "01:52 PM",
-      "end_time": "04:56 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d8c91384cd0cf20b3f379051e65052b3.jpg"
+      "show_name": "Ishq",
+      "start_time": "06:49 PM",
+      "end_time": "10:07 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763007.jpg"
     },
     {
-      "show_name": "The Warriorr",
-      "start_time": "04:56 PM",
-      "end_time": "07:49 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/570fd28bca228ad18508f95907d3e75b.jpg"
-    },
-    {
-      "show_name": "Devara: Part 1",
-      "start_time": "07:49 PM",
-      "end_time": "11:22 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/62483028386f4c7ad20098c82ed24013.jpg"
-    },
-    {
-      "show_name": "Kill",
-      "start_time": "11:22 PM",
+      "show_name": "Adventures of Tarzan",
+      "start_time": "10:07 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6221d61d8dcfaed6c3f17c944a7239da.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763008.jpg"
     }
   ]
 }
