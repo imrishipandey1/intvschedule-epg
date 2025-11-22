@@ -1,0 +1,151 @@
+{
+  "channel_name": "Set SD",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
+  "date": "2025-11-23",
+  "programs": [
+    {
+      "show_name": "Indian Idol",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396000.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "12:30 AM",
+      "end_time": "01:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396001.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "01:25 AM",
+      "end_time": "02:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396001.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "02:20 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396002.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "03:00 AM",
+      "end_time": "03:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396003.jpg"
+    },
+    {
+      "show_name": "Crime Patrol 2.0",
+      "start_time": "03:40 AM",
+      "end_time": "04:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396004.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "04:20 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396005.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "05:00 AM",
+      "end_time": "05:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396006.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "05:40 AM",
+      "end_time": "06:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396007.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "06:20 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396008.jpg"
+    },
+    {
+      "show_name": "Best of the Kapil Sharma Show",
+      "start_time": "07:00 AM",
+      "end_time": "07:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396009.jpg"
+    },
+    {
+      "show_name": "India's Got Talent",
+      "start_time": "07:50 AM",
+      "end_time": "09:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396010.jpg"
+    },
+    {
+      "show_name": "Best of the Kapil Sharma Show",
+      "start_time": "09:20 AM",
+      "end_time": "10:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396011.jpg"
+    },
+    {
+      "show_name": "Best of the Kapil Sharma Show",
+      "start_time": "10:40 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396012.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396013.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396014.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396015.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396016.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "04:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396017.jpg"
+    },
+    {
+      "show_name": "Crime Patrol: 48 Hours",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396018.jpg"
+    },
+    {
+      "show_name": "CID Naya Season",
+      "start_time": "07:00 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396019.jpg"
+    },
+    {
+      "show_name": "Indian Idol",
+      "start_time": "08:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396020.jpg"
+    },
+    {
+      "show_name": "India's Got Talent",
+      "start_time": "09:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396021.jpg"
+    },
+    {
+      "show_name": "Indian Idol",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231396022.jpg"
+    }
+  ]
+}

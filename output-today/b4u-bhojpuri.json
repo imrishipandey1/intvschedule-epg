@@ -1,73 +1,67 @@
 {
   "channel_name": "B4U Bhojpuri",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
-  "date": "2025-11-22",
+  "date": "2025-11-23",
   "programs": [
     {
-      "show_name": "Dilwala",
+      "show_name": "Bahu Hunterwali",
       "start_time": "12:00 AM",
-      "end_time": "01:37 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fcfd4380a7212a5dc2ccf4397fc047df.jpg"
+      "end_time": "01:21 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:37 AM",
-      "end_time": "02:57 AM",
+      "start_time": "01:21 AM",
+      "end_time": "02:20 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c09ce4bfca3c0bb6fa709c163eacfce.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:57 AM",
+      "start_time": "02:20 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "05:00 AM",
-      "end_time": "06:07 AM",
+      "end_time": "06:37 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
-      "show_name": "Krantikari Bahu",
-      "start_time": "06:07 AM",
-      "end_time": "08:18 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/745da2946d048af61515f2eda3daf662.jpg"
-    },
-    {
-      "show_name": "Gawanwa Ke Saari",
-      "start_time": "08:18 AM",
-      "end_time": "10:54 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2b7d93f04bdeb8b43947f550d82073ad.jpg"
-    },
-    {
-      "show_name": "Bahu Rani Saas Maharani",
-      "start_time": "10:54 AM",
-      "end_time": "02:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/af790916555f8c3dc1c5c9333e6ec682.jpg"
-    },
-    {
-      "show_name": "Ameero Ka Dahej",
-      "start_time": "02:15 PM",
-      "end_time": "05:29 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d722ce1fe0f8778a049adf445ce617af.jpg"
+      "show_name": "Cycle Wali Didi",
+      "start_time": "06:37 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8553dd3a6239701b6cdc47c111ea6619.jpg"
     },
     {
       "show_name": "Chorni Saas Ki Jhuthi Bahu",
-      "start_time": "05:29 PM",
-      "end_time": "08:30 PM",
+      "start_time": "09:30 AM",
+      "end_time": "12:24 PM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
-      "show_name": "Naukar Biwi Ka",
-      "start_time": "08:30 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5506034a2388377814877c522503cdc7.jpg"
+      "show_name": "Bhauji",
+      "start_time": "12:24 PM",
+      "end_time": "03:34 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c736147f7b00e7a44c0928f9f0cd30c1.jpg"
     },
     {
-      "show_name": "Bahu Hunterwali",
-      "start_time": "11:30 PM",
+      "show_name": "Aisa Pati Mujhe De Bhagwan",
+      "start_time": "03:34 PM",
+      "end_time": "06:48 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6b45ef3827f00d2228187f7acf66f308.jpg"
+    },
+    {
+      "show_name": "Senur",
+      "start_time": "06:48 PM",
+      "end_time": "10:33 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f06b438da5522716d6416f4e88e68711.jpg"
+    },
+    {
+      "show_name": "Bin Piya Doli Bin Piya Gawnwa",
+      "start_time": "10:33 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8e7bbef752c3c98a3b0c00f4f6e3f001.jpg"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "channel_name": "Zee Bangla HD",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaHD_Thumbnail_abd318d8-03d0-44c9-a18d-b34a5d941a48.png",
-  "date": "2025-11-22",
+  "date": "2025-11-24",
   "programs": [
     {
       "show_name": "Mongolmoyee Santoshi Maa",
@@ -16,7 +16,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Jowar Bhanta",
+      "show_name": "Joyar Bhata",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
       "show_logo": ""
@@ -130,14 +130,8 @@
       "show_logo": ""
     },
     {
-      "show_name": "Tulsi Dhamer Naru Gopal",
-      "start_time": "12:30 PM",
-      "end_time": "12:45 PM",
-      "show_logo": ""
-    },
-    {
       "show_name": "Kone Dekha Alo",
-      "start_time": "12:45 PM",
+      "start_time": "12:30 PM",
       "end_time": "01:30 PM",
       "show_logo": ""
     },
@@ -166,7 +160,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Jowar Bhanta",
+      "show_name": "Joyar Bhata",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
       "show_logo": ""
@@ -226,20 +220,32 @@
       "show_logo": ""
     },
     {
-      "show_name": "Joyar Bhata",
+      "show_name": "Jowar Bhanta",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Sa Re Ga Ma Pa 2024",
+      "show_name": "Kone Dekha Alo",
       "start_time": "09:30 PM",
+      "end_time": "10:15 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Anandi",
+      "start_time": "10:15 PM",
       "end_time": "11:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Ideabaaz",
+      "show_name": "Kusum",
       "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Parineeta",
+      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
       "show_logo": ""
     }

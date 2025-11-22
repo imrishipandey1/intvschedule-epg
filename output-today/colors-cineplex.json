@@ -1,61 +1,79 @@
 {
-  "channel_name": "Colors Cineplex Bollywood",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
-  "date": "2025-11-22",
+  "channel_name": "Colors Cineplex",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
+  "date": "2025-11-23",
   "programs": [
     {
-      "show_name": "Gundaraj",
+      "show_name": "Pichaikkaran",
       "start_time": "12:00 AM",
-      "end_time": "01:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763000.jpg"
+      "end_time": "01:07 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2f8af52ad224c249fb6fc8accc8c14a4.jpg"
     },
     {
-      "show_name": "Qaidi",
-      "start_time": "01:15 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763001.jpg"
+      "show_name": "Bharaate",
+      "start_time": "01:07 AM",
+      "end_time": "02:53 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/66c312a2155bd3f493c956aca0dc8d4a.jpg"
     },
     {
-      "show_name": "Woh Kaun Thi?",
-      "start_time": "04:00 AM",
-      "end_time": "06:03 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763002.jpg"
+      "show_name": "One Friday Night",
+      "start_time": "02:53 AM",
+      "end_time": "04:21 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a39512366564c533a46738216dec2b92.jpg"
     },
     {
-      "show_name": "Dil",
-      "start_time": "06:03 AM",
-      "end_time": "09:23 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763003.jpg"
+      "show_name": "Filler",
+      "start_time": "04:21 AM",
+      "end_time": "04:53 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dfdca0c81d36c76aae93b5c0b0124d0f.jpg"
     },
     {
-      "show_name": "Achanak",
-      "start_time": "09:23 AM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763004.jpg"
+      "show_name": "Mehrbaan",
+      "start_time": "04:53 AM",
+      "end_time": "06:19 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7cc578d15fffb215a46d79a5f2807f1f.jpg"
     },
     {
-      "show_name": "Bumm Bumm Bole",
-      "start_time": "01:00 PM",
-      "end_time": "03:34 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763005.jpg"
+      "show_name": "Aaraattu",
+      "start_time": "06:19 AM",
+      "end_time": "08:51 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6c6841bd98a8a4f0fd412c7e9b650382.jpg"
     },
     {
-      "show_name": "Ghulam-E-Musthafa",
-      "start_time": "03:34 PM",
-      "end_time": "06:49 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763006.jpg"
+      "show_name": "Khaidi No. 150",
+      "start_time": "08:51 AM",
+      "end_time": "11:42 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/642803808639f3c24077ee91f661821a.jpg"
     },
     {
-      "show_name": "Ishq",
-      "start_time": "06:49 PM",
-      "end_time": "10:07 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763007.jpg"
+      "show_name": "Dashing Jigarwala 2",
+      "start_time": "11:42 AM",
+      "end_time": "02:13 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/da9eabf03a4c62467cad657c7a4fad09.jpg"
     },
     {
-      "show_name": "Adventures of Tarzan",
-      "start_time": "10:07 PM",
+      "show_name": "Bhagavanth Kesari",
+      "start_time": "02:13 PM",
+      "end_time": "05:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c552bfba64e9a5c76269059a936731c7.jpg"
+    },
+    {
+      "show_name": "Rider",
+      "start_time": "05:27 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7c234f704c2430c83cfcb97d6dfde8e2.jpg"
+    },
+    {
+      "show_name": "DNA",
+      "start_time": "07:50 PM",
+      "end_time": "10:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0f0cfbce49cdd0f95ee15a8704962e2e.jpg"
+    },
+    {
+      "show_name": "Sita Ram",
+      "start_time": "10:08 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-22/2511221763008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/69d8ebe25f8f4c5ed32920f8207dd79c.jpg"
     }
   ]
 }
