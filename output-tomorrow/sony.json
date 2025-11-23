@@ -1,157 +1,169 @@
 {
   "channel_name": "Set SD",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
-  "date": "2025-11-24",
+  "date": "2025-11-25",
   "programs": [
     {
-      "show_name": "Indian Idol",
+      "show_name": "Best of Crime Patrol",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396000.jpg"
     },
     {
-      "show_name": "Best of Crime Patrol",
+      "show_name": "Crime Patrol: 48 Hours",
       "start_time": "12:30 AM",
-      "end_time": "02:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396001.jpg"
+      "end_time": "01:10 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396001.jpg"
     },
     {
       "show_name": "Best of Crime Patrol",
-      "start_time": "02:20 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396002.jpg"
+      "start_time": "01:10 AM",
+      "end_time": "01:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396002.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
+      "start_time": "01:50 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396003.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
+      "start_time": "02:30 AM",
+      "end_time": "03:10 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396004.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
+      "start_time": "03:10 AM",
+      "end_time": "03:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396005.jpg"
     },
     {
       "show_name": "Best of Crime Patrol",
-      "start_time": "03:00 AM",
-      "end_time": "03:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396003.jpg"
-    },
-    {
-      "show_name": "Crime Patrol 2.0",
-      "start_time": "03:40 AM",
-      "end_time": "04:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396004.jpg"
+      "start_time": "03:50 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396006.jpg"
     },
     {
       "show_name": "Best of Crime Patrol",
-      "start_time": "04:20 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396005.jpg"
+      "start_time": "04:30 AM",
+      "end_time": "05:10 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396007.jpg"
     },
     {
       "show_name": "Best of Crime Patrol",
-      "start_time": "05:00 AM",
-      "end_time": "05:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396006.jpg"
+      "start_time": "05:10 AM",
+      "end_time": "05:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396008.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol - Crime Patrol Satark",
+      "start_time": "05:50 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396009.jpg"
     },
     {
       "show_name": "Best of Crime Patrol",
-      "start_time": "05:40 AM",
-      "end_time": "06:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396007.jpg"
-    },
-    {
-      "show_name": "Best of Crime Patrol",
-      "start_time": "06:20 AM",
+      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396010.jpg"
     },
     {
       "show_name": "The Kapil Sharma Show - Masti Lagataar",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396011.jpg"
     },
     {
       "show_name": "Kaun Banega Crorepati",
       "start_time": "07:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396012.jpg"
     },
     {
       "show_name": "Best of the Kapil Sharma Show",
       "start_time": "09:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396013.jpg"
     },
     {
       "show_name": "Best of the Kapil Sharma Show",
       "start_time": "10:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396014.jpg"
     },
     {
       "show_name": "Best of Crime Patrol",
       "start_time": "12:00 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396015.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396016.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396017.jpg"
+    },
+    {
+      "show_name": "Best of Crime Patrol - Crime Patrol Satark",
+      "start_time": "03:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396018.jpg"
     },
     {
       "show_name": "Crime Patrol: 48 Hours",
-      "start_time": "01:00 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396014.jpg"
-    },
-    {
-      "show_name": "Best of Crime Patrol",
-      "start_time": "02:00 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396015.jpg"
-    },
-    {
-      "show_name": "Best of Crime Patrol",
-      "start_time": "04:00 PM",
+      "start_time": "05:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396019.jpg"
     },
     {
-      "show_name": "Best of Crime Patrol",
+      "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
       "start_time": "06:00 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396020.jpg"
     },
     {
       "show_name": "Mere Sai - Shraddha Aur Saburi",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396021.jpg"
     },
     {
       "show_name": "Mere Sai - Shraddha Aur Saburi",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396022.jpg"
     },
     {
       "show_name": "Mere Sai - Shraddha Aur Saburi",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396023.jpg"
     },
     {
       "show_name": "Chalo Bulawa Aaya Hai",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396024.jpg"
     },
     {
       "show_name": "Kaun Banega Crorepati",
       "start_time": "09:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396025.jpg"
     },
     {
-      "show_name": "Best of Crime Patrol",
+      "show_name": "Best of Crime Patrol - Crime Patrol Satark",
       "start_time": "10:30 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396023.jpg"
-    },
-    {
-      "show_name": "Best of Crime Patrol",
-      "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241396024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251396026.jpg"
     }
   ]
 }

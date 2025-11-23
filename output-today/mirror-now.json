@@ -1,283 +1,223 @@
 {
   "channel_name": "Mirror Now",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Now.png",
-  "date": "2025-11-23",
+  "date": "2025-11-24",
   "programs": [
     {
       "show_name": "News",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491000.jpg"
     },
     {
       "show_name": "News",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491001.jpg"
     },
     {
       "show_name": "News",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491002.jpg"
     },
     {
       "show_name": "News",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491003.jpg"
     },
     {
       "show_name": "News",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491004.jpg"
     },
     {
       "show_name": "News",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491005.jpg"
     },
     {
       "show_name": "News",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491006.jpg"
     },
     {
       "show_name": "News",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491007.jpg"
     },
     {
       "show_name": "News",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491008.jpg"
     },
     {
       "show_name": "News",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491009.jpg"
     },
     {
       "show_name": "News",
       "start_time": "05:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491010.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "The Morning News",
       "start_time": "06:00 AM",
-      "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491011.jpg"
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491011.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "The Morning News",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491012.jpg"
+    },
+    {
+      "show_name": "The Morning News",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491013.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "The Morning News",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491014.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "8 AM Metro Morning",
       "start_time": "08:00 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491014.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491015.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "The Morning News",
       "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491016.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491016.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "10 AM Ground Reality",
       "start_time": "10:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491018.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491017.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "11 AM Big Story",
       "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491020.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491018.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "12 PM Ground Reality",
       "start_time": "12:00 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491022.jpg"
-    },
-    {
-      "show_name": "E NOW",
-      "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491019.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "Mirror @ 1 PM",
       "start_time": "01:00 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491024.jpg"
-    },
-    {
-      "show_name": "Global Mirror",
-      "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491020.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "2 PM Mirror @ 2 PM",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491021.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "2 PM Mirror @ 2 PM",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491022.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "3 PM Big Story",
       "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491028.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491023.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "Mirror Live",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491024.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "4:30 PM Superfast News",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491025.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "5 PM Mirror Live",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491032.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491026.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "5:30 PM Mirror Live",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491027.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "Daily Mirror",
       "start_time": "06:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491034.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491028.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "News At 7",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491036.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491029.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "Mirror Prime",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491037.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491030.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "The Urban Debate",
       "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491038.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491039.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491031.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "9 PM Nation Tonight",
       "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491040.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491041.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491032.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "Beyond The Headline",
       "start_time": "10:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491042.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491043.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491033.jpg"
     },
     {
-      "show_name": "News",
+      "show_name": "9 PM Nation Tonight",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491044.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491034.jpg"
     },
     {
       "show_name": "News for Hearing Impaired",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123491045.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124491035.jpg"
     }
   ]
 }

@@ -1,79 +1,79 @@
 {
   "channel_name": "Colors Cineplex",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
-  "date": "2025-11-23",
+  "date": "2025-11-24",
   "programs": [
     {
-      "show_name": "Pichaikkaran",
+      "show_name": "Sita Ram",
       "start_time": "12:00 AM",
-      "end_time": "01:07 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2f8af52ad224c249fb6fc8accc8c14a4.jpg"
+      "end_time": "12:43 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/69d8ebe25f8f4c5ed32920f8207dd79c.jpg"
     },
     {
-      "show_name": "Bharaate",
-      "start_time": "01:07 AM",
+      "show_name": "Chhota Bheem and the Curse of Damyaan",
+      "start_time": "12:43 AM",
       "end_time": "02:53 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/66c312a2155bd3f493c956aca0dc8d4a.jpg"
-    },
-    {
-      "show_name": "One Friday Night",
-      "start_time": "02:53 AM",
-      "end_time": "04:21 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a39512366564c533a46738216dec2b92.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/161a2478acf5240653bd2de806172fd2.jpg"
     },
     {
       "show_name": "Filler",
-      "start_time": "04:21 AM",
-      "end_time": "04:53 AM",
+      "start_time": "02:53 AM",
+      "end_time": "04:46 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dfdca0c81d36c76aae93b5c0b0124d0f.jpg"
     },
     {
-      "show_name": "Mehrbaan",
-      "start_time": "04:53 AM",
-      "end_time": "06:19 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7cc578d15fffb215a46d79a5f2807f1f.jpg"
+      "show_name": "24 Ghante In Chennai",
+      "start_time": "04:46 AM",
+      "end_time": "06:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/02b12f45622f8ef21793503090d5dcfa.jpg"
     },
     {
-      "show_name": "Aaraattu",
-      "start_time": "06:19 AM",
-      "end_time": "08:51 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6c6841bd98a8a4f0fd412c7e9b650382.jpg"
+      "show_name": "Ghamandee",
+      "start_time": "06:15 AM",
+      "end_time": "07:57 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0e410d66fe2ec6f1e0575249f8ac3a1e.jpg"
     },
     {
-      "show_name": "Khaidi No. 150",
-      "start_time": "08:51 AM",
-      "end_time": "11:42 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/642803808639f3c24077ee91f661821a.jpg"
+      "show_name": "Rowdy Baadshah",
+      "start_time": "07:57 AM",
+      "end_time": "10:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/736dd6623198ca373a0da0155e6453dd.jpg"
     },
     {
-      "show_name": "Dashing Jigarwala 2",
-      "start_time": "11:42 AM",
-      "end_time": "02:13 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/da9eabf03a4c62467cad657c7a4fad09.jpg"
+      "show_name": "The Great Veera",
+      "start_time": "10:39 AM",
+      "end_time": "12:56 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/16a3093298d1a58f1935337b4a0e4147.jpg"
     },
     {
-      "show_name": "Bhagavanth Kesari",
-      "start_time": "02:13 PM",
-      "end_time": "05:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c552bfba64e9a5c76269059a936731c7.jpg"
+      "show_name": "Gully Rowdy",
+      "start_time": "12:56 PM",
+      "end_time": "02:56 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ac589953832a69cca4b5b4c5e208d27b.jpg"
     },
     {
-      "show_name": "Rider",
-      "start_time": "05:27 PM",
+      "show_name": "Aamaa Part 2",
+      "start_time": "02:56 PM",
+      "end_time": "04:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ea1ad131cadd808365a0216846b63725.jpg"
+    },
+    {
+      "show_name": "Student of the Year 2",
+      "start_time": "04:55 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7c234f704c2430c83cfcb97d6dfde8e2.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8f830c9f4ae84b51babf2f71831e6f3d.jpg"
     },
     {
-      "show_name": "DNA",
+      "show_name": "Bholaa Shankar",
       "start_time": "07:50 PM",
-      "end_time": "10:08 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0f0cfbce49cdd0f95ee15a8704962e2e.jpg"
+      "end_time": "10:18 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0523e5837e91eb5467304e56b4425833.jpg"
     },
     {
-      "show_name": "Sita Ram",
-      "start_time": "10:08 PM",
+      "show_name": "Gajaana",
+      "start_time": "10:18 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/69d8ebe25f8f4c5ed32920f8207dd79c.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/143c938704a36a45c27945d56c6ea1b8.jpg"
     }
   ]
 }

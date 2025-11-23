@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Kannada Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",
-  "date": "2025-11-24",
+  "date": "2025-11-25",
   "programs": [
     {
-      "show_name": "Aranyakanda",
+      "show_name": "Chella Pilli",
       "start_time": "12:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241632000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251632000.jpg"
     },
     {
-      "show_name": "Toss",
+      "show_name": "Gadiyara",
       "start_time": "02:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241632001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251632001.jpg"
     },
     {
       "show_name": "Shiva Shakthi",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241632002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251632002.jpg"
     },
     {
-      "show_name": "Hendathiyobbalu Maneyolagiddare",
+      "show_name": "Pakkadmane Hudugi",
       "start_time": "05:30 AM",
-      "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241632003.jpg"
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251632003.jpg"
     },
     {
       "show_name": "Bigg Boss Kannada",
-      "start_time": "08:00 AM",
+      "start_time": "08:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241632004.jpg"
-    },
-    {
-      "show_name": "Odahuttidavaru",
-      "start_time": "10:00 AM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241632005.jpg"
-    },
-    {
-      "show_name": "Hettare Hennane Herabeku",
-      "start_time": "01:30 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241632006.jpg"
-    },
-    {
-      "show_name": "Aayudha",
-      "start_time": "04:30 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241632007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251632004.jpg"
     },
     {
       "show_name": "Bell Bottom",
-      "start_time": "07:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241632008.jpg"
+      "start_time": "10:00 AM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251632005.jpg"
     },
     {
-      "show_name": "Chella Pilli",
+      "show_name": "A.K.47",
+      "start_time": "01:30 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251632006.jpg"
+    },
+    {
+      "show_name": "Thavarina Theru",
+      "start_time": "04:30 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251632007.jpg"
+    },
+    {
+      "show_name": "Jeevana Chaitra",
+      "start_time": "07:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251632008.jpg"
+    },
+    {
+      "show_name": "Geetha Bangle Store",
       "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241632009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/2511251632009.jpg"
     }
   ]
 }

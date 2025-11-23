@@ -1,271 +1,253 @@
 {
   "channel_name": "Colors Marathi SD",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png",
-  "date": "2025-11-23",
+  "date": "2025-11-24",
   "programs": [
     {
-      "show_name": "Pinga Ga Pori Pinga",
+      "show_name": "Indrayani",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326000.jpg"
     },
     {
       "show_name": "Jai Jai Swami Samarth",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326001.jpg"
     },
     {
       "show_name": "Ashok Mama",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326002.jpg"
     },
     {
       "show_name": "Aai Tuljabhavani",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326003.jpg"
     },
     {
       "show_name": "Indrayani",
       "start_time": "02:00 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326004.jpg"
-    },
-    {
-      "show_name": "Pinga Ga Pori Pinga",
-      "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326004.jpg"
     },
     {
       "show_name": "Abeer Gulal",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326005.jpg"
     },
     {
       "show_name": "Indrayani",
       "start_time": "03:30 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326007.jpg"
-    },
-    {
-      "show_name": "Pinga Ga Pori Pinga",
-      "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326006.jpg"
     },
     {
       "show_name": "Jai Jai Swami Samarth",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326007.jpg"
     },
     {
       "show_name": "Ashok Mama",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326008.jpg"
     },
     {
       "show_name": "Aai Tuljabhavani",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326009.jpg"
     },
     {
-      "show_name": "Aai Tuljabhavani",
+      "show_name": "Indrayani",
       "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326012.jpg"
-    },
-    {
-      "show_name": "Aai Tuljabhavani",
-      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326010.jpg"
     },
     {
-      "show_name": "Aai Tuljabhavani",
+      "show_name": "Jai Jai Swami Samarth",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326011.jpg"
+    },
+    {
+      "show_name": "Ashok Mama",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326012.jpg"
     },
     {
       "show_name": "Aai Tuljabhavani",
-      "start_time": "07:30 AM",
-      "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326015.jpg"
-    },
-    {
-      "show_name": "Indrayani",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326013.jpg"
     },
     {
-      "show_name": "Indrayani",
+      "show_name": "Jai Jai Swami Samarth",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326014.jpg"
     },
     {
       "show_name": "Indrayani",
       "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326018.jpg"
-    },
-    {
-      "show_name": "Indrayani",
-      "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326015.jpg"
     },
     {
-      "show_name": "Indrayani",
+      "show_name": "Jai Jai Swami Samarth",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326016.jpg"
+    },
+    {
+      "show_name": "Ashok Mama",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326017.jpg"
+    },
+    {
+      "show_name": "Aai Tuljabhavani",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326018.jpg"
     },
     {
       "show_name": "Indrayani",
-      "start_time": "10:30 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326021.jpg"
-    },
-    {
-      "show_name": "Jai Jai Swami Samarth",
-      "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326022.jpg"
-    },
-    {
-      "show_name": "Jai Jai Swami Samarth",
       "start_time": "11:30 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326023.jpg"
-    },
-    {
-      "show_name": "Jai Jai Swami Samarth",
-      "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326019.jpg"
     },
     {
       "show_name": "Jai Jai Swami Samarth",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326020.jpg"
     },
     {
-      "show_name": "Pinga Ga Pori Pinga",
+      "show_name": "Aai Tuljabhavani",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326021.jpg"
     },
     {
-      "show_name": "Pinga Ga Pori Pinga",
+      "show_name": "Indrayani",
       "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326027.jpg"
-    },
-    {
-      "show_name": "Pinga Ga Pori Pinga",
-      "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326022.jpg"
     },
     {
-      "show_name": "Pinga Ga Pori Pinga",
+      "show_name": "Raja Ranichi Ga Jodi",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326023.jpg"
     },
     {
-      "show_name": "Pinga Ga Pori Pinga",
+      "show_name": "Ashok Mama",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326024.jpg"
     },
     {
-      "show_name": "Raja Ranichi Ga Jodi",
+      "show_name": "Indrayani",
       "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326031.jpg"
-    },
-    {
-      "show_name": "Raja Ranichi Ga Jodi",
-      "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326032.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326025.jpg"
     },
     {
       "show_name": "Balu Mamachya Navan Changbhal",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326026.jpg"
     },
     {
       "show_name": "Balu Mamachya Navan Changbhal",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326034.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326027.jpg"
     },
     {
       "show_name": "Balu Mamachya Navan Changbhal",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326028.jpg"
     },
     {
       "show_name": "Balu Mamachya Navan Changbhal",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326036.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326029.jpg"
     },
     {
-      "show_name": "Balu Mamachya Navan Changbhal",
+      "show_name": "Aai Tuljabhavani",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326037.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326030.jpg"
     },
     {
       "show_name": "Indrayani",
       "start_time": "07:00 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326038.jpg"
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326031.jpg"
     },
     {
-      "show_name": "Baipan Zindabad",
+      "show_name": "Pinga Ga Pori Pinga",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326032.jpg"
+    },
+    {
+      "show_name": "Jai Jai Swami Samarth",
       "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326033.jpg"
+    },
+    {
+      "show_name": "Ashok Mama",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326034.jpg"
+    },
+    {
+      "show_name": "Aai Tuljabhavani",
+      "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326039.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326035.jpg"
     },
     {
       "show_name": "Indrayani",
       "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326036.jpg"
+    },
+    {
+      "show_name": "Jai Jai Swami Samarth",
+      "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326040.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326037.jpg"
     },
     {
       "show_name": "Ashok Mama",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326041.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326038.jpg"
     },
     {
       "show_name": "Aai Tuljabhavani",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326042.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326039.jpg"
     },
     {
       "show_name": "Indrayani",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/2511231326043.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/2511241326040.jpg"
     }
   ]
 }

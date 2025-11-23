@@ -1,108 +1,90 @@
 {
   "channel_name": "Discovery Kids",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",
-  "date": "2025-11-23",
+  "date": "2025-11-24",
   "programs": [
     {
-      "show_name": "Kris Roll No 21",
-      "start_time": "12:05 AM",
-      "end_time": "12:17 AM",
+      "show_name": "Fukrey Boyzzz",
+      "start_time": "11:54 PM",
+      "end_time": "12:06 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Fukrey Boyzzz",
+      "start_time": "12:06 AM",
+      "end_time": "12:18 AM",
       "show_logo": ""
     },
     {
       "show_name": "Little Krishna",
-      "start_time": "12:17 AM",
-      "end_time": "12:39 AM",
+      "start_time": "12:30 AM",
+      "end_time": "12:53 AM",
       "show_logo": ""
     },
     {
       "show_name": "Haddi Mera Buddy",
-      "start_time": "12:39 AM",
-      "end_time": "12:46 AM",
+      "start_time": "12:53 AM",
+      "end_time": "01:00 AM",
       "show_logo": ""
     },
     {
       "show_name": "Smaashhing Simmba",
-      "start_time": "12:46 AM",
-      "end_time": "12:56 AM",
+      "start_time": "01:36 AM",
+      "end_time": "01:48 AM",
       "show_logo": ""
     },
     {
       "show_name": "Smaashhing Simmba",
-      "start_time": "12:56 AM",
-      "end_time": "01:06 AM",
+      "start_time": "01:48 AM",
+      "end_time": "02:00 AM",
       "show_logo": ""
     },
     {
       "show_name": "Smaashhing Simmba",
-      "start_time": "01:06 AM",
-      "end_time": "01:16 AM",
+      "start_time": "03:00 AM",
+      "end_time": "03:12 AM",
       "show_logo": ""
     },
     {
       "show_name": "Smaashhing Simmba",
-      "start_time": "01:16 AM",
-      "end_time": "01:27 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Smaashhing Simmba",
-      "start_time": "01:27 AM",
-      "end_time": "01:38 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Smaashhing Simmba",
-      "start_time": "02:33 AM",
-      "end_time": "02:42 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Smaashhing Simmba",
-      "start_time": "04:08 AM",
-      "end_time": "04:18 AM",
+      "start_time": "04:48 AM",
+      "end_time": "05:00 AM",
       "show_logo": ""
     },
     {
       "show_name": "Little Krishna",
-      "start_time": "04:18 AM",
-      "end_time": "04:41 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Kris Roll No 21",
-      "start_time": "04:41 AM",
-      "end_time": "04:53 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Kris Roll No 21",
-      "start_time": "04:53 AM",
-      "end_time": "05:05 AM",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
       "show_logo": ""
     },
     {
       "show_name": "Fukrey Boyzzz",
-      "start_time": "03:33 PM",
-      "end_time": "03:59 PM",
+      "start_time": "08:31 AM",
+      "end_time": "08:43 AM",
       "show_logo": ""
     },
     {
       "show_name": "Fukrey Boyzzz",
-      "start_time": "03:59 PM",
-      "end_time": "04:28 PM",
+      "start_time": "08:43 AM",
+      "end_time": "08:56 AM",
       "show_logo": ""
     },
     {
       "show_name": "Fukrey Boyzzz",
-      "start_time": "05:14 PM",
-      "end_time": "05:26 PM",
+      "start_time": "08:56 AM",
+      "end_time": "09:23 AM",
       "show_logo": ""
     },
     {
       "show_name": "Fukrey Boyzzz",
-      "start_time": "05:26 PM",
-      "end_time": "05:37 PM",
+      "start_time": "09:23 AM",
+      "end_time": "09:36 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Fukrey Boyzzz",
+      "start_time": "10:23 AM",
+      "end_time": "10:34 AM",
       "show_logo": ""
     },
     {

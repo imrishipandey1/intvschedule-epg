@@ -1,295 +1,229 @@
 {
   "channel_name": "ET Now",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png",
-  "date": "2025-11-23",
+  "date": "2025-11-24",
   "programs": [
     {
       "show_name": "BTS",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212000.jpg"
     },
     {
       "show_name": "BTS",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212001.jpg"
     },
     {
-      "show_name": "Eye On Budget 2026 - India Inc Wish",
+      "show_name": "BTS",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212002.jpg"
     },
     {
-      "show_name": "Insurance Mantra",
+      "show_name": "BTS",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212003.jpg"
     },
     {
       "show_name": "BTS",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212004.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "Earnings Q2 - Parag Thakkar / Dhana",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212005.jpg"
     },
     {
       "show_name": "BTS",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212006.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "SUC",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212007.jpg"
     },
     {
-      "show_name": "Earnings Q2 - Parag Thakkar / Dhana",
+      "show_name": "South Central",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212008.jpg"
     },
     {
       "show_name": "BTS",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212009.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "TMS Weekend Edition",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212010.jpg"
     },
     {
       "show_name": "BTS",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212011.jpg"
     },
     {
-      "show_name": "TMS Weekend Edition",
+      "show_name": "Beat the Street",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212012.jpg"
     },
     {
-      "show_name": "South Central",
+      "show_name": "Your Trades",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212013.jpg"
     },
     {
-      "show_name": "Eye On Budget 2026 - India Inc Wish",
+      "show_name": "Market Café",
       "start_time": "07:00 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212014.jpg"
-    },
-    {
-      "show_name": "BTS",
-      "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212014.jpg"
     },
     {
-      "show_name": "Earnings Q2 - Parag Thakkar / Dhana",
+      "show_name": "The Market",
       "start_time": "08:00 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212016.jpg"
-    },
-    {
-      "show_name": "BTS",
-      "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212015.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "First Trade",
       "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212018.jpg"
-    },
-    {
-      "show_name": "Masterclass - Vallabh Bhansh",
-      "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212019.jpg"
-    },
-    {
-      "show_name": "Motown Show",
-      "start_time": "10:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212020.jpg"
-    },
-    {
-      "show_name": "Brand Buzz",
-      "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212016.jpg"
     },
     {
-      "show_name": "The Interview",
+      "show_name": "ET NOW BNSN: The Stock Game",
       "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212022.jpg"
-    },
-    {
-      "show_name": "BTS",
-      "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212017.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "Markets @ Noon",
       "start_time": "12:00 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212024.jpg"
-    },
-    {
-      "show_name": "BTS",
-      "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212018.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "The Newsroom",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212019.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "Market Fatafat",
       "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212027.jpg"
-    },
-    {
-      "show_name": "Insurance Mantra",
-      "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212020.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "ET NOW Closing Trades",
       "start_time": "02:30 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212029.jpg"
-    },
-    {
-      "show_name": "Motown Show",
-      "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212021.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "Business Primetime",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212022.jpg"
     },
     {
-      "show_name": "ET NOW Iconic Brands of India 2025",
+      "show_name": "BUDGET 2024 - Special",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212032.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212023.jpg"
     },
     {
-      "show_name": "The Interview",
+      "show_name": "News Now",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212024.jpg"
     },
     {
-      "show_name": "Times Drive",
+      "show_name": "The Money Show",
       "start_time": "05:00 PM",
-      "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212034.jpg"
-    },
-    {
-      "show_name": "Top 50 Jewelry Favorites",
-      "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212025.jpg"
     },
     {
-      "show_name": "Global Digital Health Summit 2025 E",
+      "show_name": "Startup Central",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212036.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212026.jpg"
     },
     {
-      "show_name": "ET Startup Awards",
+      "show_name": "Your Trades",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212037.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212027.jpg"
     },
     {
-      "show_name": "The Interview",
+      "show_name": "Rush Hour",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212038.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212028.jpg"
     },
     {
-      "show_name": "Motown Show",
+      "show_name": "BUDGET 2024 - Special",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212039.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212029.jpg"
     },
     {
-      "show_name": "ET Education New Age Leadership Stu",
+      "show_name": "India Tonight",
       "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212040.jpg"
-    },
-    {
-      "show_name": "ETNOW.In Business Conclave \u0026 Awards",
-      "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212041.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212030.jpg"
     },
     {
-      "show_name": "Masterclass - Vallabh Bhanshali",
+      "show_name": "India Development Debate",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212042.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212031.jpg"
     },
     {
-      "show_name": "Eye On Budget 2026 - India Inc Wish",
+      "show_name": "Big Voices",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212043.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212032.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "The Money Show",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212044.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212033.jpg"
     },
     {
-      "show_name": "Earnings Q2 - Parag Thakkar / Dhana",
+      "show_name": "IDFC First Bank Presents ET Now Leaders",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212045.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212034.jpg"
     },
     {
-      "show_name": "BTS",
+      "show_name": "Your Trades",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212046.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212035.jpg"
     },
     {
-      "show_name": "Brand Buzz",
+      "show_name": "India Development Debate",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-23/251123212047.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124212036.jpg"
     }
   ]
 }
