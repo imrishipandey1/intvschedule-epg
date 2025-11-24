@@ -1,67 +1,67 @@
 {
   "channel_name": "Sony Max SD",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
-  "date": "2025-11-24",
+  "date": "2025-11-25",
   "programs": [
     {
-      "show_name": "Charms Bond",
+      "show_name": "Main Hoon Lucky The Racer",
       "start_time": "12:00 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124289000.jpg"
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125289000.jpg"
     },
     {
       "show_name": "TE3N",
-      "start_time": "02:00 AM",
-      "end_time": "04:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124289001.jpg"
+      "start_time": "12:30 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125289001.jpg"
     },
     {
-      "show_name": "Badava Rascal",
-      "start_time": "04:45 AM",
-      "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124289003.jpg"
+      "show_name": "Mubarakan",
+      "start_time": "03:30 AM",
+      "end_time": "05:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125289003.jpg"
     },
     {
-      "show_name": "Rudra Avatar",
-      "start_time": "07:00 AM",
-      "end_time": "09:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124289005.jpg"
+      "show_name": "Legend The Terror",
+      "start_time": "05:45 AM",
+      "end_time": "08:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125289005.jpg"
     },
     {
-      "show_name": "Revolver Rani",
-      "start_time": "09:15 AM",
-      "end_time": "11:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124289007.jpg"
+      "show_name": "Mubarakan",
+      "start_time": "08:15 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125289007.jpg"
     },
     {
-      "show_name": "Azhar",
-      "start_time": "11:45 AM",
+      "show_name": "Policewala",
+      "start_time": "11:00 AM",
       "end_time": "02:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124289009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125289009.jpg"
     },
     {
-      "show_name": "Jeeta",
+      "show_name": "Sooryavansham",
       "start_time": "02:15 PM",
-      "end_time": "04:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124289011.jpg"
+      "end_time": "05:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125289011.jpg"
     },
     {
-      "show_name": "Ab Tak Chhappan 2",
-      "start_time": "04:45 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124289013.jpg"
+      "show_name": "Darr@ The Mall",
+      "start_time": "05:15 PM",
+      "end_time": "08:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125289013.jpg"
     },
     {
-      "show_name": "Soorma",
-      "start_time": "07:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124289015.jpg"
+      "show_name": "No Parking",
+      "start_time": "08:15 PM",
+      "end_time": "10:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125289015.jpg"
     },
     {
-      "show_name": "Main Hoon Lucky The Racer",
-      "start_time": "09:30 PM",
+      "show_name": "Charms Bond",
+      "start_time": "10:45 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124289017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125289017.jpg"
     }
   ]
 }

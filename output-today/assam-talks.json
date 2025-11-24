@@ -1,7 +1,7 @@
 {
   "channel_name": "Assam Talks",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png",
-  "date": "2025-11-24",
+  "date": "2025-11-25",
   "programs": [
     {
       "show_name": "Prime @ 6",
@@ -16,10 +16,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e58fab4dc7a7822f3ce69c239c79acca.jpg"
     },
     {
-      "show_name": "Prime Time",
+      "show_name": "Prime @ 6",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e58fab4dc7a7822f3ce69c239c79acca.jpg"
     },
     {
       "show_name": "Prime Time",
@@ -28,22 +28,22 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
     },
     {
-      "show_name": "Swakhor",
+      "show_name": "Prime Time",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b99021ab3c52819eece385a49021026d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
     },
     {
-      "show_name": "Swakhor",
+      "show_name": "News \u0026 Views",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b99021ab3c52819eece385a49021026d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
     },
     {
-      "show_name": "Prime Hour",
+      "show_name": "News \u0026 Views",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6474b4228706d6413855b38f6bfc7fc8.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
     },
     {
       "show_name": "Prime Hour",
@@ -52,22 +52,22 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6474b4228706d6413855b38f6bfc7fc8.jpg"
     },
     {
-      "show_name": "Swakhor",
+      "show_name": "Prime Hour",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b99021ab3c52819eece385a49021026d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6474b4228706d6413855b38f6bfc7fc8.jpg"
     },
     {
-      "show_name": "Swakhor",
+      "show_name": "News \u0026 Views",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b99021ab3c52819eece385a49021026d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
     },
     {
-      "show_name": "Bhakti Geet",
+      "show_name": "News \u0026 Views",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/69685b029af428bb8592126969bf3b11.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
     },
     {
       "show_name": "Bhakti Geet",
@@ -190,16 +190,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c8c15e232a5e201486c63afa6481623.jpg"
     },
     {
-      "show_name": "Swakhor",
+      "show_name": "News \u0026 Views",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b99021ab3c52819eece385a49021026d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
     },
     {
-      "show_name": "Swakhor",
+      "show_name": "News \u0026 Views",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b99021ab3c52819eece385a49021026d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
     },
     {
       "show_name": "Rapid Fire",

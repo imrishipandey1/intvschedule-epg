@@ -1,55 +1,61 @@
 {
   "channel_name": "B4U Movies",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
-  "date": "2025-11-24",
+  "date": "2025-11-25",
   "programs": [
     {
-      "show_name": "Yes Boss",
-      "start_time": "12:00 AM",
-      "end_time": "01:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124182000.jpg"
-    },
-    {
-      "show_name": "Pyar Ki Kahani",
-      "start_time": "01:55 AM",
-      "end_time": "05:43 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124182001.jpg"
-    },
-    {
-      "show_name": "Sikka",
-      "start_time": "05:43 AM",
-      "end_time": "08:33 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124182002.jpg"
-    },
-    {
-      "show_name": "Ram Balram",
-      "start_time": "08:33 AM",
-      "end_time": "12:29 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124182003.jpg"
-    },
-    {
-      "show_name": "Mela",
-      "start_time": "12:29 PM",
-      "end_time": "04:09 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124182004.jpg"
-    },
-    {
-      "show_name": "Balidaan",
-      "start_time": "04:09 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124182005.jpg"
-    },
-    {
-      "show_name": "Kranti",
-      "start_time": "07:00 PM",
-      "end_time": "11:38 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124182006.jpg"
-    },
-    {
       "show_name": "Main Hoon Lucky the Racer",
-      "start_time": "11:38 PM",
+      "start_time": "12:00 AM",
+      "end_time": "01:28 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125182000.jpg"
+    },
+    {
+      "show_name": "Yeh Hai Judgement Hanged Till Death",
+      "start_time": "01:28 AM",
+      "end_time": "03:49 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125182001.jpg"
+    },
+    {
+      "show_name": "Ghatak / Lethal",
+      "start_time": "03:49 AM",
+      "end_time": "05:38 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125182002.jpg"
+    },
+    {
+      "show_name": "Karishma Kudrat Ka",
+      "start_time": "05:38 AM",
+      "end_time": "08:31 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125182003.jpg"
+    },
+    {
+      "show_name": "Naya Kadam",
+      "start_time": "08:31 AM",
+      "end_time": "11:38 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125182004.jpg"
+    },
+    {
+      "show_name": "Dil Hi to Hai",
+      "start_time": "11:38 AM",
+      "end_time": "03:21 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125182005.jpg"
+    },
+    {
+      "show_name": "Daanveer",
+      "start_time": "03:21 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125182006.jpg"
+    },
+    {
+      "show_name": "B4U Movies",
+      "start_time": "07:00 PM",
+      "end_time": "11:26 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125182007.jpg"
+    },
+    {
+      "show_name": "Devta",
+      "start_time": "11:26 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-24/251124182007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-25/251125182008.jpg"
     }
   ]
 }

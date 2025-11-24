@@ -1,7 +1,7 @@
 {
   "channel_name": "Aakash Aath",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",
-  "date": "2025-11-24",
+  "date": "2025-11-25",
   "programs": [
     {
       "show_name": "Police Files",
@@ -10,10 +10,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08e00ebe1922b27c9693d0d69837c967.jpg"
     },
     {
-      "show_name": "Tumi Kato Sundar",
+      "show_name": "Jiban Trishna",
       "start_time": "12:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6e45a1b96bdbae909bcf8ab68391eeac.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/efbba47fae093b275cbb6370c72998e5.jpg"
     },
     {
       "show_name": "Akashe Superstar",
@@ -28,10 +28,22 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/014433868379a7611deac1ad24d8c373.jpg"
     },
     {
-      "show_name": "Police Files",
+      "show_name": "Adi Shakti Adyapeeth",
       "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b61878ba1083ca9c22a8ce643ca671ab.jpg"
+    },
+    {
+      "show_name": "Khonar Kahini",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/311eaea1ddd1b908940eaa527f33a849.jpg"
+    },
+    {
+      "show_name": "Radhuni",
+      "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08e00ebe1922b27c9693d0d69837c967.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/014433868379a7611deac1ad24d8c373.jpg"
     },
     {
       "show_name": "Om Sai Ram",
@@ -100,10 +112,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e4bff3372dc455b629ed10c147c83644.jpg"
     },
     {
-      "show_name": "Jiban Trishna",
+      "show_name": "Adhikar",
       "start_time": "03:05 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e087f443ba0743686095f8305a18b0d6.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e68ccd2c93547c3659137934e604bb64.jpg"
     },
     {
       "show_name": "Radhuni",

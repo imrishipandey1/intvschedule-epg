@@ -1,7 +1,7 @@
 {
   "channel_name": "9X Tashan",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",
-  "date": "2025-11-24",
+  "date": "2025-11-25",
   "programs": [
     {
       "show_name": "Saari Raat",
@@ -268,10 +268,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/37117e7fdd07bc3f4b568fb9c678ae69.jpg"
     },
     {
-      "show_name": "Bade-Chote's Playlist",
+      "show_name": "Tashan Da Punch",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/37117e7fdd07bc3f4b568fb9c678ae69.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d1c2305634be95ebe4de4f3806cfede6.jpg"
     },
     {
       "show_name": "Bade-Chote's Playlist",
