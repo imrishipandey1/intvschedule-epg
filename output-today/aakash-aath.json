@@ -1,7 +1,7 @@
 {
   "channel_name": "Aakash Aath",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",
-  "date": "2025-11-25",
+  "date": "2025-11-26",
   "programs": [
     {
       "show_name": "Police Files",
@@ -10,10 +10,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08e00ebe1922b27c9693d0d69837c967.jpg"
     },
     {
-      "show_name": "Jiban Trishna",
+      "show_name": "Adhikar",
       "start_time": "12:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/efbba47fae093b275cbb6370c72998e5.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e68ccd2c93547c3659137934e604bb64.jpg"
     },
     {
       "show_name": "Akashe Superstar",
@@ -112,10 +112,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e4bff3372dc455b629ed10c147c83644.jpg"
     },
     {
-      "show_name": "Adhikar",
+      "show_name": "Amar Sangee",
       "start_time": "03:05 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e68ccd2c93547c3659137934e604bb64.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3b11a363393e0067b5f06f564c177211.jpg"
     },
     {
       "show_name": "Radhuni",

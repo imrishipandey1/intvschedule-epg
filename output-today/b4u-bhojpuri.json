@@ -1,73 +1,67 @@
 {
   "channel_name": "B4U Bhojpuri",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
-  "date": "2025-11-25",
+  "date": "2025-11-26",
   "programs": [
     {
-      "show_name": "Dilwala",
+      "show_name": "Satrangi Balam",
       "start_time": "12:00 AM",
-      "end_time": "01:37 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fcfd4380a7212a5dc2ccf4397fc047df.jpg"
+      "end_time": "01:31 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4a89eb873e710408b9a3c2ddd9193cb3.jpg"
     },
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:37 AM",
-      "end_time": "02:42 AM",
+      "start_time": "01:31 AM",
+      "end_time": "02:52 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c09ce4bfca3c0bb6fa709c163eacfce.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:42 AM",
+      "start_time": "02:52 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "05:00 AM",
-      "end_time": "06:08 AM",
+      "end_time": "06:01 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
-      "show_name": "Maike Ka Ticket Kata De Piya",
-      "start_time": "06:08 AM",
-      "end_time": "08:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/cc9de44e5fddfcaa469f344367e8f3b6.jpg"
+      "show_name": "Didi No.1",
+      "start_time": "06:01 AM",
+      "end_time": "08:27 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5b479127aa0271d7c5d2356d3bb759d8.jpg"
     },
     {
-      "show_name": "Bitiya Damad",
-      "start_time": "08:24 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4dbe099b61ccebb13379158c254c37ce.jpg"
+      "show_name": "Chattori Bahu",
+      "start_time": "08:27 AM",
+      "end_time": "11:27 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3fc1eb6c3ebbe8142f8b02f78e3a97c7.jpg"
     },
     {
-      "show_name": "Chorni Saas Ki Jhuthi Bahu",
-      "start_time": "11:00 AM",
-      "end_time": "01:57 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a4923535bef8cf0ab6e7d68943b5ed9a.jpg"
+      "show_name": "Badki Sakhi Chotki Sakhi",
+      "start_time": "11:27 AM",
+      "end_time": "02:16 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/105a934947b6a7eb50d2e1d774cc158c.jpg"
     },
     {
-      "show_name": "Foolori Bina Chatni Kaise Bani",
-      "start_time": "01:57 PM",
-      "end_time": "05:11 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/36b86d126ce7d2aae9eacbaf3d19de02.jpg"
+      "show_name": "Bitiya Rani Badi Sayani",
+      "start_time": "02:16 PM",
+      "end_time": "05:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2cd8375d1a0b33c51467473d6bd173da.jpg"
     },
     {
-      "show_name": "Collector Sahab",
-      "start_time": "05:11 PM",
-      "end_time": "08:31 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/37a37fa2de7e5b86d524eb1dfc94a57f.jpg"
+      "show_name": "Nirhaua Hindustani 2",
+      "start_time": "05:08 PM",
+      "end_time": "08:32 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/81f0ba84b8519cb8f9ba830fd4326bbd.jpg"
     },
     {
-      "show_name": "Beti Ho To Aisi",
-      "start_time": "08:31 PM",
-      "end_time": "11:29 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/53e6b86d17ebfafa23e41c8f52a4aea6.jpg"
-    },
-    {
-      "show_name": "Satrangi Balam",
-      "start_time": "11:29 PM",
+      "show_name": "Kalyug Ka Batwara",
+      "start_time": "08:32 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4a89eb873e710408b9a3c2ddd9193cb3.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9c42471440fd1bd69345a9a68823e85d.jpg"
     }
   ]
 }

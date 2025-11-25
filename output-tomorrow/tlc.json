@@ -1,199 +1,217 @@
 {
   "channel_name": "TLC HD",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",
-  "date": "2025-11-26",
+  "date": "2025-11-27",
   "programs": [
     {
-      "show_name": "90 Day Diaries",
+      "show_name": "Say Yes To The Dress: Lancashire",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479000.jpg"
     },
     {
-      "show_name": "Virgins",
+      "show_name": "You, Me \u0026 My Ex",
       "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479001.jpg"
     },
     {
       "show_name": "90 Day Diaries",
       "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479002.jpg"
     },
     {
       "show_name": "Say Yes To The Dress: Lancashire",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479003.jpg"
     },
     {
       "show_name": "100 Day Dream Home",
       "start_time": "04:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479004.jpg"
     },
     {
       "show_name": "Mediterranean Life",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479005.jpg"
     },
     {
       "show_name": "Mountain Life",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479006.jpg"
     },
     {
       "show_name": "Say Yes to the Dress: Dubai",
       "start_time": "06:00 AM",
       "end_time": "06:23 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479007.jpg"
     },
     {
       "show_name": "Say Yes to the Dress: Dubai",
       "start_time": "06:23 AM",
       "end_time": "06:46 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479008.jpg"
     },
     {
       "show_name": "Island Life",
       "start_time": "06:46 AM",
       "end_time": "07:13 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479009.jpg"
     },
     {
       "show_name": "Bahamas Life",
       "start_time": "07:13 AM",
       "end_time": "07:39 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479010.jpg"
     },
     {
       "show_name": "Say Yes to the Dress",
       "start_time": "07:39 AM",
       "end_time": "08:31 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479011.jpg"
     },
     {
-      "show_name": "Buddy vs. Duff",
+      "show_name": "Wildcard Kitchen",
       "start_time": "08:31 AM",
       "end_time": "09:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479012.jpg"
     },
     {
-      "show_name": "The Great Food Truck Race",
+      "show_name": "Restaurant: Impossible",
       "start_time": "09:24 AM",
       "end_time": "10:16 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479013.jpg"
     },
     {
-      "show_name": "The Great Food Truck Race",
+      "show_name": "Beat Bobby Flay",
       "start_time": "10:16 AM",
+      "end_time": "10:42 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479014.jpg"
+    },
+    {
+      "show_name": "Beat Bobby Flay",
+      "start_time": "10:42 AM",
       "end_time": "11:08 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479015.jpg"
     },
     {
       "show_name": "30-Minute Meals",
       "start_time": "11:08 AM",
       "end_time": "11:34 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479016.jpg"
     },
     {
       "show_name": "Say Yes to the Dress",
       "start_time": "11:34 AM",
       "end_time": "12:29 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479017.jpg"
     },
     {
-      "show_name": "Point of View: A Designer Profile",
+      "show_name": "Mind for Design",
       "start_time": "12:29 PM",
       "end_time": "12:56 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479018.jpg"
     },
     {
-      "show_name": "Point of View: A Designer Profile",
+      "show_name": "Mind for Design",
       "start_time": "12:56 PM",
       "end_time": "01:24 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479019.jpg"
     },
     {
-      "show_name": "Super Mega Cakes",
+      "show_name": "Cake Boss",
       "start_time": "01:24 PM",
+      "end_time": "01:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479020.jpg"
+    },
+    {
+      "show_name": "Cake Boss",
+      "start_time": "01:50 PM",
       "end_time": "02:19 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479021.jpg"
     },
     {
       "show_name": "Food Paradise",
       "start_time": "02:19 PM",
       "end_time": "03:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479022.jpg"
     },
     {
-      "show_name": "Food Paradise International",
+      "show_name": "The Best Thing I Ever Ate",
       "start_time": "03:05 PM",
+      "end_time": "03:32 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479023.jpg"
+    },
+    {
+      "show_name": "The Best Thing I Ever Ate",
+      "start_time": "03:32 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479024.jpg"
     },
     {
       "show_name": "100 Day Dream Home",
       "start_time": "04:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479025.jpg"
     },
     {
       "show_name": "Mediterranean Life",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479026.jpg"
     },
     {
       "show_name": "Mountain Life",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479027.jpg"
     },
     {
-      "show_name": "Say Yes to the Dress",
+      "show_name": "Say Yes To The Dress: Lancashire",
       "start_time": "06:00 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479028.jpg"
     },
     {
       "show_name": "Cake Boss",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479029.jpg"
     },
     {
       "show_name": "Cake Boss",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479030.jpg"
     },
     {
-      "show_name": "Point of View: A Designer Profile",
+      "show_name": "Mind for Design",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479031.jpg"
     },
     {
-      "show_name": "Point of View: A Designer Profile",
+      "show_name": "Mind for Design",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479032.jpg"
     },
     {
       "show_name": "Say Yes To The Dress: Lancashire",
       "start_time": "09:00 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479033.jpg"
     },
     {
       "show_name": "90 Day Fiancé: The Other Way",
       "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126479031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127479034.jpg"
     }
   ]
 }

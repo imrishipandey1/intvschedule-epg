@@ -1,313 +1,121 @@
 {
-  "channel_name": "HM TV",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png",
-  "date": "2025-11-26",
+  "channel_name": "MTV",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
+  "date": "2025-11-27",
   "programs": [
     {
-      "show_name": "News @12am",
+      "show_name": "Night Out",
       "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665000.jpg"
-    },
-    {
-      "show_name": "Jordar Varthalu",
-      "start_time": "12:30 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665001.jpg"
-    },
-    {
-      "show_name": "News @12am",
-      "start_time": "01:00 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665002.jpg"
-    },
-    {
-      "show_name": "Mata Pata",
-      "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248000.jpg"
     },
     {
-      "show_name": "News @12am",
+      "show_name": "Roadies",
       "start_time": "02:00 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665004.jpg"
-    },
-    {
-      "show_name": "Jordar",
-      "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248001.jpg"
     },
     {
-      "show_name": "News @12am",
+      "show_name": "Roadies",
       "start_time": "03:00 AM",
-      "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665006.jpg"
-    },
-    {
-      "show_name": "Film Flash",
-      "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248002.jpg"
     },
     {
-      "show_name": "News @12am",
+      "show_name": "Roadies",
       "start_time": "04:00 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665008.jpg"
-    },
-    {
-      "show_name": "Divya Dhamam",
-      "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248003.jpg"
     },
     {
-      "show_name": "Jordar Varthalu",
+      "show_name": "MTV Chillax",
       "start_time": "05:00 AM",
-      "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665010.jpg"
-    },
-    {
-      "show_name": "Suprabhatham",
-      "start_time": "05:30 AM",
-      "end_time": "05:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665011.jpg"
-    },
-    {
-      "show_name": "5 Mints 25 Headlines",
-      "start_time": "05:55 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248004.jpg"
     },
     {
-      "show_name": "News @6am",
+      "show_name": "MTV Chillax",
       "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665013.jpg"
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248005.jpg"
     },
     {
-      "show_name": "Nelathalli",
-      "start_time": "06:30 AM",
-      "end_time": "06:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665014.jpg"
-    },
-    {
-      "show_name": "News @ 7am",
-      "start_time": "06:55 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665015.jpg"
-    },
-    {
-      "show_name": "News Analysis",
-      "start_time": "07:30 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665016.jpg"
-    },
-    {
-      "show_name": "Jordar Varthalu",
-      "start_time": "08:30 AM",
-      "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665017.jpg"
-    },
-    {
-      "show_name": "News @ 9am",
-      "start_time": "09:00 AM",
-      "end_time": "09:25 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665018.jpg"
-    },
-    {
-      "show_name": "Kapil",
-      "start_time": "09:25 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665019.jpg"
-    },
-    {
-      "show_name": "Burning Topic",
-      "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665020.jpg"
-    },
-    {
-      "show_name": "News @ 10am",
-      "start_time": "10:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665021.jpg"
-    },
-    {
-      "show_name": "Commercial (RJR Hospital)",
-      "start_time": "10:30 AM",
+      "show_name": "Pump Up Mornings",
+      "start_time": "07:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248006.jpg"
     },
     {
-      "show_name": "News @ 11am",
+      "show_name": "Roadies Real Heroes",
       "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665023.jpg"
+      "end_time": "11:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248007.jpg"
     },
     {
-      "show_name": "Mata Pata",
-      "start_time": "11:30 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665024.jpg"
+      "show_name": "Splitsvilla",
+      "start_time": "11:50 AM",
+      "end_time": "12:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248008.jpg"
     },
     {
-      "show_name": "NEWS @ 12PM",
-      "start_time": "12:00 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665025.jpg"
-    },
-    {
-      "show_name": "Otr",
-      "start_time": "12:30 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665026.jpg"
-    },
-    {
-      "show_name": "News @ 1pm",
-      "start_time": "01:00 PM",
+      "show_name": "Roadies",
+      "start_time": "12:45 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248009.jpg"
     },
     {
-      "show_name": "Game Changer",
+      "show_name": "Roadies",
       "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665028.jpg"
+      "end_time": "02:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248010.jpg"
     },
     {
-      "show_name": "News @2pm",
-      "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665029.jpg"
+      "show_name": "Roadies",
+      "start_time": "02:45 PM",
+      "end_time": "04:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248011.jpg"
     },
     {
-      "show_name": "Jordar Varthalu",
-      "start_time": "02:30 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665030.jpg"
-    },
-    {
-      "show_name": "News @3pm",
-      "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665031.jpg"
-    },
-    {
-      "show_name": "OTT",
-      "start_time": "03:30 PM",
-      "end_time": "03:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665032.jpg"
-    },
-    {
-      "show_name": "News @ 4pm",
-      "start_time": "03:55 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665033.jpg"
-    },
-    {
-      "show_name": "Yuva Keratalu",
-      "start_time": "04:30 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665034.jpg"
-    },
-    {
-      "show_name": "News @5pm",
-      "start_time": "05:00 PM",
+      "show_name": "Splitsvilla",
+      "start_time": "04:15 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248012.jpg"
     },
     {
-      "show_name": "Show Time",
+      "show_name": "Roadies",
       "start_time": "05:30 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665036.jpg"
+      "end_time": "06:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248013.jpg"
     },
     {
-      "show_name": "BBC",
-      "start_time": "06:00 PM",
-      "end_time": "06:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665037.jpg"
-    },
-    {
-      "show_name": "News @6pm",
-      "start_time": "06:10 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665038.jpg"
-    },
-    {
-      "show_name": "Nelathalli",
-      "start_time": "06:30 PM",
-      "end_time": "06:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665039.jpg"
-    },
-    {
-      "show_name": "5 Mints 25 Headlines",
-      "start_time": "06:55 PM",
+      "show_name": "Splitsvilla",
+      "start_time": "06:20 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665040.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248014.jpg"
     },
     {
-      "show_name": "Big Debate",
+      "show_name": "Roadies",
       "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665041.jpg"
+      "end_time": "08:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248015.jpg"
     },
     {
-      "show_name": "Big Debate",
-      "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665042.jpg"
+      "show_name": "Roadies Real Heroes",
+      "start_time": "08:15 PM",
+      "end_time": "09:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248016.jpg"
     },
     {
-      "show_name": "Otr",
-      "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665043.jpg"
+      "show_name": "Splitsvilla",
+      "start_time": "09:15 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248017.jpg"
     },
     {
-      "show_name": "Jordar Varthalu",
-      "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665044.jpg"
-    },
-    {
-      "show_name": "9 PM Prime Time",
-      "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665045.jpg"
-    },
-    {
-      "show_name": "Burning Topic",
-      "start_time": "09:30 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665046.jpg"
-    },
-    {
-      "show_name": "Pakka Hyderabadi",
-      "start_time": "10:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665047.jpg"
-    },
-    {
-      "show_name": "Show Time",
-      "start_time": "10:30 PM",
-      "end_time": "10:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665048.jpg"
-    },
-    {
-      "show_name": "News @11PM",
-      "start_time": "10:55 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665049.jpg"
-    },
-    {
-      "show_name": "Burning Topic",
-      "start_time": "11:30 PM",
+      "show_name": "Splitsvilla",
+      "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-26/251126665050.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127248018.jpg"
     }
   ]
 }

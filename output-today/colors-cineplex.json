@@ -1,73 +1,73 @@
 {
   "channel_name": "Colors Cineplex",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
-  "date": "2025-11-25",
+  "date": "2025-11-26",
   "programs": [
     {
-      "show_name": "Gajaana",
+      "show_name": "The Fighterman Singham 2",
       "start_time": "12:00 AM",
-      "end_time": "12:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/143c938704a36a45c27945d56c6ea1b8.jpg"
+      "end_time": "12:42 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6870aad342fbbdf20bb4af9395b4f498.jpg"
     },
     {
-      "show_name": "Romeo",
-      "start_time": "12:20 AM",
-      "end_time": "02:25 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/439fb6af0732d4b2b5badae8ca60072f.jpg"
-    },
-    {
-      "show_name": "Ek Zakhmi Romeo",
-      "start_time": "02:25 AM",
-      "end_time": "04:06 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/cb5510a13d8ca6284af4ec5fb3b16974.jpg"
+      "show_name": "My Boss Bajrangbali",
+      "start_time": "12:42 AM",
+      "end_time": "02:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/aa3017cf19f16e9aacca4029849d8391.jpg"
     },
     {
       "show_name": "Filler",
-      "start_time": "04:06 AM",
-      "end_time": "05:32 AM",
+      "start_time": "02:40 AM",
+      "end_time": "04:10 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5d1e458c4611e03057dc707e0e12bdcb.jpg"
     },
     {
-      "show_name": "Bharaate",
-      "start_time": "05:32 AM",
-      "end_time": "06:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/66c312a2155bd3f493c956aca0dc8d4a.jpg"
+      "show_name": "Mission Azad",
+      "start_time": "04:10 AM",
+      "end_time": "06:36 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6927ad4d5234ad4b7a87fc998e72a36d.jpg"
     },
     {
-      "show_name": "Jigar Kaleja",
-      "start_time": "06:35 AM",
-      "end_time": "09:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/047409eb425709e151856125b5622d6e.jpg"
+      "show_name": "Chhota Bheem and the Curse of Damyaan",
+      "start_time": "06:36 AM",
+      "end_time": "09:11 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/161a2478acf5240653bd2de806172fd2.jpg"
     },
     {
-      "show_name": "Vishal in Laatti Charge",
-      "start_time": "09:55 AM",
-      "end_time": "12:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7165c7ccb069740f41a42e4fc87bcf98.jpg"
+      "show_name": "Dus Ka Dum",
+      "start_time": "09:11 AM",
+      "end_time": "11:58 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f5b0df7afcdd058928043e0c863956c1.jpg"
     },
     {
-      "show_name": "M.S. Dhoni: The Untold Story",
-      "start_time": "12:55 PM",
-      "end_time": "04:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/264644de4a6d679fddf30c18b198fefa.jpg"
+      "show_name": "Jack",
+      "start_time": "11:58 AM",
+      "end_time": "02:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a5cf866ce8ebf0b3910b295d5f28cf31.jpg"
     },
     {
-      "show_name": "Chithha",
-      "start_time": "04:50 PM",
+      "show_name": "Ram Setu",
+      "start_time": "02:08 PM",
+      "end_time": "05:24 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f36451bb819bb8c5fbc5e27b97c5d00a.jpg"
+    },
+    {
+      "show_name": "Middle Class Abbayi",
+      "start_time": "05:24 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/09410dc2fc3fbba13054ca2b5935fe71.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a29889ad3148fe683813c32660f795a7.jpg"
     },
     {
-      "show_name": "Yodha",
+      "show_name": "Salaar Part 1: Ceasefire",
       "start_time": "07:50 PM",
-      "end_time": "10:25 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/59c6203b0545cafb1927675cfdf7736a.jpg"
+      "end_time": "11:09 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c9f0ac0a130d41783a416642780851f5.jpg"
     },
     {
-      "show_name": "The Fighterman Singham 2",
-      "start_time": "10:25 PM",
+      "show_name": "Jawaan",
+      "start_time": "11:09 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6870aad342fbbdf20bb4af9395b4f498.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/561a477b026525c81a57ecaeea16414e.jpg"
     }
   ]
 }
