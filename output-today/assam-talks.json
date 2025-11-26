@@ -1,7 +1,7 @@
 {
   "channel_name": "Assam Talks",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png",
-  "date": "2025-11-26",
+  "date": "2025-11-27",
   "programs": [
     {
       "show_name": "Prime @ 6",
@@ -124,13 +124,13 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b822b991ec46dcd9e70fcb88647751a1.jpg"
     },
     {
-      "show_name": "Assam Talent Hunt",
+      "show_name": "Hindi Bullet News",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c8c15e232a5e201486c63afa6481623.jpg"
     },
     {
-      "show_name": "Assam Talent Hunt",
+      "show_name": "Bixekh Adha Ghonta",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c8c15e232a5e201486c63afa6481623.jpg"
@@ -244,28 +244,28 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
     },
     {
-      "show_name": "News \u0026 Views",
+      "show_name": "Bartaman",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
     },
     {
-      "show_name": "News \u0026 Views",
+      "show_name": "Bartaman",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
     },
     {
-      "show_name": "Prime Hour",
+      "show_name": "Prime Suspect",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6474b4228706d6413855b38f6bfc7fc8.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1fb59899c83b6bc30d04a0a08c1fa2c9.jpg"
     },
     {
-      "show_name": "Prime Hour",
+      "show_name": "Prime Suspect",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6474b4228706d6413855b38f6bfc7fc8.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1fb59899c83b6bc30d04a0a08c1fa2c9.jpg"
     },
     {
       "show_name": "Prime @ Night",
@@ -286,10 +286,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6957c96318040e23b2921e13030e40d9.jpg"
     },
     {
-      "show_name": "News \u0026 Views",
+      "show_name": "Bartaman",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/747b51f6eb5ad852840da5ba56af798d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
     }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "channel_name": "Zee TV",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTV_Thumbnail_bbdc885f-e029-4df8-bdca-c781610a595d.png",
+  "date": "2025-11-27",
+  "programs": [
+    {
+      "show_name": "Tum Se Tum Tak",
+      "start_time": "11:30 PM",
+      "end_time": "12:04 AM",
+      "show_logo": ""
+    }
+  ]
+}

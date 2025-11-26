@@ -1,0 +1,73 @@
+{
+  "channel_name": "Colors Cineplex Superhit",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+  "date": "2025-11-28",
+  "programs": [
+    {
+      "show_name": "Meri Taqat Mera Faisla",
+      "start_time": "12:00 AM",
+      "end_time": "12:27 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450000.jpg"
+    },
+    {
+      "show_name": "Khatarnak Khiladi",
+      "start_time": "12:27 AM",
+      "end_time": "02:24 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450001.jpg"
+    },
+    {
+      "show_name": "Jagan Mohini",
+      "start_time": "02:24 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450002.jpg"
+    },
+    {
+      "show_name": "Ek Hi Don",
+      "start_time": "04:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450003.jpg"
+    },
+    {
+      "show_name": "Sapthagiri LLB",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450004.jpg"
+    },
+    {
+      "show_name": "Express Khiladi",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450005.jpg"
+    },
+    {
+      "show_name": "Mission 118",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450006.jpg"
+    },
+    {
+      "show_name": "Fidaa",
+      "start_time": "03:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450007.jpg"
+    },
+    {
+      "show_name": "Captain",
+      "start_time": "05:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450008.jpg"
+    },
+    {
+      "show_name": "Bhola Shankar",
+      "start_time": "07:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450009.jpg"
+    },
+    {
+      "show_name": "Aamaa Part 2",
+      "start_time": "10:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450010.jpg"
+    }
+  ]
+}
