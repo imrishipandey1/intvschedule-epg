@@ -1,73 +1,61 @@
 {
-  "channel_name": "Colors Cineplex Superhit",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
-  "date": "2025-11-27",
+  "channel_name": "Colors Cineplex Bollywood",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+  "date": "2025-11-28",
   "programs": [
     {
-      "show_name": "My Boss Bajrangbali",
+      "show_name": "Gupt",
       "start_time": "12:00 AM",
-      "end_time": "12:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450000.jpg"
+      "end_time": "12:51 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281763000.jpg"
     },
     {
-      "show_name": "The Fighter Mard No. 1",
-      "start_time": "12:24 AM",
-      "end_time": "02:11 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450001.jpg"
+      "show_name": "Gang",
+      "start_time": "12:51 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281763001.jpg"
     },
     {
-      "show_name": "Sardar Saab",
-      "start_time": "02:11 AM",
-      "end_time": "04:43 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450002.jpg"
+      "show_name": "Inquilaab",
+      "start_time": "04:00 AM",
+      "end_time": "06:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281763002.jpg"
     },
     {
-      "show_name": "Action Blaster",
-      "start_time": "04:43 AM",
-      "end_time": "07:48 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450003.jpg"
+      "show_name": "Jai Kishen",
+      "start_time": "06:35 AM",
+      "end_time": "09:23 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281763003.jpg"
     },
     {
-      "show_name": "The Return Of Lion",
-      "start_time": "07:48 AM",
-      "end_time": "10:19 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450004.jpg"
+      "show_name": "Sapne Saajan Ke",
+      "start_time": "09:23 AM",
+      "end_time": "12:46 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281763004.jpg"
     },
     {
-      "show_name": "Ek Aur Mrityu Pujan",
-      "start_time": "10:19 AM",
-      "end_time": "11:52 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450005.jpg"
+      "show_name": "Garv: Pride and Honour",
+      "start_time": "12:46 PM",
+      "end_time": "03:36 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281763005.jpg"
     },
     {
-      "show_name": "Naa Saami Ranga",
-      "start_time": "11:52 AM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450006.jpg"
+      "show_name": "Sainik",
+      "start_time": "03:36 PM",
+      "end_time": "06:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281763006.jpg"
     },
     {
-      "show_name": "Rider",
-      "start_time": "02:00 PM",
-      "end_time": "04:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450007.jpg"
+      "show_name": "Swarg",
+      "start_time": "06:50 PM",
+      "end_time": "10:08 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281763007.jpg"
     },
     {
-      "show_name": "Vijay Raghavan",
-      "start_time": "04:10 PM",
-      "end_time": "06:49 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450008.jpg"
-    },
-    {
-      "show_name": "Sita Ram",
-      "start_time": "06:49 PM",
-      "end_time": "09:14 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450009.jpg"
-    },
-    {
-      "show_name": "Meri Taqat Mera Faisla",
-      "start_time": "09:14 PM",
+      "show_name": "Zulmi",
+      "start_time": "10:08 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271450010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281763008.jpg"
     }
   ]
 }

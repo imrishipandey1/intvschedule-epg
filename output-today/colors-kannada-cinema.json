@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Kannada Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",
-  "date": "2025-11-27",
+  "date": "2025-11-28",
   "programs": [
     {
-      "show_name": "Nagarahole",
+      "show_name": "Ajaraamara",
       "start_time": "12:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271632000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281632000.jpg"
     },
     {
-      "show_name": "Rush",
+      "show_name": "Ashtralle Just Missoo",
       "start_time": "02:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271632001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281632001.jpg"
     },
     {
       "show_name": "Shiva Shakthi",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271632002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281632002.jpg"
     },
     {
-      "show_name": "Ai Nan Bheeshma Kano",
+      "show_name": "Kannadakkaagi Ondannu Otti",
       "start_time": "05:30 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271632003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281632003.jpg"
     },
     {
       "show_name": "Bigg Boss Kannada",
       "start_time": "08:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271632004.jpg"
-    },
-    {
-      "show_name": "C.B.I. Shankar",
-      "start_time": "10:00 AM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271632005.jpg"
-    },
-    {
-      "show_name": "Iruvudellava Bittu",
-      "start_time": "01:30 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271632006.jpg"
-    },
-    {
-      "show_name": "Namma Samsara Ananda Sagara",
-      "start_time": "04:30 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271632007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281632004.jpg"
     },
     {
       "show_name": "Shabdavedi",
-      "start_time": "07:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271632008.jpg"
+      "start_time": "10:00 AM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281632005.jpg"
     },
     {
-      "show_name": "Ajaraamara",
+      "show_name": "Lakshmi Mahalakshmi",
+      "start_time": "01:30 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281632006.jpg"
+    },
+    {
+      "show_name": "Godfather",
+      "start_time": "04:30 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281632007.jpg"
+    },
+    {
+      "show_name": "Bindaas",
+      "start_time": "07:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281632008.jpg"
+    },
+    {
+      "show_name": "Athiratha",
       "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/2511271632009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281632009.jpg"
     }
   ]
 }

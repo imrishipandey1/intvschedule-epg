@@ -1,127 +1,151 @@
 {
-  "channel_name": "MTV",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
-  "date": "2025-11-28",
+  "channel_name": "VNM TV",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/VNM_News.png",
+  "date": "2025-11-29",
   "programs": [
     {
-      "show_name": "Night Out",
+      "show_name": "VNM TV",
       "start_time": "12:00 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248000.jpg"
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965000.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "VNM TV",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965001.jpg"
+    },
+    {
+      "show_name": "VNM TV",
       "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965002.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "VNM TV",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965003.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "VNM TV",
       "start_time": "04:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965004.jpg"
     },
     {
-      "show_name": "MTV Chillax",
+      "show_name": "VNM TV",
       "start_time": "05:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965005.jpg"
     },
     {
-      "show_name": "MTV Chillax",
+      "show_name": "VNM TV",
       "start_time": "06:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965006.jpg"
     },
     {
-      "show_name": "Pump Up Mornings",
+      "show_name": "VNM TV",
       "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965007.jpg"
+    },
+    {
+      "show_name": "VNM TV",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965008.jpg"
+    },
+    {
+      "show_name": "VNM TV",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965009.jpg"
+    },
+    {
+      "show_name": "VNM TV",
+      "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965010.jpg"
     },
     {
-      "show_name": "Roadies Real Heroes",
+      "show_name": "VNM TV",
       "start_time": "11:00 AM",
-      "end_time": "11:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248007.jpg"
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965011.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "11:50 AM",
-      "end_time": "12:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248008.jpg"
+      "show_name": "VNM TV",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965012.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "12:45 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248009.jpg"
+      "show_name": "VNM TV",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965013.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "01:30 PM",
-      "end_time": "02:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248010.jpg"
+      "show_name": "VNM TV",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965014.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "02:45 PM",
-      "end_time": "04:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248011.jpg"
+      "show_name": "VNM TV",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965015.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "04:15 PM",
-      "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248012.jpg"
+      "show_name": "VNM TV",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965016.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "05:30 PM",
-      "end_time": "06:20 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248013.jpg"
+      "show_name": "VNM TV",
+      "start_time": "05:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965017.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "06:20 PM",
+      "show_name": "VNM TV",
+      "start_time": "06:00 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965018.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "VNM TV",
       "start_time": "07:00 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965019.jpg"
     },
     {
-      "show_name": "Roadies Real Heroes",
+      "show_name": "VNM TV",
       "start_time": "08:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965020.jpg"
     },
     {
-      "show_name": "Date 2 Remember",
+      "show_name": "VNM TV",
       "start_time": "09:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965021.jpg"
     },
     {
-      "show_name": "Splitsvilla",
+      "show_name": "VNM TV",
       "start_time": "10:00 PM",
-      "end_time": "11:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248018.jpg"
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965022.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "11:45 PM",
+      "show_name": "VNM TV",
+      "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128248019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291965023.jpg"
     }
   ]
 }

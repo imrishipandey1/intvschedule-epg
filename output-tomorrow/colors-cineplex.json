@@ -1,73 +1,73 @@
 {
-  "channel_name": "Colors Cineplex Superhit",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
-  "date": "2025-11-28",
+  "channel_name": "Colors Cineplex Bollywood",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+  "date": "2025-11-29",
   "programs": [
     {
-      "show_name": "Meri Taqat Mera Faisla",
+      "show_name": "Zulmi",
       "start_time": "12:00 AM",
-      "end_time": "12:27 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450000.jpg"
+      "end_time": "01:02 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763000.jpg"
     },
     {
-      "show_name": "Khatarnak Khiladi",
-      "start_time": "12:27 AM",
-      "end_time": "02:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450001.jpg"
+      "show_name": "Gola Barood",
+      "start_time": "01:02 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763001.jpg"
     },
     {
-      "show_name": "Jagan Mohini",
-      "start_time": "02:24 AM",
+      "show_name": "Bhumika: The Role",
+      "start_time": "02:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763002.jpg"
     },
     {
-      "show_name": "Ek Hi Don",
+      "show_name": "To Be Announced",
       "start_time": "04:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763003.jpg"
     },
     {
-      "show_name": "Sapthagiri LLB",
+      "show_name": "Namak Halaal",
       "start_time": "06:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763004.jpg"
     },
     {
-      "show_name": "Express Khiladi",
+      "show_name": "Himmat",
       "start_time": "09:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763005.jpg"
     },
     {
-      "show_name": "Mission 118",
+      "show_name": "Dil Pardesi Ho Gaya",
       "start_time": "12:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763006.jpg"
     },
     {
-      "show_name": "Fidaa",
+      "show_name": "Darr",
       "start_time": "03:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763007.jpg"
     },
     {
-      "show_name": "Captain",
+      "show_name": "To Be Announced",
       "start_time": "05:00 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763008.jpg"
     },
     {
-      "show_name": "Bhola Shankar",
+      "show_name": "Beta",
       "start_time": "07:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763009.jpg"
     },
     {
-      "show_name": "Aamaa Part 2",
+      "show_name": "Gumrah",
       "start_time": "10:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/2511281450010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291763010.jpg"
     }
   ]
 }

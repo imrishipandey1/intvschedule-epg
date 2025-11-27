@@ -1,295 +1,319 @@
 {
-  "channel_name": "Zee 24 Ghanta",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",
-  "date": "2025-11-27",
+  "channel_name": "E 24",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png",
+  "date": "2025-11-28",
   "programs": [
     {
-      "show_name": "Ja Bolbo Satti Bolbo",
+      "show_name": "Hot Hits",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591000.jpg"
     },
     {
-      "show_name": "Ja Bolbo Satti Bolbo",
+      "show_name": "Hot Hits",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591001.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Hot Hits",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591002.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Hot Hits",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591003.jpg"
     },
     {
-      "show_name": "Ja Bolbo Satti Bolbo",
+      "show_name": "Bollywood Reporter",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591004.jpg"
     },
     {
-      "show_name": "Ja Bolbo Satti Bolbo",
+      "show_name": "Bhangra Junction",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591005.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Bhangra Junction",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591006.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Bhangra Junction",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591007.jpg"
     },
     {
-      "show_name": "Ja Bolbo Satti Bolbo",
+      "show_name": "Bhangra Junction",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591008.jpg"
     },
     {
-      "show_name": "Ja Bolbo Satti Bolbo",
+      "show_name": "Bollywood Reporter",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591009.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Karare Hits",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591010.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Karare Hits",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591011.jpg"
     },
     {
-      "show_name": "Supravat Bangla",
+      "show_name": "Karare Hits",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591012.jpg"
     },
     {
-      "show_name": "Supravat Bangla",
+      "show_name": "Karare Hits",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591013.jpg"
     },
     {
-      "show_name": "Saat Sakal",
+      "show_name": "Karare Hits",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591014.jpg"
     },
     {
-      "show_name": "Saat Sakal",
+      "show_name": "Karare Hits",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591015.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Bhangra Junction",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591016.jpg"
     },
     {
-      "show_name": "Chatpat 24",
+      "show_name": "Bhangra Junction",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591017.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Bhangra Junction",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591018.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Bhangra Junction",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591019.jpg"
     },
     {
-      "show_name": "10 Ter News",
+      "show_name": "Hot Hits",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591020.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Hot Hits",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591021.jpg"
     },
     {
-      "show_name": "11 Ter Dunia",
+      "show_name": "Hot Hits",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591022.jpg"
     },
     {
-      "show_name": "Chatpat 24",
+      "show_name": "Hot Hits",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591023.jpg"
     },
     {
-      "show_name": "12 ter Baro Khabor",
+      "show_name": "Bollywood Top - 10",
       "start_time": "12:00 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464024.jpg"
+      "end_time": "12:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591024.jpg"
     },
     {
-      "show_name": "12 ter Baro Khabor",
+      "show_name": "Insta Stalker",
+      "start_time": "12:10 PM",
+      "end_time": "12:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591025.jpg"
+    },
+    {
+      "show_name": "E - Review",
+      "start_time": "12:20 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591026.jpg"
+    },
+    {
+      "show_name": "Bollywood Reporter",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591027.jpg"
     },
     {
-      "show_name": "Dupurer Prime Time",
+      "show_name": "U, Me aur Tv",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591028.jpg"
     },
     {
-      "show_name": "Chatpat 24",
+      "show_name": "Mast Melodies",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591029.jpg"
     },
     {
-      "show_name": "Dutor Dunia",
+      "show_name": "Mast Melodies",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591030.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Party On My Mind",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591031.jpg"
     },
     {
-      "show_name": "Khabor Saradin",
+      "show_name": "Party On My Mind",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591032.jpg"
     },
     {
-      "show_name": "Jelar Dupur",
+      "show_name": "Party On My Mind",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591033.jpg"
     },
     {
-      "show_name": "Chatpat 24",
+      "show_name": "U, Me aur Tv",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464032.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591034.jpg"
     },
     {
-      "show_name": "News Room Theke",
+      "show_name": "Bollywood Reporter",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591035.jpg"
     },
     {
-      "show_name": "Panchter Panch",
+      "show_name": "Karare Hits",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464034.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591036.jpg"
     },
     {
-      "show_name": "Panchter Panch",
+      "show_name": "Karare Hits",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591037.jpg"
     },
     {
-      "show_name": "Kolkatar 6 show",
+      "show_name": "Karare Hits",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464036.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591038.jpg"
     },
     {
-      "show_name": "Special 24",
+      "show_name": "Karare Hits",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464037.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591039.jpg"
     },
     {
-      "show_name": "Viral News",
+      "show_name": "Bollywood Top - 10",
       "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464038.jpg"
+      "end_time": "07:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591040.jpg"
     },
     {
-      "show_name": "Ek Tana 24",
+      "show_name": "Insta Stalker",
+      "start_time": "07:10 PM",
+      "end_time": "07:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591041.jpg"
+    },
+    {
+      "show_name": "E - Review",
+      "start_time": "07:20 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591042.jpg"
+    },
+    {
+      "show_name": "E-Cafe",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464039.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591043.jpg"
     },
     {
-      "show_name": "Bangla@8",
+      "show_name": "Yeh Rupyon Ka Mamla Hai",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464040.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591044.jpg"
     },
     {
-      "show_name": "Bangla@8",
+      "show_name": "Bollywood Reporter",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464041.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591045.jpg"
     },
     {
-      "show_name": "Ja Bolbo Satti Bolbo",
+      "show_name": "Mast Melodies",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464042.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591046.jpg"
     },
     {
-      "show_name": "Ja Bolbo Satti Bolbo",
+      "show_name": "Mast Melodies",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464043.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591047.jpg"
     },
     {
-      "show_name": "Jelar 24",
+      "show_name": "Party On My Mind",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464044.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591048.jpg"
     },
     {
-      "show_name": "Viral News",
+      "show_name": "Party On My Mind",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464045.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591049.jpg"
     },
     {
-      "show_name": "Shubharatri Bangla",
+      "show_name": "Party On My Mind",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464046.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591050.jpg"
     },
     {
-      "show_name": "Shubharatri Bangla",
+      "show_name": "Party On My Mind",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-27/251127464047.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128591051.jpg"
     }
   ]
 }
