@@ -1,7 +1,7 @@
 {
   "channel_name": "Assam Talks",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png",
-  "date": "2025-11-28",
+  "date": "2025-11-29",
   "programs": [
     {
       "show_name": "Prime @ 6",
@@ -127,13 +127,13 @@
       "show_name": "Hindi Bullet News",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c8c15e232a5e201486c63afa6481623.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f4c9126f806ff2f6c433fbb7cd7d551e.jpg"
     },
     {
       "show_name": "Bixekh Adha Ghonta",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c8c15e232a5e201486c63afa6481623.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c2d8bc5aa26ed793872b81c5abc3d67d.jpg"
     },
     {
       "show_name": "Breaking News",
@@ -163,13 +163,13 @@
       "show_name": "Hindi Bullet News",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c8c15e232a5e201486c63afa6481623.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f4c9126f806ff2f6c433fbb7cd7d551e.jpg"
     },
     {
       "show_name": "Bixekh Adha Ghonta",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c8c15e232a5e201486c63afa6481623.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c2d8bc5aa26ed793872b81c5abc3d67d.jpg"
     },
     {
       "show_name": "News Express",
@@ -187,7 +187,7 @@
       "show_name": "Bixekh Adha Ghonta",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c8c15e232a5e201486c63afa6481623.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c2d8bc5aa26ed793872b81c5abc3d67d.jpg"
     },
     {
       "show_name": "Bartaman",
@@ -244,16 +244,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
     },
     {
       "show_name": "Prime Hour",
@@ -280,16 +280,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6227b76f0eda1f76424851d3de71c5ea.jpg"
     },
     {
-      "show_name": "Rapid Fire",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6957c96318040e23b2921e13030e40d9.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
     }
   ]
 }

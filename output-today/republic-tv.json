@@ -1,283 +1,253 @@
 {
   "channel_name": "Republic TV",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",
-  "date": "2025-11-28",
+  "date": "2025-11-29",
   "programs": [
     {
       "show_name": "R News",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858000.jpg"
     },
     {
       "show_name": "R News",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858001.jpg"
     },
     {
       "show_name": "R News",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858002.jpg"
     },
     {
       "show_name": "R News",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858003.jpg"
     },
     {
       "show_name": "R News",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858004.jpg"
     },
     {
       "show_name": "R News",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858005.jpg"
     },
     {
       "show_name": "The Debate Late Tonight",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858006.jpg"
     },
     {
       "show_name": "The Debate Late Tonight",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858007.jpg"
     },
     {
       "show_name": "The Debate Late Tonight",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858008.jpg"
     },
     {
       "show_name": "The Debate Late Tonight",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858009.jpg"
     },
     {
       "show_name": "R News",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858010.jpg"
     },
     {
       "show_name": "R News",
       "start_time": "05:30 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858011.jpg"
-    },
-    {
-      "show_name": "Live This Morning",
-      "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858012.jpg"
-    },
-    {
-      "show_name": "Live This Morning",
-      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858011.jpg"
     },
     {
-      "show_name": "Live This Morning",
+      "show_name": "World Of Brands",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858012.jpg"
     },
     {
-      "show_name": "Live This Morning",
+      "show_name": "Live And Breaking",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858013.jpg"
     },
     {
-      "show_name": "Live This Morning",
+      "show_name": "Adani 2050: Mahakumbh",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858014.jpg"
     },
     {
-      "show_name": "Live This Morning",
+      "show_name": "6 Stories At 6",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858015.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "Get Me Right",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858016.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "This Is Exclusive",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858017.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "Trending",
       "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858020.jpg"
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858018.jpg"
     },
     {
       "show_name": "Live And Breaking",
-      "start_time": "11:00 AM",
+      "start_time": "10:30 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858019.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "Burning Question",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858020.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "Burning Question",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858021.jpg"
     },
     {
       "show_name": "Live And Breaking",
       "start_time": "12:30 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858024.jpg"
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858022.jpg"
     },
     {
-      "show_name": "Live And Breaking",
-      "start_time": "01:00 PM",
+      "show_name": "R News",
+      "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858023.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "R News",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858024.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "R News",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858025.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "R News",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858026.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "R News",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858027.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "R News",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858028.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "R News",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858029.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "R News",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858032.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858030.jpg"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "R News",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858031.jpg"
     },
     {
-      "show_name": "6 Stories At 6",
+      "show_name": "R News",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858034.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858032.jpg"
+    },
+    {
+      "show_name": "R News",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858033.jpg"
+    },
+    {
+      "show_name": "R News",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858034.jpg"
+    },
+    {
+      "show_name": "R News",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858035.jpg"
+    },
+    {
+      "show_name": "R News",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858036.jpg"
+    },
+    {
+      "show_name": "Quick Morning",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858037.jpg"
+    },
+    {
+      "show_name": "Quick Morning",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858038.jpg"
+    },
+    {
+      "show_name": "Live This Morning",
+      "start_time": "09:30 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858039.jpg"
     },
     {
       "show_name": "Live And Breaking",
-      "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858035.jpg"
-    },
-    {
-      "show_name": "This Is Exclusive",
-      "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858036.jpg"
-    },
-    {
-      "show_name": "Trending",
-      "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858037.jpg"
-    },
-    {
-      "show_name": "The Debate With Arnab Goswami @ 8",
-      "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858038.jpg"
-    },
-    {
-      "show_name": "The Debate With Arnab Goswami @ 8",
-      "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858039.jpg"
-    },
-    {
-      "show_name": "The Debate With Arnab Goswami @ 9",
-      "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858040.jpg"
-    },
-    {
-      "show_name": "The Debate With Arnab Goswami @ 9",
-      "start_time": "09:30 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858041.jpg"
-    },
-    {
-      "show_name": "The Debate Late Tonight",
-      "start_time": "10:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858042.jpg"
-    },
-    {
-      "show_name": "The Debate Late Tonight",
-      "start_time": "10:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858043.jpg"
-    },
-    {
-      "show_name": "The Debate Late Tonight",
-      "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858044.jpg"
-    },
-    {
-      "show_name": "The Debate Late Tonight",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128858045.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129858040.jpg"
     }
   ]
 }

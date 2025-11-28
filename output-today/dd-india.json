@@ -1,0 +1,217 @@
+{
+  "channel_name": "DD India",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_Thumbnail.png-v4/DDIND_Thumbnail.png.png",
+  "date": "2025-11-29",
+  "programs": [
+    {
+      "show_name": "Indian Diplomacy",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "12:30 AM",
+      "end_time": "01:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Connecting the Dots",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "02:30 AM",
+      "end_time": "03:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Wellness Watch",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "The Economic Brief",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "04:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Explorer of the Misty Mountains",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Sadhguru Speaks",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Indian Diplomacy",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "55th International Film Festival of India-2024 (IFFI)",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Defence Dynamics",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "PM Visit to Nigeria-India-Negeria Strengthening Relations",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Connecting the Dots",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Voice of the Global South",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Media Scan-Has the New Right Arrived in India?",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Indian Diplomacy",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "09:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "55th International Film Festival of India-2024 (IFFI)",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "PM Visit to Nigeria-India-Negeria Strengthening Relations",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "11:00 PM",
+      "end_time": "12:00 AM",
+      "show_logo": ""
+    }
+  ]
+}

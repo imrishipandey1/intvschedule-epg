@@ -1,7 +1,7 @@
 {
   "channel_name": "Aakash Aath",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",
-  "date": "2025-11-28",
+  "date": "2025-11-29",
   "programs": [
     {
       "show_name": "Police Files",
@@ -10,10 +10,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08e00ebe1922b27c9693d0d69837c967.jpg"
     },
     {
-      "show_name": "Apon Shatru",
+      "show_name": "Ruposhi Dohai Tomar",
       "start_time": "12:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/21051020b9e4b0d1d727031603b4b717.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0146057fc1cc8f9d3efb05e8bdca614e.jpg"
     },
     {
       "show_name": "Akashe Superstar",
@@ -112,10 +112,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e4bff3372dc455b629ed10c147c83644.jpg"
     },
     {
-      "show_name": "Ruposhi Dohai Tomar",
+      "show_name": "Prem Bibhrat",
       "start_time": "03:05 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0146057fc1cc8f9d3efb05e8bdca614e.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/30ec1299bb77519220864291c1b2e078.jpg"
     },
     {
       "show_name": "Radhuni",

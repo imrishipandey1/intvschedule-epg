@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Bangla Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
-  "date": "2025-11-29",
+  "date": "2025-11-30",
   "programs": [
     {
-      "show_name": "Dujone",
+      "show_name": "Gangster",
       "start_time": "12:00 AM",
-      "end_time": "01:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291657000.jpg"
+      "end_time": "01:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657000.jpg"
     },
     {
-      "show_name": "Shob Bhooturey",
-      "start_time": "01:05 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291657001.jpg"
+      "show_name": "Mahanagar @ Kolkata",
+      "start_time": "01:35 AM",
+      "end_time": "03:10 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657001.jpg"
     },
     {
       "show_name": "Shiv Shakti",
-      "start_time": "03:00 AM",
+      "start_time": "03:10 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291657002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657002.jpg"
     },
     {
-      "show_name": "Moner Bandhan",
+      "show_name": "Adventures of Jojo",
       "start_time": "04:00 AM",
       "end_time": "06:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291657003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657003.jpg"
     },
     {
-      "show_name": "Raju Uncle",
+      "show_name": "Gandaakal",
       "start_time": "06:55 AM",
-      "end_time": "10:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291657004.jpg"
+      "end_time": "09:55 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657004.jpg"
     },
     {
-      "show_name": "Bojhena Shey Bojhena",
-      "start_time": "10:05 AM",
+      "show_name": "Subho Drishti",
+      "start_time": "09:55 AM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291657005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657005.jpg"
     },
     {
-      "show_name": "I Love You",
+      "show_name": "Barood",
       "start_time": "01:00 PM",
-      "end_time": "04:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291657006.jpg"
+      "end_time": "04:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657006.jpg"
     },
     {
-      "show_name": "Shotru",
-      "start_time": "04:15 PM",
-      "end_time": "07:40 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291657007.jpg"
+      "show_name": "Sathi",
+      "start_time": "04:05 PM",
+      "end_time": "07:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657007.jpg"
     },
     {
-      "show_name": "Fighter, Marbo Noy Morbo",
-      "start_time": "07:40 PM",
-      "end_time": "11:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291657008.jpg"
+      "show_name": "Challenge",
+      "start_time": "07:10 PM",
+      "end_time": "10:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657008.jpg"
     },
     {
-      "show_name": "Gangster",
-      "start_time": "11:05 PM",
+      "show_name": "Wanted",
+      "start_time": "10:05 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/2511291657009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657009.jpg"
     }
   ]
 }

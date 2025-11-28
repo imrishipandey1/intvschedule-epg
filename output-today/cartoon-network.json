@@ -1,193 +1,229 @@
 {
-  "channel_name": "Cartoon Network Hindi",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",
-  "date": "2025-11-28",
+  "channel_name": "Cartoon Network",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",
+  "date": "2025-11-29",
   "programs": [
     {
       "show_name": "Courage the Cowardly Dog",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816000.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Kiteretsu",
       "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816001.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "The Tom and Jerry Show",
       "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816002.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "The Tom and Jerry Show",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816003.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "The Tom and Jerry Show",
       "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "The Tom and Jerry Show",
+      "start_time": "05:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816004.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "The Tom and Jerry Show",
       "start_time": "06:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816005.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Mr. Bean: The Animated Series",
+      "show_name": "Grizzy and The Lemmings",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816006.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Mr. Bean: The Animated Series",
+      "show_name": "Grizzy and The Lemmings",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816007.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Mr. Bean: The Animated Series",
+      "show_name": "Grizzy and The Lemmings",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816008.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Mr. Bean: The Animated Series",
+      "show_name": "Grizzy and The Lemmings",
       "start_time": "08:30 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816009.jpg"
+      "end_time": "09:00 AM",
+      "show_logo": ""
     },
     {
-      "show_name": "Mr. Bean: The Animated Series",
+      "show_name": "Grizzy and The Lemmings",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Grizzy and The Lemmings",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816010.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Teen Titans GO!",
+      "show_name": "Grizzy and The Lemmings",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816011.jpg"
+      "show_logo": ""
+    },
+    {
+      "show_name": "Grizzy and The Lemmings",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Grizzy and The Lemmings",
+      "start_time": "11:00 AM",
+      "end_time": "11:20 AM",
+      "show_logo": ""
     },
     {
       "show_name": "Teen Titans GO!",
-      "start_time": "10:30 AM",
+      "start_time": "11:20 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816012.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Teen Titans GO!",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816013.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Teen Titans GO!",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816014.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Bandbudh Aur Budbak",
+      "show_name": "Teen Titans GO!",
       "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Teen Titans GO!",
+      "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816015.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Bandbudh Aur Budbak",
+      "show_name": "Teen Titans GO!",
       "start_time": "01:30 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816016.jpg"
+      "end_time": "01:50 PM",
+      "show_logo": ""
     },
     {
-      "show_name": "Teen Titans GO!",
-      "start_time": "02:30 PM",
+      "show_name": "Movie - Ekans - Hero Ek Villain Anek",
+      "start_time": "01:50 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816017.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Teen Titans GO!",
+      "show_name": "Movie - Vinashastra Ka Vaar",
       "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816018.jpg"
+      "end_time": "04:00 PM",
+      "show_logo": ""
     },
     {
       "show_name": "Teen Titans GO!",
-      "start_time": "03:30 PM",
+      "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816019.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Teen Titans GO!",
       "start_time": "04:30 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816020.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Teen Titans GO!",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816021.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Teen Titans GO!",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816022.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Teen Titans GO!",
       "start_time": "06:30 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816023.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Teen Titans GO!",
       "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Teen Titans GO!",
+      "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816024.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Bandbudh Aur Budbak",
+      "show_name": "Teen Titans GO!",
       "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816025.jpg"
-    },
-    {
-      "show_name": "Bandbudh Aur Budbak",
-      "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816026.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Bandbudh Aur Budbak",
+      "show_name": "Teen Titans GO!",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816027.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Bandbudh Aur Budbak",
+      "show_name": "Teen Titans GO!",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816028.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "My Hero Academia",
+      "show_name": "Teen Titans GO!",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816029.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "My Hero Academia",
+      "show_name": "Teen Titans GO!",
       "start_time": "11:00 PM",
-      "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128816030.jpg"
+      "end_time": "11:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Courage the Cowardly Dog",
+      "start_time": "11:30 PM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
     }
   ]
 }

@@ -1,247 +1,241 @@
 {
   "channel_name": "DD Bangla",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",
-  "date": "2025-11-29",
+  "date": "2025-11-30",
   "programs": [
     {
       "show_name": "Sakal Sakal",
       "start_time": "12:00 AM",
-      "end_time": "12:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690000.jpg"
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690000.jpg"
     },
     {
       "show_name": "Entertainment Programme",
-      "start_time": "12:15 AM",
+      "start_time": "12:30 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690001.jpg"
     },
     {
       "show_name": "Classical Music",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690002.jpg"
     },
     {
       "show_name": "Signature Image \u0026 Tune",
       "start_time": "06:00 AM",
       "end_time": "06:01 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690003.jpg"
     },
     {
       "show_name": "Devotional Song",
       "start_time": "06:01 AM",
       "end_time": "06:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690004.jpg"
     },
     {
       "show_name": "Subho Janmadin",
       "start_time": "06:15 AM",
       "end_time": "06:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690005.jpg"
     },
     {
       "show_name": "Amrita Katha",
       "start_time": "06:20 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690006.jpg"
     },
     {
       "show_name": "Light Classical Music",
       "start_time": "06:30 AM",
       "end_time": "06:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690007.jpg"
     },
     {
       "show_name": "Bhalo Thakun",
       "start_time": "06:45 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690008.jpg"
     },
     {
       "show_name": "Sakal Sakal",
       "start_time": "07:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690009.jpg"
     },
     {
       "show_name": "Sambad",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690010.jpg"
     },
     {
-      "show_name": "Ankur",
+      "show_name": "Roopkatha",
       "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690011.jpg"
-    },
-    {
-      "show_name": "Rabindra Sangeet",
-      "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690011.jpg"
     },
     {
-      "show_name": "Shantiniketan Theke",
+      "show_name": "DD Archives",
       "start_time": "10:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690013.jpg"
-    },
-    {
-      "show_name": "Sakal Sakal",
-      "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690012.jpg"
     },
     {
-      "show_name": "Sambad: 5 Minute-E-15 Ti Khabor",
+      "show_name": "Mann Ki Baat",
       "start_time": "11:00 AM",
-      "end_time": "11:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690015.jpg"
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690013.jpg"
     },
     {
-      "show_name": "Sakal Sakal",
-      "start_time": "11:05 AM",
+      "show_name": "Moner Katha",
+      "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690014.jpg"
     },
     {
       "show_name": "Sambad Ek Najare",
       "start_time": "12:00 PM",
       "end_time": "12:02 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690015.jpg"
     },
     {
-      "show_name": "Tomay Gaan Sonabo",
+      "show_name": "Ghare Baire",
       "start_time": "12:02 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690016.jpg"
     },
     {
       "show_name": "Sambad Ek Najare",
       "start_time": "01:00 PM",
       "end_time": "01:02 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690017.jpg"
     },
     {
-      "show_name": "Khela Aar Khela",
+      "show_name": "Classical Dance",
       "start_time": "01:02 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690018.jpg"
     },
     {
-      "show_name": "Aparajito",
+      "show_name": "Sahitya Sanskriti",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690019.jpg"
     },
     {
       "show_name": "Sambad",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690020.jpg"
     },
     {
-      "show_name": "Chowringhee",
+      "show_name": "Saajher Pradip",
       "start_time": "02:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690021.jpg"
     },
     {
       "show_name": "Sambad",
       "start_time": "05:00 PM",
       "end_time": "05:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690022.jpg"
     },
     {
       "show_name": "Bhalo Thakun",
       "start_time": "05:15 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690023.jpg"
     },
     {
-      "show_name": "Uttorer Janala",
+      "show_name": "Khela Aar Khela",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690024.jpg"
     },
     {
       "show_name": "Sambad Ek Najare",
       "start_time": "06:00 PM",
       "end_time": "06:02 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690025.jpg"
     },
     {
-      "show_name": "Geetimalya",
+      "show_name": "Sera Paribaar",
       "start_time": "06:02 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690028.jpg"
-    },
-    {
-      "show_name": "Vaartavali",
-      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690026.jpg"
     },
     {
       "show_name": "Sambad",
       "start_time": "07:00 PM",
       "end_time": "07:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690027.jpg"
     },
     {
       "show_name": "Khabrein",
       "start_time": "07:15 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690028.jpg"
     },
     {
-      "show_name": "Protidan",
+      "show_name": "DD Archives",
       "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690032.jpg"
+      "end_time": "07:58 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690029.jpg"
     },
     {
       "show_name": "Sambad Ek Najare",
-      "start_time": "08:00 PM",
-      "end_time": "08:02 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690033.jpg"
+      "start_time": "07:58 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690030.jpg"
     },
     {
-      "show_name": "Protidan",
-      "start_time": "08:02 PM",
+      "show_name": "Moner Katha",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690031.jpg"
+    },
+    {
+      "show_name": "Biyer Phool",
+      "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690034.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690032.jpg"
     },
     {
       "show_name": "Sambad",
       "start_time": "09:00 PM",
       "end_time": "09:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690033.jpg"
     },
     {
-      "show_name": "Protidan",
+      "show_name": "Biyer Phool",
       "start_time": "09:05 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690036.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690034.jpg"
     },
     {
       "show_name": "Sambad Prabaha",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690037.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690035.jpg"
     },
     {
-      "show_name": "Basundhara",
+      "show_name": "Biyer Phool",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690038.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690036.jpg"
+    },
+    {
+      "show_name": "Saptarangi",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690037.jpg"
     },
     {
       "show_name": "Sakal Sakal",
-      "start_time": "11:00 PM",
+      "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129690039.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130690038.jpg"
     }
   ]
 }

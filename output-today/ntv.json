@@ -1,289 +1,103 @@
 {
   "channel_name": "NTV",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png",
-  "date": "2025-11-28",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NTVPUT_Thumbnail-v1/NTVPUT_Thumbnail.png",
+  "date": "2025-11-29",
   "programs": [
     {
-      "show_name": "NTV Special",
+      "show_name": "Vasantha Ragam",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646000.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "NTV Special",
+      "show_name": "Endrum Inimai",
       "start_time": "01:00 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646001.jpg"
-    },
-    {
-      "show_name": "NTV Special",
-      "start_time": "01:30 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646002.jpg"
-    },
-    {
-      "show_name": "NTV Special",
-      "start_time": "02:00 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646003.jpg"
-    },
-    {
-      "show_name": "NTV Special",
-      "start_time": "02:30 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646004.jpg"
-    },
-    {
-      "show_name": "NTV Special",
-      "start_time": "03:00 AM",
-      "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646005.jpg"
-    },
-    {
-      "show_name": "NTV Special",
-      "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646006.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "NTV Special",
+      "show_name": "Ever Green Melodys",
       "start_time": "04:00 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646007.jpg"
-    },
-    {
-      "show_name": "NTV Special",
-      "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646008.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "NTV Special",
+      "show_name": "Bakthi Ganangal",
       "start_time": "05:00 AM",
-      "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646009.jpg"
-    },
-    {
-      "show_name": "Archana",
-      "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646010.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "First Edition",
+      "show_name": "Kalai Dharisanam",
       "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646011.jpg"
-    },
-    {
-      "show_name": "Comedy Parody",
-      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646012.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "News Hour",
+      "show_name": "Music Time",
       "start_time": "07:00 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646013.jpg"
-    },
-    {
-      "show_name": "News Analysis",
-      "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646014.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "News Analysis",
+      "show_name": "Comedy Time",
       "start_time": "08:00 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646015.jpg"
-    },
-    {
-      "show_name": "Box Office",
-      "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646016.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "News Online",
+      "show_name": "Samayal Neram",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646017.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Storyboard",
+      "show_name": "Movie",
       "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646018.jpg"
-    },
-    {
-      "show_name": "News 360",
-      "start_time": "10:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646019.jpg"
-    },
-    {
-      "show_name": "B-Alert",
-      "start_time": "10:30 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646020.jpg"
-    },
-    {
-      "show_name": "News Online",
-      "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646021.jpg"
-    },
-    {
-      "show_name": "Off the Record",
-      "start_time": "11:30 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646022.jpg"
-    },
-    {
-      "show_name": "News Online",
-      "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646023.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Focus",
+      "show_name": "Isai Thendarl",
       "start_time": "12:30 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646024.jpg"
-    },
-    {
-      "show_name": "30 X 60",
-      "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646025.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Hello Doctor",
+      "show_name": "Movie",
       "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646026.jpg"
-    },
-    {
-      "show_name": "News Online",
-      "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646027.jpg"
-    },
-    {
-      "show_name": "Movie Mixture",
-      "start_time": "02:30 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646028.jpg"
-    },
-    {
-      "show_name": "News Online",
-      "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646029.jpg"
-    },
-    {
-      "show_name": "Focus",
-      "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646030.jpg"
-    },
-    {
-      "show_name": "News Online",
-      "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646031.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Focus",
+      "show_name": "Super Scenes",
       "start_time": "04:30 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646032.jpg"
-    },
-    {
-      "show_name": "News Online",
-      "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646033.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Regional Edition",
+      "show_name": "Kutties Neram",
       "start_time": "05:30 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646034.jpg"
-    },
-    {
-      "show_name": "News Online",
-      "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646035.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Off the Record",
+      "show_name": "Star Hits",
       "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646036.jpg"
-    },
-    {
-      "show_name": "Live Show",
-      "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646037.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Real Stories",
+      "show_name": "Movie",
       "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646038.jpg"
-    },
-    {
-      "show_name": "News Online",
-      "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646039.jpg"
-    },
-    {
-      "show_name": "B-Alert",
-      "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646040.jpg"
-    },
-    {
-      "show_name": "Prime Time News",
-      "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646041.jpg"
-    },
-    {
-      "show_name": "Storyboard",
-      "start_time": "09:30 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646042.jpg"
-    },
-    {
-      "show_name": "News 360",
-      "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646043.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Box Office",
+      "show_name": "Sangeetha Swarangal",
       "start_time": "10:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646044.jpg"
-    },
-    {
-      "show_name": "News Online",
-      "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646045.jpg"
-    },
-    {
-      "show_name": "Movie Mixture",
-      "start_time": "11:30 PM",
-      "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-28/251128646046.jpg"
+      "end_time": "12:00 AM",
+      "show_logo": ""
     }
   ]
 }
