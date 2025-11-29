@@ -1,0 +1,73 @@
+{
+  "channel_name": "Colors Cineplex",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
+  "date": "2025-11-30",
+  "programs": [
+    {
+      "show_name": "Rudhran",
+      "start_time": "12:00 AM",
+      "end_time": "12:53 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/109d18382a93b05642f8f7a2eb444de3.jpg"
+    },
+    {
+      "show_name": "Time Machine",
+      "start_time": "12:53 AM",
+      "end_time": "03:07 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ff655aef62cfbb3acdc361ff0b54be68.jpg"
+    },
+    {
+      "show_name": "Filler",
+      "start_time": "03:07 AM",
+      "end_time": "04:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5d1e458c4611e03057dc707e0e12bdcb.jpg"
+    },
+    {
+      "show_name": "Colors Cineplex",
+      "start_time": "04:39 AM",
+      "end_time": "07:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5ec6c7e45f5bea2be2c3c7fe6eb701de.jpg"
+    },
+    {
+      "show_name": "Rowdy Baadshah",
+      "start_time": "07:05 AM",
+      "end_time": "09:44 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/736dd6623198ca373a0da0155e6453dd.jpg"
+    },
+    {
+      "show_name": "Thugs",
+      "start_time": "09:44 AM",
+      "end_time": "12:14 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1ac9624f2653a4d1a7382c7a8281bcf2.jpg"
+    },
+    {
+      "show_name": "Naa Saami Ranga",
+      "start_time": "12:14 PM",
+      "end_time": "02:02 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0c459cef79ccd5bf6bec698cefe45171.jpg"
+    },
+    {
+      "show_name": "Housefull 2",
+      "start_time": "02:02 PM",
+      "end_time": "05:16 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9c9595d96b103a14ce1677282e6730ad.jpg"
+    },
+    {
+      "show_name": "Buddy",
+      "start_time": "05:16 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ae0573d8e4912acd192dd6f8300ccaea.jpg"
+    },
+    {
+      "show_name": "Vivegam",
+      "start_time": "07:50 PM",
+      "end_time": "10:24 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7cc831dfb470c0ad84647585c2a858c7.jpg"
+    },
+    {
+      "show_name": "King of Kotha",
+      "start_time": "10:24 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/41c3e6b61090feb4b6fa7e01d343b2c0.jpg"
+    }
+  ]
+}

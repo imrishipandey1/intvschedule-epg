@@ -1,217 +1,253 @@
 {
   "channel_name": "DD India",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_Thumbnail.png-v4/DDIND_Thumbnail.png.png",
-  "date": "2025-11-29",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png",
+  "date": "2025-11-30",
   "programs": [
     {
-      "show_name": "Indian Diplomacy",
+      "show_name": "The Economic Brief",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528000.jpg"
+    },
+    {
+      "show_name": "Eco India",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528001.jpg"
     },
     {
       "show_name": "DD India News Hour",
-      "start_time": "12:30 AM",
-      "end_time": "01:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
-      "start_time": "01:30 AM",
+      "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528002.jpg"
     },
     {
-      "show_name": "Connecting the Dots",
+      "show_name": "Indian Diplomacy",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528003.jpg"
+    },
+    {
+      "show_name": "Media Scan",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528004.jpg"
     },
     {
       "show_name": "DD India News Hour",
-      "start_time": "02:30 AM",
-      "end_time": "03:30 AM",
-      "show_logo": ""
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528005.jpg"
     },
     {
-      "show_name": "Wellness Watch",
-      "start_time": "03:30 AM",
-      "end_time": "04:00 AM",
-      "show_logo": ""
+      "show_name": "Defence Dynamics",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528006.jpg"
+    },
+    {
+      "show_name": "Voice of the Global South",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528007.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528008.jpg"
+    },
+    {
+      "show_name": "Paradise Unexplored",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528009.jpg"
+    },
+    {
+      "show_name": "Meditation Session By Gurudev Sri Sri Ravi Shankar",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528010.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528011.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528012.jpg"
+    },
+    {
+      "show_name": "Voice of the Global South",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528013.jpg"
+    },
+    {
+      "show_name": "Media Scan",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528014.jpg"
     },
     {
       "show_name": "The Economic Brief",
-      "start_time": "04:00 AM",
-      "end_time": "04:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "DD India News Hour",
-      "start_time": "04:30 AM",
-      "end_time": "06:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Explorer of the Misty Mountains",
-      "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Sadhguru Speaks",
-      "start_time": "06:30 AM",
-      "end_time": "07:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "DD India",
-      "start_time": "07:00 AM",
-      "end_time": "07:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "DD India News Hour",
-      "start_time": "08:00 AM",
-      "end_time": "09:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "DD India News Hour",
       "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528015.jpg"
+    },
+    {
+      "show_name": "Indian Diplomacy",
+      "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528016.jpg"
     },
     {
       "show_name": "DD India News Hour",
       "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528017.jpg"
     },
     {
-      "show_name": "DD India News Hour",
+      "show_name": "Mann Ki Baat - Prime Minister's Broadcast on All India Radio",
       "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "DD India News Hour",
-      "start_time": "12:00 PM",
-      "end_time": "01:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
-      "start_time": "01:00 PM",
-      "end_time": "01:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Indian Diplomacy",
-      "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "DD India",
-      "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "DD India",
-      "start_time": "02:30 PM",
-      "end_time": "03:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "55th International Film Festival of India-2024 (IFFI)",
-      "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": ""
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528018.jpg"
     },
     {
       "show_name": "Defence Dynamics",
-      "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": ""
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528019.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528020.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528021.jpg"
+    },
+    {
+      "show_name": "Wellness Watch",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528022.jpg"
+    },
+    {
+      "show_name": "Media Scan",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528023.jpg"
     },
     {
       "show_name": "DD India News Hour",
-      "start_time": "04:00 PM",
-      "end_time": "05:00 PM",
-      "show_logo": ""
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528024.jpg"
     },
     {
-      "show_name": "PM Visit to Nigeria-India-Negeria Strengthening Relations",
-      "start_time": "05:00 PM",
-      "end_time": "05:30 PM",
-      "show_logo": ""
+      "show_name": "The Economic Brief",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528025.jpg"
     },
     {
       "show_name": "Connecting the Dots",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528026.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528027.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528028.jpg"
+    },
+    {
+      "show_name": "Eco India",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528029.jpg"
+    },
+    {
+      "show_name": "Defence Dynamics",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528030.jpg"
     },
     {
-      "show_name": "DD India",
+      "show_name": "DD India Live",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528031.jpg"
     },
     {
-      "show_name": "DD India",
+      "show_name": "DD India Live",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528032.jpg"
     },
     {
       "show_name": "Voice of the Global South",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528033.jpg"
     },
     {
-      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
+      "show_name": "Media Scan",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Media Scan-Has the New Right Arrived in India?",
-      "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528034.jpg"
     },
     {
       "show_name": "Indian Diplomacy",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528035.jpg"
+    },
+    {
+      "show_name": "The Economic Brief",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528036.jpg"
     },
     {
       "show_name": "DD India News Hour",
       "start_time": "09:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528037.jpg"
     },
     {
-      "show_name": "55th International Film Festival of India-2024 (IFFI)",
+      "show_name": "Connecting the Dots",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528038.jpg"
     },
     {
-      "show_name": "PM Visit to Nigeria-India-Negeria Strengthening Relations",
+      "show_name": "Defence Dynamics",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528039.jpg"
     },
     {
       "show_name": "DD India News Hour",
       "start_time": "11:00 PM",
-      "end_time": "12:00 AM",
-      "show_logo": ""
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130528040.jpg"
     }
   ]
 }

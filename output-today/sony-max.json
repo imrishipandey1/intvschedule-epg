@@ -1,67 +1,67 @@
 {
   "channel_name": "Sony Max SD",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
-  "date": "2025-11-29",
+  "date": "2025-11-30",
   "programs": [
     {
-      "show_name": "Rudra Avatar",
+      "show_name": "Firangi",
       "start_time": "12:00 AM",
-      "end_time": "02:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129289000.jpg"
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130289000.jpg"
     },
     {
-      "show_name": "Darr@ The Mall",
-      "start_time": "02:15 AM",
-      "end_time": "05:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129289001.jpg"
-    },
-    {
-      "show_name": "No Parking",
-      "start_time": "05:15 AM",
-      "end_time": "07:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129289003.jpg"
-    },
-    {
-      "show_name": "Charms Bond",
-      "start_time": "07:45 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129289005.jpg"
-    },
-    {
-      "show_name": "Lucifer",
-      "start_time": "10:00 AM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129289007.jpg"
-    },
-    {
-      "show_name": "Baadshah Pehlwaan",
-      "start_time": "12:30 PM",
-      "end_time": "02:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129289009.jpg"
-    },
-    {
-      "show_name": "Ek Ka Dum 1",
-      "start_time": "02:45 PM",
-      "end_time": "05:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129289011.jpg"
-    },
-    {
-      "show_name": "The Real Leader Brahma",
-      "start_time": "05:15 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129289013.jpg"
-    },
-    {
-      "show_name": "Gunda Mawali",
-      "start_time": "08:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129289015.jpg"
+      "show_name": "Darr @ The Mall",
+      "start_time": "01:30 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130289001.jpg"
     },
     {
       "show_name": "Firangi",
-      "start_time": "10:30 PM",
+      "start_time": "04:30 AM",
+      "end_time": "06:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130289003.jpg"
+    },
+    {
+      "show_name": "Legend The Terror",
+      "start_time": "06:45 AM",
+      "end_time": "09:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130289005.jpg"
+    },
+    {
+      "show_name": "Mubarakan",
+      "start_time": "09:15 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130289007.jpg"
+    },
+    {
+      "show_name": "Policewala",
+      "start_time": "12:00 PM",
+      "end_time": "03:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130289009.jpg"
+    },
+    {
+      "show_name": "Sooryavansham",
+      "start_time": "03:15 PM",
+      "end_time": "06:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130289011.jpg"
+    },
+    {
+      "show_name": "Darr@ The Mall",
+      "start_time": "06:15 PM",
+      "end_time": "09:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130289013.jpg"
+    },
+    {
+      "show_name": "No Parking",
+      "start_time": "09:15 PM",
+      "end_time": "11:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130289015.jpg"
+    },
+    {
+      "show_name": "Charms Bond",
+      "start_time": "11:45 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129289017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130289017.jpg"
     }
   ]
 }

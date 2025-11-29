@@ -1,7 +1,7 @@
 {
   "channel_name": "BRAVE TV",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Brave_TV.png",
-  "date": "2025-11-29",
+  "date": "2025-11-30",
   "programs": [
     {
       "show_name": "Sports Programme",
@@ -66,12 +66,12 @@
     {
       "show_name": "Sports Programme",
       "start_time": "08:00 PM",
-      "end_time": "10:30 PM",
+      "end_time": "11:00 PM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Sports Programme",
-      "start_time": "10:30 PM",
+      "start_time": "11:00 PM",
       "end_time": "11:59 PM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     }

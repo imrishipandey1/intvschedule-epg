@@ -1,7 +1,7 @@
 {
   "channel_name": "Zee TV",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTV_Thumbnail_bbdc885f-e029-4df8-bdca-c781610a595d.png",
-  "date": "2025-11-29",
+  "date": "2025-11-30",
   "programs": [
     {
       "show_name": "Ganga Mai Ki Betiyaan",
@@ -88,7 +88,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "TWR Satyavachan",
+      "show_name": "Saru",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
       "show_logo": ""
@@ -180,18 +180,24 @@
     {
       "show_name": "Bahu No. 1",
       "start_time": "01:30 PM",
-      "end_time": "02:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Trinayani",
-      "start_time": "02:30 PM",
-      "end_time": "05:00 PM",
+      "end_time": "03:00 PM",
       "show_logo": ""
     },
     {
       "show_name": "Vasudha",
-      "start_time": "05:00 PM",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Kahani Har Ghar Ki",
+      "start_time": "03:30 PM",
+      "end_time": "04:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Jagadhatri",
+      "start_time": "04:30 PM",
       "end_time": "06:30 PM",
       "show_logo": ""
     },

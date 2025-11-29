@@ -1,7 +1,7 @@
 {
   "channel_name": "Assam Talks",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png",
-  "date": "2025-11-29",
+  "date": "2025-11-30",
   "programs": [
     {
       "show_name": "Prime @ 6",
@@ -16,10 +16,10 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e58fab4dc7a7822f3ce69c239c79acca.jpg"
     },
     {
-      "show_name": "Prime @ 6",
+      "show_name": "Prime Time",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e58fab4dc7a7822f3ce69c239c79acca.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
     },
     {
       "show_name": "Prime Time",
@@ -28,22 +28,22 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
     },
     {
-      "show_name": "Prime Time",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Prime Hour",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6474b4228706d6413855b38f6bfc7fc8.jpg"
     },
     {
       "show_name": "Prime Hour",
@@ -52,22 +52,22 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6474b4228706d6413855b38f6bfc7fc8.jpg"
     },
     {
-      "show_name": "Prime Hour",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6474b4228706d6413855b38f6bfc7fc8.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bhakti Geet",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/69685b029af428bb8592126969bf3b11.jpg"
     },
     {
       "show_name": "Bhakti Geet",
@@ -124,16 +124,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b822b991ec46dcd9e70fcb88647751a1.jpg"
     },
     {
-      "show_name": "Hindi Bullet News",
+      "show_name": "Assam Talent Hunt",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f4c9126f806ff2f6c433fbb7cd7d551e.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/644d81bad966c861f2653c8d80e39855.jpg"
     },
     {
-      "show_name": "Bixekh Adha Ghonta",
+      "show_name": "Assam Talent Hunt",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c2d8bc5aa26ed793872b81c5abc3d67d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/644d81bad966c861f2653c8d80e39855.jpg"
     },
     {
       "show_name": "Breaking News",
@@ -160,16 +160,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9825ca64e77a6c71b667dd5f6f98e597.jpg"
     },
     {
-      "show_name": "Hindi Bullet News",
+      "show_name": "Doctor's Talk",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f4c9126f806ff2f6c433fbb7cd7d551e.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3b8b01708850b8e8d81b80874e118981.jpg"
     },
     {
-      "show_name": "Bixekh Adha Ghonta",
+      "show_name": "Doctor's Talk",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c2d8bc5aa26ed793872b81c5abc3d67d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3b8b01708850b8e8d81b80874e118981.jpg"
     },
     {
       "show_name": "News Express",
@@ -190,16 +190,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c2d8bc5aa26ed793872b81c5abc3d67d.jpg"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b846f5274304bf3b91716eafbed9500a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
     },
     {
       "show_name": "Rapid Fire",
@@ -244,16 +244,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dc49434eac993d77f7285800b7cd0af4.jpg"
     },
     {
-      "show_name": "Bixekh Ek Ghonta",
+      "show_name": "Swakhor",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b99021ab3c52819eece385a49021026d.jpg"
     },
     {
-      "show_name": "Bixekh Ek Ghonta",
+      "show_name": "Swakhor",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b99021ab3c52819eece385a49021026d.jpg"
     },
     {
       "show_name": "Prime Hour",
@@ -280,16 +280,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6227b76f0eda1f76424851d3de71c5ea.jpg"
     },
     {
-      "show_name": "Bixekh Ek Ghonta",
+      "show_name": "Swakhor",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b99021ab3c52819eece385a49021026d.jpg"
     },
     {
-      "show_name": "Bixekh Ek Ghonta",
+      "show_name": "Swakhor",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/398527749794ba6774cb51a115203f51.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b99021ab3c52819eece385a49021026d.jpg"
     }
   ]
 }

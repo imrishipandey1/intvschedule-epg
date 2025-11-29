@@ -1,133 +1,265 @@
 {
-  "channel_name": "MTV",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
-  "date": "2025-11-29",
+  "channel_name": "Soham TV",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Soham_TV.png",
+  "date": "2025-11-30",
   "programs": [
     {
-      "show_name": "Splitsvilla",
+      "show_name": "Dev Darshan",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078000.jpg"
     },
     {
-      "show_name": "Night Out",
+      "show_name": "Param Pujya Gyanjeevandasji Swamiji",
       "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078001.jpg"
+    },
+    {
+      "show_name": "Param Pujya Hariprakashdas Swamiji",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078002.jpg"
+    },
+    {
+      "show_name": "Bhajan",
+      "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078003.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "Dev Darshan",
       "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078004.jpg"
+    },
+    {
+      "show_name": "Param Pujya Hariprakashdas Swamiji",
+      "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078005.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "Life Changing Talks",
       "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078006.jpg"
+    },
+    {
+      "show_name": "Param Pujya Gyanjeevandasji Swamiji",
+      "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078007.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "Aacharya Vijay Ratnasundersurishwarji Maharaj Saheb",
       "start_time": "04:00 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248004.jpg"
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078008.jpg"
     },
     {
-      "show_name": "MTV Chillax",
-      "start_time": "05:00 AM",
+      "show_name": "Soham Jeevansaathi",
+      "start_time": "04:30 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078009.jpg"
+    },
+    {
+      "show_name": "Aarati",
+      "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078010.jpg"
     },
     {
-      "show_name": "MTV Chillax",
+      "show_name": "Samayik",
       "start_time": "06:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078011.jpg"
     },
     {
-      "show_name": "Pump Up Mornings",
+      "show_name": "Aacharya Vijay Ratnasundersurishwarji Maharaj Saheb",
       "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078012.jpg"
+    },
+    {
+      "show_name": "Shree Bhaktamar Stotra",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078013.jpg"
+    },
+    {
+      "show_name": "Param Pujya Gyanjeevandasji Swamiji",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078014.jpg"
+    },
+    {
+      "show_name": "Param Pujya Hariprakashdas Swamiji",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078015.jpg"
+    },
+    {
+      "show_name": "Bhajan",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078016.jpg"
+    },
+    {
+      "show_name": "Sanatan Satya",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078017.jpg"
+    },
+    {
+      "show_name": "Soham Jeevansaathi",
+      "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078018.jpg"
     },
     {
-      "show_name": "Roadies Real Heroes",
+      "show_name": "Shree Bhaktamar Stotra",
       "start_time": "11:00 AM",
-      "end_time": "11:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248008.jpg"
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078019.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "11:50 AM",
+      "show_name": "Bhajan",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078020.jpg"
+    },
+    {
+      "show_name": "Param Pujya Hariprakashdas Swamiji",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078021.jpg"
+    },
+    {
+      "show_name": "Bhajan",
+      "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078022.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "Life Changing Talks",
       "start_time": "01:00 PM",
-      "end_time": "01:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248010.jpg"
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078023.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "01:50 PM",
+      "show_name": "Sanatan Satya",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078024.jpg"
+    },
+    {
+      "show_name": "Dev Darshan",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078025.jpg"
+    },
+    {
+      "show_name": "Param Pujya Gyanjeevandasji Swamiji",
+      "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078026.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "Aacharya Vijay Ratnasundersurishwarji Maharaj Saheb",
       "start_time": "03:00 PM",
-      "end_time": "04:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248012.jpg"
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078027.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "04:15 PM",
-      "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248013.jpg"
+      "show_name": "Bhajan",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078028.jpg"
     },
     {
-      "show_name": "Splitsvilla",
-      "start_time": "05:30 PM",
-      "end_time": "06:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248014.jpg"
+      "show_name": "Life Changing Talks",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078029.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "06:45 PM",
+      "show_name": "Param Pujya Hariprakashdas Swamiji",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078030.jpg"
+    },
+    {
+      "show_name": "Soham Jeevansaathi",
+      "start_time": "05:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078031.jpg"
+    },
+    {
+      "show_name": "Dev Darshan",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078032.jpg"
+    },
+    {
+      "show_name": "Aacharya Vijay Ratnasundersurishwarji Maharaj Saheb",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078033.jpg"
+    },
+    {
+      "show_name": "Aarati",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078034.jpg"
+    },
+    {
+      "show_name": "Bhajan",
+      "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078035.jpg"
     },
     {
-      "show_name": "Roadies Real Heroes",
+      "show_name": "Param Pujya Gyanjeevandasji Swamiji",
       "start_time": "08:00 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248016.jpg"
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078036.jpg"
     },
     {
-      "show_name": "Splitsvilla",
+      "show_name": "Dev Darshan",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078037.jpg"
+    },
+    {
+      "show_name": "Soham Jeevansaathi",
       "start_time": "09:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078038.jpg"
     },
     {
-      "show_name": "Splitsvilla",
+      "show_name": "Param Pujya Hariprakashdas Swamiji",
       "start_time": "10:00 PM",
-      "end_time": "10:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248018.jpg"
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078039.jpg"
     },
     {
-      "show_name": "Roadies",
-      "start_time": "10:45 PM",
+      "show_name": "Aacharya Vijay Ratnasundersurishwarji Maharaj Saheb",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078040.jpg"
+    },
+    {
+      "show_name": "Bhajan",
+      "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078041.jpg"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "Life Changing Talks",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-29/251129248020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301078042.jpg"
     }
   ]
 }
