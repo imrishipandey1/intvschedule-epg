@@ -1,181 +1,181 @@
 {
   "channel_name": "Dangal",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",
-  "date": "2025-12-01",
+  "date": "2025-12-02",
   "programs": [
     {
-      "show_name": "Mann Sundar",
+      "show_name": "Mann Atisundar",
       "start_time": "12:00 AM",
-      "end_time": "12:02 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701000.jpg"
+      "end_time": "12:01 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701000.jpg"
     },
     {
-      "show_name": "Pati Brahmchari - Kahani Ab Tak",
-      "start_time": "12:02 AM",
-      "end_time": "02:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701001.jpg"
+      "show_name": "Movie",
+      "start_time": "12:01 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701001.jpg"
     },
     {
-      "show_name": "Do Hanso Ka Joda",
-      "start_time": "02:15 AM",
-      "end_time": "03:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701002.jpg"
+      "show_name": "Movie",
+      "start_time": "02:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701002.jpg"
     },
     {
       "show_name": "Ram Ratan Dhan Payo",
-      "start_time": "03:45 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701003.jpg"
-    },
-    {
-      "show_name": "Ramayan",
-      "start_time": "07:30 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701004.jpg"
+      "start_time": "04:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701003.jpg"
     },
     {
       "show_name": "Mann Sundar",
-      "start_time": "08:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701005.jpg"
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701004.jpg"
     },
     {
-      "show_name": "Pati Brahmachari",
+      "show_name": "Mann Atisundar",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701005.jpg"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701006.jpg"
+    },
+    {
+      "show_name": "Gehna Zevar Ya Zanjeer",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701007.jpg"
+    },
+    {
+      "show_name": "Gudiya Rani",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701008.jpg"
     },
     {
-      "show_name": "Jhallee",
+      "show_name": "Tulsi - Hamari Badi Sayani",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701009.jpg"
     },
     {
-      "show_name": "Rimjhim Chhoti Umar Bada Safar",
+      "show_name": "Deewani",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701010.jpg"
     },
     {
       "show_name": "Mann Sundar",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701011.jpg"
     },
     {
       "show_name": "Mann Atisundar",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701012.jpg"
     },
     {
-      "show_name": "Pati Brahmachari",
+      "show_name": "Movie",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701013.jpg"
     },
     {
-      "show_name": "Shrimati Shukla",
+      "show_name": "Gehna Zevar Ya Zanjeer",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701014.jpg"
     },
     {
-      "show_name": "Jhallee",
+      "show_name": "Safal Hogi Teri Aradhana",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701015.jpg"
     },
     {
-      "show_name": "Nath Zewar Ya Zanjeer",
+      "show_name": "Movie",
       "start_time": "02:00 PM",
-      "end_time": "02:47 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701014.jpg"
-    },
-    {
-      "show_name": "Baba Aiso Varr Dhoondo",
-      "start_time": "02:47 PM",
-      "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701015.jpg"
-    },
-    {
-      "show_name": "Rimjhim Chhoti Umar Bada Safar",
-      "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701016.jpg"
     },
     {
-      "show_name": "Shrimati Shukla",
+      "show_name": "Safal Hogi Teri Aradhana",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701017.jpg"
     },
     {
-      "show_name": "Paro Sang Dev",
+      "show_name": "Gudiya Rani",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701018.jpg"
     },
     {
-      "show_name": "Pati Brahmachari",
+      "show_name": "Tulsi - Hamari Badi Sayani",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701019.jpg"
     },
     {
       "show_name": "Mann Atisundar",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701020.jpg"
     },
     {
       "show_name": "Mann Sundar",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701021.jpg"
     },
     {
-      "show_name": "Rimjhim Chhoti Umar Bada Safar",
+      "show_name": "Gehna Zevar Ya Zanjeer",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701022.jpg"
     },
     {
-      "show_name": "Jhallee",
+      "show_name": "Movie",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701023.jpg"
     },
     {
-      "show_name": "Bade Ghar Ki Choti Bahu",
+      "show_name": "Deewani",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701024.jpg"
     },
     {
-      "show_name": "Shrimati Shukla",
+      "show_name": "Safal Hogi Teri Aradhana",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701025.jpg"
     },
     {
-      "show_name": "Paro Sang Dev",
+      "show_name": "Tulsi - Hamari Badi Sayani",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701026.jpg"
     },
     {
-      "show_name": "Pati Brahmachari",
+      "show_name": "Gudiya Rani",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701027.jpg"
     },
     {
       "show_name": "Mann Atisundar",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201701028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202701028.jpg"
     }
   ]
 }

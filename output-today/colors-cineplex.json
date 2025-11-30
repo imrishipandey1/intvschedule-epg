@@ -1,73 +1,73 @@
 {
   "channel_name": "Colors Cineplex",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
-  "date": "2025-11-30",
+  "date": "2025-12-01",
   "programs": [
     {
-      "show_name": "Rudhran",
+      "show_name": "King of Kotha",
       "start_time": "12:00 AM",
-      "end_time": "12:53 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/109d18382a93b05642f8f7a2eb444de3.jpg"
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/41c3e6b61090feb4b6fa7e01d343b2c0.jpg"
     },
     {
-      "show_name": "Time Machine",
-      "start_time": "12:53 AM",
-      "end_time": "03:07 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ff655aef62cfbb3acdc361ff0b54be68.jpg"
+      "show_name": "International Khiladi: The Iron Man",
+      "start_time": "01:30 AM",
+      "end_time": "03:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/62c9324dc4ab70917aa77c4b68995ab4.jpg"
     },
     {
       "show_name": "Filler",
-      "start_time": "03:07 AM",
-      "end_time": "04:39 AM",
+      "start_time": "03:40 AM",
+      "end_time": "04:19 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5d1e458c4611e03057dc707e0e12bdcb.jpg"
     },
     {
-      "show_name": "Colors Cineplex",
-      "start_time": "04:39 AM",
-      "end_time": "07:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5ec6c7e45f5bea2be2c3c7fe6eb701de.jpg"
+      "show_name": "Masti",
+      "start_time": "04:19 AM",
+      "end_time": "06:51 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d2d4853a80982ecf8741ac7ab70d5522.jpg"
     },
     {
-      "show_name": "Rowdy Baadshah",
-      "start_time": "07:05 AM",
-      "end_time": "09:44 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/736dd6623198ca373a0da0155e6453dd.jpg"
+      "show_name": "Ruslaan",
+      "start_time": "06:51 AM",
+      "end_time": "09:33 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/47156ca28e6b75fca85b3575c7278ec4.jpg"
     },
     {
-      "show_name": "Thugs",
-      "start_time": "09:44 AM",
-      "end_time": "12:14 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1ac9624f2653a4d1a7382c7a8281bcf2.jpg"
+      "show_name": "777 Charlie",
+      "start_time": "09:33 AM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c9c2f59fb933501e61af74ce675e02b0.jpg"
     },
     {
-      "show_name": "Naa Saami Ranga",
-      "start_time": "12:14 PM",
-      "end_time": "02:02 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0c459cef79ccd5bf6bec698cefe45171.jpg"
+      "show_name": "Seetharamam",
+      "start_time": "12:30 PM",
+      "end_time": "03:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0e604c5c7eed8f2c439ee0af419c72e7.jpg"
     },
     {
-      "show_name": "Housefull 2",
-      "start_time": "02:02 PM",
-      "end_time": "05:16 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9c9595d96b103a14ce1677282e6730ad.jpg"
+      "show_name": "DD Returns",
+      "start_time": "03:20 PM",
+      "end_time": "05:41 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/61a60f465be3ae6692b52c9fb493479f.jpg"
     },
     {
-      "show_name": "Buddy",
-      "start_time": "05:16 PM",
+      "show_name": "Hidimbha",
+      "start_time": "05:41 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ae0573d8e4912acd192dd6f8300ccaea.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5272ad86479740be728ab66c8492e06d.jpg"
     },
     {
-      "show_name": "Vivegam",
+      "show_name": "The Warriorr",
       "start_time": "07:50 PM",
-      "end_time": "10:24 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7cc831dfb470c0ad84647585c2a858c7.jpg"
+      "end_time": "10:26 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/566b71d4262e1e5d79378067c43043c5.jpg"
     },
     {
-      "show_name": "King of Kotha",
-      "start_time": "10:24 PM",
+      "show_name": "Bogan",
+      "start_time": "10:26 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/41c3e6b61090feb4b6fa7e01d343b2c0.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3604f2a95ac65a45eb71a473c6cfc4e5.jpg"
     }
   ]
 }

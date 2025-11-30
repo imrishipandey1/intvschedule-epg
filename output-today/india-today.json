@@ -1,295 +1,55 @@
 {
   "channel_name": "India Today",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png",
-  "date": "2025-11-30",
+  "date": "2025-12-01",
   "programs": [
     {
       "show_name": "News",
       "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493000.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "12:30 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493001.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "01:00 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493002.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "01:30 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493003.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "02:00 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493004.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201493000.jpg"
     },
     {
       "show_name": "News",
       "start_time": "03:00 AM",
-      "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493006.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "03:30 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493007.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "04:00 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493008.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "04:30 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493009.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "05:00 AM",
-      "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493010.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201493001.jpg"
     },
     {
-      "show_name": "Air Emergency Roundtable",
+      "show_name": "News",
       "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493012.jpg"
-    },
-    {
-      "show_name": "Air Emergency Roundtable",
-      "start_time": "06:30 AM",
-      "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493013.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "07:00 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493014.jpg"
-    },
-    {
-      "show_name": "India Today Explainer",
-      "start_time": "07:30 AM",
-      "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493015.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "08:00 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493016.jpg"
-    },
-    {
-      "show_name": "Forever Dharmendra",
-      "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201493002.jpg"
     },
     {
       "show_name": "News",
       "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493018.jpg"
-    },
-    {
-      "show_name": "Post Mortem",
-      "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493019.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "10:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493020.jpg"
-    },
-    {
-      "show_name": "Karnataka Game of Thrones",
-      "start_time": "10:30 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493021.jpg"
-    },
-    {
-      "show_name": "News / Mann Ki Baat",
-      "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493022.jpg"
-    },
-    {
-      "show_name": "News / Mann Ki Baat",
-      "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201493003.jpg"
     },
     {
-      "show_name": "Cultural Hindutva Rising",
+      "show_name": "News",
       "start_time": "12:00 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493024.jpg"
-    },
-    {
-      "show_name": "Band, Baaja, Billionaire",
-      "start_time": "12:30 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493025.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "01:00 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493026.jpg"
-    },
-    {
-      "show_name": "Democratic Newsroom",
-      "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493027.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493028.jpg"
-    },
-    {
-      "show_name": "In Da Club",
-      "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201493004.jpg"
     },
     {
       "show_name": "News",
       "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493030.jpg"
-    },
-    {
-      "show_name": "In Depth",
-      "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493031.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493032.jpg"
-    },
-    {
-      "show_name": "Health 360 With Sneha Mordani",
-      "start_time": "04:30 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493033.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "05:00 PM",
-      "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493034.jpg"
-    },
-    {
-      "show_name": "News: India vs Sa First ODI",
-      "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201493005.jpg"
     },
     {
       "show_name": "News",
       "start_time": "06:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493036.jpg"
-    },
-    {
-      "show_name": "India Today Explainer",
-      "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493037.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493038.jpg"
-    },
-    {
-      "show_name": "Tech Today",
-      "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493039.jpg"
-    },
-    {
-      "show_name": "Unpolitics With Preeti Choudhry",
-      "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493040.jpg"
-    },
-    {
-      "show_name": "CHAKRAVYUH WITH GAURAV SAWANT",
-      "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493041.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201493006.jpg"
     },
     {
-      "show_name": "Air Emergency Roundtable",
+      "show_name": "News",
       "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493042.jpg"
-    },
-    {
-      "show_name": "Air Emergency Roundtable",
-      "start_time": "09:30 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493043.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "10:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493044.jpg"
-    },
-    {
-      "show_name": "India Today Global",
-      "start_time": "10:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493045.jpg"
-    },
-    {
-      "show_name": "News",
-      "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493046.jpg"
-    },
-    {
-      "show_name": "It's Gone Viral",
-      "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130493047.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201493007.jpg"
     }
   ]
 }

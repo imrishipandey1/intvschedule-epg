@@ -1,0 +1,67 @@
+{
+  "channel_name": "Colors Kannada Cinema",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",
+  "date": "2025-12-01",
+  "programs": [
+    {
+      "show_name": "Vamshakobba",
+      "start_time": "12:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011632000.jpg"
+    },
+    {
+      "show_name": "Prayanikara Gamanakke",
+      "start_time": "02:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011632001.jpg"
+    },
+    {
+      "show_name": "Shiva Shakthi",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011632002.jpg"
+    },
+    {
+      "show_name": "Omelette",
+      "start_time": "05:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011632003.jpg"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "08:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011632004.jpg"
+    },
+    {
+      "show_name": "Mandya",
+      "start_time": "10:00 AM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011632005.jpg"
+    },
+    {
+      "show_name": "Giri Kanye",
+      "start_time": "01:30 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011632006.jpg"
+    },
+    {
+      "show_name": "Siliconn City",
+      "start_time": "04:30 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011632007.jpg"
+    },
+    {
+      "show_name": "Yare Nee Abhimani",
+      "start_time": "07:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011632008.jpg"
+    },
+    {
+      "show_name": "Ishtakamya",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011632009.jpg"
+    }
+  ]
+}

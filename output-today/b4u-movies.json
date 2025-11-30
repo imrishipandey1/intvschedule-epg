@@ -1,55 +1,61 @@
 {
   "channel_name": "B4U Movies",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
-  "date": "2025-11-30",
+  "date": "2025-12-01",
   "programs": [
     {
-      "show_name": "Hiraasat",
-      "start_time": "12:00 AM",
-      "end_time": "02:06 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130182000.jpg"
-    },
-    {
-      "show_name": "Khel",
-      "start_time": "02:06 AM",
-      "end_time": "05:01 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130182001.jpg"
-    },
-    {
-      "show_name": "Baadshah",
-      "start_time": "05:01 AM",
-      "end_time": "08:09 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130182002.jpg"
-    },
-    {
-      "show_name": "Ghatak / Lethal",
-      "start_time": "08:09 AM",
-      "end_time": "10:53 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130182003.jpg"
-    },
-    {
-      "show_name": "Bulandi",
-      "start_time": "10:53 AM",
-      "end_time": "03:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130182004.jpg"
-    },
-    {
-      "show_name": "Kishen Kanhaiya",
-      "start_time": "03:10 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130182005.jpg"
-    },
-    {
-      "show_name": "Lal Baadshah",
-      "start_time": "07:00 PM",
-      "end_time": "11:14 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130182006.jpg"
-    },
-    {
       "show_name": "Sultanat",
-      "start_time": "11:14 PM",
+      "start_time": "12:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201182000.jpg"
+    },
+    {
+      "show_name": "Apartment",
+      "start_time": "02:00 AM",
+      "end_time": "03:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201182001.jpg"
+    },
+    {
+      "show_name": "Gurudev",
+      "start_time": "03:40 AM",
+      "end_time": "06:12 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201182002.jpg"
+    },
+    {
+      "show_name": "Zakhmi Aurat",
+      "start_time": "06:12 AM",
+      "end_time": "08:55 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201182003.jpg"
+    },
+    {
+      "show_name": "Mr. Natwarlal",
+      "start_time": "08:55 AM",
+      "end_time": "12:34 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201182004.jpg"
+    },
+    {
+      "show_name": "Ganga Tere Desh Mein",
+      "start_time": "12:34 PM",
+      "end_time": "03:48 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201182005.jpg"
+    },
+    {
+      "show_name": "Haisiyat",
+      "start_time": "03:48 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201182006.jpg"
+    },
+    {
+      "show_name": "Khudgarz",
+      "start_time": "07:00 PM",
+      "end_time": "10:18 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201182007.jpg"
+    },
+    {
+      "show_name": "16 December",
+      "start_time": "10:18 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/251130182007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201182008.jpg"
     }
   ]
 }

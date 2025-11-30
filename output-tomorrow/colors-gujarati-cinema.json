@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Gujarati Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
-  "date": "2025-12-01",
+  "date": "2025-12-02",
   "programs": [
     {
-      "show_name": "Chello Divas",
+      "show_name": "Parki Jani",
       "start_time": "12:00 AM",
-      "end_time": "12:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011324000.jpg"
+      "end_time": "12:55 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021324000.jpg"
     },
     {
-      "show_name": "Jigar Ane Ami",
-      "start_time": "12:35 AM",
-      "end_time": "02:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011324001.jpg"
+      "show_name": "Janam Janam Na Sathi",
+      "start_time": "12:55 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021324001.jpg"
     },
     {
-      "show_name": "Deshi Beats",
-      "start_time": "02:45 AM",
+      "show_name": "Desi Beats",
+      "start_time": "03:00 AM",
       "end_time": "05:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011324002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021324002.jpg"
     },
     {
-      "show_name": "Faganiyo Aayo Holi Laayo Re",
+      "show_name": "Janmo Janam Ni Preet",
       "start_time": "05:35 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011324003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021324003.jpg"
     },
     {
       "show_name": "Deshi Beats",
       "start_time": "08:00 AM",
-      "end_time": "10:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011324004.jpg"
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021324004.jpg"
     },
     {
-      "show_name": "Pankhida ho Pankhida",
-      "start_time": "10:40 AM",
-      "end_time": "01:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011324005.jpg"
+      "show_name": "Gormano Var Kesariyo",
+      "start_time": "10:00 AM",
+      "end_time": "12:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021324005.jpg"
     },
     {
-      "show_name": "Lakho Vanzaro",
-      "start_time": "01:05 PM",
-      "end_time": "03:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011324006.jpg"
+      "show_name": "Moti Na Chowkre Sapna Man Ditha",
+      "start_time": "12:55 PM",
+      "end_time": "04:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021324006.jpg"
     },
     {
-      "show_name": "Dharti No Chhedo Ghar",
-      "start_time": "03:55 PM",
+      "show_name": "Jay Aashapura Maa",
+      "start_time": "04:10 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011324007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021324007.jpg"
     },
     {
-      "show_name": "Dikri No Mandvo",
+      "show_name": "Paras Padmini",
       "start_time": "07:00 PM",
-      "end_time": "09:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011324008.jpg"
+      "end_time": "10:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021324008.jpg"
     },
     {
-      "show_name": "Parki Jani",
-      "start_time": "09:55 PM",
+      "show_name": "Alakh Niranjan",
+      "start_time": "10:20 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011324009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021324009.jpg"
     }
   ]
 }

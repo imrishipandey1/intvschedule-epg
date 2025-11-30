@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Bangla Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
-  "date": "2025-11-30",
+  "date": "2025-12-01",
   "programs": [
     {
-      "show_name": "Gangster",
+      "show_name": "Wanted",
       "start_time": "12:00 AM",
-      "end_time": "01:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657000.jpg"
+      "end_time": "01:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011657000.jpg"
     },
     {
-      "show_name": "Mahanagar @ Kolkata",
-      "start_time": "01:35 AM",
-      "end_time": "03:10 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657001.jpg"
+      "show_name": "Eagoler Chokh",
+      "start_time": "01:15 AM",
+      "end_time": "03:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011657001.jpg"
     },
     {
       "show_name": "Shiv Shakti",
-      "start_time": "03:10 AM",
+      "start_time": "03:05 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011657002.jpg"
     },
     {
-      "show_name": "Adventures of Jojo",
+      "show_name": "Chalo Prem Kori",
       "start_time": "04:00 AM",
-      "end_time": "06:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657003.jpg"
+      "end_time": "06:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011657003.jpg"
     },
     {
-      "show_name": "Gandaakal",
-      "start_time": "06:55 AM",
-      "end_time": "09:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657004.jpg"
+      "show_name": "Phera",
+      "start_time": "06:45 AM",
+      "end_time": "09:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011657004.jpg"
     },
     {
-      "show_name": "Subho Drishti",
-      "start_time": "09:55 AM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657005.jpg"
+      "show_name": "Kartabya",
+      "start_time": "09:15 AM",
+      "end_time": "12:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011657005.jpg"
     },
     {
-      "show_name": "Barood",
-      "start_time": "01:00 PM",
-      "end_time": "04:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657006.jpg"
+      "show_name": "Sejo Bou",
+      "start_time": "12:40 PM",
+      "end_time": "03:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011657006.jpg"
     },
     {
-      "show_name": "Sathi",
-      "start_time": "04:05 PM",
-      "end_time": "07:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657007.jpg"
+      "show_name": "Khokababu",
+      "start_time": "03:40 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011657007.jpg"
     },
     {
-      "show_name": "Challenge",
-      "start_time": "07:10 PM",
-      "end_time": "10:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657008.jpg"
+      "show_name": "Annadata",
+      "start_time": "07:00 PM",
+      "end_time": "10:35 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011657008.jpg"
     },
     {
-      "show_name": "Wanted",
-      "start_time": "10:05 PM",
+      "show_name": "Villain",
+      "start_time": "10:35 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-11-30/2511301657009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/2512011657009.jpg"
     }
   ]
 }

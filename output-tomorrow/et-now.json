@@ -1,229 +1,25 @@
 {
   "channel_name": "ET Now",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png",
-  "date": "2025-12-01",
+  "date": "2025-12-02",
   "programs": [
     {
-      "show_name": "Navigating Volatility",
+      "show_name": "ET NOW Roundtable - Citi Exclusive",
       "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212000.jpg"
-    },
-    {
-      "show_name": "Navigating Volatility",
-      "start_time": "12:30 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212001.jpg"
-    },
-    {
-      "show_name": "ET Now Exclusive",
-      "start_time": "01:00 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212002.jpg"
-    },
-    {
-      "show_name": "Brand Buzz",
-      "start_time": "01:30 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212003.jpg"
-    },
-    {
-      "show_name": "Market Makers",
-      "start_time": "02:00 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212004.jpg"
-    },
-    {
-      "show_name": "The Global View",
-      "start_time": "02:30 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212005.jpg"
-    },
-    {
-      "show_name": "SUC Weekend Exclusive",
-      "start_time": "03:00 AM",
-      "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212006.jpg"
-    },
-    {
-      "show_name": "Market Radar",
-      "start_time": "03:30 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212007.jpg"
-    },
-    {
-      "show_name": "Navigating Volatility",
-      "start_time": "04:00 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212008.jpg"
-    },
-    {
-      "show_name": "Navigating Volatility",
-      "start_time": "04:30 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212009.jpg"
-    },
-    {
-      "show_name": "Brand Buzz",
-      "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202212000.jpg"
     },
     {
-      "show_name": "Market Makers",
+      "show_name": "ET NOW Roundtable - Citi Exclusive",
       "start_time": "05:30 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212011.jpg"
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202212001.jpg"
     },
     {
-      "show_name": "Beat the Street",
-      "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212012.jpg"
-    },
-    {
-      "show_name": "Your Trades",
-      "start_time": "06:30 AM",
-      "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212013.jpg"
-    },
-    {
-      "show_name": "Market Café",
-      "start_time": "07:00 AM",
-      "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212014.jpg"
-    },
-    {
-      "show_name": "The Market",
-      "start_time": "08:00 AM",
-      "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212015.jpg"
-    },
-    {
-      "show_name": "First Trade",
-      "start_time": "09:00 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212016.jpg"
-    },
-    {
-      "show_name": "ET NOW BNSN: The Stock Game",
-      "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212017.jpg"
-    },
-    {
-      "show_name": "Markets @ Noon",
-      "start_time": "12:00 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212018.jpg"
-    },
-    {
-      "show_name": "The Newsroom",
-      "start_time": "01:00 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212019.jpg"
-    },
-    {
-      "show_name": "Market Fatafat",
-      "start_time": "01:30 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212020.jpg"
-    },
-    {
-      "show_name": "ET NOW Closing Trades",
-      "start_time": "02:30 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212021.jpg"
-    },
-    {
-      "show_name": "Business Primetime",
-      "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212022.jpg"
-    },
-    {
-      "show_name": "BUDGET 2024 - Special",
-      "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212023.jpg"
-    },
-    {
-      "show_name": "News Now",
-      "start_time": "04:30 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212024.jpg"
-    },
-    {
-      "show_name": "The Money Show",
-      "start_time": "05:00 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212025.jpg"
-    },
-    {
-      "show_name": "Startup Central",
-      "start_time": "06:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212026.jpg"
-    },
-    {
-      "show_name": "Your Trades",
-      "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212027.jpg"
-    },
-    {
-      "show_name": "Rush Hour",
-      "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212028.jpg"
-    },
-    {
-      "show_name": "BUDGET 2024 - Special",
-      "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212029.jpg"
-    },
-    {
-      "show_name": "India Tonight",
-      "start_time": "08:00 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212030.jpg"
-    },
-    {
-      "show_name": "India Development Debate",
-      "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212031.jpg"
-    },
-    {
-      "show_name": "Big Voices",
-      "start_time": "09:30 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212032.jpg"
-    },
-    {
-      "show_name": "The Money Show",
-      "start_time": "10:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212033.jpg"
-    },
-    {
-      "show_name": "IDFC First Bank Presents ET Now Leaders",
-      "start_time": "10:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212034.jpg"
-    },
-    {
-      "show_name": "Your Trades",
-      "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212035.jpg"
-    },
-    {
-      "show_name": "India Development Debate",
-      "start_time": "11:30 PM",
+      "show_name": "ET NOW Roundtable - Citi Exclusive",
+      "start_time": "05:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-01/251201212036.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202212002.jpg"
     }
   ]
 }
