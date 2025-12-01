@@ -1,67 +1,67 @@
 {
   "channel_name": "Sony Max SD",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
-  "date": "2025-12-02",
+  "date": "2025-12-03",
   "programs": [
     {
-      "show_name": "Charms Bond",
+      "show_name": "Main Hoon Lucky The Racer",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202289000.jpg"
-    },
-    {
-      "show_name": "Lucifer",
-      "start_time": "01:00 AM",
-      "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202289001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203289000.jpg"
     },
     {
       "show_name": "Baadshah Pehlwaan",
-      "start_time": "03:30 AM",
-      "end_time": "05:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202289003.jpg"
+      "start_time": "01:00 AM",
+      "end_time": "03:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203289001.jpg"
     },
     {
       "show_name": "Ek Ka Dum 1",
-      "start_time": "05:45 AM",
-      "end_time": "08:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202289005.jpg"
+      "start_time": "03:15 AM",
+      "end_time": "05:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203289003.jpg"
     },
     {
-      "show_name": "Soorma",
-      "start_time": "08:15 AM",
-      "end_time": "10:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202289007.jpg"
+      "show_name": "The Real Leader Brahma",
+      "start_time": "05:45 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203289005.jpg"
     },
     {
       "show_name": "Gunda Mawali",
-      "start_time": "10:45 AM",
-      "end_time": "01:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202289009.jpg"
+      "start_time": "08:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203289007.jpg"
     },
     {
       "show_name": "Firangi",
-      "start_time": "01:15 PM",
-      "end_time": "04:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202289011.jpg"
+      "start_time": "11:00 AM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203289009.jpg"
     },
     {
       "show_name": "Pyaar Kiya Nahin Jata",
-      "start_time": "04:15 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202289013.jpg"
+      "start_time": "02:00 PM",
+      "end_time": "04:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203289011.jpg"
     },
     {
       "show_name": "TE3N",
-      "start_time": "07:00 PM",
-      "end_time": "09:45 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202289015.jpg"
+      "start_time": "04:45 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203289013.jpg"
     },
     {
       "show_name": "Badava Rascal",
+      "start_time": "07:30 PM",
+      "end_time": "09:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203289015.jpg"
+    },
+    {
+      "show_name": "Rudra Avatar",
       "start_time": "09:45 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202289017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203289017.jpg"
     }
   ]
 }

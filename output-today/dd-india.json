@@ -1,0 +1,235 @@
+{
+  "channel_name": "DD India",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png",
+  "date": "2025-12-02",
+  "programs": [
+    {
+      "show_name": "Defence Dynamics",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528000.jpg"
+    },
+    {
+      "show_name": "Wellness Watch",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528001.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528002.jpg"
+    },
+    {
+      "show_name": "Paradise Unexplored",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528003.jpg"
+    },
+    {
+      "show_name": "Voice of the Global South",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528004.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528005.jpg"
+    },
+    {
+      "show_name": "Defence Dynamics",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528006.jpg"
+    },
+    {
+      "show_name": "Connecting the Dots",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528007.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528008.jpg"
+    },
+    {
+      "show_name": "Paradise Unexplored",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528009.jpg"
+    },
+    {
+      "show_name": "Meditation Session By Gurudev Sri Sri Ravi Shankar",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528010.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528011.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528012.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528013.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528014.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528015.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528016.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528017.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528018.jpg"
+    },
+    {
+      "show_name": "Indian Diplomacy",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528019.jpg"
+    },
+    {
+      "show_name": "Imperial Receipts with Dr.Shashi Tharoor",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528020.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528021.jpg"
+    },
+    {
+      "show_name": "Defence Dynamics",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528022.jpg"
+    },
+    {
+      "show_name": "Wellness Watch",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528023.jpg"
+    },
+    {
+      "show_name": "Express News",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528024.jpg"
+    },
+    {
+      "show_name": "Voice of the Global South",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528025.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528026.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528027.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528028.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528029.jpg"
+    },
+    {
+      "show_name": "Express News",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528030.jpg"
+    },
+    {
+      "show_name": "DD India Live",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528031.jpg"
+    },
+    {
+      "show_name": "Connecting the Dots",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528032.jpg"
+    },
+    {
+      "show_name": "Indian Diplomacy",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528033.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "09:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528034.jpg"
+    },
+    {
+      "show_name": "Connecting the Dots",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528035.jpg"
+    },
+    {
+      "show_name": "Imperial Receipts with Dr.Shashi Tharoor",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528036.jpg"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202528037.jpg"
+    }
+  ]
+}

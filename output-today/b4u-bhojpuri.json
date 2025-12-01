@@ -1,29 +1,23 @@
 {
   "channel_name": "B4U Bhojpuri",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
-  "date": "2025-12-01",
+  "date": "2025-12-02",
   "programs": [
     {
-      "show_name": "Chorni Saas Ki Jhuthi Bahu",
+      "show_name": "Saat Pheron Ke Saaton Vachan",
       "start_time": "12:00 AM",
-      "end_time": "12:03 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a4923535bef8cf0ab6e7d68943b5ed9a.jpg"
-    },
-    {
-      "show_name": "Preetam Pyare",
-      "start_time": "12:03 AM",
-      "end_time": "02:06 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8cdd727ae9c37874f3e9cb61ba76faca.jpg"
+      "end_time": "01:11 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/feface6d4cde821fbb632263e07136de.jpg"
     },
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "02:06 AM",
-      "end_time": "03:01 AM",
+      "start_time": "01:11 AM",
+      "end_time": "02:13 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c09ce4bfca3c0bb6fa709c163eacfce.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "03:01 AM",
+      "start_time": "02:13 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
@@ -34,46 +28,46 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
-      "show_name": "Badi Maa Chhoti Maa",
+      "show_name": "Chorni Saas Ki Jhuthi Bahu",
       "start_time": "07:00 AM",
-      "end_time": "09:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d34d68d823b22453cfeae0475a872ed6.jpg"
+      "end_time": "09:28 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a4923535bef8cf0ab6e7d68943b5ed9a.jpg"
     },
     {
-      "show_name": "Maa Ka Anchal",
-      "start_time": "09:24 AM",
-      "end_time": "11:56 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1f018c6b8c2c79e31867b8213cc653b6.jpg"
+      "show_name": "Ghar Ki Malkin",
+      "start_time": "09:28 AM",
+      "end_time": "11:53 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9ee134f202dd79e4f7466deb55923806.jpg"
     },
     {
-      "show_name": "Bindu",
-      "start_time": "11:56 AM",
-      "end_time": "02:41 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c24cbd4a585ed07dff4ac051a6dc548c.jpg"
+      "show_name": "Pati Patni Ka Pyar Khatta Meetha Achar",
+      "start_time": "11:53 AM",
+      "end_time": "02:22 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d061eaa60f8d7362302fd6f8ddbf3c59.jpg"
     },
     {
-      "show_name": "Ek Hajaron Mein Meri Bahana Hai",
-      "start_time": "02:41 PM",
-      "end_time": "05:21 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/993adfd9e59bad120ed51d2257384035.jpg"
+      "show_name": "Senur",
+      "start_time": "02:22 PM",
+      "end_time": "05:17 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f06b438da5522716d6416f4e88e68711.jpg"
     },
     {
-      "show_name": "Bade Ghar Ki Beti",
-      "start_time": "05:21 PM",
-      "end_time": "07:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b0509d2e802c937ec44d9584333226af.jpg"
+      "show_name": "Chattori Bahu",
+      "start_time": "05:17 PM",
+      "end_time": "08:29 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3fc1eb6c3ebbe8142f8b02f78e3a97c7.jpg"
     },
     {
-      "show_name": "Bitiya Rani Badi Sayani",
-      "start_time": "07:50 PM",
-      "end_time": "10:52 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2cd8375d1a0b33c51467473d6bd173da.jpg"
+      "show_name": "Badhaiya Baje More Angana",
+      "start_time": "08:29 PM",
+      "end_time": "11:25 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/61c9b44482c989df75488b0a35a462c3.jpg"
     },
     {
-      "show_name": "Saat Pheron Ke Saaton Vachan",
-      "start_time": "10:52 PM",
+      "show_name": "Pyari Dadi Maa",
+      "start_time": "11:25 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/feface6d4cde821fbb632263e07136de.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/307007c1ddc0e0c6025c26ad0462937a.jpg"
     }
   ]
 }
