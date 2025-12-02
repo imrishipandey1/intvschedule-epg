@@ -1,0 +1,127 @@
+{
+  "channel_name": "B4U Music",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",
+  "date": "2025-12-04",
+  "programs": [
+    {
+      "show_name": "Bajao",
+      "start_time": "12:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183000.jpg"
+    },
+    {
+      "show_name": "Bajao",
+      "start_time": "02:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183001.jpg"
+    },
+    {
+      "show_name": "Awaaz De Kahan Hai",
+      "start_time": "05:00 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183002.jpg"
+    },
+    {
+      "show_name": "Morning Masala",
+      "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183003.jpg"
+    },
+    {
+      "show_name": "Morning Masala",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183004.jpg"
+    },
+    {
+      "show_name": "Morning Masala",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183005.jpg"
+    },
+    {
+      "show_name": "Morning Masala",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183006.jpg"
+    },
+    {
+      "show_name": "Morning Masala",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183007.jpg"
+    },
+    {
+      "show_name": "Bajao",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183008.jpg"
+    },
+    {
+      "show_name": "Bajao",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183009.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183010.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183011.jpg"
+    },
+    {
+      "show_name": "BOOM BOX",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183012.jpg"
+    },
+    {
+      "show_name": "BOOM BOX",
+      "start_time": "05:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183013.jpg"
+    },
+    {
+      "show_name": "BOOM BOX",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183014.jpg"
+    },
+    {
+      "show_name": "BOOM BOX",
+      "start_time": "07:00 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183015.jpg"
+    },
+    {
+      "show_name": "SOLID HITS",
+      "start_time": "08:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183016.jpg"
+    },
+    {
+      "show_name": "Awaaz De Kahan Hai",
+      "start_time": "09:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183017.jpg"
+    },
+    {
+      "show_name": "Awaaz De Kahan Hai",
+      "start_time": "10:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183018.jpg"
+    },
+    {
+      "show_name": "Awaaz De Kahan Hai",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/251204183019.jpg"
+    }
+  ]
+}

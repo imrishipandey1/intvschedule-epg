@@ -1,55 +1,55 @@
 {
-  "channel_name": "India Today",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png",
-  "date": "2025-12-02",
+  "channel_name": "INDIA TODAY",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png",
+  "date": "2025-12-03",
   "programs": [
     {
       "show_name": "News",
       "start_time": "12:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202493000.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "03:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202493001.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "06:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202493002.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "09:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202493003.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "12:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202493004.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "03:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202493005.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "06:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202493006.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "News",
       "start_time": "09:00 PM",
-      "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202493007.jpg"
+      "end_time": "12:00 AM",
+      "show_logo": ""
     }
   ]
 }

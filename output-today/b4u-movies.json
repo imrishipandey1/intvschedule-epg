@@ -1,0 +1,61 @@
+{
+  "channel_name": "B4U Movies",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
+  "date": "2025-12-03",
+  "programs": [
+    {
+      "show_name": "Sikka",
+      "start_time": "12:00 AM",
+      "end_time": "01:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203182000.jpg"
+    },
+    {
+      "show_name": "Rajkumar",
+      "start_time": "01:25 AM",
+      "end_time": "04:19 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203182001.jpg"
+    },
+    {
+      "show_name": "Maati Maangey Khoon",
+      "start_time": "04:19 AM",
+      "end_time": "06:29 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203182002.jpg"
+    },
+    {
+      "show_name": "Wafadaar",
+      "start_time": "06:29 AM",
+      "end_time": "09:33 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203182003.jpg"
+    },
+    {
+      "show_name": "Mafia Raaj",
+      "start_time": "09:33 AM",
+      "end_time": "12:33 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203182004.jpg"
+    },
+    {
+      "show_name": "Majaal",
+      "start_time": "12:33 PM",
+      "end_time": "03:42 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203182005.jpg"
+    },
+    {
+      "show_name": "Prem Deewane",
+      "start_time": "03:42 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203182006.jpg"
+    },
+    {
+      "show_name": "Police Aur Mujrim",
+      "start_time": "07:00 PM",
+      "end_time": "10:13 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203182007.jpg"
+    },
+    {
+      "show_name": "Viduthalai Part 1",
+      "start_time": "10:13 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203182008.jpg"
+    }
+  ]
+}

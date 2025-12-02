@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Kannada Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",
-  "date": "2025-12-02",
+  "date": "2025-12-03",
   "programs": [
     {
-      "show_name": "Ishtakamya",
+      "show_name": "Pattanakke Banda Putta",
       "start_time": "12:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021632000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031632000.jpg"
     },
     {
-      "show_name": "Ashtralle Just Missoo",
+      "show_name": "Chowka Bara",
       "start_time": "02:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021632001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031632001.jpg"
     },
     {
       "show_name": "Shiva Shakthi",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021632002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031632002.jpg"
     },
     {
-      "show_name": "Government",
+      "show_name": "India vs England",
       "start_time": "05:30 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021632003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031632003.jpg"
     },
     {
       "show_name": "Bigg Boss Kannada",
       "start_time": "08:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021632004.jpg"
-    },
-    {
-      "show_name": "Yare Nee Abhimani",
-      "start_time": "10:00 AM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021632005.jpg"
-    },
-    {
-      "show_name": "Mannina Doni",
-      "start_time": "01:30 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021632006.jpg"
-    },
-    {
-      "show_name": "Aryabhata",
-      "start_time": "04:30 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021632007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031632004.jpg"
     },
     {
       "show_name": "Neenello Naanalle",
-      "start_time": "07:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021632008.jpg"
+      "start_time": "10:00 AM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031632005.jpg"
     },
     {
-      "show_name": "Pattanakke Banda Putta",
+      "show_name": "Dhumm",
+      "start_time": "01:30 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031632006.jpg"
+    },
+    {
+      "show_name": "Mahakshathriya",
+      "start_time": "04:30 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031632007.jpg"
+    },
+    {
+      "show_name": "Bandhu Balaga",
+      "start_time": "07:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031632008.jpg"
+    },
+    {
+      "show_name": "Kiragoorina Gayyaligalu",
       "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021632009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031632009.jpg"
     }
   ]
 }

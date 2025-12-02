@@ -1,157 +1,151 @@
 {
   "channel_name": "Sony Ten 1",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
-  "date": "2025-12-02",
+  "date": "2025-12-03",
   "programs": [
     {
-      "show_name": "Asia Cup 2025",
+      "show_name": "DP World Asia Cup Rising Stars Men's 2025",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514000.jpg"
     },
     {
       "show_name": "DP World Asia Cup Rising Stars Men's 2025",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514001.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
       "start_time": "01:30 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514002.jpg"
     },
     {
-      "show_name": "DP World Asia Cup Rising Stars Men's 2025",
+      "show_name": "West Indies Tour of New Zealand 2025",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514003.jpg"
     },
     {
-      "show_name": "Bharat Tum Chale Chalo - Kahani 2021-22 Ki",
+      "show_name": "India Women's Tour of England 2025",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514004.jpg"
     },
     {
-      "show_name": "Test Cricket",
+      "show_name": "Asia Cup 2025",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514005.jpg"
     },
     {
       "show_name": "DP World Asia Cup Rising Stars Men's 2025",
       "start_time": "04:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514006.jpg"
     },
     {
-      "show_name": "Asia Cup Rising Stars Cricket Highlights",
+      "show_name": "UFC 323: Countdown",
       "start_time": "10:30 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514007.jpg"
-    },
-    {
-      "show_name": "T20 Cricket",
-      "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514007.jpg"
     },
     {
       "show_name": "T20 Cricket",
       "start_time": "11:30 AM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514008.jpg"
     },
     {
       "show_name": "Asia Cup Rising Stars Cricket Highlights",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514009.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
       "start_time": "01:00 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514010.jpg"
     },
     {
       "show_name": "Test Cricket",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514011.jpg"
     },
     {
       "show_name": "One-Day International Cricket",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514012.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514013.jpg"
     },
     {
       "show_name": "Test Cricket",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514014.jpg"
     },
     {
       "show_name": "Test Cricket",
       "start_time": "04:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514016.jpg"
-    },
-    {
-      "show_name": "UFC 323: Countdown",
-      "start_time": "06:00 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514015.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514016.jpg"
+    },
+    {
+      "show_name": "Test Cricket",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514017.jpg"
     },
     {
       "show_name": "One-Day International Cricket",
       "start_time": "07:30 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514018.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514019.jpg"
     },
     {
       "show_name": "T20 Cricket",
       "start_time": "09:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514020.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
       "start_time": "10:00 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514021.jpg"
     },
     {
       "show_name": "Test Cricket",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514022.jpg"
     },
     {
       "show_name": "T20 Cricket",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202514024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203514023.jpg"
     }
   ]
 }

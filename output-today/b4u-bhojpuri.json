@@ -1,23 +1,23 @@
 {
   "channel_name": "B4U Bhojpuri",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
-  "date": "2025-12-02",
+  "date": "2025-12-03",
   "programs": [
     {
-      "show_name": "Saat Pheron Ke Saaton Vachan",
+      "show_name": "Pyari Dadi Maa",
       "start_time": "12:00 AM",
-      "end_time": "01:11 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/feface6d4cde821fbb632263e07136de.jpg"
+      "end_time": "01:53 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/307007c1ddc0e0c6025c26ad0462937a.jpg"
     },
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:11 AM",
-      "end_time": "02:13 AM",
+      "start_time": "01:53 AM",
+      "end_time": "02:54 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c09ce4bfca3c0bb6fa709c163eacfce.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:13 AM",
+      "start_time": "02:54 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
@@ -28,46 +28,46 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
-      "show_name": "Chorni Saas Ki Jhuthi Bahu",
+      "show_name": "Saas Bahu Aur Sajish",
       "start_time": "07:00 AM",
       "end_time": "09:28 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fe1ccbfbca9ecf964956925ca3a138b0.jpg"
+    },
+    {
+      "show_name": "Saas Bahu Chali Swarg Lok",
+      "start_time": "09:28 AM",
+      "end_time": "11:53 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8f2825e171aad05522e49d5fc7206392.jpg"
+    },
+    {
+      "show_name": "Meri Beti Mera Abhimaan",
+      "start_time": "11:53 AM",
+      "end_time": "02:22 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/30265e38854b1bb4e4d7d152fd4ae246.jpg"
+    },
+    {
+      "show_name": "Kalyug Ka Batwara",
+      "start_time": "02:22 PM",
+      "end_time": "05:17 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9c42471440fd1bd69345a9a68823e85d.jpg"
+    },
+    {
+      "show_name": "Chorni Saas Ki Jhuthi Bahu",
+      "start_time": "05:17 PM",
+      "end_time": "08:29 PM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a4923535bef8cf0ab6e7d68943b5ed9a.jpg"
     },
     {
-      "show_name": "Ghar Ki Malkin",
-      "start_time": "09:28 AM",
-      "end_time": "11:53 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9ee134f202dd79e4f7466deb55923806.jpg"
-    },
-    {
-      "show_name": "Pati Patni Ka Pyar Khatta Meetha Achar",
-      "start_time": "11:53 AM",
-      "end_time": "02:22 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d061eaa60f8d7362302fd6f8ddbf3c59.jpg"
-    },
-    {
-      "show_name": "Senur",
-      "start_time": "02:22 PM",
-      "end_time": "05:17 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f06b438da5522716d6416f4e88e68711.jpg"
-    },
-    {
-      "show_name": "Chattori Bahu",
-      "start_time": "05:17 PM",
-      "end_time": "08:29 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3fc1eb6c3ebbe8142f8b02f78e3a97c7.jpg"
-    },
-    {
-      "show_name": "Badhaiya Baje More Angana",
+      "show_name": "Maike Ka Ticket Kata De Piya",
       "start_time": "08:29 PM",
       "end_time": "11:25 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/61c9b44482c989df75488b0a35a462c3.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/cc9de44e5fddfcaa469f344367e8f3b6.jpg"
     },
     {
-      "show_name": "Pyari Dadi Maa",
+      "show_name": "Chandan Parinay Gunja",
       "start_time": "11:25 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/307007c1ddc0e0c6025c26ad0462937a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e89a6c5dfa673c076809de2fe54b097d.jpg"
     }
   ]
 }

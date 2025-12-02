@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Bangla Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
-  "date": "2025-12-02",
+  "date": "2025-12-03",
   "programs": [
     {
-      "show_name": "Villain",
+      "show_name": "Challenge 2",
       "start_time": "12:00 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021657000.jpg"
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031657000.jpg"
     },
     {
-      "show_name": "Kaal Ratri",
-      "start_time": "01:00 AM",
+      "show_name": "Saat Bhai Champa",
+      "start_time": "01:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021657001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031657001.jpg"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021657002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031657002.jpg"
     },
     {
-      "show_name": "Agni Yudha",
+      "show_name": "Hero No. 1",
       "start_time": "04:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021657003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031657003.jpg"
     },
     {
-      "show_name": "Mayer Badhan",
+      "show_name": "Madhur Milan",
       "start_time": "07:00 AM",
       "end_time": "09:50 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021657004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031657004.jpg"
     },
     {
-      "show_name": "Neel Akasher Chandni",
+      "show_name": "Maan Maryada",
       "start_time": "09:50 AM",
-      "end_time": "12:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021657005.jpg"
+      "end_time": "12:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031657005.jpg"
     },
     {
-      "show_name": "Jiban Niye Khela",
-      "start_time": "12:50 PM",
-      "end_time": "03:25 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021657006.jpg"
+      "show_name": "Khoka 420",
+      "start_time": "12:55 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031657006.jpg"
     },
     {
-      "show_name": "Mahaguru",
-      "start_time": "03:25 PM",
+      "show_name": "Ranakshetra",
+      "start_time": "04:00 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021657007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031657007.jpg"
     },
     {
-      "show_name": "Bondhoo",
+      "show_name": "MLA Phatakesto",
       "start_time": "07:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021657008.jpg"
+      "end_time": "09:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031657008.jpg"
     },
     {
-      "show_name": "Challenge 2",
-      "start_time": "10:30 PM",
+      "show_name": "Phande Poriya Boga Kande Re",
+      "start_time": "09:55 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/2512021657009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031657009.jpg"
     }
   ]
 }

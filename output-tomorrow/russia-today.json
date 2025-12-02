@@ -1,55 +1,55 @@
 {
   "channel_name": "RT TV",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png",
-  "date": "2025-12-03",
+  "date": "2025-12-04",
   "programs": [
     {
       "show_name": "RT Programming",
       "start_time": "12:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031338000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041338000.jpg"
     },
     {
       "show_name": "RT Programming",
       "start_time": "03:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031338001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041338001.jpg"
     },
     {
       "show_name": "RT Programming",
       "start_time": "06:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031338002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041338002.jpg"
     },
     {
       "show_name": "RT Programming",
       "start_time": "09:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031338003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041338003.jpg"
     },
     {
       "show_name": "RT Programming",
       "start_time": "12:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031338004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041338004.jpg"
     },
     {
       "show_name": "RT Programming",
       "start_time": "03:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031338005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041338005.jpg"
     },
     {
       "show_name": "RT Programming",
       "start_time": "06:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031338006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041338006.jpg"
     },
     {
       "show_name": "RT Programming",
       "start_time": "09:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031338007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041338007.jpg"
     }
   ]
 }

@@ -1,295 +1,301 @@
 {
-  "channel_name": "History TV18 HD",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",
-  "date": "2025-12-02",
+  "channel_name": "History TV18 HD Hindi",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",
+  "date": "2025-12-03",
   "programs": [
     {
-      "show_name": "Forged in Fire",
+      "show_name": "Forged in Fire: Beat the Judges",
       "start_time": "12:00 AM",
       "end_time": "12:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578000.jpg"
     },
     {
-      "show_name": "Leepu \u0026 Pitbull",
+      "show_name": "Ancient Aliens",
       "start_time": "12:20 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578001.jpg"
     },
     {
-      "show_name": "Counting Cars",
+      "show_name": "History's Greatest Escapes With Morgan Freeman",
       "start_time": "01:00 AM",
-      "end_time": "01:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146002.jpg"
-    },
-    {
-      "show_name": "Nature Gone Wild",
-      "start_time": "01:20 AM",
       "end_time": "01:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578002.jpg"
     },
     {
       "show_name": "Forged in Fire",
       "start_time": "01:40 AM",
       "end_time": "02:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578003.jpg"
     },
     {
       "show_name": "Pawn Stars: Best Of",
       "start_time": "02:20 AM",
       "end_time": "02:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578004.jpg"
     },
     {
       "show_name": "The Einstein Challenge",
       "start_time": "02:40 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578005.jpg"
     },
     {
-      "show_name": "Al Murray: Why Does Everyone Hate the British Empire?",
+      "show_name": "Lost Worlds",
       "start_time": "03:00 AM",
       "end_time": "03:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578006.jpg"
     },
     {
       "show_name": "The Food That Built the World",
       "start_time": "03:40 AM",
       "end_time": "04:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578007.jpg"
     },
     {
-      "show_name": "History's Greatest Escapes With Morgan Freeman",
+      "show_name": "History's Greatest of All Time With Peyton Manning",
       "start_time": "04:20 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578008.jpg"
     },
     {
-      "show_name": "Royal India with Samira",
+      "show_name": "A Taste of Travel",
       "start_time": "05:00 AM",
       "end_time": "05:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578009.jpg"
     },
     {
       "show_name": "Ancient Aliens",
       "start_time": "05:20 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578010.jpg"
     },
     {
       "show_name": "Tour D' Royale",
       "start_time": "06:00 AM",
       "end_time": "06:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578011.jpg"
     },
     {
-      "show_name": "The UnBelievable With Dan Aykroyd",
+      "show_name": "Nature Gone Wild",
       "start_time": "06:20 AM",
+      "end_time": "06:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578012.jpg"
+    },
+    {
+      "show_name": "Storage Wars",
+      "start_time": "06:40 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578013.jpg"
     },
     {
       "show_name": "Omg! Yeh Mera India Classics",
       "start_time": "07:00 AM",
       "end_time": "07:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578014.jpg"
     },
     {
       "show_name": "Pawn Stars: Best Of",
       "start_time": "07:24 AM",
       "end_time": "07:44 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578015.jpg"
     },
     {
-      "show_name": "Nature Gone Wild",
+      "show_name": "Storage Wars",
       "start_time": "07:44 AM",
       "end_time": "08:04 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578016.jpg"
     },
     {
-      "show_name": "A Taste of Travel",
+      "show_name": "Roads Unknown: India",
       "start_time": "08:04 AM",
       "end_time": "08:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578017.jpg"
     },
     {
       "show_name": "American Pickers",
       "start_time": "08:24 AM",
       "end_time": "09:12 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578018.jpg"
     },
     {
-      "show_name": "The Einstein Challenge",
+      "show_name": "Storage Wars",
       "start_time": "09:12 AM",
       "end_time": "09:36 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578019.jpg"
     },
     {
       "show_name": "Counting Cars",
       "start_time": "09:36 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578020.jpg"
     },
     {
       "show_name": "Pawn Stars",
       "start_time": "10:00 AM",
       "end_time": "10:24 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578021.jpg"
     },
     {
-      "show_name": "Royal India with Samira",
+      "show_name": "Storage Wars",
       "start_time": "10:24 AM",
       "end_time": "10:48 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578022.jpg"
     },
     {
-      "show_name": "Roads Unknown: India",
+      "show_name": "A Taste of Travel",
       "start_time": "10:48 AM",
       "end_time": "11:12 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578023.jpg"
     },
     {
       "show_name": "Forged in Fire",
       "start_time": "11:12 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578024.jpg"
     },
     {
-      "show_name": "The Food That Built the World",
+      "show_name": "Flavours Of India",
       "start_time": "12:00 PM",
       "end_time": "12:46 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578025.jpg"
     },
     {
       "show_name": "Pawn Stars",
       "start_time": "12:46 PM",
       "end_time": "01:09 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578026.jpg"
     },
     {
       "show_name": "Storage Wars",
       "start_time": "01:09 PM",
       "end_time": "01:31 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578027.jpg"
     },
     {
-      "show_name": "Counting Cars",
+      "show_name": "Storage Wars",
       "start_time": "01:31 PM",
       "end_time": "01:54 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578028.jpg"
     },
     {
       "show_name": "Pawn Stars",
       "start_time": "01:54 PM",
       "end_time": "02:16 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578029.jpg"
     },
     {
       "show_name": "Storage Wars",
       "start_time": "02:16 PM",
       "end_time": "02:38 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578030.jpg"
     },
     {
       "show_name": "OMG! Yeh Mera India",
       "start_time": "02:38 PM",
       "end_time": "03:02 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578031.jpg"
     },
     {
-      "show_name": "Life After People",
+      "show_name": "Food Tech",
       "start_time": "03:02 PM",
       "end_time": "03:46 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146032.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578032.jpg"
     },
     {
       "show_name": "Forged in Fire: Beat the Judges",
       "start_time": "03:46 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578033.jpg"
     },
     {
       "show_name": "History's Greatest Escapes With Morgan Freeman",
       "start_time": "04:30 PM",
       "end_time": "05:14 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146034.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578034.jpg"
     },
     {
       "show_name": "OMG! Yeh Mera India",
       "start_time": "05:14 PM",
       "end_time": "05:38 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578035.jpg"
     },
     {
       "show_name": "Kings of Restoration",
       "start_time": "05:38 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146036.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578036.jpg"
     },
     {
-      "show_name": "Food Tech",
+      "show_name": "Leepu \u0026 Pitbull",
       "start_time": "06:00 PM",
       "end_time": "06:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146037.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578037.jpg"
     },
     {
       "show_name": "Storage Wars",
       "start_time": "06:50 PM",
       "end_time": "07:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146038.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578038.jpg"
     },
     {
       "show_name": "Counting Cars",
       "start_time": "07:15 PM",
       "end_time": "07:40 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146039.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578039.jpg"
     },
     {
       "show_name": "Pawn Stars: Best Of",
       "start_time": "07:40 PM",
       "end_time": "08:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146040.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578040.jpg"
     },
     {
       "show_name": "Roads Unknown: India",
       "start_time": "08:05 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146041.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578041.jpg"
     },
     {
       "show_name": "OMG! Yeh Mera India",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146042.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578042.jpg"
     },
     {
       "show_name": "Forged in Fire: Knife or Death",
       "start_time": "09:00 PM",
       "end_time": "09:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146043.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578043.jpg"
     },
     {
-      "show_name": "Pawn Stars",
+      "show_name": "Pawn Stars: Best Of",
       "start_time": "09:50 PM",
       "end_time": "10:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146044.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578044.jpg"
     },
     {
       "show_name": "Storage Wars",
       "start_time": "10:15 PM",
       "end_time": "10:40 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146045.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578045.jpg"
     },
     {
-      "show_name": "American Pickers",
+      "show_name": "Storage Wars",
       "start_time": "10:40 PM",
+      "end_time": "11:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578046.jpg"
+    },
+    {
+      "show_name": "Storage Wars",
+      "start_time": "11:05 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146046.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578047.jpg"
     },
     {
       "show_name": "Forged in Fire: Beat the Judges",
       "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-02/251202146047.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/251203578048.jpg"
     }
   ]
 }
