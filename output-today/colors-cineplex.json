@@ -1,91 +1,79 @@
 {
   "channel_name": "Colors Cineplex HD",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
-  "date": "2025-12-03",
+  "date": "2025-12-04",
   "programs": [
     {
-      "show_name": "Deewar Man of Power",
+      "show_name": "Rowdy Baadshah",
       "start_time": "12:00 AM",
-      "end_time": "01:28 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477000.jpg"
+      "end_time": "02:06 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477000.jpg"
     },
     {
-      "show_name": "Global Baba",
-      "start_time": "01:28 AM",
-      "end_time": "03:20 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477001.jpg"
-    },
-    {
-      "show_name": "Ek Zakhmi Romeo",
-      "start_time": "03:20 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477002.jpg"
+      "show_name": "Gollu Aur Pappu",
+      "start_time": "02:06 AM",
+      "end_time": "03:53 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477001.jpg"
     },
     {
       "show_name": "Filler",
-      "start_time": "05:00 AM",
-      "end_time": "05:27 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477003.jpg"
+      "start_time": "03:53 AM",
+      "end_time": "04:06 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477002.jpg"
     },
     {
-      "show_name": "Damayanthi",
-      "start_time": "05:27 AM",
-      "end_time": "07:07 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477004.jpg"
+      "show_name": "Anwar",
+      "start_time": "04:06 AM",
+      "end_time": "06:27 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477003.jpg"
     },
     {
-      "show_name": "Striker",
-      "start_time": "07:07 AM",
-      "end_time": "09:02 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477005.jpg"
+      "show_name": "Zed Plus",
+      "start_time": "06:27 AM",
+      "end_time": "08:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477004.jpg"
     },
     {
-      "show_name": "Time Machine",
-      "start_time": "09:02 AM",
-      "end_time": "11:18 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477006.jpg"
+      "show_name": "International Khiladi: The Iron Man",
+      "start_time": "08:45 AM",
+      "end_time": "11:03 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477005.jpg"
     },
     {
-      "show_name": "Mahadev Ka Gorakhpur",
-      "start_time": "11:18 AM",
-      "end_time": "01:32 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477007.jpg"
+      "show_name": "Ghayal Khiladi",
+      "start_time": "11:03 AM",
+      "end_time": "01:31 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477006.jpg"
     },
     {
-      "show_name": "Liger : Saala Ctossbreed",
-      "start_time": "01:32 PM",
-      "end_time": "03:56 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477008.jpg"
+      "show_name": "Fidaa",
+      "start_time": "01:31 PM",
+      "end_time": "03:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477007.jpg"
     },
     {
-      "show_name": "Kali Kitaab",
-      "start_time": "03:56 PM",
-      "end_time": "06:01 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477009.jpg"
+      "show_name": "Gatta Kusthi",
+      "start_time": "03:40 PM",
+      "end_time": "05:52 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477008.jpg"
     },
     {
-      "show_name": "Manjulika Returns 2",
-      "start_time": "06:01 PM",
+      "show_name": "Hawa",
+      "start_time": "05:52 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477009.jpg"
     },
     {
-      "show_name": "ACP Shiva",
+      "show_name": "Saindhav",
       "start_time": "07:50 PM",
-      "end_time": "09:46 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477011.jpg"
+      "end_time": "09:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477010.jpg"
     },
     {
-      "show_name": "Devaki Nandana Vasudeva",
-      "start_time": "09:46 PM",
-      "end_time": "11:42 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477012.jpg"
-    },
-    {
-      "show_name": "Rowdy Baadshah",
-      "start_time": "11:42 PM",
+      "show_name": "Singham Returns",
+      "start_time": "09:50 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-03/2512031477013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041477011.jpg"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "channel_name": "B4U Bhojpuri",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
-  "date": "2025-12-03",
+  "date": "2025-12-04",
   "programs": [
     {
-      "show_name": "Pyari Dadi Maa",
+      "show_name": "Chandan Parinay Gunja",
       "start_time": "12:00 AM",
       "end_time": "01:53 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/307007c1ddc0e0c6025c26ad0462937a.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e89a6c5dfa673c076809de2fe54b097d.jpg"
     },
     {
       "show_name": "Lataka Jhatka",
@@ -24,50 +24,50 @@
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "05:00 AM",
-      "end_time": "07:00 AM",
+      "end_time": "06:29 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
-      "show_name": "Saas Bahu Aur Sajish",
-      "start_time": "07:00 AM",
-      "end_time": "09:28 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fe1ccbfbca9ecf964956925ca3a138b0.jpg"
+      "show_name": "Ameero Ka Dahej",
+      "start_time": "06:29 AM",
+      "end_time": "08:49 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d722ce1fe0f8778a049adf445ce617af.jpg"
     },
     {
-      "show_name": "Saas Bahu Chali Swarg Lok",
-      "start_time": "09:28 AM",
-      "end_time": "11:53 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8f2825e171aad05522e49d5fc7206392.jpg"
+      "show_name": "Foolori Bina Chatni Kaise Bani",
+      "start_time": "08:49 AM",
+      "end_time": "11:36 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/36b86d126ce7d2aae9eacbaf3d19de02.jpg"
     },
     {
-      "show_name": "Meri Beti Mera Abhimaan",
-      "start_time": "11:53 AM",
-      "end_time": "02:22 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/30265e38854b1bb4e4d7d152fd4ae246.jpg"
+      "show_name": "Gujarati Bahu",
+      "start_time": "11:36 AM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fb8aecf2984c5370bd5ed09b19310853.jpg"
     },
     {
-      "show_name": "Kalyug Ka Batwara",
-      "start_time": "02:22 PM",
-      "end_time": "05:17 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9c42471440fd1bd69345a9a68823e85d.jpg"
+      "show_name": "Parai Beti",
+      "start_time": "02:30 PM",
+      "end_time": "04:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1ff98874c2bfce3651111c45464ee410.jpg"
     },
     {
-      "show_name": "Chorni Saas Ki Jhuthi Bahu",
-      "start_time": "05:17 PM",
-      "end_time": "08:29 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a4923535bef8cf0ab6e7d68943b5ed9a.jpg"
+      "show_name": "Naihar Sasural",
+      "start_time": "04:59 PM",
+      "end_time": "07:49 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/bd2a18df048c819322829ab282d0b903.jpg"
     },
     {
-      "show_name": "Maike Ka Ticket Kata De Piya",
-      "start_time": "08:29 PM",
-      "end_time": "11:25 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/cc9de44e5fddfcaa469f344367e8f3b6.jpg"
+      "show_name": "Kunwari Kanya",
+      "start_time": "07:49 PM",
+      "end_time": "11:12 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/92cbc912ddbd485d47242962fc6a62d3.jpg"
     },
     {
-      "show_name": "Chandan Parinay Gunja",
-      "start_time": "11:25 PM",
+      "show_name": "Crack Fighter",
+      "start_time": "11:12 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e89a6c5dfa673c076809de2fe54b097d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/925533b91285e96012aa9a118ef59b1d.jpg"
     }
   ]
 }
