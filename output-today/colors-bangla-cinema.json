@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Bangla Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "programs": [
     {
-      "show_name": "Phande Poriya Boga Kande Re",
+      "show_name": "Prem Amar",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041657000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051657000.jpg"
     },
     {
-      "show_name": "Khaad",
+      "show_name": "Anu",
       "start_time": "01:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041657001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051657001.jpg"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041657002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051657002.jpg"
     },
     {
-      "show_name": "Bhakter Maa",
+      "show_name": "Open Tee Bioscope",
       "start_time": "04:00 AM",
-      "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041657003.jpg"
+      "end_time": "07:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051657003.jpg"
     },
     {
-      "show_name": "Jor Jar Mulak Tar",
-      "start_time": "07:00 AM",
-      "end_time": "10:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041657004.jpg"
+      "show_name": "Mukhyamantri",
+      "start_time": "07:05 AM",
+      "end_time": "09:55 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051657004.jpg"
     },
     {
-      "show_name": "Jamai Raja",
-      "start_time": "10:05 AM",
-      "end_time": "01:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041657005.jpg"
+      "show_name": "Aparadhi",
+      "start_time": "09:55 AM",
+      "end_time": "12:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051657005.jpg"
     },
     {
-      "show_name": "Greftaar",
-      "start_time": "01:05 PM",
-      "end_time": "04:05 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041657006.jpg"
+      "show_name": "Josh",
+      "start_time": "12:40 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051657006.jpg"
     },
     {
-      "show_name": "Nawab Nandini",
-      "start_time": "04:05 PM",
+      "show_name": "Chore Chore Mastuto Bhai",
+      "start_time": "03:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041657007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051657007.jpg"
     },
     {
-      "show_name": "Baro Bou",
+      "show_name": "Tulkalam",
       "start_time": "07:00 PM",
-      "end_time": "10:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041657008.jpg"
+      "end_time": "09:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051657008.jpg"
     },
     {
-      "show_name": "Prem Amar",
-      "start_time": "10:15 PM",
+      "show_name": "Mon Mane Na",
+      "start_time": "09:50 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-04/2512041657009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051657009.jpg"
     }
   ]
 }

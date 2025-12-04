@@ -1,0 +1,31 @@
+{
+  "channel_name": "TV9 Gujarati",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11874-j9l376yg-v2/imageContent-11874-j9l376yg-m2.png",
+  "date": "2025-12-05",
+  "programs": [
+    {
+      "show_name": "News Top 9",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News Fatafat",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Crime Watch",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Fikar Aapni",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": ""
+    }
+  ]
+}

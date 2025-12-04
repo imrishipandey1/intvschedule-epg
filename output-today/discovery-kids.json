@@ -1,12 +1,60 @@
 {
   "channel_name": "Discovery Kids",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "programs": [
     {
       "show_name": "Kris Roll No 21",
-      "start_time": "11:54 PM",
-      "end_time": "12:06 AM",
+      "start_time": "12:06 AM",
+      "end_time": "12:18 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Kris Roll No 21",
+      "start_time": "12:18 AM",
+      "end_time": "12:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Little Krishna",
+      "start_time": "12:30 AM",
+      "end_time": "12:53 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Haddi Mera Buddy",
+      "start_time": "12:53 AM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bunty Billa Aur Babban",
+      "start_time": "01:00 AM",
+      "end_time": "01:07 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bunty Billa Aur Babban",
+      "start_time": "01:07 AM",
+      "end_time": "01:14 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bunty Billa Aur Babban",
+      "start_time": "01:14 AM",
+      "end_time": "01:21 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bunty Billa Aur Babban",
+      "start_time": "01:21 AM",
+      "end_time": "01:28 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bunty Billa Aur Babban",
+      "start_time": "01:28 AM",
+      "end_time": "01:36 AM",
       "show_logo": ""
     }
   ]

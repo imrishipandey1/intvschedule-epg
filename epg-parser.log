@@ -1,17 +1,17 @@
 🚀 Starting EPG Parser...
-🕒 Script started at: 2025-12-03 20:46:17 UTC
-📅 Today (IST): 2025-12-04
-📅 Tomorrow (IST): 2025-12-05
+🕒 Script started at: 2025-12-04 20:45:13 UTC
+📅 Today (IST): 2025-12-05
+📅 Tomorrow (IST): 2025-12-06
 
 📥 Downloading Jio TV EPG...
-✅ Jio TV: 748 channels, 69260 programmes
+✅ Jio TV: 603 channels, 35848 programmes
 
 📥 Downloading Tata Play EPG...
-✅ Tata Play: 806 channels, 46115 programmes
+✅ Tata Play: 851 channels, 23601 programmes
 
 🔀 Building channel index...
 🔀 Building programme index...
-✅ Indexed 748 Jio channels and 786 Tata channels
+✅ Indexed 603 Jio channels and 829 Tata channels
 
 📋 Loading filter.txt...
 ✅ Loaded 78 filter rules
@@ -99,213 +99,197 @@
 ⚙️  Processing channels...
 =================================================================================
 ❌ Channel not found: 9x-jhakaas.json
+❌ Channel not found: 9x-tashan.json
 
-✅ Found: 9X Tashan (from Jio, ID: 732)
-   Total programmes: 96
-   Today's programmes: 48
-   ✅ Saved: output-today/9x-tashan.json
-   Tomorrow's programmes: 0
-
-✅ Found: 9XM (from Jio, ID: 587)
-   Total programmes: 49
-   Today's programmes: 0
+✅ Found: 9XM (from Tata, ID: ts139)
+   Total programmes: 4
+   Today's programmes: 4
+   ✅ Saved: output-today/9xm.json
    Tomorrow's programmes: 0
 
 ✅ Found: Aaj Tak (from Tata, ID: ts153)
    Total programmes: 177
-   Today's programmes: 0
-   Tomorrow's programmes: 0
+   Today's programmes: 59
+   ✅ Saved: output-today/aaj-tak.json
+   Tomorrow's programmes: 59
+   ✅ Saved: output-tomorrow/aaj-tak.json
 ❌ Channel not found: aakash-aath.json
 
 ✅ Found: ABP Ananda (from Tata, ID: ts102)
-   Total programmes: 110
-   Today's programmes: 0
+   Total programmes: 60
+   Today's programmes: 4
+   ✅ Saved: output-today/abp-ananda.json
    Tomorrow's programmes: 0
 
 ✅ Found: ABP Asmita (from Tata, ID: ts73)
-   Total programmes: 132
-   Today's programmes: 0
+   Total programmes: 89
+   Today's programmes: 43
+   ✅ Saved: output-today/abp-asmita.json
    Tomorrow's programmes: 0
 
 ✅ Found: ABP News (from Tata, ID: ts177)
-   Total programmes: 147
-   Today's programmes: 0
+   Total programmes: 53
+   Today's programmes: 4
+   ✅ Saved: output-today/abp-news.json
    Tomorrow's programmes: 0
 
 ✅ Found: ALL Time MOVIES (from Tata, ID: ts1321)
-   Total programmes: 24
+   Total programmes: 7
    Today's programmes: 1
    ✅ Saved: output-today/all-time-movies.json
    Tomorrow's programmes: 0
 
 ✅ Found: Argus News (from Jio, ID: 1481)
-   Total programmes: 72
+   Total programmes: 48
    Today's programmes: 24
    ✅ Saved: output-today/argus-news.json
    Tomorrow's programmes: 24
    ✅ Saved: output-tomorrow/argus-news.json
 
 ✅ Found: B4U Bhojpuri (from Jio, ID: 1296)
-   Total programmes: 33
+   Total programmes: 22
    Today's programmes: 11
    ✅ Saved: output-today/b4u-bhojpuri.json
    Tomorrow's programmes: 0
 
-✅ Found: B4U Movies (from Jio, ID: 182)
-   Total programmes: 8
+✅ Found: B4U Movies (from Tata, ID: ts7)
+   Total programmes: 10
    Today's programmes: 8
    ✅ Saved: output-today/b4u-movies.json
    Tomorrow's programmes: 0
 
 ✅ Found: BBC News (from Tata, ID: ts188)
-   Total programmes: 120
+   Total programmes: 61
    Today's programmes: 0
    Tomorrow's programmes: 0
 
 ✅ Found: Big Magic (from Tata, ID: ts297)
    Total programmes: 29
-   Today's programmes: 1
+   Today's programmes: 29
    ✅ Saved: output-today/big-magic.json
    Tomorrow's programmes: 0
 
 ✅ Found: Cartoon Network (from Tata, ID: ts238)
-   Total programmes: 93
-   Today's programmes: 1
+   Total programmes: 65
+   Today's programmes: 31
    ✅ Saved: output-today/cartoon-network.json
-   Tomorrow's programmes: 0
+   Tomorrow's programmes: 35
+   ✅ Saved: output-tomorrow/cartoon-network.json
 
 ✅ Found: Colors SD (from Jio, ID: 1368)
-   Total programmes: 75
+   Total programmes: 38
    Today's programmes: 22
    ✅ Saved: output-today/colors.json
-   Tomorrow's programmes: 19
+   Tomorrow's programmes: 16
    ✅ Saved: output-tomorrow/colors.json
 
 ✅ Found: Colors Bangla SD (from Jio, ID: 1369)
-   Total programmes: 67
+   Total programmes: 44
    Today's programmes: 22
    ✅ Saved: output-today/colors-bangla.json
    Tomorrow's programmes: 22
    ✅ Saved: output-tomorrow/colors-bangla.json
 
-✅ Found: Colors Gujarati Cinema (from Jio, ID: 1324)
-   Total programmes: 30
-   Today's programmes: 10
-   ✅ Saved: output-today/colors-gujarati.json
-   Tomorrow's programmes: 10
-   ✅ Saved: output-tomorrow/colors-gujarati.json
-
-✅ Found: DD Bangla (from Jio, ID: 690)
-   Total programmes: 81
-   Today's programmes: 40
-   ✅ Saved: output-today/dd-bangla.json
+✅ Found: Colors Gujarati (from Tata, ID: ts107)
+   Total programmes: 0
+   Today's programmes: 0
    Tomorrow's programmes: 0
+❌ Channel not found: dd-bangla.json
 
 ✅ Found: DD Punjabi (from Tata, ID: ts335)
-   Total programmes: 152
-   Today's programmes: 0
+   Total programmes: 48
+   Today's programmes: 3
+   ✅ Saved: output-today/dd-punjabi.json
    Tomorrow's programmes: 0
 
 ✅ Found: Discovery Kids (from Tata, ID: ts119)
-   Total programmes: 285
-   Today's programmes: 1
+   Total programmes: 9
+   Today's programmes: 9
    ✅ Saved: output-today/discovery-kids.json
    Tomorrow's programmes: 0
 
 ✅ Found: ETV Plus HD (from Tata, ID: ts1342)
-   Total programmes: 23
-   Today's programmes: 0
+   Total programmes: 9
+   Today's programmes: 9
+   ✅ Saved: output-today/etv-plus.json
    Tomorrow's programmes: 0
 
-✅ Found: M+ (from Tata, ID: ts1634)
+✅ Found: Jalsha Movies HD (from Tata, ID: ts537)
    Total programmes: 0
    Today's programmes: 0
    Tomorrow's programmes: 0
 
 ✅ Found: Kolkata TV (from Jio, ID: 1264)
-   Total programmes: 144
+   Total programmes: 96
    Today's programmes: 48
    ✅ Saved: output-today/kolkata-tv.json
    Tomorrow's programmes: 48
    ✅ Saved: output-tomorrow/kolkata-tv.json
 
 ✅ Found: NTV (from Tata, ID: ts1386)
-   Total programmes: 48
-   Today's programmes: 0
+   Total programmes: 2
+   Today's programmes: 2
+   ✅ Saved: output-today/ntv.json
    Tomorrow's programmes: 0
 
 ✅ Found: RT TV (from Jio, ID: 1338)
-   Total programmes: 24
+   Total programmes: 16
    Today's programmes: 8
    ✅ Saved: output-today/russia-today.json
    Tomorrow's programmes: 8
    ✅ Saved: output-tomorrow/russia-today.json
 
 ✅ Found: Set SD (from Jio, ID: 1396)
-   Total programmes: 78
-   Today's programmes: 27
-   ✅ Saved: output-today/sony.json
-   Tomorrow's programmes: 25
-   ✅ Saved: output-tomorrow/sony.json
-
-✅ Found: Sony aath (from Jio, ID: 697)
-   Total programmes: 31
-   Today's programmes: 31
-   ✅ Saved: output-today/sony-aath.json
-   Tomorrow's programmes: 0
-
-✅ Found: Sony SAB HD (from Jio, ID: 471)
-   Total programmes: 48
-   Today's programmes: 48
-   ✅ Saved: output-today/sony-sab.json
-   Tomorrow's programmes: 0
-
-✅ Found: Sony Ten 1 (from Jio, ID: 514)
    Total programmes: 49
-   Today's programmes: 25
-   ✅ Saved: output-today/sony-sports-ten1.json
-   Tomorrow's programmes: 0
+   Today's programmes: 26
+   ✅ Saved: output-today/sony.json
+   Tomorrow's programmes: 23
+   ✅ Saved: output-tomorrow/sony.json
+❌ Channel not found: sony-aath.json
+❌ Channel not found: sony-sab-hd.json
+❌ Channel not found: sony-ten-1.json
 
-✅ Found: R Bharat (from Tata, ID: ts696)
-   Total programmes: 144
+✅ Found: Star Bharat HD (from Tata, ID: ts244)
+   Total programmes: 0
    Today's programmes: 0
    Tomorrow's programmes: 0
 
-✅ Found: R Plus (from Jio, ID: 950)
-   Total programmes: 176
-   Today's programmes: 48
-   ✅ Saved: output-today/star-plus.json
-   Tomorrow's programmes: 80
-   ✅ Saved: output-tomorrow/star-plus.json
+✅ Found: STAR Plus HD (from Tata, ID: ts8)
+   Total programmes: 0
+   Today's programmes: 0
+   Tomorrow's programmes: 0
 
 ✅ Found: TLC HD (from Tata, ID: ts480)
-   Total programmes: 59
-   Today's programmes: 0
+   Total programmes: 28
+   Today's programmes: 28
+   ✅ Saved: output-today/tlc.json
    Tomorrow's programmes: 0
 
 ✅ Found: TV9 Bangla (from Jio, ID: 1735)
-   Total programmes: 126
+   Total programmes: 84
    Today's programmes: 42
    ✅ Saved: output-today/tv9-bangla.json
    Tomorrow's programmes: 42
    ✅ Saved: output-tomorrow/tv9-bangla.json
 
 ✅ Found: TV9 Gujarati (from Tata, ID: ts489)
-   Total programmes: 120
-   Today's programmes: 0
+   Total programmes: 44
+   Today's programmes: 4
+   ✅ Saved: output-today/tv9-gujarati.json
    Tomorrow's programmes: 0
 
 ✅ Found: WION (from Tata, ID: ts255)
-   Total programmes: 96
+   Total programmes: 48
    Today's programmes: 0
    Tomorrow's programmes: 0
 
 ✅ Found: Zee 24 Ghanta (from Tata, ID: ts258)
    Total programmes: 96
-   Today's programmes: 0
+   Today's programmes: 48
+   ✅ Saved: output-today/zee-24-ghanta.json
    Tomorrow's programmes: 0
 
-✅ Found: Zee 24 Kalak (from Jio, ID: 929)
+✅ Found: Zee 24 Kalak (from Tata, ID: ts507)
    Total programmes: 144
    Today's programmes: 48
    ✅ Saved: output-today/zee-24-kalak.json
@@ -313,13 +297,15 @@
    ✅ Saved: output-tomorrow/zee-24-kalak.json
 
 ✅ Found: Zee Bangla HD (from Tata, ID: ts522)
-   Total programmes: 121
-   Today's programmes: 0
+   Total programmes: 86
+   Today's programmes: 43
+   ✅ Saved: output-today/zee-bangla.json
    Tomorrow's programmes: 0
 
 ✅ Found: Zee TV (from Tata, ID: ts557)
-   Total programmes: 43
-   Today's programmes: 0
+   Total programmes: 42
+   Today's programmes: 42
+   ✅ Saved: output-today/zee-tv.json
    Tomorrow's programmes: 0
 ❌ Channel not found: prive-hd.json
 
@@ -328,99 +314,91 @@
    Today's programmes: 0
    Tomorrow's programmes: 0
 ❌ Channel not found: and-flix-hd.json
-❌ Channel not found: star-jalsha.json
+
+✅ Found: Star Jalsha HD (from Tata, ID: ts468)
+   Total programmes: 0
+   Today's programmes: 0
+   Tomorrow's programmes: 0
 ❌ Channel not found: star-kiran.json
 
 ✅ Found: Big TV (from Jio, ID: 2783)
-   Total programmes: 119
-   Today's programmes: 39
+   Total programmes: 78
+   Today's programmes: 40
    ✅ Saved: output-today/big-tv.json
-   Tomorrow's programmes: 40
+   Tomorrow's programmes: 38
    ✅ Saved: output-tomorrow/big-tv.json
 
 ✅ Found: Colors Bangla Cinema (from Jio, ID: 1657)
-   Total programmes: 30
+   Total programmes: 20
    Today's programmes: 10
    ✅ Saved: output-today/colors-bangla-cinema.json
    Tomorrow's programmes: 10
    ✅ Saved: output-tomorrow/colors-bangla-cinema.json
 
-✅ Found: Colors Cineplex HD (from Jio, ID: 1477)
-   Total programmes: 38
-   Today's programmes: 12
-   ✅ Saved: output-today/colors-cineplex.json
-   Tomorrow's programmes: 12
-   ✅ Saved: output-tomorrow/colors-cineplex.json
-
-✅ Found: Colors Gujarati Cinema (from Jio, ID: 1324)
-   Total programmes: 30
-   Today's programmes: 10
-   ✅ Saved: output-today/colors-gujarati-cinema.json
-   Tomorrow's programmes: 10
-   ✅ Saved: output-tomorrow/colors-gujarati-cinema.json
-
-✅ Found: Dabangg (from Tata, ID: ts1506)
+✅ Found: Colors Cineplex (from Tata, ID: ts53)
    Total programmes: 0
    Today's programmes: 0
    Tomorrow's programmes: 0
 
+✅ Found: Colors Gujarati Cinema (from Jio, ID: 1324)
+   Total programmes: 21
+   Today's programmes: 10
+   ✅ Saved: output-today/colors-gujarati-cinema.json
+   Tomorrow's programmes: 11
+   ✅ Saved: output-tomorrow/colors-gujarati-cinema.json
+❌ Channel not found: dabangg.json
+
 ✅ Found: KM News (from Tata, ID: ts1789)
-   Total programmes: 48
-   Today's programmes: 0
+   Total programmes: 2
+   Today's programmes: 2
+   ✅ Saved: output-today/km-news.json
    Tomorrow's programmes: 0
 
 ✅ Found: National Tv India (from Jio, ID: 3105)
-   Total programmes: 120
+   Total programmes: 80
    Today's programmes: 40
    ✅ Saved: output-today/national-tv-india.json
    Tomorrow's programmes: 40
    ✅ Saved: output-tomorrow/national-tv-india.json
 
 ✅ Found: Colors Marathi SD (from Jio, ID: 1326)
-   Total programmes: 142
-   Today's programmes: 48
+   Total programmes: 94
+   Today's programmes: 46
    ✅ Saved: output-today/colors-marathi-sd.json
-   Tomorrow's programmes: 46
+   Tomorrow's programmes: 48
    ✅ Saved: output-tomorrow/colors-marathi-sd.json
 
 ✅ Found: Colors Kannada Cinema (from Jio, ID: 1632)
-   Total programmes: 30
+   Total programmes: 20
    Today's programmes: 10
    ✅ Saved: output-today/colors-kannada-cinema.json
    Tomorrow's programmes: 10
    ✅ Saved: output-tomorrow/colors-kannada-cinema.json
 
 ✅ Found: Colors Infinity SD (from Jio, ID: 1325)
-   Total programmes: 80
+   Total programmes: 53
    Today's programmes: 27
    ✅ Saved: output-today/colors-infinity-sd.json
-   Tomorrow's programmes: 27
+   Tomorrow's programmes: 26
    ✅ Saved: output-tomorrow/colors-infinity-sd.json
 
 ✅ Found: BRAVE TV (from Jio, ID: 2766)
-   Total programmes: 36
+   Total programmes: 24
    Today's programmes: 12
    ✅ Saved: output-today/brave-tv.json
    Tomorrow's programmes: 0
 
 ✅ Found: B4U Music (from Tata, ID: ts9)
-   Total programmes: 40
+   Total programmes: 1
+   Today's programmes: 1
+   ✅ Saved: output-today/b4u-music.json
+   Tomorrow's programmes: 0
+❌ Channel not found: surya-hd.json
+
+✅ Found: Sun TV HD (from Tata, ID: ts521)
+   Total programmes: 33
    Today's programmes: 0
    Tomorrow's programmes: 0
-
-✅ Found: Surya HD (from Jio, ID: 900)
-   Total programmes: 74
-   Today's programmes: 37
-   ✅ Saved: output-today/surya-tv.json
-   Tomorrow's programmes: 37
-   ✅ Saved: output-tomorrow/surya-tv.json
-
-✅ Found: Sun TV HD (from Jio, ID: 896)
-   Total programmes: 66
-   Today's programmes: 33
-   ✅ Saved: output-today/sun-tv-hd.json
-   Tomorrow's programmes: 33
-   ✅ Saved: output-tomorrow/sun-tv-hd.json
 
 ✅ Found: M+ (from Tata, ID: ts1634)
    Total programmes: 0
@@ -428,69 +406,73 @@
    Tomorrow's programmes: 0
 
 ✅ Found: Pogo (from Tata, ID: ts239)
-   Total programmes: 94
-   Today's programmes: 0
-   Tomorrow's programmes: 0
+   Total programmes: 69
+   Today's programmes: 23
+   ✅ Saved: output-today/pogo.json
+   Tomorrow's programmes: 46
+   ✅ Saved: output-tomorrow/pogo.json
 
 ✅ Found: Zee News (from Tata, ID: ts259)
-   Total programmes: 144
-   Today's programmes: 0
-   Tomorrow's programmes: 0
+   Total programmes: 145
+   Today's programmes: 48
+   ✅ Saved: output-today/zee-news.json
+   Tomorrow's programmes: 49
+   ✅ Saved: output-tomorrow/zee-news.json
 
 ✅ Found: Dangal (from Tata, ID: ts51)
-   Total programmes: 26
-   Today's programmes: 1
+   Total programmes: 11
+   Today's programmes: 11
    ✅ Saved: output-today/dangal.json
-   Tomorrow's programmes: 0
+   Tomorrow's programmes: 1
+   ✅ Saved: output-tomorrow/dangal.json
 ❌ Channel not found: zee-up-uk.json
 
 ✅ Found: Zoom (from Tata, ID: ts96)
-   Total programmes: 28
-   Today's programmes: 0
+   Total programmes: 1
+   Today's programmes: 1
+   ✅ Saved: output-today/zoom.json
    Tomorrow's programmes: 0
 
-✅ Found: &TV (from Tata, ID: ts578)
-   Total programmes: 31
-   Today's programmes: 1
-   ✅ Saved: output-today/cnbc-tv18.json
+✅ Found: CNBC TV18 (from Tata, ID: ts168)
+   Total programmes: 0
+   Today's programmes: 0
    Tomorrow's programmes: 0
 
 ✅ Found: ET NOW (from Tata, ID: ts88)
-   Total programmes: 13
+   Total programmes: 2
+   Today's programmes: 1
+   ✅ Saved: output-today/et-now.json
+   Tomorrow's programmes: 0
+
+✅ Found: Mirror Now (from Tata, ID: ts591)
+   Total programmes: 31
    Today's programmes: 0
    Tomorrow's programmes: 0
 
-✅ Found: Mirror Now (from Jio, ID: 491)
-   Total programmes: 65
-   Today's programmes: 31
-   ✅ Saved: output-today/mirror-now.json
-   Tomorrow's programmes: 0
-
 ✅ Found: INDIA TODAY (from Tata, ID: ts1)
-   Total programmes: 16
+   Total programmes: 8
    Today's programmes: 0
    Tomorrow's programmes: 0
 
 ✅ Found: REPUBLIC TV (from Tata, ID: ts72)
-   Total programmes: 92
+   Total programmes: 46
    Today's programmes: 0
    Tomorrow's programmes: 0
 
 ✅ Found: DD India (from Tata, ID: ts324)
-   Total programmes: 80
+   Total programmes: 33
    Today's programmes: 0
    Tomorrow's programmes: 0
 
-✅ Found: GOOD TiMES (from Jio, ID: 560)
-   Total programmes: 39
-   Today's programmes: 39
+✅ Found: GOOD TiMES (from Tata, ID: ts136)
+   Total programmes: 28
+   Today's programmes: 28
    ✅ Saved: output-today/good-times.json
    Tomorrow's programmes: 0
 
-✅ Found: Sathiyam TV (from Jio, ID: 671)
-   Total programmes: 43
-   Today's programmes: 43
-   ✅ Saved: output-today/mtv.json
+✅ Found: MTV (from Tata, ID: ts103)
+   Total programmes: 0
+   Today's programmes: 0
    Tomorrow's programmes: 0
 
 ✅ Found: M+ (from Tata, ID: ts1634)
@@ -498,38 +480,30 @@
    Today's programmes: 0
    Tomorrow's programmes: 0
 
-✅ Found: Food Food (from Jio, ID: 561)
-   Total programmes: 64
-   Today's programmes: 64
+✅ Found: Food Food (from Tata, ID: ts117)
+   Total programmes: 6
+   Today's programmes: 6
    ✅ Saved: output-today/food-food.json
    Tomorrow's programmes: 0
 
 ✅ Found: &TV (from Tata, ID: ts578)
-   Total programmes: 31
-   Today's programmes: 1
+   Total programmes: 28
+   Today's programmes: 28
    ✅ Saved: output-today/history-tv18-hd.json
    Tomorrow's programmes: 0
+❌ Channel not found: star-plus-sd.json
 
-✅ Found: R Plus (from Jio, ID: 950)
-   Total programmes: 176
-   Today's programmes: 48
-   ✅ Saved: output-today/star-plus.json
-   Tomorrow's programmes: 80
-   ✅ Saved: output-tomorrow/star-plus.json
-
-✅ Found: R Plus (from Jio, ID: 950)
-   Total programmes: 176
-   Today's programmes: 48
-   ✅ Saved: output-today/star-plus.json
-   Tomorrow's programmes: 80
-   ✅ Saved: output-tomorrow/star-plus.json
+✅ Found: STAR Plus HD (from Tata, ID: ts8)
+   Total programmes: 0
+   Today's programmes: 0
+   Tomorrow's programmes: 0
 
 ================================================================================
 
 📊 Final Summary:
    Total Processed: 78 channels
-   ✅ Saved Today: 41
-   ✅ Saved Tomorrow: 22
-   ❌ Skipped: 37
+   ✅ Saved Today: 45
+   ✅ Saved Tomorrow: 20
+   ❌ Skipped: 33
 
-🕒 Script completed at: 2025-12-03 20:46:18 UTC
+🕒 Script completed at: 2025-12-04 20:45:14 UTC

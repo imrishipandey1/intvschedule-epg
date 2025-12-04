@@ -1,0 +1,13 @@
+{
+  "channel_name": "Dangal",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-158-j5frd560-v2/imageContent-158-j5frd560-m3.png",
+  "date": "2025-12-06",
+  "programs": [
+    {
+      "show_name": "Mann Atisundar",
+      "start_time": "11:30 PM",
+      "end_time": "12:01 AM",
+      "show_logo": ""
+    }
+  ]
+}
