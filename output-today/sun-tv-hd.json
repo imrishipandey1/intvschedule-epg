@@ -1,0 +1,193 @@
+{
+  "channel_name": "Sun TV HD",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",
+  "date": "2025-12-06",
+  "programs": [
+    {
+      "show_name": "Nagaichuvai Gallatta",
+      "start_time": "12:00 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896000.jpg"
+    },
+    {
+      "show_name": "Thirai Thendral",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896001.jpg"
+    },
+    {
+      "show_name": "Sugamana Ragangal",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896002.jpg"
+    },
+    {
+      "show_name": "Bhakthi Padalgal",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896003.jpg"
+    },
+    {
+      "show_name": "Aalaya Vazhipadu",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896004.jpg"
+    },
+    {
+      "show_name": "Aanmeega Kadhaigal",
+      "start_time": "06:30 AM",
+      "end_time": "06:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896005.jpg"
+    },
+    {
+      "show_name": "Nalla Kaalam Pirakuthu",
+      "start_time": "06:45 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896006.jpg"
+    },
+    {
+      "show_name": "News",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896007.jpg"
+    },
+    {
+      "show_name": "Vanakkam Thamizha",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896008.jpg"
+    },
+    {
+      "show_name": "Ethirneechal Thodargiradhu",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896009.jpg"
+    },
+    {
+      "show_name": "Singapenne",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896010.jpg"
+    },
+    {
+      "show_name": "Nandhini",
+      "start_time": "10:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896011.jpg"
+    },
+    {
+      "show_name": "Poongodi",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896012.jpg"
+    },
+    {
+      "show_name": "Punitha",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896013.jpg"
+    },
+    {
+      "show_name": "Manamagale Vaa",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896014.jpg"
+    },
+    {
+      "show_name": "Vinodhini",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896015.jpg"
+    },
+    {
+      "show_name": "Puthu Vasantham",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896016.jpg"
+    },
+    {
+      "show_name": "Top Cooku Dupe Cooku",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896017.jpg"
+    },
+    {
+      "show_name": "Anandha Ragam",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896018.jpg"
+    },
+    {
+      "show_name": "Sundara Pandian",
+      "start_time": "03:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896019.jpg"
+    },
+    {
+      "show_name": "News",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896020.jpg"
+    },
+    {
+      "show_name": "Anuman",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896021.jpg"
+    },
+    {
+      "show_name": "Annam",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896022.jpg"
+    },
+    {
+      "show_name": "Kayal",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896023.jpg"
+    },
+    {
+      "show_name": "Marumagal",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896024.jpg"
+    },
+    {
+      "show_name": "Moondru Mudichu",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896025.jpg"
+    },
+    {
+      "show_name": "Singapenne",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896026.jpg"
+    },
+    {
+      "show_name": "Ethirneechal Thodargiradhu",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896027.jpg"
+    },
+    {
+      "show_name": "Aadukalam",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896028.jpg"
+    },
+    {
+      "show_name": "Malli",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896029.jpg"
+    },
+    {
+      "show_name": "Top Cooku Dupe Cooku",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206896030.jpg"
+    }
+  ]
+}

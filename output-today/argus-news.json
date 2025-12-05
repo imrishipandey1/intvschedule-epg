@@ -1,151 +1,151 @@
 {
   "channel_name": "Argus News",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png",
-  "date": "2025-12-05",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62573-kop7duow-v6/imageContent-62573-kop7duow-m9.png",
+  "date": "2025-12-06",
   "programs": [
     {
-      "show_name": "Argus News",
+      "show_name": "Prime Odisha",
       "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Rokhthok",
+      "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481000.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
+      "show_name": "Desh Bidesh",
       "start_time": "01:00 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481001.jpg"
+      "end_time": "01:30 AM",
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
-      "start_time": "02:00 AM",
+      "show_name": "Dinara Bada Khabar",
+      "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481002.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
+      "show_name": "Desh Bidesh",
       "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Prasnakala",
+      "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481003.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
-      "start_time": "04:00 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481004.jpg"
-    },
-    {
-      "show_name": "Argus News",
-      "start_time": "05:00 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481005.jpg"
-    },
-    {
-      "show_name": "Argus News",
-      "start_time": "06:00 AM",
+      "show_name": "Prabhu Pada Tale",
+      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481006.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
+      "show_name": "Prtham Khabar",
       "start_time": "07:00 AM",
-      "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481007.jpg"
+      "end_time": "07:30 AM",
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
-      "start_time": "08:00 AM",
-      "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481008.jpg"
-    },
-    {
-      "show_name": "Argus News",
+      "show_name": "Sakalara Bada Khabar",
       "start_time": "09:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481009.jpg"
+      "end_time": "09:25 AM",
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
-      "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481010.jpg"
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "09:25 AM",
+      "end_time": "09:30 AM",
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
-      "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481011.jpg"
-    },
-    {
-      "show_name": "Argus News",
-      "start_time": "12:00 PM",
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "12:55 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481012.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
-      "start_time": "01:00 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481013.jpg"
-    },
-    {
-      "show_name": "Argus News",
+      "show_name": "Argus Update",
       "start_time": "02:00 PM",
+      "end_time": "02:25 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Political Akhada",
+      "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481014.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
+      "show_name": "Jilla @ 3pm",
       "start_time": "03:00 PM",
+      "end_time": "03:25 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "03:25 PM",
+      "end_time": "03:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Sata Katha",
+      "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481015.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
+      "show_name": "Bad Ka Khabar",
       "start_time": "04:00 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481016.jpg"
+      "end_time": "04:25 PM",
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
-      "start_time": "05:00 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481017.jpg"
-    },
-    {
-      "show_name": "Argus News",
-      "start_time": "06:00 PM",
+      "show_name": "Ajira Bitarka",
+      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481018.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
+      "show_name": "Prime Odisha @ 7PM",
       "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Amna- Samna",
+      "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481019.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
-      "start_time": "08:00 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481020.jpg"
-    },
-    {
-      "show_name": "Argus News",
+      "show_name": "Desh Bidesh",
       "start_time": "09:00 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481021.jpg"
+      "end_time": "09:30 PM",
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
+      "show_name": "Sara Dina",
       "start_time": "10:00 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481022.jpg"
+      "end_time": "10:25 PM",
+      "show_logo": ""
     },
     {
-      "show_name": "Argus News",
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "10:25 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Dinara Bada Khabar",
       "start_time": "11:00 PM",
-      "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-05/2512051481023.jpg"
+      "end_time": "11:30 PM",
+      "show_logo": ""
     }
   ]
 }

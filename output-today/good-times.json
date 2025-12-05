@@ -1,175 +1,229 @@
 {
   "channel_name": "GOOD TiMES",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png",
-  "date": "2025-12-05",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png",
+  "date": "2025-12-06",
   "programs": [
     {
       "show_name": "Break Free Midnight Escape",
       "start_time": "12:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560000.jpg"
     },
     {
       "show_name": "Kingfisher Supermodels 2",
       "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560001.jpg"
     },
     {
       "show_name": "Love Bites with Joey",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560002.jpg"
+    },
+    {
+      "show_name": "Vicky Goes Desi",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560003.jpg"
     },
     {
       "show_name": "Highway on My Plate",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560004.jpg"
     },
     {
-      "show_name": "Bachelor's Kitchen",
+      "show_name": "Vicky Goes Veg",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560005.jpg"
     },
     {
       "show_name": "Ten Things To Do Around The World",
       "start_time": "05:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560006.jpg"
+    },
+    {
+      "show_name": "Get Fit With Rocky and Mayur",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560007.jpg"
     },
     {
       "show_name": "Yogasutra",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560008.jpg"
     },
     {
       "show_name": "Lock Stock And Two Smoking Tikkas",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560009.jpg"
+    },
+    {
+      "show_name": "Love Bites with Joey",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560010.jpg"
     },
     {
       "show_name": "Highway on My Plate",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560011.jpg"
     },
     {
-      "show_name": "Travelling Diva",
+      "show_name": "Luxe Interiors",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560012.jpg"
+    },
+    {
+      "show_name": "Chakh Le India-Kacha Rasta",
       "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Bachelor's Kitchen",
-      "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560013.jpg"
     },
     {
       "show_name": "Yogacity",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560014.jpg"
     },
     {
       "show_name": "Yogasutra",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560015.jpg"
     },
     {
       "show_name": "Highway on My Plate",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560016.jpg"
     },
     {
       "show_name": "Chakh Le India-Kacha Rasta",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560017.jpg"
     },
     {
-      "show_name": "Lock Stock And Two Smoking Tikkas",
-      "start_time": "01:00 PM",
-      "end_time": "01:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Love Bites with Joey",
-      "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Bachelor's Kitchen",
-      "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": ""
+      "show_name": "Yarri Dostii Shaadi",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560018.jpg"
     },
     {
       "show_name": "Vicky Goes Desi",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560019.jpg"
+    },
+    {
+      "show_name": "Dubai Diaries",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560020.jpg"
+    },
+    {
+      "show_name": "Vicky Goes Veg",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560021.jpg"
     },
     {
-      "show_name": "Lock Stock And Two Smoking Tikkas",
+      "show_name": "Mccain Star Chef",
       "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "My Yellow Table",
-      "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560022.jpg"
     },
     {
-      "show_name": "Highway on My Plate",
+      "show_name": "No Big Deal",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560023.jpg"
     },
     {
       "show_name": "Luxe Interiors",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560024.jpg"
+    },
+    {
+      "show_name": "Get The Look X Mac #Beshaadiready",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560025.jpg"
     },
     {
       "show_name": "Bachelor's Kitchen",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560026.jpg"
     },
     {
-      "show_name": "Highway on My Plate",
+      "show_name": "Band Baajaa Bride",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560027.jpg"
+    },
+    {
+      "show_name": "Luxe Interiors",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560028.jpg"
+    },
+    {
+      "show_name": "Bachelor's Kitchen",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560029.jpg"
+    },
+    {
+      "show_name": "Mccain Star Chef",
+      "start_time": "08:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560030.jpg"
+    },
+    {
+      "show_name": "Get The Look X Mac #Beshaadiready",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560031.jpg"
     },
     {
       "show_name": "Chakh Le India",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560032.jpg"
     },
     {
       "show_name": "Making of the Kingfisher Calendar 2021",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560033.jpg"
     },
     {
       "show_name": "Life's a Beach",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": ""
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560034.jpg"
+    },
+    {
+      "show_name": "Making Of The Kingfisher Calender 2019",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560035.jpg"
+    },
+    {
+      "show_name": "Life's a Beach",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/251206560036.jpg"
     }
   ]
 }

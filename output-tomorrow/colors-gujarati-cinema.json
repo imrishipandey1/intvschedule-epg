@@ -1,73 +1,73 @@
 {
   "channel_name": "Colors Gujarati Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
-  "date": "2025-12-06",
+  "date": "2025-12-07",
   "programs": [
     {
-      "show_name": "Narmada Tara Vahi Jata Paani",
+      "show_name": "Sant Tulsidas",
       "start_time": "12:00 AM",
-      "end_time": "12:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324000.jpg"
+      "end_time": "12:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324000.jpg"
     },
     {
-      "show_name": "Sejal Sumaro",
-      "start_time": "12:35 AM",
-      "end_time": "02:25 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324001.jpg"
+      "show_name": "Sneh Na Sagpan",
+      "start_time": "12:15 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324001.jpg"
     },
     {
       "show_name": "Deshi Beats",
-      "start_time": "02:25 AM",
-      "end_time": "05:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324002.jpg"
+      "start_time": "02:30 AM",
+      "end_time": "05:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324002.jpg"
     },
     {
-      "show_name": "Kul Deepave Dikri",
-      "start_time": "05:45 AM",
+      "show_name": "Rasiyobalam",
+      "start_time": "05:25 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324003.jpg"
     },
     {
       "show_name": "Deshi Beats",
       "start_time": "08:00 AM",
-      "end_time": "09:55 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324004.jpg"
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324004.jpg"
     },
     {
-      "show_name": "Raj Kunwar",
-      "start_time": "09:55 AM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324005.jpg"
+      "show_name": "Maa Khodal Taro Khamkaro",
+      "start_time": "09:30 AM",
+      "end_time": "12:25 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324005.jpg"
     },
     {
-      "show_name": "Halo Aapna Malak Maa",
-      "start_time": "12:30 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324006.jpg"
+      "show_name": "Lohi Bhini Chundadi",
+      "start_time": "12:25 PM",
+      "end_time": "03:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324006.jpg"
     },
     {
-      "show_name": "Ranuja Na Raja Ramdev",
-      "start_time": "03:30 PM",
+      "show_name": "Khedut Ek Rakshak",
+      "start_time": "03:10 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324007.jpg"
     },
     {
-      "show_name": "Gujarat Gatha",
+      "show_name": "Yash Gatha Gujarat Ni",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324008.jpg"
     },
     {
-      "show_name": "Goral Garaasani",
+      "show_name": "Ittaa Kittaa",
       "start_time": "07:00 PM",
-      "end_time": "09:35 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324009.jpg"
+      "end_time": "09:25 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324009.jpg"
     },
     {
-      "show_name": "Sant Tulsidas",
-      "start_time": "09:35 PM",
+      "show_name": "Kachi Mati Na Kodiya",
+      "start_time": "09:25 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061324010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071324010.jpg"
     }
   ]
 }

@@ -1,66 +1,12 @@
 {
   "channel_name": "Big Magic",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/BigMagic_Thumbnail_93c73886-2047-4afd-8bda-c8a7f694f30c.png",
-  "date": "2025-12-05",
+  "date": "2025-12-06",
   "programs": [
     {
       "show_name": "Guddan Tumse Na Ho Payega",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Guddan Tumse Na Ho Payega",
-      "start_time": "01:00 AM",
-      "end_time": "02:07 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Zindagi Ki Mehek",
-      "start_time": "02:07 AM",
-      "end_time": "03:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Zindagi Ki Mehek",
-      "start_time": "03:00 AM",
-      "end_time": "04:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Zindagi Ki Mehek",
-      "start_time": "04:00 AM",
-      "end_time": "05:05 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Paramavatar Shri Krishna",
-      "start_time": "05:05 AM",
-      "end_time": "06:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
-      "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
-      "start_time": "06:30 AM",
-      "end_time": "07:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
-      "start_time": "07:00 AM",
-      "end_time": "07:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Teleshopping",
-      "start_time": "07:30 AM",
-      "end_time": "08:00 AM",
       "show_logo": ""
     },
     {
@@ -70,63 +16,9 @@
       "show_logo": ""
     },
     {
-      "show_name": "Ramayana",
-      "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Ramayana",
-      "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Baal Shiv",
-      "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Baal Shiv",
-      "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Dance India Dance",
-      "start_time": "12:00 PM",
-      "end_time": "01:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Dance India Dance Supermoms",
-      "start_time": "01:00 PM",
-      "end_time": "02:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Guddan Tumse Na Ho Payega",
-      "start_time": "02:00 PM",
-      "end_time": "03:00 PM",
-      "show_logo": ""
-    },
-    {
       "show_name": "Guddan Tumse Na Ho Payega",
       "start_time": "03:00 PM",
       "end_time": "04:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Guddan Tumse Na Ho Payega",
-      "start_time": "04:00 PM",
-      "end_time": "05:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Zindagi Ki Mehek",
-      "start_time": "05:00 PM",
-      "end_time": "06:00 PM",
       "show_logo": ""
     },
     {
@@ -169,12 +61,6 @@
       "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Guddan Tumse Na Ho Payega",
-      "start_time": "11:00 PM",
-      "end_time": "12:00 AM",
       "show_logo": ""
     }
   ]

@@ -1,11 +1,17 @@
 {
   "channel_name": "TLC HD",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png",
-  "date": "2025-12-05",
+  "date": "2025-12-06",
   "programs": [
     {
-      "show_name": "Say Yes to the Dress America",
+      "show_name": "Say Yes To The Dress: Lancashire",
       "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "You, Me \u0026 My Ex",
+      "start_time": "01:00 AM",
       "end_time": "02:00 AM",
       "show_logo": ""
     },
@@ -16,8 +22,14 @@
       "show_logo": ""
     },
     {
-      "show_name": "Say Yes to the Dress America",
+      "show_name": "Say Yes To The Dress: Lancashire",
       "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "100 Day Dream Home",
+      "start_time": "04:00 AM",
       "end_time": "05:00 AM",
       "show_logo": ""
     },
@@ -34,7 +46,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Say Yes to the Dress America",
+      "show_name": "Chopped Sweets",
       "start_time": "06:00 AM",
       "end_time": "06:46 AM",
       "show_logo": ""
@@ -64,8 +76,14 @@
       "show_logo": ""
     },
     {
-      "show_name": "Restaurant: Impossible",
+      "show_name": "Beat Bobby Flay",
       "start_time": "09:24 AM",
+      "end_time": "09:50 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Beat Bobby Flay",
+      "start_time": "09:50 AM",
       "end_time": "10:16 AM",
       "show_logo": ""
     },
@@ -82,20 +100,14 @@
       "show_logo": ""
     },
     {
-      "show_name": "Say Yes to the Dress America",
+      "show_name": "Chopped Sweets",
       "start_time": "11:34 AM",
       "end_time": "12:29 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Mind for Design",
+      "show_name": "Chopped Sweets",
       "start_time": "12:29 PM",
-      "end_time": "12:56 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Mind for Design",
-      "start_time": "12:56 PM",
       "end_time": "01:24 PM",
       "show_logo": ""
     },
@@ -112,55 +124,61 @@
       "show_logo": ""
     },
     {
-      "show_name": "The Best Thing I Ever Ate",
+      "show_name": "Chopped",
       "start_time": "03:05 PM",
-      "end_time": "03:32 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "The Best Thing I Ever Ate",
-      "start_time": "03:32 PM",
       "end_time": "04:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "100 Day Dream Home",
+      "show_name": "Say Yes to the Dress",
       "start_time": "04:00 PM",
       "end_time": "05:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Hawaii Life",
+      "show_name": "Food Factory",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Island Life",
+      "show_name": "Food Factory",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Say Yes to the Dress America",
+      "show_name": "Say Yes To The Dress: Lancashire",
       "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ridiculous Cakes",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ridiculous Cakes",
+      "start_time": "07:30 PM",
       "end_time": "08:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Design Down Under",
+      "show_name": "Cutthroat Kitchen: Knives Out",
       "start_time": "08:00 PM",
       "end_time": "09:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Say Yes To The Dress: Lancashire",
+      "show_name": "Beat Bobby Flay: Holiday Throwdown",
       "start_time": "09:00 PM",
       "end_time": "10:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "You, Me \u0026 My Ex",
+      "show_name": "100 Day Dream Home",
       "start_time": "10:00 PM",
       "end_time": "11:00 PM",
       "show_logo": ""

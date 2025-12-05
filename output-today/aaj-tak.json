@@ -1,7 +1,7 @@
 {
   "channel_name": "Aaj Tak",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
-  "date": "2025-12-05",
+  "date": "2025-12-06",
   "programs": [
     {
       "show_name": "Non-Stop 100",
@@ -130,25 +130,25 @@
       "show_logo": ""
     },
     {
-      "show_name": "Bhagya Chakra",
+      "show_name": "Non-Stop 100",
       "start_time": "08:50 AM",
       "end_time": "09:05 AM",
       "show_logo": ""
     },
     {
-      "show_name": "9 Baj Gaye",
+      "show_name": "Bhagya Chakra",
       "start_time": "09:05 AM",
       "end_time": "09:25 AM",
       "show_logo": ""
     },
     {
-      "show_name": "100 Shahar 100 Khabar",
+      "show_name": "Bhagya Chakra",
       "start_time": "09:25 AM",
       "end_time": "09:40 AM",
       "show_logo": ""
     },
     {
-      "show_name": "9 Baj Gaye",
+      "show_name": "Bhagya Chakra",
       "start_time": "09:40 AM",
       "end_time": "10:00 AM",
       "show_logo": ""
@@ -160,7 +160,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Aaj Subah",
+      "show_name": "News",
       "start_time": "10:10 AM",
       "end_time": "10:30 AM",
       "show_logo": ""
@@ -178,67 +178,67 @@
       "show_logo": ""
     },
     {
-      "show_name": "Ek Aur Ek Gyarah",
+      "show_name": "News",
       "start_time": "11:10 AM",
       "end_time": "11:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Top 25",
+      "show_name": "News",
       "start_time": "11:30 AM",
       "end_time": "11:35 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Ek Aur Ek Gyarah",
+      "show_name": "News",
       "start_time": "11:35 AM",
       "end_time": "12:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "10 Minute 50 Khabar",
+      "show_name": "Special Programme",
       "start_time": "12:00 PM",
       "end_time": "12:10 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Breaking News",
+      "show_name": "Special Programme",
       "start_time": "12:10 PM",
       "end_time": "12:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Breaking News",
+      "show_name": "News",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Non-Stop 100",
+      "show_name": "News",
       "start_time": "01:00 PM",
       "end_time": "01:10 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Lunch Break",
+      "show_name": "News",
       "start_time": "01:10 PM",
       "end_time": "02:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Newsroom",
+      "show_name": "News",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Newsroom",
+      "show_name": "News",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Mera Gaon Mera Desh",
+      "show_name": "News",
       "start_time": "03:00 PM",
       "end_time": "03:15 PM",
       "show_logo": ""
@@ -250,19 +250,19 @@
       "show_logo": ""
     },
     {
-      "show_name": "Khabar Asardar",
+      "show_name": "News",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Ranbhoomi",
+      "show_name": "News",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Ranbhoomi",
+      "show_name": "News",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
       "show_logo": ""
@@ -298,19 +298,19 @@
       "show_logo": ""
     },
     {
-      "show_name": "Top 25",
+      "show_name": "Bahas Bazigar",
       "start_time": "07:55 PM",
       "end_time": "08:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Khabardar",
+      "show_name": "Bahas Bazigar",
       "start_time": "08:00 PM",
       "end_time": "08:25 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Khabardar",
+      "show_name": "Bahas Bazigar",
       "start_time": "08:25 PM",
       "end_time": "08:55 PM",
       "show_logo": ""
@@ -328,31 +328,31 @@
       "show_logo": ""
     },
     {
-      "show_name": "Dustak",
+      "show_name": "Shwetpatra",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Dustak",
+      "show_name": "Shwetpatra",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Vardaat",
+      "show_name": "Kahaani",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Mumbai Top 25",
+      "show_name": "Kahaani",
       "start_time": "11:30 PM",
       "end_time": "11:35 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Mumbai Metro",
+      "show_name": "Kahaani",
       "start_time": "11:35 PM",
       "end_time": "12:00 AM",
       "show_logo": ""

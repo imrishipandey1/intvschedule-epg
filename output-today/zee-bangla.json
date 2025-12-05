@@ -1,7 +1,7 @@
 {
   "channel_name": "Zee Bangla HD",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaHD_Thumbnail_abd318d8-03d0-44c9-a18d-b34a5d941a48.png",
-  "date": "2025-12-05",
+  "date": "2025-12-06",
   "programs": [
     {
       "show_name": "Mongolmoyee Santoshi Maa",
@@ -130,7 +130,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Joy Baba Lokenath",
+      "show_name": "Chirodini Tumi Je Amar",
       "start_time": "11:30 AM",
       "end_time": "12:30 PM",
       "show_logo": ""
@@ -238,26 +238,14 @@
       "show_logo": ""
     },
     {
-      "show_name": "Kone Dekha Alo",
+      "show_name": "Sa Re Ga Ma Pa 2025",
       "start_time": "09:30 PM",
-      "end_time": "10:15 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Anandi",
-      "start_time": "10:15 PM",
       "end_time": "11:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "Ideabaaz",
       "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Parineeta",
-      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
       "show_logo": ""
     }
