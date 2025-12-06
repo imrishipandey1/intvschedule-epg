@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Bangla Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
-  "date": "2025-12-06",
+  "date": "2025-12-07",
   "programs": [
     {
-      "show_name": "Mon Mane Na",
+      "show_name": "Naga Panchami",
       "start_time": "12:00 AM",
-      "end_time": "12:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061657000.jpg"
+      "end_time": "01:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657000.jpg"
     },
     {
-      "show_name": "Bastu Shaap",
-      "start_time": "12:35 AM",
+      "show_name": "Gorosthaney Sabdhan",
+      "start_time": "01:15 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061657001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657001.jpg"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061657002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657002.jpg"
     },
     {
-      "show_name": "Kaberi Antardhan",
+      "show_name": "Bangshadhar",
       "start_time": "04:00 AM",
-      "end_time": "07:10 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061657003.jpg"
+      "end_time": "07:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657003.jpg"
     },
     {
-      "show_name": "Troyee",
-      "start_time": "07:10 AM",
-      "end_time": "09:25 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061657004.jpg"
+      "show_name": "Sathi Amar",
+      "start_time": "07:15 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657004.jpg"
     },
     {
-      "show_name": "Mastan",
-      "start_time": "09:25 AM",
+      "show_name": "Le Halua Le",
+      "start_time": "10:00 AM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061657005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657005.jpg"
     },
     {
-      "show_name": "Sasur Bari Zindabad",
+      "show_name": "Bandhan",
       "start_time": "01:00 PM",
-      "end_time": "03:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061657006.jpg"
+      "end_time": "03:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657006.jpg"
     },
     {
-      "show_name": "Khiladi",
-      "start_time": "03:55 PM",
+      "show_name": "Pratibad",
+      "start_time": "03:40 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061657007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657007.jpg"
     },
     {
-      "show_name": "Awara",
+      "show_name": "Poran Jaye Jolia Re",
       "start_time": "07:00 PM",
-      "end_time": "10:10 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061657008.jpg"
+      "end_time": "09:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657008.jpg"
     },
     {
-      "show_name": "Naga Panchami",
-      "start_time": "10:10 PM",
+      "show_name": "Premi",
+      "start_time": "09:55 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-06/2512061657009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657009.jpg"
     }
   ]
 }

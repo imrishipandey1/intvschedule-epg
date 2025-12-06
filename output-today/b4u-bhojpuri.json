@@ -1,73 +1,67 @@
 {
   "channel_name": "B4U Bhojpuri",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
-  "date": "2025-12-06",
+  "date": "2025-12-07",
   "programs": [
     {
-      "show_name": "Michael Photographer",
+      "show_name": "Mandir Wahi Banayenge",
       "start_time": "12:00 AM",
-      "end_time": "01:37 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8f23318c8efb63ac552e3a0fadc181de.jpg"
+      "end_time": "01:41 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/721b168569b310d9711f38b245135729.jpg"
     },
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:37 AM",
-      "end_time": "02:36 AM",
+      "start_time": "01:41 AM",
+      "end_time": "02:41 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c09ce4bfca3c0bb6fa709c163eacfce.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:36 AM",
+      "start_time": "02:41 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "05:00 AM",
-      "end_time": "06:59 AM",
+      "end_time": "06:37 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
-      "show_name": "Vaishnavi",
-      "start_time": "06:59 AM",
-      "end_time": "09:34 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/235fe5a778bd955c6314ea0bd341d755.jpg"
-    },
-    {
-      "show_name": "Chorni Saas Ki Jhuthi Bahu",
-      "start_time": "09:34 AM",
-      "end_time": "12:28 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a4923535bef8cf0ab6e7d68943b5ed9a.jpg"
-    },
-    {
-      "show_name": "Bade Ghar Ki Beti",
-      "start_time": "12:28 PM",
-      "end_time": "02:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b0509d2e802c937ec44d9584333226af.jpg"
-    },
-    {
-      "show_name": "Bhauji Hamar Devi Bhaiya Bhagwan",
-      "start_time": "02:55 PM",
-      "end_time": "05:39 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a932fc0cf54816ea04d05dec6ab1dbb6.jpg"
+      "show_name": "Bindu",
+      "start_time": "06:37 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c24cbd4a585ed07dff4ac051a6dc548c.jpg"
     },
     {
       "show_name": "Hum Haien Jethani",
-      "start_time": "05:39 PM",
-      "end_time": "08:14 PM",
+      "start_time": "09:30 AM",
+      "end_time": "12:06 PM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg"
     },
     {
-      "show_name": "Bahu Rani Saas Maharani",
-      "start_time": "08:14 PM",
-      "end_time": "11:12 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/af790916555f8c3dc1c5c9333e6ec682.jpg"
+      "show_name": "Sasural Ka Deewana",
+      "start_time": "12:06 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/889793c2d72c11a17016cf69623c0b64.jpg"
     },
     {
-      "show_name": "Mandir Wahi Banayenge",
-      "start_time": "11:12 PM",
+      "show_name": "Bitiya Damad",
+      "start_time": "03:30 PM",
+      "end_time": "06:25 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4dbe099b61ccebb13379158c254c37ce.jpg"
+    },
+    {
+      "show_name": "Badki Didi 2",
+      "start_time": "06:25 PM",
+      "end_time": "09:02 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6d6931e29f2e25324b6541f3aed770bc.jpg"
+    },
+    {
+      "show_name": "Raja Babu",
+      "start_time": "09:02 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/721b168569b310d9711f38b245135729.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/137df953a8d5c2703bd94f369887765f.jpg"
     }
   ]
 }

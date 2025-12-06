@@ -2,88 +2,88 @@
 EPG PARSER - DETAILED EXECUTION LOG
 =================================================================================
 
-Execution Time: 2025-12-05 20:23:15 UTC
+Execution Time: 2025-12-06 20:20:43 UTC
 
 CHANNEL PROCESSING DETAILS:
 --------------------------------------------------------------------------------
 No.   Channel                        Today      Tomorrow   Status         
 --------------------------------------------------------------------------------
-1     9x-jhakaas.json                0          0          Not Found      
+1     9x-jhakaas.json                48         0          Success        
 2     9x-tashan.json                 48         0          Success        
-3     9xm.json                       0          0          No Programmes  
+3     9xm.json                       49         0          Success        
 4     aaj-tak.json                   59         0          Success        
-5     aakash-aath.json               0          0          Not Found      
+5     aakash-aath.json               25         0          Success        
 6     abp-ananda.json                55         55         Success        
-7     abp-asmita.json                0          0          No Programmes  
+7     abp-asmita.json                48         37         Success        
 8     abp-news.json                  0          0          No Programmes  
 9     all-time-movies.json           0          0          No Programmes  
-10    argus-news.json                24         0          Success        
-11    b4u-bhojpuri.json              11         0          Success        
-12    b4u-movies.json                0          0          No Programmes  
+10    argus-news.json                24         24         Success        
+11    b4u-bhojpuri.json              10         0          Success        
+12    b4u-movies.json                10         9          Success        
 13    bbc-news.json                  0          0          No Programmes  
-14    big-magic.json                 10         0          Success        
-15    cartoon-network.json           35         1          Success        
-16    colors-sd.json                 19         14         Success        
-17    colors-bangla-sd.json          22         22         Success        
-18    colors-gujarati.json           0          0          No Programmes  
-19    dd-bangla.json                 40         37         Success        
-20    dd-punjabi.json                0          0          No Programmes  
-21    discovery-kids.json            0          0          No Programmes  
+14    big-magic.json                 29         0          Success        
+15    cartoon-network.json           34         1          Success        
+16    colors-sd.json                 17         19         Success        
+17    colors-bangla-sd.json          0          22         Success        
+18    colors-gujarati.json           41         0          Success        
+19    dd-bangla.json                 37         42         Success        
+20    dd-punjabi.json                47         51         Success        
+21    discovery-kids.json            89         1          Success        
 22    etv-plus-hd.json               0          0          No Programmes  
 23    jalsha-movies-hd.json          0          0          No Programmes  
-24    kolkata-tv.json                0          0          No Programmes  
-25    ntv.json                       0          0          No Programmes  
-26    rt-tv.json                     8          8          Success        
-27    set-sd.json                    25         23         Success        
-28    sony-aath.json                 0          0          Not Found      
-29    sony-sab-hd.json               0          0          Not Found      
-30    sony-ten-1.json                21         18         Success        
+24    kolkata-tv.json                48         48         Success        
+25    ntv.json                       47         0          Success        
+26    rt-tv.json                     0          8          Success        
+27    set-sd.json                    22         24         Success        
+28    sony-aath.json                 30         31         Success        
+29    sony-sab-hd.json               48         48         Success        
+30    sony-ten-1.json                18         31         Success        
 31    star-bharat-hd.json            0          0          No Programmes  
 32    star-plus-hd.json              0          0          No Programmes  
-33    tlc-hd.json                    31         0          Success        
-34    tv9-bangla.json                42         43         Success        
+33    tlc-hd.json                    33         33         Success        
+34    tv9-bangla.json                43         42         Success        
 35    tv9-gujarati.json              0          0          No Programmes  
-36    wion.json                      0          0          No Programmes  
-37    zee-24-ghanta.json             0          0          No Programmes  
+36    wion.json                      48         48         Success        
+37    zee-24-ghanta.json             48         48         Success        
 38    zee-24-kalak.json              48         48         Success        
-39    zee-bangla-hd.json             41         0          Success        
-40    zee-tv.json                    41         0          Success        
+39    zee-bangla-hd.json             39         0          Success        
+40    zee-tv.json                    42         0          Success        
 41    prive-hd.json                  0          0          Not Found      
-42    assam-talks.json               0          0          No Programmes  
+42    assam-talks.json               48         0          Success        
 43    and-flix-hd.json               0          0          Not Found      
 44    star-jalsha.json               0          0          No Programmes  
 45    star-kiran.json                0          0          Not Found      
-46    big-tv.json                    38         39         Success        
+46    big-tv.json                    39         24         Success        
 47    colors-bangla-cinema.json      10         10         Success        
-48    colors-cineplex.json           0          0          No Programmes  
-49    colors-gujarati-cinema.json    11         11         Success        
+48    colors-cineplex.json           10         0          Success        
+49    colors-gujarati-cinema.json    11         10         Success        
 50    dabangg.json                   0          0          Not Found      
 51    km-news.json                   0          0          No Programmes  
 52    national-tv-india.json         40         40         Success        
-53    colors-marathi-sd.json         48         45         Success        
-54    colors-kannada-cinema.json     10         10         Success        
-55    colors-infinity-sd.json        26         20         Success        
+53    colors-marathi-sd.json         45         42         Success        
+54    colors-kannada-cinema.json     10         0          Success        
+55    colors-infinity-sd.json        20         27         Success        
 56    brave-tv.json                  12         0          Success        
-57    b4u-music.json                 0          0          No Programmes  
-58    surya-hd.json                  38         0          Success        
-59    sun-tv-hd.json                 31         22         Success        
-60    sony-max-sd.json               0          0          No Programmes  
-61    pogo-hindi.json                46         0          Success        
-62    zee-news.json                  48         0          Success        
-63    dangal.json                    1          0          Success        
-64    zee-up-uk.json                 0          0          Not Found      
-65    zoom.json                      0          0          No Programmes  
-66    cnbc-tv18.json                 0          0          No Programmes  
-67    et-now.json                    0          0          No Programmes  
-68    mirror-now.json                0          0          No Programmes  
-69    india-today.json               0          0          No Programmes  
-70    republic-tv.json               46         48         Success        
-71    dd-india.json                  0          0          No Programmes  
-72    good-times.json                37         38         Success        
-73    mtv.json                       0          0          No Programmes  
-74    animal-planet-hindi.json       0          0          No Programmes  
-75    food-food.json                 0          0          No Programmes  
-76    history-tv18-hd.json           16         0          Success        
+57    b4u-music.json                 0          20         Success        
+58    surya-hd.json                  28         38         Success        
+59    sun-tv-hd.json                 22         33         Success        
+60    sony-max-sd.json               10         10         Success        
+61    pogo-hindi.json                44         0          Success        
+62    zee-news.json                  48         48         Success        
+63    dangal.json                    23         27         Success        
+64    zee-up-uk.json                 48         48         Success        
+65    zoom.json                      13         15         Success        
+66    cnbc-tv18.json                 44         36         Success        
+67    et-now.json                    0          37         Success        
+68    mirror-now.json                46         36         Success        
+69    india-today.json               8          8          Success        
+70    republic-tv.json               48         46         Success        
+71    dd-india.json                  32         38         Success        
+72    good-times.json                38         39         Success        
+73    mtv.json                       21         21         Success        
+74    animal-planet-hindi.json       30         30         Success        
+75    food-food.json                 64         68         Success        
+76    history-tv18-hd.json           49         48         Success        
 77    star-plus-sd.json              81         81         Success        
 78    star-plus.json                 81         81         Success        
 ================================================================================

@@ -1,0 +1,67 @@
+{
+  "channel_name": "Colors Cineplex",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
+  "date": "2025-12-07",
+  "programs": [
+    {
+      "show_name": "Yashoda",
+      "start_time": "12:00 AM",
+      "end_time": "01:12 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1e4aa2ca0a58bcd2d37cdbf3f5758566.jpg"
+    },
+    {
+      "show_name": "Kodathi Samaksham Balan Vakeel",
+      "start_time": "01:12 AM",
+      "end_time": "03:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/83886f63633dbf2c96b087b1e802194a.jpg"
+    },
+    {
+      "show_name": "Filler",
+      "start_time": "03:35 AM",
+      "end_time": "04:59 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5d1e458c4611e03057dc707e0e12bdcb.jpg"
+    },
+    {
+      "show_name": "Yodha",
+      "start_time": "04:59 AM",
+      "end_time": "07:14 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fe42b3e7d334eaa5c7656051cc29874d.jpg"
+    },
+    {
+      "show_name": "Tiger Zinda Hai",
+      "start_time": "07:14 AM",
+      "end_time": "10:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a322750441bb0fda75b357f932a282ab.jpg"
+    },
+    {
+      "show_name": "Dhruva",
+      "start_time": "10:40 AM",
+      "end_time": "01:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/39a2f23d496bea9bf65defa50c45fb2d.jpg"
+    },
+    {
+      "show_name": "Etharkkum Thunindhavan",
+      "start_time": "01:27 PM",
+      "end_time": "04:26 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/28ae7e36818845957190fa26b2e57120.jpg"
+    },
+    {
+      "show_name": "Veera Simha Reddy",
+      "start_time": "04:26 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5efd404ca1eadfbcadd51872e3450b2b.jpg"
+    },
+    {
+      "show_name": "Thammudu",
+      "start_time": "07:50 PM",
+      "end_time": "10:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0061674b41644fa1dba21ecd643387c8.jpg"
+    },
+    {
+      "show_name": "Gabbar Is Back",
+      "start_time": "10:50 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8b4d564e43410fa817d9c41557062023.jpg"
+    }
+  ]
+}

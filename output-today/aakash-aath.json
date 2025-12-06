@@ -1,0 +1,157 @@
+{
+  "channel_name": "Aakash Aath",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",
+  "date": "2025-12-07",
+  "programs": [
+    {
+      "show_name": "Police Files",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08e00ebe1922b27c9693d0d69837c967.jpg"
+    },
+    {
+      "show_name": "Ogo Bideshini",
+      "start_time": "12:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/61f32adb288fa560a354135777fbca69.jpg"
+    },
+    {
+      "show_name": "Akashe Superstar",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c169169f8e45142832c95e1e675db384.jpg"
+    },
+    {
+      "show_name": "Radhuni",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/014433868379a7611deac1ad24d8c373.jpg"
+    },
+    {
+      "show_name": "Adi Shakti Adyapeeth",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b61878ba1083ca9c22a8ce643ca671ab.jpg"
+    },
+    {
+      "show_name": "Khonar Kahini",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/311eaea1ddd1b908940eaa527f33a849.jpg"
+    },
+    {
+      "show_name": "Radhuni",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/014433868379a7611deac1ad24d8c373.jpg"
+    },
+    {
+      "show_name": "Om Sai Ram",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6f64b8ce290edae8e9c7bca44051d8a5.jpg"
+    },
+    {
+      "show_name": "The Lords Challenge",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/bc6a7991a49d54860c6396ea5be05dd9.jpg"
+    },
+    {
+      "show_name": "Good Morning Aakash",
+      "start_time": "07:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/16ed9b918b9eda93848a9a287629d197.jpg"
+    },
+    {
+      "show_name": "Om Sai Ram",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6f64b8ce290edae8e9c7bca44051d8a5.jpg"
+    },
+    {
+      "show_name": "Akashe Superstar",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c169169f8e45142832c95e1e675db384.jpg"
+    },
+    {
+      "show_name": "Police Files",
+      "start_time": "12:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08e00ebe1922b27c9693d0d69837c967.jpg"
+    },
+    {
+      "show_name": "Radhuni",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/014433868379a7611deac1ad24d8c373.jpg"
+    },
+    {
+      "show_name": "Akashe Superstar",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c169169f8e45142832c95e1e675db384.jpg"
+    },
+    {
+      "show_name": "Aakash Barta",
+      "start_time": "03:00 PM",
+      "end_time": "03:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e4bff3372dc455b629ed10c147c83644.jpg"
+    },
+    {
+      "show_name": "Dhanyee Meye",
+      "start_time": "03:05 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e5102946d9c9eaa6e9846f2a85075155.jpg"
+    },
+    {
+      "show_name": "Radhuni",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/014433868379a7611deac1ad24d8c373.jpg"
+    },
+    {
+      "show_name": "Aakash Barta",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e4bff3372dc455b629ed10c147c83644.jpg"
+    },
+    {
+      "show_name": "Om Sai Ram",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6f64b8ce290edae8e9c7bca44051d8a5.jpg"
+    },
+    {
+      "show_name": "Police Files",
+      "start_time": "07:00 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08e00ebe1922b27c9693d0d69837c967.jpg"
+    },
+    {
+      "show_name": "Police Files",
+      "start_time": "08:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08e00ebe1922b27c9693d0d69837c967.jpg"
+    },
+    {
+      "show_name": "Akashe Superstar",
+      "start_time": "09:30 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c169169f8e45142832c95e1e675db384.jpg"
+    },
+    {
+      "show_name": "Aakash Barta",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e4bff3372dc455b629ed10c147c83644.jpg"
+    },
+    {
+      "show_name": "Police Files",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/08e00ebe1922b27c9693d0d69837c967.jpg"
+    }
+  ]
+}

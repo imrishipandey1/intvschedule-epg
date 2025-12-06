@@ -1,67 +1,67 @@
 {
   "channel_name": "Colors Bangla Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
-  "date": "2025-12-07",
+  "date": "2025-12-08",
   "programs": [
     {
-      "show_name": "Naga Panchami",
+      "show_name": "Premi",
       "start_time": "12:00 AM",
-      "end_time": "01:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657000.jpg"
+      "end_time": "01:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081657000.jpg"
     },
     {
-      "show_name": "Gorosthaney Sabdhan",
-      "start_time": "01:15 AM",
+      "show_name": "Toke Chhara Banchbo Na",
+      "start_time": "01:05 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081657001.jpg"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081657002.jpg"
     },
     {
-      "show_name": "Bangshadhar",
+      "show_name": "Ora Charjon",
       "start_time": "04:00 AM",
-      "end_time": "07:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657003.jpg"
+      "end_time": "06:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081657003.jpg"
     },
     {
-      "show_name": "Sathi Amar",
-      "start_time": "07:15 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657004.jpg"
+      "show_name": "Tomake Chai",
+      "start_time": "06:50 AM",
+      "end_time": "09:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081657004.jpg"
     },
     {
-      "show_name": "Le Halua Le",
-      "start_time": "10:00 AM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657005.jpg"
+      "show_name": "Champion",
+      "start_time": "09:20 AM",
+      "end_time": "12:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081657005.jpg"
     },
     {
-      "show_name": "Bandhan",
-      "start_time": "01:00 PM",
+      "show_name": "Premer Kahini",
+      "start_time": "12:40 PM",
       "end_time": "03:40 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081657006.jpg"
     },
     {
-      "show_name": "Pratibad",
+      "show_name": "Nayak - The Real Hero",
       "start_time": "03:40 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081657007.jpg"
     },
     {
-      "show_name": "Poran Jaye Jolia Re",
+      "show_name": "Sedin Dekha Hoyechilo",
       "start_time": "07:00 PM",
-      "end_time": "09:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657008.jpg"
+      "end_time": "10:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081657008.jpg"
     },
     {
-      "show_name": "Premi",
-      "start_time": "09:55 PM",
+      "show_name": "Jhinuk Mala",
+      "start_time": "10:10 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071657009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081657009.jpg"
     }
   ]
 }

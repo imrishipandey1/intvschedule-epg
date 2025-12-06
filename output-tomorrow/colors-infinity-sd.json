@@ -1,127 +1,169 @@
 {
   "channel_name": "Colors Infinity SD",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",
-  "date": "2025-12-07",
+  "date": "2025-12-08",
   "programs": [
     {
       "show_name": "Chesapeake Shore",
       "start_time": "12:00 AM",
       "end_time": "12:40 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325000.jpg"
     },
     {
       "show_name": "The White Lotus",
       "start_time": "12:40 AM",
+      "end_time": "01:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325001.jpg"
+    },
+    {
+      "show_name": "The White Lotus",
+      "start_time": "01:25 AM",
+      "end_time": "02:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325002.jpg"
+    },
+    {
+      "show_name": "Industry",
+      "start_time": "02:20 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325003.jpg"
+    },
+    {
+      "show_name": "Alex Rider",
+      "start_time": "03:30 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325004.jpg"
+    },
+    {
+      "show_name": "The Sopranos",
+      "start_time": "04:30 AM",
+      "end_time": "05:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325005.jpg"
+    },
+    {
+      "show_name": "The Sopranos",
+      "start_time": "05:15 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325006.jpg"
+    },
+    {
+      "show_name": "The Sopranos",
+      "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325007.jpg"
     },
     {
-      "show_name": "The Sopranos",
+      "show_name": "Atypical",
       "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325008.jpg"
+    },
+    {
+      "show_name": "Atypical",
+      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325002.jpg"
-    },
-    {
-      "show_name": "The Sopranos",
-      "start_time": "07:00 AM",
-      "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325003.jpg"
-    },
-    {
-      "show_name": "Chesapeake Shore",
-      "start_time": "08:00 AM",
-      "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325004.jpg"
-    },
-    {
-      "show_name": "Chesapeake Shore",
-      "start_time": "09:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325009.jpg"
     },
     {
       "show_name": "Shark Tank",
+      "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325010.jpg"
+    },
+    {
+      "show_name": "The Sopranos",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325011.jpg"
+    },
+    {
+      "show_name": "The Sopranos",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325012.jpg"
+    },
+    {
+      "show_name": "Chesapeake Shore",
       "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325013.jpg"
     },
     {
       "show_name": "Shark Tank",
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325014.jpg"
     },
     {
       "show_name": "The Good Doctor",
       "start_time": "12:00 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325015.jpg"
+    },
+    {
+      "show_name": "Chesapeake Shore",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325016.jpg"
+    },
+    {
+      "show_name": "Shark Tank",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325017.jpg"
     },
     {
       "show_name": "The Good Doctor",
-      "start_time": "01:00 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325009.jpg"
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325018.jpg"
     },
     {
-      "show_name": "Industry",
-      "start_time": "02:00 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325010.jpg"
+      "show_name": "The Outsider",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325019.jpg"
     },
     {
       "show_name": "Alex Rider",
-      "start_time": "03:00 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325011.jpg"
-    },
-    {
-      "show_name": "The White Lotus",
-      "start_time": "04:00 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325012.jpg"
-    },
-    {
-      "show_name": "The White Lotus",
       "start_time": "05:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325020.jpg"
     },
     {
-      "show_name": "Shark Tank",
+      "show_name": "The Good Doctor",
       "start_time": "06:00 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325021.jpg"
     },
     {
-      "show_name": "Shark Tank",
+      "show_name": "Chesapeake Shore",
       "start_time": "07:00 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325022.jpg"
     },
     {
       "show_name": "Shark Tank",
       "start_time": "08:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325023.jpg"
     },
     {
-      "show_name": "The Good Doctor",
+      "show_name": "The Outsider",
       "start_time": "09:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325024.jpg"
     },
     {
-      "show_name": "The Good Doctor",
+      "show_name": "Alex Rider",
       "start_time": "10:00 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325025.jpg"
     },
     {
-      "show_name": "Chesapeake Shore",
+      "show_name": "Shark Tank",
       "start_time": "11:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/2512071325019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/2512081325026.jpg"
     }
   ]
 }
