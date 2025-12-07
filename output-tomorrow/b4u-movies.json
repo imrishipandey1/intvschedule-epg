@@ -1,61 +1,61 @@
 {
   "channel_name": "B4U Movies",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
-  "date": "2025-12-08",
+  "date": "2025-12-09",
   "programs": [
     {
-      "show_name": "Satya",
+      "show_name": "Mera Karam Mera Dharam",
       "start_time": "12:00 AM",
-      "end_time": "01:35 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182000.jpg"
+      "end_time": "01:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209182000.jpg"
     },
     {
-      "show_name": "Nakshatra",
-      "start_time": "01:35 AM",
-      "end_time": "04:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182001.jpg"
+      "show_name": "Jaane Jigar",
+      "start_time": "01:00 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209182001.jpg"
     },
     {
-      "show_name": "Kaun Kare Kurbanie",
-      "start_time": "04:05 AM",
+      "show_name": "Movie",
+      "start_time": "03:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209182002.jpg"
     },
     {
       "show_name": "Movie",
       "start_time": "06:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209182003.jpg"
     },
     {
       "show_name": "Movie",
       "start_time": "09:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209182004.jpg"
     },
     {
       "show_name": "Movie",
       "start_time": "12:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209182005.jpg"
     },
     {
       "show_name": "Movie",
       "start_time": "03:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209182006.jpg"
     },
     {
       "show_name": "Movie",
       "start_time": "06:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209182007.jpg"
     },
     {
       "show_name": "Movie",
       "start_time": "09:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209182008.jpg"
     }
   ]
 }

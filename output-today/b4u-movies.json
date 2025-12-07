@@ -1,67 +1,61 @@
 {
   "channel_name": "B4U Movies",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
-  "date": "2025-12-07",
+  "date": "2025-12-08",
   "programs": [
     {
-      "show_name": "Josh",
-      "start_time": "12:00 AM",
-      "end_time": "01:28 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/251207182000.jpg"
-    },
-    {
-      "show_name": "Mera Faisla",
-      "start_time": "01:28 AM",
-      "end_time": "01:29 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/251207182001.jpg"
-    },
-    {
-      "show_name": "Ranbanka",
-      "start_time": "01:29 AM",
-      "end_time": "03:18 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/251207182002.jpg"
-    },
-    {
-      "show_name": "Mera Faisla",
-      "start_time": "03:18 AM",
-      "end_time": "05:19 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/251207182003.jpg"
-    },
-    {
-      "show_name": "Haisiyat",
-      "start_time": "05:19 AM",
-      "end_time": "08:04 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/251207182004.jpg"
-    },
-    {
-      "show_name": "Keemat",
-      "start_time": "08:04 AM",
-      "end_time": "11:47 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/251207182005.jpg"
-    },
-    {
-      "show_name": "Baazigar",
-      "start_time": "11:47 AM",
-      "end_time": "03:51 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/251207182006.jpg"
-    },
-    {
-      "show_name": "Teri Meherbaniyan",
-      "start_time": "03:51 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/251207182007.jpg"
-    },
-    {
-      "show_name": "Gangaajal",
-      "start_time": "07:00 PM",
-      "end_time": "10:33 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/251207182008.jpg"
-    },
-    {
       "show_name": "Satya",
-      "start_time": "10:33 PM",
+      "start_time": "12:00 AM",
+      "end_time": "01:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182000.jpg"
+    },
+    {
+      "show_name": "Nakshatra",
+      "start_time": "01:35 AM",
+      "end_time": "04:04 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182001.jpg"
+    },
+    {
+      "show_name": "Kaun Kare Kurbanie",
+      "start_time": "04:04 AM",
+      "end_time": "05:58 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182002.jpg"
+    },
+    {
+      "show_name": "Kahani Kismat Ki",
+      "start_time": "05:58 AM",
+      "end_time": "08:33 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182003.jpg"
+    },
+    {
+      "show_name": "Main Intequam Loonga",
+      "start_time": "08:33 AM",
+      "end_time": "11:52 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182004.jpg"
+    },
+    {
+      "show_name": "Ram Balram",
+      "start_time": "11:52 AM",
+      "end_time": "03:23 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182005.jpg"
+    },
+    {
+      "show_name": "Rajput",
+      "start_time": "03:23 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182006.jpg"
+    },
+    {
+      "show_name": "Nafrat Ki Aandhi",
+      "start_time": "07:00 PM",
+      "end_time": "10:29 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182007.jpg"
+    },
+    {
+      "show_name": "Mera Karam Mera Dharam",
+      "start_time": "10:29 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-07/251207182009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-08/251208182008.jpg"
     }
   ]
 }
