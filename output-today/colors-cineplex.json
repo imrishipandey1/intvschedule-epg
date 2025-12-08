@@ -1,79 +1,79 @@
 {
   "channel_name": "Colors Cineplex",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
-  "date": "2025-12-08",
+  "date": "2025-12-09",
   "programs": [
     {
-      "show_name": "Gabbar Is Back",
-      "start_time": "12:00 AM",
-      "end_time": "01:08 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8b4d564e43410fa817d9c41557062023.jpg"
-    },
-    {
-      "show_name": "Gaslight",
-      "start_time": "01:08 AM",
-      "end_time": "02:56 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/72c2b45feb35fb99d081abebf6239cbf.jpg"
-    },
-    {
-      "show_name": "Filler",
-      "start_time": "02:56 AM",
-      "end_time": "04:09 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5d1e458c4611e03057dc707e0e12bdcb.jpg"
-    },
-    {
-      "show_name": "Satya Gang",
-      "start_time": "04:09 AM",
-      "end_time": "05:44 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/376f98bb9efe9a774688fd20e2dc1d00.jpg"
-    },
-    {
-      "show_name": "Crazy Singh",
-      "start_time": "05:44 AM",
-      "end_time": "07:31 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e237fbb2579af19dc293519766d1ba8d.jpg"
-    },
-    {
-      "show_name": "Asli Fighter",
-      "start_time": "07:31 AM",
-      "end_time": "09:38 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/395e3a27def8f8bb8eb198ca51e92e3f.jpg"
-    },
-    {
-      "show_name": "Agent Chanakya",
-      "start_time": "09:38 AM",
-      "end_time": "12:24 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/47ba773e8ed670f5b3024ba658e398e1.jpg"
-    },
-    {
-      "show_name": "Tanhaji: The Unsung Warrior",
-      "start_time": "12:24 PM",
-      "end_time": "02:41 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f1c058201b6188aee42f8a3292a022dc.jpg"
-    },
-    {
-      "show_name": "Yudh Ek Jung",
-      "start_time": "02:41 PM",
-      "end_time": "05:27 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/51ca752c215c803444e68110808c6fe3.jpg"
-    },
-    {
-      "show_name": "Custody",
-      "start_time": "05:27 PM",
-      "end_time": "07:52 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/96937ca6b7cb57a3957b93cd10e4a524.jpg"
-    },
-    {
-      "show_name": "Bhagavanth Kesari",
-      "start_time": "07:52 PM",
-      "end_time": "10:36 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c552bfba64e9a5c76269059a936731c7.jpg"
-    },
-    {
       "show_name": "Big Brother",
-      "start_time": "10:36 PM",
-      "end_time": "11:59 PM",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d52aea8c7cdbb95f8c237df157b99c6d.jpg"
+    },
+    {
+      "show_name": "Gully Rowdy",
+      "start_time": "01:00 AM",
+      "end_time": "02:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ac589953832a69cca4b5b4c5e208d27b.jpg"
+    },
+    {
+      "show_name": "The Great Indian Butterfly",
+      "start_time": "02:45 AM",
+      "end_time": "04:11 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0dedbfefd51d16d2efd3372689ee7100.jpg"
+    },
+    {
+      "show_name": "Colors Cineplex",
+      "start_time": "04:11 AM",
+      "end_time": "05:07 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/545c616dba7bcb2a5149425a1b379473.jpg"
+    },
+    {
+      "show_name": "Son Of Devil",
+      "start_time": "05:07 AM",
+      "end_time": "06:42 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/acde0800c8201c8fc97410eba5ff8105.jpg"
+    },
+    {
+      "show_name": "Roberrt",
+      "start_time": "06:42 AM",
+      "end_time": "09:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/418fdb13bf9b950e619c45b2da068eb1.jpg"
+    },
+    {
+      "show_name": "Secret Agent",
+      "start_time": "09:20 AM",
+      "end_time": "11:53 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3d9d4f35c13998486c032ebd2f5fd66d.jpg"
+    },
+    {
+      "show_name": "Double Attack",
+      "start_time": "11:53 AM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4a6abee7e2b85f64c1fe84a98daccd7e.jpg"
+    },
+    {
+      "show_name": "Baghban",
+      "start_time": "02:00 PM",
+      "end_time": "05:56 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3ab4e2bc8610a8ed85914afd1e04bb16.jpg"
+    },
+    {
+      "show_name": "Gaalodu",
+      "start_time": "05:56 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6165db55d2f0a62afd48c39b9ce30f4c.jpg"
+    },
+    {
+      "show_name": "Laxmii",
+      "start_time": "07:50 PM",
+      "end_time": "10:35 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9efff512d5ff57525df0c55452b6d6bd.jpg"
+    },
+    {
+      "show_name": "Seetharama Kalyana",
+      "start_time": "10:35 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/96f67a256e203e833a15bf4013e10e11.jpg"
     }
   ]
 }

@@ -1,0 +1,73 @@
+{
+  "channel_name": "B4U Bhojpuri",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
+  "date": "2025-12-09",
+  "programs": [
+    {
+      "show_name": "Kasam Paida Karne Wale Ki",
+      "start_time": "12:00 AM",
+      "end_time": "01:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a7190ff5419a59a00d3523e4f5ab7a7a.jpg"
+    },
+    {
+      "show_name": "Lataka Jhatka",
+      "start_time": "01:39 AM",
+      "end_time": "02:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c09ce4bfca3c0bb6fa709c163eacfce.jpg"
+    },
+    {
+      "show_name": "Chunariya Lehale Aihiya Ho",
+      "start_time": "02:39 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
+    },
+    {
+      "show_name": "Chunariya Lehale Aihiya Ho",
+      "start_time": "05:00 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
+    },
+    {
+      "show_name": "Meri Saas Pehle Aap",
+      "start_time": "07:00 AM",
+      "end_time": "09:25 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ef4cca04e7a1738a18798ce70150fa41.jpg"
+    },
+    {
+      "show_name": "Sasural Ke Gulam",
+      "start_time": "09:25 AM",
+      "end_time": "12:09 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fae0d0cb5ddd3e6d5ee9e94d05fa8d96.jpg"
+    },
+    {
+      "show_name": "Hum Haien Jethani",
+      "start_time": "12:09 PM",
+      "end_time": "02:47 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ed8d5087f9973e4411139df19e670d53.jpg"
+    },
+    {
+      "show_name": "Cycle Wali Didi",
+      "start_time": "02:47 PM",
+      "end_time": "05:31 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8553dd3a6239701b6cdc47c111ea6619.jpg"
+    },
+    {
+      "show_name": "Duaah Biyah",
+      "start_time": "05:31 PM",
+      "end_time": "08:09 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9935192215d3f0e37809d2efd3feb90b.jpg"
+    },
+    {
+      "show_name": "Dulhan Aur Dahej",
+      "start_time": "08:09 PM",
+      "end_time": "10:46 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/30650a47ee417c567aea2b3a077720a0.jpg"
+    },
+    {
+      "show_name": "Kachche Dhaage",
+      "start_time": "10:46 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d7a4cbada8c6e31095a45592f3648c6c.jpg"
+    }
+  ]
+}
