@@ -1,175 +1,187 @@
 {
   "channel_name": "Sony Ten 1",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
-  "date": "2025-12-09",
+  "date": "2025-12-10",
   "programs": [
     {
-      "show_name": "DP World Asia Cup Rising Stars Men's 2025",
+      "show_name": "Asia Cup 2025",
       "start_time": "12:00 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514000.jpg"
+      "end_time": "01:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514000.jpg"
     },
     {
-      "show_name": "UEFA Champions League 2024-25",
-      "start_time": "01:00 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514001.jpg"
+      "show_name": "Asia Cup 2025",
+      "start_time": "01:15 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514001.jpg"
     },
     {
-      "show_name": "DP World Asia Cup Rising Stars Men's 2025",
-      "start_time": "02:00 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514002.jpg"
-    },
-    {
-      "show_name": "DP World Asia Cup Rising Stars Men's 2025",
-      "start_time": "03:00 AM",
+      "show_name": "UEFA Champions League 2025/26 LIVE ",
+      "start_time": "01:30 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514002.jpg"
     },
     {
-      "show_name": "Asia Cup Highlights",
+      "show_name": "Asia Cup 2025",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514003.jpg"
     },
     {
-      "show_name": "India Women Tour of England 2022",
+      "show_name": "Asia Cup 2025",
       "start_time": "04:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514004.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
       "start_time": "06:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514005.jpg"
     },
     {
-      "show_name": "UEFA Champions League 2025-26",
+      "show_name": "UEFA Champions League Highlights",
       "start_time": "07:00 AM",
-      "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514007.jpg"
+      "end_time": "07:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514006.jpg"
     },
     {
-      "show_name": "UFC - Fight O'clock : Israel Adesanya",
+      "show_name": "UEFA Champions League Highlights",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514007.jpg"
+    },
+    {
+      "show_name": "UFC Fight O'Clock: Anderson Silva",
       "start_time": "08:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514008.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514009.jpg"
     },
     {
-      "show_name": "T20 Cricket",
+      "show_name": "One-Day International Cricket",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514010.jpg"
     },
     {
       "show_name": "One-Day International Cricket",
       "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514011.jpg"
     },
     {
-      "show_name": "Asia Cup Rising Stars Cricket Highlights",
+      "show_name": "UEFA Champions League Highlights",
       "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514012.jpg"
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514012.jpg"
     },
     {
-      "show_name": "UFC - Fight O'clock : Israel Adesanya",
+      "show_name": "UEFA Champions League Football",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514013.jpg"
+    },
+    {
+      "show_name": "UFC Fight O'Clock: Anderson Silva",
       "start_time": "12:00 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514014.jpg"
     },
     {
-      "show_name": "T20 Cricket",
+      "show_name": "One-Day International Cricket",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514015.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514016.jpg"
     },
     {
-      "show_name": "T20 Cricket",
+      "show_name": "Test Cricket",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514017.jpg"
     },
     {
       "show_name": "One-Day International Cricket",
       "start_time": "02:30 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514018.jpg"
     },
     {
-      "show_name": "UFC Fight O'Clock: Khabib Nurmagomedov",
+      "show_name": "UEFA Champions League Highlights",
       "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514019.jpg"
+    },
+    {
+      "show_name": "UEFA Champions League Highlights",
+      "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514018.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514020.jpg"
     },
     {
       "show_name": "Women's T20 Cricket",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514021.jpg"
     },
     {
       "show_name": "Asia Cup Rising Stars Cricket Highlights",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514022.jpg"
     },
     {
-      "show_name": "T20 Cricket",
+      "show_name": "One-Day International Cricket",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514023.jpg"
     },
     {
-      "show_name": "T20 Cricket Highlights",
+      "show_name": "Cricket Highlights",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514024.jpg"
     },
     {
       "show_name": "UEFA Youth League Soccer",
       "start_time": "06:30 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514025.jpg"
     },
     {
-      "show_name": "Women's T20 Cricket",
+      "show_name": "UEFA Youth League Soccer",
       "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514024.jpg"
-    },
-    {
-      "show_name": "UEFA Champions League Soccer",
-      "start_time": "09:00 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514025.jpg"
+      "end_time": "10:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514026.jpg"
     },
     {
       "show_name": "Snippet",
-      "start_time": "11:00 PM",
+      "start_time": "10:30 PM",
+      "end_time": "10:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514027.jpg"
+    },
+    {
+      "show_name": "Asia Cup Highlights",
+      "start_time": "10:45 PM",
       "end_time": "11:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514028.jpg"
     },
     {
       "show_name": "UEFA Champions League Soccer",
       "start_time": "11:15 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/251209514027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/251210514029.jpg"
     }
   ]
 }

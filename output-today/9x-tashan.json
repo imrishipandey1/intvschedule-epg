@@ -1,7 +1,7 @@
 {
   "channel_name": "9X Tashan",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",
-  "date": "2025-12-09",
+  "date": "2025-12-10",
   "programs": [
     {
       "show_name": "Saari Raat",
@@ -232,16 +232,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/104abdd97191dea37425b96670077b11.jpg"
     },
     {
-      "show_name": "9X Tashan Bazillion Show",
+      "show_name": "AI Wala Show",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/120d5a2199861a6c29ee2961452c80b5.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d072d8dc032909b184156ec6fc90e043.jpg"
     },
     {
-      "show_name": "9X Tashan Bazillion Show",
+      "show_name": "AI Wala Show",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/120d5a2199861a6c29ee2961452c80b5.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d072d8dc032909b184156ec6fc90e043.jpg"
     },
     {
       "show_name": "9X Tahsan Shayarism",

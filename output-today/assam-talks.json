@@ -1,7 +1,7 @@
 {
   "channel_name": "Assam Talks",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png",
-  "date": "2025-12-09",
+  "date": "2025-12-10",
   "programs": [
     {
       "show_name": "Prime @ 6",
@@ -124,16 +124,16 @@
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b822b991ec46dcd9e70fcb88647751a1.jpg"
     },
     {
-      "show_name": "Hindi Bullet News",
+      "show_name": "Assam Talent Hunt",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f4c9126f806ff2f6c433fbb7cd7d551e.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/644d81bad966c861f2653c8d80e39855.jpg"
     },
     {
-      "show_name": "Bixekh Adha Ghonta",
+      "show_name": "Assam Talent Hunt",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c2d8bc5aa26ed793872b81c5abc3d67d.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/644d81bad966c861f2653c8d80e39855.jpg"
     },
     {
       "show_name": "Breaking News",

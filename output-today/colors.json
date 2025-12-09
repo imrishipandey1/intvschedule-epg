@@ -1,0 +1,211 @@
+{
+  "channel_name": "Colors SD",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",
+  "date": "2025-12-10",
+  "programs": [
+    {
+      "show_name": "Deewangi - Dil Bhi Kaatil Iraade Bhi",
+      "start_time": "12:00 AM",
+      "end_time": "12:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368000.jpg"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "12:05 AM",
+      "end_time": "01:29 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368001.jpg"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "01:29 AM",
+      "end_time": "02:53 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368002.jpg"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "02:53 AM",
+      "end_time": "04:17 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368003.jpg"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "04:17 AM",
+      "end_time": "05:33 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368004.jpg"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "05:33 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368005.jpg"
+    },
+    {
+      "show_name": "Tuu Juliet Jatt Di",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368006.jpg"
+    },
+    {
+      "show_name": "Teleslot",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368007.jpg"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "07:00 AM",
+      "end_time": "08:04 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368008.jpg"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "08:04 AM",
+      "end_time": "09:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368009.jpg"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "09:50 AM",
+      "end_time": "11:32 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368010.jpg"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "11:32 AM",
+      "end_time": "01:24 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368011.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "01:24 PM",
+      "end_time": "01:37 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368012.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "01:37 PM",
+      "end_time": "01:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368013.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "01:55 PM",
+      "end_time": "02:16 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368014.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "02:16 PM",
+      "end_time": "02:37 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368015.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "02:37 PM",
+      "end_time": "02:58 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368016.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "02:58 PM",
+      "end_time": "03:18 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368017.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "03:18 PM",
+      "end_time": "03:39 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368018.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "03:39 PM",
+      "end_time": "03:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368019.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "03:59 PM",
+      "end_time": "04:27 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368020.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "04:27 PM",
+      "end_time": "04:56 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368021.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "04:56 PM",
+      "end_time": "05:26 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368022.jpg"
+    },
+    {
+      "show_name": "Balika Vadhu - Kacchi Umar Ke Pakke Rishte",
+      "start_time": "05:26 PM",
+      "end_time": "05:57 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368023.jpg"
+    },
+    {
+      "show_name": "Noyontara",
+      "start_time": "05:57 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368024.jpg"
+    },
+    {
+      "show_name": "Noyontara",
+      "start_time": "06:30 PM",
+      "end_time": "07:02 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368025.jpg"
+    },
+    {
+      "show_name": "Tuu Juliet Jatt Di",
+      "start_time": "07:02 PM",
+      "end_time": "07:34 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368026.jpg"
+    },
+    {
+      "show_name": "Mannat Harr Khushi Paane Ki",
+      "start_time": "07:34 PM",
+      "end_time": "08:04 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368027.jpg"
+    },
+    {
+      "show_name": "Shiv-Shakti Tap..Tyaag..Tandav",
+      "start_time": "08:04 PM",
+      "end_time": "08:34 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368028.jpg"
+    },
+    {
+      "show_name": "Binddii",
+      "start_time": "08:34 PM",
+      "end_time": "09:03 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368029.jpg"
+    },
+    {
+      "show_name": "Mangal Lakshmi",
+      "start_time": "09:03 PM",
+      "end_time": "09:33 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368030.jpg"
+    },
+    {
+      "show_name": "Mangal Lakshmi - Lakshmi Ka Safar",
+      "start_time": "09:33 PM",
+      "end_time": "10:04 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368031.jpg"
+    },
+    {
+      "show_name": "Seher Hone Ko Hai",
+      "start_time": "10:04 PM",
+      "end_time": "11:04 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368032.jpg"
+    },
+    {
+      "show_name": "Deewangi - Dil Bhi Kaatil Iraade Bhi",
+      "start_time": "11:04 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101368033.jpg"
+    }
+  ]
+}

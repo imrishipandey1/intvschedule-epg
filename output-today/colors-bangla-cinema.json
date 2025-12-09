@@ -1,67 +1,73 @@
 {
   "channel_name": "Colors Bangla Cinema",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
-  "date": "2025-12-09",
+  "date": "2025-12-10",
   "programs": [
     {
-      "show_name": "Jhinuk Mala",
+      "show_name": "Badsha: The Don",
       "start_time": "12:00 AM",
-      "end_time": "01:05 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/2512091657000.jpg"
+      "end_time": "01:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657000.jpg"
     },
     {
-      "show_name": "The Bongs Again",
-      "start_time": "01:05 AM",
+      "show_name": "Chopper",
+      "start_time": "01:35 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/2512091657001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657001.jpg"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/2512091657002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657002.jpg"
     },
     {
-      "show_name": "Aami Sei Meye",
+      "show_name": "Taan",
       "start_time": "04:00 AM",
-      "end_time": "06:45 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/2512091657003.jpg"
+      "end_time": "05:45 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657003.jpg"
     },
     {
-      "show_name": "Yugavatar Lokenath",
-      "start_time": "06:45 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/2512091657004.jpg"
+      "show_name": "Krishna Bhakta Sudama",
+      "start_time": "05:45 AM",
+      "end_time": "07:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657004.jpg"
     },
     {
-      "show_name": "Apon Holo Por",
-      "start_time": "10:00 AM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/2512091657005.jpg"
+      "show_name": "Rang Be Rang",
+      "start_time": "07:35 AM",
+      "end_time": "09:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657005.jpg"
     },
     {
-      "show_name": "Sangee",
-      "start_time": "01:00 PM",
-      "end_time": "03:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/2512091657006.jpg"
+      "show_name": "Agni Pariksha",
+      "start_time": "09:50 AM",
+      "end_time": "12:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657006.jpg"
     },
     {
-      "show_name": "Surya",
-      "start_time": "03:55 PM",
+      "show_name": "Sneher Protidan",
+      "start_time": "12:55 PM",
+      "end_time": "04:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657007.jpg"
+    },
+    {
+      "show_name": "Hirak Jayanti",
+      "start_time": "04:05 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/2512091657007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657008.jpg"
     },
     {
-      "show_name": "Satrur Muqubila",
+      "show_name": "Minister Phatakesto",
       "start_time": "07:00 PM",
-      "end_time": "10:40 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/2512091657008.jpg"
+      "end_time": "09:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657009.jpg"
     },
     {
-      "show_name": "Badsha: The Don",
-      "start_time": "10:40 PM",
+      "show_name": "Bindaas",
+      "start_time": "09:55 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-09/2512091657009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-10/2512101657010.jpg"
     }
   ]
 }
