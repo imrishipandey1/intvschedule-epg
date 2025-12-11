@@ -1,0 +1,67 @@
+{
+  "channel_name": "Colors Bangla Cinema",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
+  "date": "2025-12-12",
+  "programs": [
+    {
+      "show_name": "Dui Prithibi",
+      "start_time": "12:00 AM",
+      "end_time": "12:50 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/2512121657000.jpg"
+    },
+    {
+      "show_name": "Ami Je Tomari",
+      "start_time": "12:50 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/2512121657001.jpg"
+    },
+    {
+      "show_name": "Shiv Shakti",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/2512121657002.jpg"
+    },
+    {
+      "show_name": "Amar Kantak",
+      "start_time": "04:00 AM",
+      "end_time": "07:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/2512121657003.jpg"
+    },
+    {
+      "show_name": "Bhai Amar Bhai",
+      "start_time": "07:05 AM",
+      "end_time": "10:10 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/2512121657004.jpg"
+    },
+    {
+      "show_name": "Indrajit",
+      "start_time": "10:10 AM",
+      "end_time": "01:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/2512121657005.jpg"
+    },
+    {
+      "show_name": "Dujone",
+      "start_time": "01:20 PM",
+      "end_time": "04:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/2512121657006.jpg"
+    },
+    {
+      "show_name": "Chirodini Tumi Je Amar",
+      "start_time": "04:05 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/2512121657007.jpg"
+    },
+    {
+      "show_name": "Yuddha",
+      "start_time": "07:00 PM",
+      "end_time": "10:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/2512121657008.jpg"
+    },
+    {
+      "show_name": "Phirie Dao",
+      "start_time": "10:20 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/2512121657009.jpg"
+    }
+  ]
+}

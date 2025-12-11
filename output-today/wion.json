@@ -1,295 +1,295 @@
 {
-  "channel_name": "Wion",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png",
-  "date": "2025-12-11",
+  "channel_name": "WION",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png",
+  "date": "2025-12-12",
   "programs": [
     {
       "show_name": "Top Stories",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412000.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Wion Live Broadcast from USA",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412001.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Wion Pulse",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412002.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Gravitas",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412003.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Gravitas",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412004.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412005.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Race To Power",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412006.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "WION Dispatch",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412007.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412008.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Wion Fineprint",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412009.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Wion Pulse",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412010.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412011.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Gravitas",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412012.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Gravitas",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412013.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412014.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "World DNA",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412015.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "World DNA",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412016.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412017.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412018.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "World Business Watch",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412019.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412020.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Wion Wideangle",
+      "show_name": "Inside South Asia",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412021.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Newspoint",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412022.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Speed News",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412023.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412024.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Wion Climate Tracker",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412025.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412026.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Speed News",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412027.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412028.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412029.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412030.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Prime Crime",
+      "show_name": "Wion E-Club",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412031.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412032.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412033.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412034.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Wion Business Insights",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412035.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "WION Dispatch",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412036.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Wion World Of Sport",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412037.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Wion Live Broadcast from USA",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412038.jpg"
+      "show_logo": ""
     },
     {
-      "show_name": "Inside South Asia",
+      "show_name": "The West Asia Post",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412039.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Race To Power",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412040.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Wion Fineprint",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412041.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Gravitas",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412042.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Gravitas",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412043.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Wion Pulse",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412044.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Top Stories",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412045.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Gravitas",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412046.jpg"
+      "show_logo": ""
     },
     {
       "show_name": "Gravitas",
       "start_time": "11:30 PM",
-      "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211412047.jpg"
+      "end_time": "12:00 AM",
+      "show_logo": ""
     }
   ]
 }

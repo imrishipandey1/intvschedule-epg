@@ -1,211 +1,139 @@
 {
-  "channel_name": "Sony Ten 1",
-  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
-  "date": "2025-12-11",
+  "channel_name": "Sony Ten 1 HD",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+  "date": "2025-12-12",
   "programs": [
     {
-      "show_name": "UEFA Champions League 2025/26",
+      "show_name": "UEFA Europa League 2025/26 LIVE ",
       "start_time": "12:00 AM",
       "end_time": "01:15 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162000.jpg"
     },
     {
-      "show_name": "UEFA Champions League 2025/26 LIVE ",
+      "show_name": "UEFA Europa League 2025/26 LIVE ",
       "start_time": "01:15 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514001.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162001.jpg"
     },
     {
-      "show_name": "UEFA Champions League 2025/26 LIVE ",
+      "show_name": "UEFA Europa League 2025/26 LIVE ",
       "start_time": "01:30 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514002.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162002.jpg"
     },
     {
       "show_name": "Asia Cup 2025",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514003.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162003.jpg"
     },
     {
-      "show_name": "UEFA Europa League 2025-26",
+      "show_name": "Test Cricket",
       "start_time": "04:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514004.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162004.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
       "start_time": "06:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514005.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162005.jpg"
     },
     {
-      "show_name": "Asia Cup 2025",
+      "show_name": "UEFA Europa League Highlights",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514006.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162006.jpg"
     },
     {
-      "show_name": "Asia Cup 2025",
+      "show_name": "UEFA Champions League Highlights",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514007.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162007.jpg"
     },
     {
       "show_name": "UFC Fight O'clock Alexander Volkanovski",
       "start_time": "08:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162008.jpg"
     },
     {
-      "show_name": "Asia Cup Highlights",
+      "show_name": "Asia Cup Rising Stars Cricket",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162009.jpg"
     },
     {
-      "show_name": "One-Day International Cricket",
+      "show_name": "Asia Cup Rising Stars Cricket",
       "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514010.jpg"
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162010.jpg"
     },
     {
-      "show_name": "One-Day International Cricket",
-      "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514011.jpg"
+      "show_name": "2025 ACC U19 Asia Cup Cricket",
+      "start_time": "10:30 AM",
+      "end_time": "02:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162011.jpg"
     },
     {
-      "show_name": "UEFA Champions League Football",
-      "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514012.jpg"
+      "show_name": "Asia Cup Rising Stars Cricket",
+      "start_time": "02:15 PM",
+      "end_time": "02:45 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162012.jpg"
     },
     {
-      "show_name": "UEFA Champions League Highlights",
-      "start_time": "11:30 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514013.jpg"
-    },
-    {
-      "show_name": "UFC Fight O'clock Alexander Volkanovski",
-      "start_time": "12:00 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514014.jpg"
-    },
-    {
-      "show_name": "One-Day International Cricket",
-      "start_time": "01:00 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514015.jpg"
-    },
-    {
-      "show_name": "Asia Cup Highlights",
-      "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514016.jpg"
-    },
-    {
-      "show_name": "Test Cricket",
-      "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514017.jpg"
-    },
-    {
-      "show_name": "One-Day International Cricket",
-      "start_time": "02:30 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514018.jpg"
-    },
-    {
-      "show_name": "UEFA Champions League Football",
-      "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514019.jpg"
-    },
-    {
-      "show_name": "UEFA Champions League Football",
-      "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514020.jpg"
-    },
-    {
-      "show_name": "Women's T20 Cricket",
-      "start_time": "04:30 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514021.jpg"
-    },
-    {
-      "show_name": "Asia Cup Rising Stars Cricket Highlights",
-      "start_time": "05:00 PM",
-      "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514022.jpg"
-    },
-    {
-      "show_name": "One-Day International Cricket",
-      "start_time": "05:30 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514023.jpg"
-    },
-    {
-      "show_name": "UEFA Champions League Highlights",
-      "start_time": "06:00 PM",
+      "show_name": "2025 ACC U19 Asia Cup Cricket",
+      "start_time": "02:45 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162013.jpg"
     },
     {
-      "show_name": "Asia Cup Highlights",
+      "show_name": "ACC Men's U19 Asia Cup",
       "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514025.jpg"
-    },
-    {
-      "show_name": "UEFA Champions League Highlights",
-      "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162014.jpg"
     },
     {
       "show_name": "Test Cricket",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162015.jpg"
     },
     {
       "show_name": "Bharat Tum Chale Chalo - Kahani 2021-22 Ki",
       "start_time": "08:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162016.jpg"
     },
     {
-      "show_name": "Asia Cup Rising Stars Cricket Highlights",
+      "show_name": "ACC Men's U19 Asia Cup",
       "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162017.jpg"
+    },
+    {
+      "show_name": "ACC Men's U19 Asia Cup",
+      "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162018.jpg"
     },
     {
       "show_name": "Test Cricket",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162019.jpg"
     },
     {
       "show_name": "Asia Cup Highlights",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162020.jpg"
     },
     {
-      "show_name": "Snippet",
+      "show_name": "One-Day International Cricket",
       "start_time": "11:00 PM",
-      "end_time": "11:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514032.jpg"
-    },
-    {
-      "show_name": "UEFA Europa League Soccer",
-      "start_time": "11:15 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211514033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212162021.jpg"
     }
   ]
 }
