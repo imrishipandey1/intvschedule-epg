@@ -1,0 +1,67 @@
+{
+  "channel_name": "Colors Kannada Cinema",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",
+  "date": "2025-12-14",
+  "programs": [
+    {
+      "show_name": "Harikathe Alla Girikathe",
+      "start_time": "12:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141632000.jpg"
+    },
+    {
+      "show_name": "Chowka Bara",
+      "start_time": "02:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141632001.jpg"
+    },
+    {
+      "show_name": "Shiva Shakthi",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141632002.jpg"
+    },
+    {
+      "show_name": "Rangbirangi",
+      "start_time": "05:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141632003.jpg"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "08:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141632004.jpg"
+    },
+    {
+      "show_name": "K.G.F: Chapter 1",
+      "start_time": "10:00 AM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141632005.jpg"
+    },
+    {
+      "show_name": "Madhagaja",
+      "start_time": "01:30 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141632006.jpg"
+    },
+    {
+      "show_name": "Kaamannana Makkalu",
+      "start_time": "04:30 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141632007.jpg"
+    },
+    {
+      "show_name": "Neelambari",
+      "start_time": "07:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141632008.jpg"
+    },
+    {
+      "show_name": "Hani Hani",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141632009.jpg"
+    }
+  ]
+}

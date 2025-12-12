@@ -1,298 +1,352 @@
 {
-  "channel_name": "ET NOW",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png",
+  "channel_name": "Argus News",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62573-kop7duow-v6/imageContent-62573-kop7duow-m9.png",
   "date": "2025-12-13",
   "programs": [
     {
-      "show_name": "India Tonight",
+      "show_name": "Prime Odisha",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Startup Central",
+      "show_name": "Rokhthok",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The Money Show",
+      "show_name": "Desh Bidesh",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Beat the Street",
+      "show_name": "Badasahara Badakhabar",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "India Tonight",
+      "show_name": "Amagaon Ama Khabar",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "India Tonight",
+      "show_name": "Dinara Bada Khabar",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The Money Show",
+      "show_name": "Desh Bidesh",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Beat the Street",
+      "show_name": "Prasnakala",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "India Tonight",
+      "show_name": "Special Report",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "India Tonight",
+      "show_name": "30 Minute 100 Khabar",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Business@9",
+      "show_name": "Badasahara Badakhabar",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Beat the Street",
+      "show_name": "Amagaon Ama Khabar",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Earnings Q2 - Parag Thakkar / Dhana",
+      "show_name": "Breaking@6 Live",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Prabhu Pada Tale",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Insurance Mantra",
+      "show_name": "Prtham Khabar",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "TMS Weekend Edition",
+      "show_name": "Prime Bharat News",
       "start_time": "07:30 AM",
+      "end_time": "07:55 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Top 5 Viral",
+      "start_time": "07:55 AM",
       "end_time": "08:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Eye On Budget 2026 - India Inc Wish",
+      "show_name": "30 Minute 100 Khabar",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Argus Reporters Live",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "South Central",
+      "show_name": "Sakalara Bada Khabar",
       "start_time": "09:00 AM",
+      "end_time": "09:25 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "09:25 AM",
       "end_time": "09:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Argus Special",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
-      "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Times Drive",
+      "show_name": "Argus Big Breaking Live",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Masterclass - Vallabh Bhanshali",
+      "show_name": "30 Minute 100 Khabar",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "News Now",
+      "show_name": "Argus Big Breaking Live",
       "start_time": "11:00 AM",
+      "end_time": "11:25 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Top 5 Viral",
+      "start_time": "11:25 AM",
       "end_time": "11:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The Interview",
+      "show_name": "Argus Big Breaking Live",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "News Now",
+      "show_name": "Argus Big Breaking Live",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Argus Big Breaking Live",
       "start_time": "12:30 PM",
+      "end_time": "12:55 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "12:55 PM",
       "end_time": "01:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "News Now",
+      "show_name": "Desha Bidesha",
       "start_time": "01:00 PM",
+      "end_time": "01:25 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Petapuja",
+      "start_time": "01:25 PM",
       "end_time": "01:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "SUC Weekend",
+      "show_name": "E3",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "News Now",
+      "show_name": "Argus Update",
       "start_time": "02:00 PM",
+      "end_time": "02:25 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Top 5 Viral",
+      "start_time": "02:25 PM",
       "end_time": "02:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Political Akhada",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Jilla @ 3pm",
       "start_time": "03:00 PM",
+      "end_time": "03:25 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "03:25 PM",
       "end_time": "03:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Sata Katha",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "ET NOW Iconic Brands of India 2025",
+      "show_name": "Bad Ka Khabar",
       "start_time": "04:00 PM",
+      "end_time": "04:25 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Petapuja",
+      "start_time": "04:25 PM",
       "end_time": "04:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Husiaar",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "News Now",
+      "show_name": "30 Minute 100 Khabar",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Top 50 Jewelry Favorites",
+      "show_name": "Amagaon Ama Khabar",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Global Digital Health Summit 2025 E",
+      "show_name": "Badasahara Badakhabar",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "ET Startup Awards",
+      "show_name": "Ajira Bitarka",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Prime Odisha @ 7PM",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Times Drive",
+      "show_name": "Amna- Samna",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "ETNOW.In Business Conclave \u0026 Awards",
+      "show_name": "30 Minute 100 Khabar",
       "start_time": "08:00 PM",
+      "end_time": "08:25 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Top 5 Viral",
+      "start_time": "08:25 PM",
       "end_time": "08:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Motown Show",
+      "show_name": "Prime Odisha",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "The Interview",
+      "show_name": "Desh Bidesh",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Masterclass - Vallabh Bhanshali",
+      "show_name": "Satas Talk",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Brand Buzz",
+      "show_name": "Sara Dina",
       "start_time": "10:00 PM",
+      "end_time": "10:25 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "10:25 PM",
       "end_time": "10:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Best of Satakatha",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Motown Show",
+      "show_name": "Dinara Bada Khabar",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Prime Odisha",
       "start_time": "11:30 PM",
       "end_time": "12:00 AM",
       "show_logo": ""

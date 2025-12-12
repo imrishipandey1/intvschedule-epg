@@ -1,299 +1,359 @@
 {
-  "channel_name": "ET NOW",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png",
+  "channel_name": "Aaj Tak",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
   "date": "2025-12-13",
   "programs": [
     {
-      "show_name": "India Tonight",
+      "show_name": "Non-Stop 100",
       "start_time": "12:00 AM",
+      "end_time": "12:10 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News",
+      "start_time": "12:10 AM",
       "end_time": "12:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Startup Central",
+      "show_name": "News",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The Money Show",
+      "show_name": "News",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Beat the Street",
+      "show_name": "News",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "India Tonight",
+      "show_name": "News",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "India Tonight",
+      "show_name": "News",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The Money Show",
+      "show_name": "News",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Beat the Street",
+      "show_name": "News",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "India Tonight",
+      "show_name": "News",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "India Tonight",
+      "show_name": "News",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Business@9",
+      "show_name": "ADVT",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Beat the Street",
+      "show_name": "ADVT",
       "start_time": "05:30 AM",
-      "end_time": "06:00 AM",
+      "end_time": "05:50 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Earnings Q2 - Parag Thakkar / Dhana",
-      "start_time": "06:00 AM",
+      "show_name": "ADVT",
+      "start_time": "05:50 AM",
       "end_time": "06:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "5 Min 25 Khabar",
       "start_time": "06:30 AM",
+      "end_time": "06:35 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News",
+      "start_time": "06:35 AM",
       "end_time": "07:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Insurance Mantra",
+      "show_name": "Top News",
       "start_time": "07:00 AM",
+      "end_time": "07:05 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bhagya Shailendra Pandey Ke Saath",
+      "start_time": "07:05 AM",
       "end_time": "07:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "TMS Weekend Edition",
+      "show_name": "100 Shahar 100 Khabar",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Eye On Budget 2026 - India Inc Wish",
+      "show_name": "Khabrein Superfast",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Non-Stop 100",
       "start_time": "08:30 AM",
-      "end_time": "09:00 AM",
+      "end_time": "08:50 AM",
       "show_logo": ""
     },
     {
-      "show_name": "South Central",
-      "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
+      "show_name": "Non-Stop 100",
+      "start_time": "08:50 AM",
+      "end_time": "09:05 AM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
-      "start_time": "09:30 AM",
+      "show_name": "Bhagya Chakra",
+      "start_time": "09:05 AM",
+      "end_time": "09:25 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bhagya Chakra",
+      "start_time": "09:25 AM",
+      "end_time": "09:40 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bhagya Chakra",
+      "start_time": "09:40 AM",
       "end_time": "10:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
-      "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Times Drive",
+      "show_name": "Aaj Subah",
       "start_time": "10:00 AM",
+      "end_time": "10:10 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News",
+      "start_time": "10:10 AM",
       "end_time": "10:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Masterclass - Vallabh Bhanshali",
+      "show_name": "News",
       "start_time": "10:30 AM",
-      "end_time": "11:00 AM",
+      "end_time": "10:55 AM",
       "show_logo": ""
     },
     {
-      "show_name": "News Now",
-      "start_time": "11:00 AM",
+      "show_name": "Shatak Aajtak",
+      "start_time": "10:55 AM",
+      "end_time": "11:10 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News",
+      "start_time": "11:10 AM",
       "end_time": "11:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "The Interview",
+      "show_name": "News",
       "start_time": "11:30 AM",
+      "end_time": "11:35 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News",
+      "start_time": "11:35 AM",
       "end_time": "12:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "News Now",
+      "show_name": "Special Programme",
       "start_time": "12:00 PM",
+      "end_time": "12:10 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Special Programme",
+      "start_time": "12:10 PM",
       "end_time": "12:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "News",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "News Now",
+      "show_name": "News",
       "start_time": "01:00 PM",
-      "end_time": "01:30 PM",
+      "end_time": "01:10 PM",
       "show_logo": ""
     },
     {
-      "show_name": "SUC Weekend",
-      "start_time": "01:30 PM",
+      "show_name": "News",
+      "start_time": "01:10 PM",
       "end_time": "02:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "News Now",
+      "show_name": "News",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "News",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "News",
       "start_time": "03:00 PM",
+      "end_time": "03:15 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "News",
+      "start_time": "03:15 PM",
       "end_time": "03:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "News",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "ET NOW Iconic Brands of India 2025",
+      "show_name": "News",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "News",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "News Now",
+      "show_name": "Dangal",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Top 50 Jewelry Favorites",
+      "show_name": "Dangal",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Global Digital Health Summit 2025 E",
+      "show_name": "Hallabol",
       "start_time": "06:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "ET Startup Awards",
-      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Shankhnad",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Times Drive",
+      "show_name": "Vishesh",
       "start_time": "07:30 PM",
+      "end_time": "07:55 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Bahas Bazigar",
+      "start_time": "07:55 PM",
       "end_time": "08:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "ETNOW.In Business Conclave \u0026 Awards",
+      "show_name": "Bahas Bazigar",
       "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
+      "end_time": "08:25 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Motown Show",
-      "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
+      "show_name": "Bahas Bazigar",
+      "start_time": "08:25 PM",
+      "end_time": "08:55 PM",
       "show_logo": ""
     },
     {
-      "show_name": "The Interview",
-      "start_time": "09:00 PM",
+      "show_name": "Black And White",
+      "start_time": "08:55 PM",
       "end_time": "09:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Masterclass - Vallabh Bhanshali",
+      "show_name": "Black And White",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Brand Buzz",
+      "show_name": "Shwetpatra",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Shwetpatra",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Motown Show",
+      "show_name": "Kahaani",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "BTS",
+      "show_name": "Kahaani",
       "start_time": "11:30 PM",
+      "end_time": "11:35 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Kahaani",
+      "start_time": "11:35 PM",
       "end_time": "12:00 AM",
       "show_logo": ""
     }

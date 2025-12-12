@@ -1,251 +1,293 @@
 {
-  "channel_name": "Zee Bangla HD",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaHD_Thumbnail_abd318d8-03d0-44c9-a18d-b34a5d941a48.png",
+  "channel_name": "BBC News",
+  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_Thumbnail-v3/BBCWNW_Thumbnail.png",
   "date": "2025-12-13",
   "programs": [
     {
-      "show_name": "Mongolmoyee Santoshi Maa",
+      "show_name": "The World Today with Maryam Moshiri",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Tui Amar Hero",
+      "show_name": "The World Today with Maryam Moshiri",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Joyar Bhata",
+      "show_name": "The World Today with Maryam Moshiri",
       "start_time": "01:00 AM",
+      "end_time": "01:25 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "The Travel Show",
+      "start_time": "01:25 AM",
       "end_time": "01:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "The Context",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "The Context",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "The Context USA",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "The Context USA",
       "start_time": "03:00 AM",
+      "end_time": "03:25 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "The Travel Show",
+      "start_time": "03:25 AM",
       "end_time": "03:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Anandi",
+      "show_name": "BBC World News America",
       "start_time": "03:30 AM",
-      "end_time": "04:15 AM",
+      "end_time": "04:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Kone Dekha Alo",
-      "start_time": "04:15 AM",
+      "show_name": "Talking Business",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "BBC World News America",
+      "start_time": "04:30 AM",
       "end_time": "05:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Patanjali Yog by Yog Rishi Swami Ramdev",
+      "show_name": "The President's Path",
       "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "05:30 AM",
       "end_time": "06:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "Tech Now",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "BBC News",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Joyar Bhata",
+      "show_name": "Nobel Minds",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "BBC News",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Tui Amar Hero",
+      "show_name": "World Questions",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Amader Dadamoni",
+      "show_name": "BBC News",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "The Media Show",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "BBC News",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "The Travel Show",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "BBC News",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "AI Decoded",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "BBC News",
       "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tech Now",
+      "start_time": "12:00 PM",
       "end_time": "12:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Tulsi Dhamer Naru Gopal",
+      "show_name": "BBC News",
       "start_time": "12:30 PM",
-      "end_time": "12:45 PM",
+      "end_time": "01:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Kone Dekha Alo",
-      "start_time": "12:45 PM",
+      "show_name": "Nobel Minds",
+      "start_time": "01:00 PM",
       "end_time": "01:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "BBC News",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Tui Amar Hero",
+      "show_name": "Global Eye",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "BBC News",
       "start_time": "02:30 PM",
-      "end_time": "03:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Jagadhatri",
-      "start_time": "03:00 PM",
       "end_time": "03:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Joyar Bhata",
+      "show_name": "BBC News",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Rannaghar",
+      "show_name": "Talking Business",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Didi No 1",
+      "show_name": "BBC News",
       "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Ukrainecast",
+      "start_time": "05:00 PM",
       "end_time": "05:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Kusum",
+      "show_name": "BBC News",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Tui Amar Hero",
+      "show_name": "Arts in Motion",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "BBC News",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Besh Korechi Prem Korechi",
+      "show_name": "AI Decoded",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "BBC News",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "The Media Show",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Amader Dadamoni",
+      "show_name": "BBC News",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Joyar Bhata",
+      "show_name": "World Questions",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Sa Re Ga Ma Pa 2025",
+      "show_name": "BBC News",
       "start_time": "09:30 PM",
-      "end_time": "11:00 PM",
+      "end_time": "10:00 PM",
       "show_logo": ""
     },
     {
-      "show_name": "Ideabaaz",
-      "start_time": "11:00 PM",
+      "show_name": "Ukrainecast",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "10:30 PM",
+      "end_time": "11:30 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
       "show_logo": ""
     }
