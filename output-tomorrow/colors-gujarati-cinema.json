@@ -1,0 +1,67 @@
+{
+  "channel_name": "Colors Gujarati Cinema",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
+  "date": "2025-12-15",
+  "programs": [
+    {
+      "show_name": "Alakh Ne Otle",
+      "start_time": "12:00 AM",
+      "end_time": "12:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/2512151324000.jpg"
+    },
+    {
+      "show_name": "Prem Kahani",
+      "start_time": "12:05 AM",
+      "end_time": "02:05 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/2512151324001.jpg"
+    },
+    {
+      "show_name": "Desi Beats",
+      "start_time": "02:05 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/2512151324002.jpg"
+    },
+    {
+      "show_name": "Love Kush",
+      "start_time": "05:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/2512151324003.jpg"
+    },
+    {
+      "show_name": "Desi Beats",
+      "start_time": "08:00 AM",
+      "end_time": "10:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/2512151324004.jpg"
+    },
+    {
+      "show_name": "Shree Krishna Sharnam Mam",
+      "start_time": "10:35 AM",
+      "end_time": "01:15 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/2512151324005.jpg"
+    },
+    {
+      "show_name": "Shankar Parvati",
+      "start_time": "01:15 PM",
+      "end_time": "03:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/2512151324006.jpg"
+    },
+    {
+      "show_name": "Sajan Vina Suno Sansar",
+      "start_time": "03:55 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/2512151324007.jpg"
+    },
+    {
+      "show_name": "Sampoorna Mahabharat",
+      "start_time": "07:00 PM",
+      "end_time": "10:10 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/2512151324008.jpg"
+    },
+    {
+      "show_name": "Sharad Poonamni Raat",
+      "start_time": "10:10 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/2512151324009.jpg"
+    }
+  ]
+}

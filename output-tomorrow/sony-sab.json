@@ -1,283 +1,271 @@
 {
   "channel_name": "Sony SAB HD",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
-  "date": "2025-12-14",
+  "date": "2025-12-15",
   "programs": [
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471000.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471000.jpg"
     },
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471001.jpg"
-    },
-    {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
-      "start_time": "01:00 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471002.jpg"
-    },
-    {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
-      "start_time": "01:30 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471003.jpg"
-    },
-    {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
-      "start_time": "02:00 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471004.jpg"
-    },
-    {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
-      "start_time": "02:30 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471005.jpg"
-    },
-    {
-      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
-      "start_time": "03:00 AM",
-      "end_time": "03:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471006.jpg"
-    },
-    {
-      "show_name": "Itti Si Khushi",
-      "start_time": "03:30 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471007.jpg"
-    },
-    {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
-      "start_time": "04:00 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471001.jpg"
     },
     {
       "show_name": "Pushpa Impossible",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471002.jpg"
+    },
+    {
+      "show_name": "Pushpa Impossible",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471003.jpg"
+    },
+    {
+      "show_name": "Pushpa Impossible",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471004.jpg"
+    },
+    {
+      "show_name": "Pushpa Impossible",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471005.jpg"
+    },
+    {
+      "show_name": "Pushpa Impossible",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471006.jpg"
+    },
+    {
+      "show_name": "Pushpa Impossible",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471007.jpg"
+    },
+    {
+      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471008.jpg"
+    },
+    {
+      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471009.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471009.jpg"
     },
     {
-      "show_name": "Itti Si Khushi",
+      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471010.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471010.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471011.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471011.jpg"
     },
     {
       "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471012.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471012.jpg"
     },
     {
-      "show_name": "Itti Si Khushi",
+      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471013.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471013.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Pushpa Impossible",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471014.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471014.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471015.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471015.jpg"
     },
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471016.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471016.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Maddam Sir",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471017.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471017.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Maddam Sir",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471018.jpg"
-    },
-    {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
-      "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471019.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471018.jpg"
     },
     {
       "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471019.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471020.jpg"
+    },
+    {
+      "show_name": "Pushpa Impossible",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471021.jpg"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471020.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471022.jpg"
     },
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471021.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471023.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471022.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471024.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Maddam Sir",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471023.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471025.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Maddam Sir",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471024.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471026.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Pushpa Impossible",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471025.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471027.jpg"
     },
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471026.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471028.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471027.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471029.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Itti Si Khushi",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471028.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471030.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Pushpa Impossible",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471029.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471031.jpg"
     },
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471030.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471032.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471031.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471033.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Itti Si Khushi",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471032.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471034.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Pushpa Impossible",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471033.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471035.jpg"
     },
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471034.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471036.jpg"
     },
     {
-      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471035.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471037.jpg"
     },
     {
-      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471036.jpg"
-    },
-    {
-      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
-      "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471037.jpg"
-    },
-    {
-      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
-      "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471038.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471038.jpg"
     },
     {
-      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471039.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471039.jpg"
     },
     {
-      "show_name": "Gatha Shiv Parivaar Ki Ganesh Kartikey",
+      "show_name": "Itti Si Khushi",
       "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471040.jpg"
-    },
-    {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
-      "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471041.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471040.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Maddam Sir",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471042.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471041.jpg"
     },
     {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "show_name": "Maddam Sir",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471043.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471042.jpg"
     },
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471044.jpg"
-    },
-    {
-      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
-      "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214471045.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215471043.jpg"
     }
   ]
 }

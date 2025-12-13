@@ -1,61 +1,61 @@
 {
   "channel_name": "B4U Movies",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
-  "date": "2025-12-13",
+  "date": "2025-12-14",
   "programs": [
     {
-      "show_name": "Zakhmi Aurat",
-      "start_time": "12:00 AM",
-      "end_time": "01:37 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213182000.jpg"
-    },
-    {
-      "show_name": "Ajab Gazabb Love",
-      "start_time": "01:37 AM",
-      "end_time": "03:54 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213182001.jpg"
-    },
-    {
-      "show_name": "Taqdeer Ka Tamasha",
-      "start_time": "03:54 AM",
-      "end_time": "06:46 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213182002.jpg"
-    },
-    {
-      "show_name": "Blackmail",
-      "start_time": "06:46 AM",
-      "end_time": "09:39 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213182003.jpg"
-    },
-    {
-      "show_name": "15th August",
-      "start_time": "09:39 AM",
-      "end_time": "12:51 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213182004.jpg"
-    },
-    {
-      "show_name": "Gambler",
-      "start_time": "12:51 PM",
-      "end_time": "03:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213182005.jpg"
-    },
-    {
-      "show_name": "Sansar",
-      "start_time": "03:50 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213182006.jpg"
-    },
-    {
-      "show_name": "Dil Ka Kya Kasoor",
-      "start_time": "07:00 PM",
-      "end_time": "10:52 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213182007.jpg"
-    },
-    {
       "show_name": "Katilon Ke Kaatil",
-      "start_time": "10:52 PM",
+      "start_time": "12:00 AM",
+      "end_time": "01:44 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214182000.jpg"
+    },
+    {
+      "show_name": "Rajkumar",
+      "start_time": "01:44 AM",
+      "end_time": "04:44 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214182001.jpg"
+    },
+    {
+      "show_name": "Kundan",
+      "start_time": "04:44 AM",
+      "end_time": "06:08 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214182002.jpg"
+    },
+    {
+      "show_name": "Wafadaar",
+      "start_time": "06:08 AM",
+      "end_time": "09:06 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214182003.jpg"
+    },
+    {
+      "show_name": "Aakhri Ghulam",
+      "start_time": "09:06 AM",
+      "end_time": "12:05 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214182004.jpg"
+    },
+    {
+      "show_name": "Mr. India",
+      "start_time": "12:05 PM",
+      "end_time": "03:44 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214182005.jpg"
+    },
+    {
+      "show_name": "Aakhree Raasta",
+      "start_time": "03:44 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214182006.jpg"
+    },
+    {
+      "show_name": "Avtaar",
+      "start_time": "07:00 PM",
+      "end_time": "10:12 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214182007.jpg"
+    },
+    {
+      "show_name": "Devta",
+      "start_time": "10:12 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213182008.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214182008.jpg"
     }
   ]
 }

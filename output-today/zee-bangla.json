@@ -1,7 +1,7 @@
 {
   "channel_name": "Zee Bangla HD",
   "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaHD_Thumbnail_abd318d8-03d0-44c9-a18d-b34a5d941a48.png",
-  "date": "2025-12-13",
+  "date": "2025-12-14",
   "programs": [
     {
       "show_name": "Mongolmoyee Santoshi Maa",
@@ -106,14 +106,8 @@
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Sach- Subhash Chandra Show",
       "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Chirodini Tumi Je Amar",
-      "start_time": "10:00 AM",
       "end_time": "10:30 AM",
       "show_logo": ""
     },
@@ -130,8 +124,14 @@
       "show_logo": ""
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Joy Baba Lokenath",
       "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Tui Amar Hero",
+      "start_time": "12:00 PM",
       "end_time": "12:30 PM",
       "show_logo": ""
     },
@@ -178,14 +178,8 @@
       "show_logo": ""
     },
     {
-      "show_name": "Rannaghar",
+      "show_name": "Sa Re Ga Ma Pa 2025",
       "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Didi No 1",
-      "start_time": "04:30 PM",
       "end_time": "05:30 PM",
       "show_logo": ""
     },
@@ -226,14 +220,8 @@
       "show_logo": ""
     },
     {
-      "show_name": "Amader Dadamoni",
+      "show_name": "Didi No 1",
       "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "Joyar Bhata",
-      "start_time": "09:00 PM",
       "end_time": "09:30 PM",
       "show_logo": ""
     },

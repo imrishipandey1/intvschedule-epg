@@ -1,55 +1,73 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "channel_logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43109-jxzlyrjc-v1/imageContent-43109-jxzlyrjc-m1.png",
-  "date": "2025-12-13",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
+  "date": "2025-12-14",
   "programs": [
     {
-      "show_name": "Movie",
-      "start_time": "09:00 PM",
-      "end_time": "02:00 AM",
-      "show_logo": ""
+      "show_name": "Dulha On Sale",
+      "start_time": "12:00 AM",
+      "end_time": "01:34 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fb1728f938cddee9249e76f0e55274fb.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "02:00 AM",
-      "end_time": "06:00 AM",
-      "show_logo": ""
+      "show_name": "Lataka Jhatka",
+      "start_time": "01:34 AM",
+      "end_time": "02:34 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c09ce4bfca3c0bb6fa709c163eacfce.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "06:00 AM",
-      "end_time": "09:00 AM",
-      "show_logo": ""
+      "show_name": "Chunariya Lehale Aihiya Ho",
+      "start_time": "02:34 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "09:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": ""
+      "show_name": "Chunariya Lehale Aihiya Ho",
+      "start_time": "05:00 AM",
+      "end_time": "06:35 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c036e39e522e00b09a74555fce8a8b6.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "12:00 PM",
-      "end_time": "03:00 PM",
-      "show_logo": ""
+      "show_name": "Badki Didi 2",
+      "start_time": "06:35 AM",
+      "end_time": "08:58 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6d6931e29f2e25324b6541f3aed770bc.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "03:00 PM",
-      "end_time": "06:00 PM",
-      "show_logo": ""
+      "show_name": "Bahu Rani Saas Maharani",
+      "start_time": "08:58 AM",
+      "end_time": "11:46 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/af790916555f8c3dc1c5c9333e6ec682.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "06:00 PM",
-      "end_time": "09:00 PM",
-      "show_logo": ""
+      "show_name": "Dulhan Aur Dahej",
+      "start_time": "11:46 AM",
+      "end_time": "02:29 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/30650a47ee417c567aea2b3a077720a0.jpg"
     },
     {
-      "show_name": "Movie",
-      "start_time": "09:00 PM",
-      "end_time": "02:00 AM",
-      "show_logo": ""
+      "show_name": "Masoom Housewife",
+      "start_time": "02:29 PM",
+      "end_time": "05:35 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4d0623576be2bf02028983797ec54ae2.jpg"
+    },
+    {
+      "show_name": "Hum Haien Jethani",
+      "start_time": "05:35 PM",
+      "end_time": "08:01 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ed8d5087f9973e4411139df19e670d53.jpg"
+    },
+    {
+      "show_name": "Badki Sakhi Chotki Sakhi",
+      "start_time": "08:01 PM",
+      "end_time": "10:51 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/105a934947b6a7eb50d2e1d774cc158c.jpg"
+    },
+    {
+      "show_name": "Preet Ka Daman 2",
+      "start_time": "10:51 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/94998d182a0cd8827bb4fb06ab87dbbc.jpg"
     }
   ]
 }

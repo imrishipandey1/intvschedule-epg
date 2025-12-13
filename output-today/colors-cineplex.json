@@ -1,79 +1,73 @@
 {
   "channel_name": "Colors Cineplex",
   "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
-  "date": "2025-12-13",
+  "date": "2025-12-14",
   "programs": [
     {
-      "show_name": "Ragada",
+      "show_name": "Ugram",
       "start_time": "12:00 AM",
-      "end_time": "12:14 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/22fe7c18020818b6e15c448c159919f2.jpg"
+      "end_time": "01:14 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/82c98f63f186877ecbfa756e5c687683.jpg"
     },
     {
-      "show_name": "Asli Fighter",
-      "start_time": "12:14 AM",
-      "end_time": "01:57 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/395e3a27def8f8bb8eb198ca51e92e3f.jpg"
-    },
-    {
-      "show_name": "Indra Shakti",
-      "start_time": "01:57 AM",
-      "end_time": "04:04 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ca47874aed2fe970c4a6c90c4a40eb38.jpg"
+      "show_name": "Tughlaq Durbar",
+      "start_time": "01:14 AM",
+      "end_time": "03:17 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7a775d2b1b2600c5e54d4da38ac37125.jpg"
     },
     {
       "show_name": "Colors Cineplex",
-      "start_time": "04:04 AM",
-      "end_time": "04:50 AM",
+      "start_time": "03:17 AM",
+      "end_time": "04:38 AM",
       "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/545c616dba7bcb2a5149425a1b379473.jpg"
     },
     {
-      "show_name": "Fool N Final",
-      "start_time": "04:50 AM",
-      "end_time": "07:08 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/001ab02d5554c58868b4cc1a10d8cbf8.jpg"
+      "show_name": "A1 Express",
+      "start_time": "04:38 AM",
+      "end_time": "06:31 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/70087dbb1eb27c9a62a859d14e860732.jpg"
     },
     {
-      "show_name": "Return of Hanuman",
-      "start_time": "07:08 AM",
-      "end_time": "09:25 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/350504614987a515d59f16453f860dde.jpg"
+      "show_name": "Raaz Rangon Ka",
+      "start_time": "06:31 AM",
+      "end_time": "08:43 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7ce512ab8b055110ebc273673e36ed3b.jpg"
     },
     {
-      "show_name": "F2: Fun and Frustration",
-      "start_time": "09:25 AM",
-      "end_time": "12:15 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e68348860b7ebbbeb7f8ed68d122a4ee.jpg"
+      "show_name": "Gully Rowdy",
+      "start_time": "08:43 AM",
+      "end_time": "11:07 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ac589953832a69cca4b5b4c5e208d27b.jpg"
     },
     {
-      "show_name": "Rider",
-      "start_time": "12:15 PM",
-      "end_time": "02:19 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7c234f704c2430c83cfcb97d6dfde8e2.jpg"
+      "show_name": "Gajaana",
+      "start_time": "11:07 AM",
+      "end_time": "01:06 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/143c938704a36a45c27945d56c6ea1b8.jpg"
     },
     {
-      "show_name": "Zombie Reddy",
-      "start_time": "02:19 PM",
-      "end_time": "04:55 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4d3bc2ea19fccbe8754670cd645c4d3d.jpg"
+      "show_name": "Tiger Nageswara Rao",
+      "start_time": "01:06 PM",
+      "end_time": "03:55 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6589a5f6b3c71cc4b1d5b97427be41dc.jpg"
     },
     {
-      "show_name": "Daaku Maharaaj",
-      "start_time": "04:55 PM",
-      "end_time": "07:50 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/cebd8b2bd9a39662f9d2a8288f735d80.jpg"
+      "show_name": "M.S. Dhoni: The Untold Story",
+      "start_time": "03:55 PM",
+      "end_time": "07:51 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/264644de4a6d679fddf30c18b198fefa.jpg"
     },
     {
-      "show_name": "Saamrajya",
-      "start_time": "07:50 PM",
-      "end_time": "10:49 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/80054b068e12ecce4b475493e12f3073.jpg"
+      "show_name": "Salaar Part 1: Ceasefire",
+      "start_time": "07:51 PM",
+      "end_time": "11:18 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c9f0ac0a130d41783a416642780851f5.jpg"
     },
     {
-      "show_name": "Ugram",
-      "start_time": "10:49 PM",
+      "show_name": "The Return Of Lion",
+      "start_time": "11:18 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/82c98f63f186877ecbfa756e5c687683.jpg"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0c22698302ad0ecc48347014bdaa7889.jpg"
     }
   ]
 }

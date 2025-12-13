@@ -1,0 +1,67 @@
+{
+  "channel_name": "Colors Bangla Cinema",
+  "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
+  "date": "2025-12-14",
+  "programs": [
+    {
+      "show_name": "Shotru",
+      "start_time": "12:00 AM",
+      "end_time": "01:20 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141657000.jpg"
+    },
+    {
+      "show_name": "Gosainbaganer Bhoot",
+      "start_time": "01:20 AM",
+      "end_time": "03:10 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141657001.jpg"
+    },
+    {
+      "show_name": "Shiv Shakti",
+      "start_time": "03:10 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141657002.jpg"
+    },
+    {
+      "show_name": "Mon Jake Chai",
+      "start_time": "04:00 AM",
+      "end_time": "06:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141657003.jpg"
+    },
+    {
+      "show_name": "Toofan",
+      "start_time": "06:40 AM",
+      "end_time": "09:15 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141657004.jpg"
+    },
+    {
+      "show_name": "Ghar Jamai",
+      "start_time": "09:15 AM",
+      "end_time": "12:40 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141657005.jpg"
+    },
+    {
+      "show_name": "MLA Phatakesto",
+      "start_time": "12:40 PM",
+      "end_time": "03:20 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141657006.jpg"
+    },
+    {
+      "show_name": "Bhalobasa Bhalobasa",
+      "start_time": "03:20 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141657007.jpg"
+    },
+    {
+      "show_name": "Bidhilipi",
+      "start_time": "07:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141657008.jpg"
+    },
+    {
+      "show_name": "Khokababu",
+      "start_time": "10:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/2512141657009.jpg"
+    }
+  ]
+}
